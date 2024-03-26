@@ -1,3 +1,5 @@
+// 全局配置
+
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -19,10 +21,10 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  // navbar
+  //导航栏
   navbar,
 
-  // sidebar
+  //侧边栏
   sidebar,
 
   footer: "Default footer",

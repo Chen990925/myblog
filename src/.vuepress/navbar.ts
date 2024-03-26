@@ -46,7 +46,7 @@ export default navbar([
   },
   {
     text: "V2 Docs",
-    icon: "book",
+    icon: "add",
     link: "https://theme-hope.vuejs.press/",
   },
 ]);

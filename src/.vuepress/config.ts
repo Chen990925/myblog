@@ -4,12 +4,13 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/myblog/",
 
-  lang: "en-US",
-  title: "Blog Demo",
-  description: "A blog demo for vuepress-theme-hope",
+  lang: "zh-CN",
+  title: "My Blog",
+  description: "一个简单的摸鱼网站",
 
   theme,
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+  
 });
+
+
