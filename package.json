@@ -1,19 +1,35 @@
 {
-  "name": "myblog",
-  "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
-  "license": "MIT",
-  "type": "module",
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "A static site based on dumi",
   "scripts": {
-    "docs:build": "vuepress-vite build src",
-    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
-    "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "npx vp-update"
+    "start": "npm run dev",
+    "dev": "dumi dev",
+    "docs:build": "dumi build",
+    "deploy": "gh-pages -d dist",
+    "prepare": "husky install && dumi setup"
+  },
+  "authors": [],
+  "license": "MIT",
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.9",
-    "vue": "^3.4.21",
-    "vuepress": "2.0.0-rc.9",
-    "vuepress-theme-hope": "2.0.0-rc.32"
+    "@ant-design/icons": "^5.1.0",
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
+    "dumi": "^2.1.24",
+    "dumi-theme-antd-style": "^0.25.1",
+    "gh-pages": "^5.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.6",
+    "react": "^18.2.0",
+    "react-layout-kit": "^1.7.0"
   }
 }
