@@ -1,9 +1,9 @@
-name: CanyonBlog
+name: HinataBlog
 
 on:
   push:
     branches:
-      - master # default branch
+      - main # default branch
     paths-ignore:
       - README.md
 
@@ -18,6 +18,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.FIJIBLUESECRET }}
+          github_token: ${{ secrets.CHENJUNLIN }}
           # 文档目录，如果是 react 模板需要修改为 npm run docs:buil
           publish_dir: ./dist
