@@ -5,7 +5,7 @@ export default () => (
   <DumiSiteProvider>
     <Center style={{ height: 600 }}>
       <Hero
-        title={"canyon's <b>blog</b>"}
+        title={"Hinata's <b>blog</b>"}
         actions={[{ text: '开始阅读', link: '/note' }]}
         description={'学习记录'}
       />

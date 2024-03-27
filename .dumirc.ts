@@ -6,7 +6,7 @@ export default defineConfig({
   publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   // favicons:['/avater.svg'],
   themeConfig: {
-    name: 'Canyon',
+    name: 'Hinata',
     // logo: '/avater.svg',
     socialLinks: {
       github: 'https://github.com/Chen990925',
