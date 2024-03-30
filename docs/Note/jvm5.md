@@ -1,6 +1,6 @@
 ---
 group: JVM专题
-title: JVM的垃圾收集2
+title: JVM的垃圾收集(G1)
 order: 5
 ---
 

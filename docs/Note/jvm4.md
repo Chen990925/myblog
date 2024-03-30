@@ -1,6 +1,6 @@
 ---
 group: JVM专题
-title: JVM的垃圾收集1
+title: JVM的垃圾收集(算法和收集器)
 order: 4
 ---
 
