@@ -14,7 +14,7 @@ Class 常量池可以理解为是 Class 文件中的资源仓库。 Class 文件
 
 运行**javap -v Math.class**
 
-<img src="D:/Java/project/myblog/public/images/image-20240330181744569.png" alt="image-20240330181744569" style="zoom:50%;" />
+<img src="../../public/images/image-20240330181744569.png" alt="image-20240330181744569" style="zoom:50%;" />
 
 红框标出的就是 class 常量池信息，常量池中主要存放两大类常量：**字面量和符号引用**。
 
@@ -145,11 +145,11 @@ System.out.println(s1 == s2);
 
 1、在 JDK 1.6 中，调用 intern () 首先会在字符串池中寻找 equal () 相等的字符串，假如字符串存在就返回该字符串在字符串池中的引用；假如字符串不存在，虚拟机会重新在永久代上创建一个实例，将 StringTable 的一个表项指向这个新创建的实例。
 
-<img src="D:/Java/project/myblog/public/images/image-20240330184439295.png" alt="image-20240330184439295" style="zoom: 33%;" />
+<img src="../../public/images/image-20240330184439295.png" alt="image-20240330184439295" style="zoom: 33%;" />
 
 2、在 JDK 1.7 (及以上版本) 中，由于字符串池不在永久代了，intern () 做了一些修改，更方便地利用堆中的对象。字符串存在时和 JDK 1.6 一样，但是字符串不存在时不再需要重新创建实例，可以直接指向堆上的实例。
 
-<img src="D:/Java/project/myblog/public/images/image-20240330184530293.png" alt="image-20240330184530293" style="zoom: 33%;" />
+<img src="../../public/images/image-20240330184530293.png" alt="image-20240330184530293" style="zoom: 33%;" />
 
 　　由上面两个图，也不难理解为什么 JDK 1.6 字符串池溢出会抛出 OutOfMemoryError: PermGen space ，而在 JDK 1.7 及以上版本抛出 OutOfMemoryError: Java heap space 。
 
