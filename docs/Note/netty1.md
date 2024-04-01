@@ -241,7 +241,7 @@ public class NioSelectorServer {
 
   NIO 的 Buffer 和 channel 都是既可以读也可以写
 
-<img src="https://note.youdao.com/yws/public/resource/916f44987d1fe0e35ec935bf5391d762/xmlnote/F69C7F7706E64740A629E8E1056F5DCE/106569" alt="NIO模型" style="zoom:50%;" />
+<img src="../../public/images/0040.png" alt="NIO模型" style="zoom:50%;" />
 
 NIO底层在JDK1.4版本是用linux的内核函数select()或poll()来实现，跟上面的NioServer代码类似，selector每次都会轮询所有的sockchannel看下哪个channel有读写事件，有的话就处理，没有就继续遍历，JDK1.5开始引入了epoll基于事件响应机制来优化NIO。
 
@@ -255,7 +255,7 @@ socketChannel.register(selector, SelectionKey.OP_READ)  //将channel注册到多
 selector.select()  //阻塞等待需要处理的事件发生
 ```
 
-<img src="https://note.youdao.com/yws/public/resource/916f44987d1fe0e35ec935bf5391d762/xmlnote/E7B425DD0F1142E28C7174E865FF0A05/106573" alt=".." style="zoom:50%;" />
+<img src="../../public/images/0041.jpg" alt=".." style="zoom:50%;" />
 
 ##### Selector.open() 
 
