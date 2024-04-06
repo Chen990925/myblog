@@ -180,6 +180,7 @@ final boolean acquireQueued(final Node node, int arg) {
                 parkAndCheckInterrupt())
                 interrupted = true;
         }
+    //interrupted 用于获取锁失败后直接进行错误返回不再排队 用于lockInterruptibly()中
     } finally {
         if (failed)
             cancelAcquire(node);
