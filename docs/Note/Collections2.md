@@ -1,7 +1,7 @@
 ---
 group: 集合
 title: Collections之ConcurrentHashMap
-order: 1
+order: 2
 ---
 
 # **Collections 之ConcurrentHashMap**
