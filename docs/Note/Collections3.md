@@ -8,6 +8,8 @@ order: 3
 
 核心思想：读写分离，空间换时间，避免为保证并发安全导致的激烈的锁竞争。
 
+**适用场景：读多写少，空间换时间**
+
 实现：CopyOnWriteArrayList，CopyOnWriteArraySet，CopyOnWriteMap
 
 ## **划关键点：**
