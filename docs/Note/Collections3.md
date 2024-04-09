@@ -1,10 +1,10 @@
 ---
 group: 集合
-title: Collections之CollCopyOnWrite
+title: Collections之CopyOnWrite
 order: 3
 ---
 
-# **Collections之CollCopyOnWrite 机制**
+# **Collections之CopyOnWrite 机制**
 
 核心思想：读写分离，空间换时间，避免为保证并发安全导致的激烈的锁竞争。
 
