@@ -209,7 +209,7 @@ order: 1
   SUNION set1 set2 set3  ->  { a,b,c,d,e }   `sunion:并集`
   SDIFF set1 set2 set3  ->  { a }   `sdiff:差集`
 
-<img src="D:/Java/project/myblog/public/images/image-20240413170526486.png" alt="image-20240413170526486" style="zoom: 33%;" />
+<img src="../../public/images/image-20240413170526486.png" alt="image-20240413170526486" style="zoom: 33%;" />
 
 - 集合操作实现**微博微信关注模型**
   1) 诸葛老师关注的人: 
@@ -272,7 +272,7 @@ order: 1
   4）展示七日排行前十
   ZREVRANGE hotNews:20190813-20190819  0  9  WITHSCORES
 
-<img src="D:/Java/project/myblog/public/images/image-20240413171424265.png" alt="image-20240413171424265" style="zoom:50%;" />
+<img src="../../public/images/image-20240413171424265.png" alt="image-20240413171424265" style="zoom:50%;" />
 
 
 
@@ -300,7 +300,7 @@ Redis 的单线程主要是指 Redis 的网络 IO 和键值对读写是由一个
 
 Redis 的 **IO 多路复用**：redis 利用 epoll 来实现 IO 多路复用，将连接信息和事件放到队列中，依次放到文件事件分派器，事件分派器将事件分发给事件处理器。
 
-<img src="D:/Java/project/myblog/public/images/image-20240413172618095.png" alt="image-20240413172618095" style="zoom:50%;" />
+<img src="../../public/images/image-20240413172618095.png" alt="image-20240413172618095" style="zoom:50%;" />
 
 
 
