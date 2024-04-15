@@ -1,11 +1,13 @@
 ---
 group: 大厂算法题
-title: 华为od算法题笔记1
+title: 华为算法题笔记1
 order: 1
 ---
 
+先看
+hasNext、hasNextLine、next、nextLine保姆级详解:https://blog.csdn.net/m0_56079407/article/details/120576881
 
-# 华为od算法题笔记
+# 华为算法题笔记
 
 ## 1. 入门题（5题）
 
