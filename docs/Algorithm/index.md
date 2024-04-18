@@ -124,6 +124,12 @@ title: 算法题常见方法
 
 > 它也拥有String自带的方法，如length()，indexOf()等
 
+## Java中常用的几种map
+
+1. HashMap：基于哈希表实现，提供了快速的插入、删除和查找操作。**HashMap不保证元素的顺序**。
+2. TreeMap：基于红黑树实现，**按键的自然顺序或自定义比较器的顺序对元素进行排序**。
+3. LinkedHashMap：基于哈希表和双向链表实现，**在迭代时保留元素的插入顺序或访问顺序**。
+4. ConcurrentHashMap：线程安全的HashMap实现，通过分段锁提供高效的并发访问。
 
 
 
