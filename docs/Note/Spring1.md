@@ -51,7 +51,7 @@ BeanFactory 接口有多个实现类，其中最常用的是 **XmlBeanFactory �
 
    4. **完成加载**： 加载过程完成后，Spring IoC 容器会准备好供应用程序使用的所有 Bean 实例，Bean 实例会被投入一级缓存，也就是单例池中供我们使用
 
-      > 还有总共9种不同功能和实例化阶段的**BeanFactoryPostProcessor**允许我们在 **Bean 实例化流程中进行一些自定义处理**
+      > 还有总共9种不同功能和实例化阶段的**BeanPostProcessor**允许我们在 **Bean 实例化流程中进行一些自定义处理**
       >
       > 同时还有**Aware** ：Aware 是 Spring 框架提供的一种特殊接口，在容器实例化 Bean 过程中，可以通过实现相应的 Aware 接口，**让 Bean 获取到容器的相关信息**，只要实例化对象继承了对应的Aware接口就可以实现。比如**BeanNameAware**：Bean 可以获取到在容器中配置的自身 Bean 名称；**BeanFactoryAware**：Bean 可以获取到当前所在的 BeanFactory，可以通过 BeanFactory 获取其他 Bean 实例。。。等等
 
