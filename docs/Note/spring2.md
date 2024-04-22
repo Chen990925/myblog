@@ -956,6 +956,8 @@ annotationConfigApplicationContext.addBeanFactoryPostProcessor(XXX);
    一般情况下，只会找到一个，就是 org.springframework.context.annotation.internalConfigurationAnnotationProcessor，也就是 **ConfigurationAnnotationProcessor**，这个后置处理器十分重要。
 
 6. 循环 postProcessorNames，其实也就是 ConfigurationAnnotationProcessor，判断此后置处理器是否实现了 PriorityOrdered 接口
+    > 这里涉及到后置处理器的执行顺序，PriorityOrdered 接口的优先级最高，其次 Ordered，最后是普通的BeanDefinitionRegistryPostProcessor
+
 
    `ConfigurationAnnotationProcessor 也实现了 PriorityOrdered 接口，所以会执行后面逻辑`
 
@@ -989,12 +991,13 @@ annotationConfigApplicationContext.addBeanFactoryPostProcessor(XXX);
    ```
 
 9. 执行ConfigurationClassPostProcessor 的BeanDefinitionRegistryPostProcessor
+    这一步在下一章详细介绍
 
    ```java
    invokeBeanDefinitionRegistryPostProcessors(currentRegistryProcessors, registry);
    ```
 
-   可以理解为执行 currentRegistryProcessors 中的 ConfigurationClassPostProcessor 中的 postProcessBeanDefinitionRegistry 方法
+   **可以理解为执行 ConfigurationClassPostProcessor 中的 postProcessBeanDefinitionRegistry 方法将那些我们自己定义的实现了找到的BeanDefinitionRegistryPostProcessor和BeanFactoryPostProcessor 接口中的方法的后置处理器放入registryProcessors 集合 (beanFactory)中**
 
    这就是 Spring 设计思想的体现了，在这里体现的就是其中的**热插拔**，插件化开发的思想。
 
@@ -1011,7 +1014,7 @@ annotationConfigApplicationContext.addBeanFactoryPostProcessor(XXX);
 
 11. 再次根据 BeanDefinitionRegistryPostProcessor 获得 BeanName，然后进行循环，看这个后置处理器是否被执行过了，如果没有被执行过，也实现了 Ordered 接口的话，把此后置处理器推送到 currentRegistryProcessors 和 processedBeans 中。
 
-    **这里就可以获得我们定义的，并且打上 @Component 注解的后置处理器了，因为 Spring 已经完成了扫描**
+    **这里就可以获得我们定义的，并且打上 @Component 注解的后置处理器了，因为第9步ConfigurationClassPostProcessor已经完成了扫描**
 
     但是这里需要注意的是，由于 ConfigurationClassPostProcessor 在上面已经被执行过了，所以虽然可以通过 getBeanNamesForType 获得，但是并不会加入到 currentRegistryProcessors 和 processedBeans。
 
@@ -1054,7 +1057,7 @@ annotationConfigApplicationContext.addBeanFactoryPostProcessor(XXX);
 
 16. 上面的代码是执行子类独有的方法，这里需要再把父类的方法也执行一次。
 
-    **这里的差别是currentRegistryProcessors和registryProcessors**
+    **这里的差别是上面的currentRegistryProcessors和registryProcessors**
 
     ```java
     invokeBeanFactoryPostProcessors(registryProcessors, beanFactory);
