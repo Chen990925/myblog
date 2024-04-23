@@ -4,7 +4,7 @@ title: Linux安装java环境
 order: 1
 ---
 
-# Linux安装java环境
+# Linux安装java,wget
 
 下载jdk8 oracle https://www.oracle.com/java/technologies/downloads/#java8
 
@@ -70,3 +70,53 @@ export PATH CLASSPATH JAVA_HOME
 输入指令 `java -version`，出现如下图表示配置成功
 
 <img src="D:\Java\project\myblog\public\images\image-20240423002014001.png" alt="image-20240423002014001" style="zoom:50%;" />
+
+
+
+
+
+# Linxu wget命令
+
+卸载 wget 工具
+
+```shell
+yum remove wget
+```
+
+下载 wget 工具
+
+```shell
+yum -y install wget
+```
+
+**如果还是不能执行 wget url 命令，依旧报错 -bash: wget: command not found，就执行如下命令：**
+
+1. 卸载 wget 工具
+
+```shell
+yum remove wget
+```
+
+2. 清除 yum 缓存：
+
+```shell
+rm -rf /var/cache/yum/*
+```
+
+3. 清除所有 yum：
+
+```shell
+yum clean all
+```
+
+4. 显示仓库列表：
+
+```shell
+yum repolist
+```
+
+5. 下载 wget 工具
+
+```shell
+yum -y install wget
+```
