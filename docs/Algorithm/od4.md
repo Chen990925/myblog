@@ -125,9 +125,9 @@ public class Solution {
 
 ```
 
-<img src="../../java/myblog/public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
+<img src="../../public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
 
-<img src="../../java/myblog/public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
+<img src="../../public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
 
 ## 6.双指针（3题）
 
