@@ -127,7 +127,7 @@ public class Solution {
 
 <img src="../../public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />
 
-<img src="../../public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />
+<img src="../../public/images/image-20240423150429758.png" alt="image-20240423150429758" style="zoom: 50%;" />
 
 ## 6.双指针（3题）
 
