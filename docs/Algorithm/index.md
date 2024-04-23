@@ -68,7 +68,7 @@ title: 算法题常见方法
 
 ​           （2）**可以获得空白**
 
-
+> 在获取不到scanner的输入内容时可能因为换行收到了空白，可以再次调用nextLine()获取一次
 
 **hasNext () 和 hasNextXxx () 方法**
 
