@@ -18,7 +18,7 @@ zookeeper 官网：[Apache ZooKeeper](https://zookeeper.apache.org/)
 
 先对 jdk 环境进行检查，输入 java, 若跳出参数则证明 JDK 环境无误
 
-进入官网，点击downLoad
+进入官网，点击downLoad 
 
 <img src="../../public/images/image-20240423185345402.png" alt="image-20240423185345402" style="zoom: 25%;" />
 
