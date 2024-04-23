@@ -30,45 +30,45 @@ order: 4
 
 ```java
 class Solution {
-    public String[] permutation(String S) {
-        String str = S;
-        List<String> charList = str.chars().mapToObj(c -> String.valueOf((char) c)).toList();
-        Set<String> set = new HashSet<>();
-        for (String node : charList) {
-            if (set.isEmpty()) {
-                //set为空直接塞入
-                set.add(node);
-            } else {
-                Set<String> tempSet = new HashSet<>();
-                for (String setNode : set) {
-                    for (int i = 0; i < setNode.length() + 1; i++) {
-                        String targrt = insertString(setNode, i, node);
-                        tempSet.add(targrt);
-                    }
-                }
-                set.addAll(tempSet);
-            }
+  public String[] permutation(String S) {
+    String str = S;
+    List<String> charList = str.chars().mapToObj(c -> String.valueOf((char) c)).toList();
+    Set<String> set = new HashSet<>();
+    for (String node : charList) {
+      if (set.isEmpty()) {
+        //set为空直接塞入
+        set.add(node);
+      } else {
+        Set<String> tempSet = new HashSet<>();
+        for (String setNode : set) {
+          for (int i = 0; i < setNode.length() + 1; i++) {
+            String targrt = insertString(setNode, i, node);
+            tempSet.add(targrt);
+          }
         }
-        Iterator<String> iterator = set.iterator();
-        while (iterator.hasNext()) {
-            String e = iterator.next();
-            if (e.length() != str.length()) {
-                iterator.remove();
-            }
-        }
-        String[] array = set.toArray(new String[0]);
-        return array;
+        set.addAll(tempSet);
+      }
     }
+    Iterator<String> iterator = set.iterator();
+    while (iterator.hasNext()) {
+      String e = iterator.next();
+      if (e.length() != str.length()) {
+        iterator.remove();
+      }
+    }
+    String[] array = set.toArray(new String[0]);
+    return array;
+  }
 
-        public static String insertString(String str, int index, String node) {
-        if (index == 0) {
-            return node + str;
-        }
-        if (index == str.length()) {
-            return str + node;
-        }
-        return str.substring(0, index) + node + str.substring(index);
+  public static String insertString(String str, int index, String node) {
+    if (index == 0) {
+      return node + str;
     }
+    if (index == str.length()) {
+      return str + node;
+    }
+    return str.substring(0, index) + node + str.substring(index);
+  }
 }
 
 ```
@@ -102,6 +102,7 @@ public class Solution {
 
     private void dfs(int n, int k, int begin, Deque<Integer> path, List<List<Integer>> res) {
         // 递归终止条件是：path 的长度等于 k
+        //然后将一组path添加到需要返回的res中
         if (path.size() == k) {
             res.add(new ArrayList<>(path));
             return;
@@ -123,6 +124,10 @@ public class Solution {
 }
 
 ```
+
+<img src="../../java/myblog/public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
+
+<img src="../../java/myblog/public/images/image-20240423150250806.png" alt="image-20240423150250806" style="zoom: 50%;" />![image-20240423150429758](../../java/myblog/public/images/image-20240423150429758.png)
 
 ## 6.双指针（3题）
 
