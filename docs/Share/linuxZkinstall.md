@@ -12,7 +12,7 @@ order: 2
 - JDK 必须是 7 或以上版本
 - 使用 xshell 进行远程连接
 
-### 1.下载安装
+## 1.下载安装
 
 zookeeper 官网：[Apache ZooKeeper](https://zookeeper.apache.org/)
 
@@ -52,7 +52,7 @@ cp apache-zookeeper-3.8.4-bin /opt/module/zookeeper -r
 
 <img src="../../public/images/image-20240423190920108.png" alt="image-20240423190920108" style="zoom:33%;" />
 
-### 2.配置
+## 2.配置
 
 进入 zookeeper 目录下的 conf 目录，将目录中的 zoo_sample.cfg 改成 zoo.cfg
 
@@ -74,7 +74,7 @@ mkdir zkData
 
 
 
-### **3. 启动测试** 
+## **3. 启动测试** 
 
 进入 bin 目录下，启动服务端
 
@@ -108,7 +108,7 @@ bin/zkCli.sh
 
 <img src="../../public/images/image-20240423192123394.png" alt="image-20240423192123394" style="zoom:67%;" />
 
-### 4.退出
+## 4.退出
 
 ```
 quit
