@@ -1,12 +1,10 @@
 ---
 group: spring
-title: Spring AOP
+title: Spring aop
 order: 6
 ---
 
 # Spring AOP
-
-
 
 - AOP 要实现的是在我们原来写的代码的基础上，**进行一定的包装**，如在方法执行前、方法返回后、方法抛出异常后等地方进行一定的拦截处理或者叫增强处理。
 
@@ -20,8 +18,8 @@ order: 6
 - 连接点 (Join point)：在Spring AOP中，一个连接点总是代表一个方法的执行，其实就代表增强的方法。
 - 通知(Advice)：在切面的某个特定的连接点上执行的动作。通知有多种类型，包括“around”，“before”and“after”等等。 许多AOP框架，包括Spring在内，都是以拦截器做通知模型的，并维护着一个以连接点为中心的拦截器链。
 - 目标对象(Target)：目标对象指将要被增强的对象。即包含主业务逻辑的类的对象。
-- 切点(Pointcut)：匹配连接点的断言。通知和切点表达式相关联，并在满足这个切点的连接点上运行(例如，当执行某个特定名称的方法时)。切点表达式如何与连接点匹配是AOP的核心：Spring默认使用Aspect)切点语义。
-- 顾问(Advisor):顾问是Advice的一种包装体现，Advisor是Pointcut以及Advice的一个结合,用来管理Advice和Pointcut。应用无需关心
+- 切点(Pointcut)：匹配连接点的断言。通知和切点表达式相关联，并在满足这个切点的连接点上运行(例如，当执行某个特定名称的方法时)。切点表达式如何与连接点匹配是AOP的核心：Spring默认使用Aspect切点语义。
+- 顾问(`Advisor`):顾问是Advice的一种包装体现，`Advisor`是Pointcut以及Advice的一个结合,用来管理Advice和Pointcut。应用无需关心
 - 织入(Weaving):将通知切入连接点的过程叫织入
 - 引入(Introductions):可以将其他接口和实现动态引入到targetClass中
 
@@ -43,7 +41,7 @@ order: 6
 
 - 很多人会对比 Spring AOP 和 AspectJ 的性能，Spring AOP 是基于代理实现的，在容器启动的时候需要生成代理实例，在方法调用上也会增加栈的深度，使得 Spring AOP 的性能不如 AspectJ 那么好。
 
-**AspectJ：**﻿
+**AspectJ：**
 
 - 属于静态织入，它是通过修改代码来实现的，它的织入时机可以是：
 
@@ -242,23 +240,23 @@ public class MyCalculate implements Calculate {
 
       
 
-      在上面的配置中，配置拦截器的时候，interceptorNames 除了指定为 Advice，是还可以指定为 Interceptor 和 Advisor 的。
+      在上面的配置中，配置拦截器的时候，interceptorNames 除了指定为 Advice，是还可以指定为 Interceptor 和 `Advisor` 的。
 
-      这里我们来理解 **Advisor** 的概念，它也比较简单：
+      这里我们来理解 **`Advisor`** 的概念，它也比较简单：
 
-      **它内部需要指定一个 Advice**，Advisor 决定该拦截哪些方法，拦截后需要完成的工作还是内部的 Advice 来做。
+      **它内部需要指定一个 Advice**，`Advisor` 决定该拦截哪些方法，拦截后需要完成的工作还是内部的 Advice 来做。
 
-      它有好几个实现类，这里我们使用实现类 **NameMatchMethodPointcutAdvisor** 来演示，从名字上就可以看出来，它需要我们给它提供方法名字，这样符合该配置的方法才会做拦截。
+      它有好几个实现类，这里我们使用实现类 **NameMatchMethodPointcut`Advisor`** 来演示，从名字上就可以看出来，它需要我们给它提供方法名字，这样符合该配置的方法才会做拦截。
 
       ```java
        @Bean
-      public NameMatchMethodPointcutAdvisor MyAspect() {
-          NameMatchMethodPointcutAdvisor advisor=new NameMatchMethodPointcutAdvisor();
+      public NameMatchMethodPointcut`Advisor` MyAspect() {
+          NameMatchMethodPointcut`Advisor` `Advisor`=new NameMatchMethodPointcut`Advisor`();
           // 通知(Advice)  ：是我们的通知类
-          // 通知者(Advisor)：是经过包装后的细粒度控制方式。
-          advisor.setAdvice(MyLogAdvice());
-          advisor.setMappedNames("div");
-          return  advisor;
+          // 通知者(`Advisor`)：是经过包装后的细粒度控制方式。
+          `Advisor`.setAdvice(MyLogAdvice());
+          `Advisor`.setMappedNames("div");
+          return  `Advisor`;
       }
        
       /**
@@ -275,15 +273,15 @@ public class MyCalculate implements Calculate {
       }
       ```
 
-      我们可以看到，calculateProxy 这个 bean 配置了一个 advisor，advisor 内部有一个 advice。advisor 负责匹配方法，内部的 advice 负责实现方法包装。
+      我们可以看到，calculateProxy 这个 bean 配置了一个 `Advisor`，`Advisor` 内部有一个 advice。`Advisor` 负责匹配方法，内部的 advice 负责实现方法包装。
 
-      > 注意，这里的 mappedNames 配置是可以指定多个的，用逗号分隔，可以是不同类中的方法。相比直接指定 advice，advisor 实现了更细粒度的控制，因为在这里配置 advice 的话，所有方法都会被拦截。
+      > 注意，这里的 mappedNames 配置是可以指定多个的，用逗号分隔，可以是不同类中的方法。相比直接指定 advice，`Advisor` 实现了更细粒度的控制，因为在这里配置 advice 的话，所有方法都会被拦截。
 
       输出结果中只有 div 方法被拦截
 
       
 
-       **Advice、Advisor、Interceptor** 它们有个共同的问题，那就是我们得为每个 bean 都配置一个代理，之后获取 bean 的时候需要获取这个代理类的 bean 实例（如 ctx.getBean("calculateProxy",Calculate.class)），这显然非常不方便，不利于我们之后要使用的自动根据类型注入。下面介绍 autoproxy 的解决方案。
+       **Advice、`Advisor`、Interceptor** 它们有个共同的问题，那就是我们得为每个 bean 都配置一个代理，之后获取 bean 的时候需要获取这个代理类的 bean 实例（如 ctx.getBean("calculateProxy",Calculate.class)），这显然非常不方便，不利于我们之后要使用的自动根据类型注入。下面介绍 autoproxy 的解决方案。
 
       
 
@@ -329,7 +327,7 @@ public class MyCalculate implements Calculate {
 
 
 
-advisor 内部包装了 advice，advisor 负责决定拦截哪些方法，内部 advice 定义拦截后的逻辑。所以其实就是只要让我们的 advisor 全局生效就能实现我们需要的自定义拦截功能、拦截后的逻辑处理。
+`Advisor` 内部包装了 advice，`Advisor` 负责决定拦截哪些方法，内部 advice 定义拦截后的逻辑。所以其实就是只要让我们的 `Advisor` 全局生效就能实现我们需要的自定义拦截功能、拦截后的逻辑处理。
 
 
 
@@ -372,7 +370,7 @@ AspectJAutoProxyRegistrar 实现了 ImportBeanDefinitionRegistrar，所以他会
 首先看 **InstantiationAwareBeanPostProcessor** 的 **postProcessBeforeInstantiation** 方法
 
 ```java
-public List<Advisor> buildAspectJAdvisors() {
+public List<`Advisor`> buildAspectJ`Advisor`s() {
          //获取缓存中的aspectBeanNames
         List<String> aspectNames = this.aspectBeanNames;
  
@@ -380,7 +378,7 @@ public List<Advisor> buildAspectJAdvisors() {
             synchronized (this) {
                 aspectNames = this.aspectBeanNames;
                 if (aspectNames == null) {
-                    List<Advisor> advisors = new ArrayList<>();
+                    List<`Advisor`> `Advisor`s = new ArrayList<>();
                     aspectNames = new ArrayList<>();
                      //获取beanFactory中所有的beanNames
                     String[] beanNames = BeanFactoryUtils.beanNamesForTypeIncludingAncestors(
@@ -394,7 +392,7 @@ public List<Advisor> buildAspectJAdvisors() {
                             continue;
                         }
                         //找出所有类上面含@Aspect注解的beanName
-                        if (this.advisorFactory.isAspect(beanType)) {
+                        if (this.`Advisor`Factory.isAspect(beanType)) {
                         //将找到的beanName放入aspectNames集合
                             aspectNames.add(beanName);
                             AspectMetadata amd = new AspectMetadata(beanType, beanName);
@@ -403,16 +401,16 @@ public List<Advisor> buildAspectJAdvisors() {
                                         new BeanFactoryAspectInstanceFactory(this.beanFactory, beanName);
                           //1.找到切面类的所有但是不包括@Pointcut注解的方法
                            //2.筛选出来包含@Around, @Before, @After,@ AfterReturning， @AfterThrowing注解的方法
-                          //3.封装为List<Advisor>返回
-                                List<Advisor> classAdvisors = this.advisorFactory.getAdvisors(factory);
+                          //3.封装为List<`Advisor`>返回
+                                List<`Advisor`> class`Advisor`s = this.`Advisor`Factory.get`Advisor`s(factory);
                                 if (this.beanFactory.isSingleton(beanName)) {
-                            //将上面找出来的Advisor按照key为beanName，value为List<Advisor>的形式存入advisorsCache
-                                    this.advisorsCache.put(beanName, classAdvisors);
+                            //将上面找出来的`Advisor`按照key为beanName，value为List<`Advisor`>的形式存入`Advisor`sCache
+                                    this.`Advisor`sCache.put(beanName, class`Advisor`s);
                                 }
                                 else {
                                     this.aspectFactoryCache.put(beanName, factory);
                                 }
-                                advisors.addAll(classAdvisors);
+                                `Advisor`s.addAll(class`Advisor`s);
                             }
                             else {
                                 if (this.beanFactory.isSingleton(beanName)) {
@@ -422,12 +420,12 @@ public List<Advisor> buildAspectJAdvisors() {
                                 MetadataAwareAspectInstanceFactory factory =
                                         new PrototypeAspectInstanceFactory(this.beanFactory, beanName);
                                 this.aspectFactoryCache.put(beanName, factory);
-                                advisors.addAll(this.advisorFactory.getAdvisors(factory));
+                                `Advisor`s.addAll(this.`Advisor`Factory.get`Advisor`s(factory));
                             }
                         }
                     }
                     this.aspectBeanNames = aspectNames;
-                    return advisors;
+                    return `Advisor`s;
                 }
             }
         }
@@ -435,25 +433,25 @@ public List<Advisor> buildAspectJAdvisors() {
         if (aspectNames.isEmpty()) {
             return Collections.emptyList();
         }
-        List<Advisor> advisors = new ArrayList<>();
+        List<`Advisor`> `Advisor`s = new ArrayList<>();
         for (String aspectName : aspectNames) {
-            //当再次进入该方法，会直接从advisorsCache缓存中获取
-            List<Advisor> cachedAdvisors = this.advisorsCache.get(aspectName);
-            if (cachedAdvisors != null) {
-                advisors.addAll(cachedAdvisors);
+            //当再次进入该方法，会直接从`Advisor`sCache缓存中获取
+            List<`Advisor`> cached`Advisor`s = this.`Advisor`sCache.get(aspectName);
+            if (cached`Advisor`s != null) {
+                `Advisor`s.addAll(cached`Advisor`s);
             }
             else {
                 MetadataAwareAspectInstanceFactory factory = this.aspectFactoryCache.get(aspectName);
-                advisors.addAll(this.advisorFactory.getAdvisors(factory));
+                `Advisor`s.addAll(this.`Advisor`Factory.get`Advisor`s(factory));
             }
         }
-        return advisors;
+        return `Advisor`s;
     }
 ```
 
 <img src="../../public/images/image-20240425222124836.png" alt="image-20240425222124836" style="zoom:33%;" />
 
-最终将解析出来的 advisor 放入缓存
+最终将解析出来的 `Advisor` 放入缓存
 
 
 
@@ -461,23 +459,23 @@ public List<Advisor> buildAspectJAdvisors() {
 
  postProcessAfterInitialization 是在 bean 创建完成之后执行的
 
-**1.  获取 advisors:** 创建代理之前首先要判断当前 bean 是否满足被代理， 所以需要**将 advisor 从之前的缓存中拿出来**和当前 bean 根据**表达式**进行匹配：
+**1.  获取 `Advisor`s:** 创建代理之前首先要判断当前 bean 是否满足被代理， 所以需要**将 `Advisor` 从之前的缓存中拿出来**和当前 bean 根据**表达式**进行匹配：
 
-代码的链路最终到了 findCandidateAdvisors，我们发现在 postProcessBeforeInstantiation 方法中对查找到的 Advisors 做了缓存，所以这里只需要从缓存中取就好了
+代码的链路最终到了 findCandidate`Advisor`s，我们发现在 postProcessBeforeInstantiation 方法中对查找到的 `Advisor`s 做了缓存，所以这里只需要从缓存中取就好了
 
-最后创建代理类，并将 Advisors 赋予代理类，缓存当前的代理类
+最后创建代理类，并将 `Advisor`s 赋予代理类，缓存当前的代理类
 
 
 
-**2.  匹配:** 根据 advisors 和当前的 bean 根据切点表达式进行匹配，看是否符合。
+**2.  匹配:** 根据 `Advisor`s 和当前的 bean 根据切点表达式进行匹配，看是否符合。
 
-**3. 创建代理:** 找到了 和当前 Bean 匹配的 advisor 说明满足创建动态代理的条件：
+**3. 创建代理:** 找到了 和当前 Bean 匹配的 `Advisor` 说明满足创建动态代理的条件：
 
 
 
 ### **三、代理类的调用**
 
-前面的分析可知，spring 将找到的增强器 Advisors 赋予了代理类，那么在执行只要将这些增强器应用到被代理的类上面就可以了，那么 spring 具体是怎么实现的呢，下面我们以 jdk 代理为例分析一下源码：
+前面的分析可知，spring 将找到的增强器 `Advisor`s 赋予了代理类，那么在执行只要将这些增强器应用到被代理的类上面就可以了，那么 spring 具体是怎么实现的呢，下面我们以 jdk 代理为例分析一下源码：
 
 ```java
 public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
@@ -688,13 +686,13 @@ public Object invoke(MethodInvocation mi) throws Throwable {
 
 4. **AspectJ 可以独立于 Spring 使用。**
 
-    尽管 Spring 框架提供了与 AspectJ 的集成支持，但 AspectJ 本身也可以独立于 Spring 使用，用于任何 Java 应用程序中的 AOP 编程。AspectJ 提供了更多的灵活性和功能，但相应地也需要更多的学习成本和配置
+   尽管 Spring 框架提供了与 AspectJ 的集成支持，但 AspectJ 本身也可以独立于 Spring 使用，用于任何 Java 应用程序中的 AOP 编程。AspectJ 提供了更多的灵活性和功能，但相应地也需要更多的学习成本和配置
 
 
 
 
 
-### Spring AOP 中 aspect、advise、pointcut、advisor 分别有什么意义
+### Spring AOP 中 aspect、advise、pointcut、`Advisor` 分别有什么意义
 
 1. **Aspect（切面）：** 
 
@@ -706,11 +704,11 @@ public Object invoke(MethodInvocation mi) throws Throwable {
 
 3. **Pointcut（切点）：**
 
-    切点是指在应用程序中**定义横切关注点的位置**。它是一个表达式，用于描述哪些连接点（方法调用、方法执行等）将会被通知所影响。在 Spring AOP 中，切点通常使用 AspectJ 切点表达式来定义。
+   切点是指在应用程序中**定义横切关注点的位置**。它是一个表达式，用于描述哪些连接点（方法调用、方法执行等）将会被通知所影响。在 Spring AOP 中，切点通常使用 AspectJ 切点表达式来定义。
 
-4. **Advisor（顾问）：**
+4. **`Advisor`（顾问）：**
 
-    顾问是将切点和通知组合在一起的对象，它将通知应用于特定的切点。在 Spring AOP 中，Advisor 是一个接口，它包含了一个切点和一个通知。Spring 提供了多种类型的 Advisor，例如 `DefaultPointcutAdvisor`、`NameMatchMethodPointcutAdvisor` 等。
+   顾问是将切点和通知组合在一起的对象，它将通知应用于特定的切点。在 Spring AOP 中，`Advisor` 是一个接口，它包含了一个切点和一个通知。Spring 提供了多种类型的 `Advisor`，例如 `DefaultPointcut`Advisor``、`NameMatchMethodPointcut`Advisor`` 等。
 
 
 
@@ -738,13 +736,12 @@ public Object invoke(MethodInvocation mi) throws Throwable {
 
 ​		循环所有beanName,找到了标记@Aspect标记的类
 
-​		找到切面类的所有方法，包括@Pointcut注解的方法筛选出		来包含@Around, @Before, @After等注解的方法，封装为		List<Advisor>返回
+​		找到切面类的所有方法，包括@Pointcut注解的方法筛选出		来包含@Around, @Before, @After等注解的方法，封装为		List<`Advisor`>返回
 
 ​		将上面的结果放入缓存
 
 2. 创建代理之前首先要判断当前 bean 是否满足被代理
 
-   将 advisor 从之前的缓存中拿出来**和当前 bean 根据**表达式进行匹配，如果匹配说明满足创建动态代理的条件
+   将 `Advisor` 从之前的缓存中拿出来**和当前 bean 根据**表达式进行匹配，如果匹配说明满足创建动态代理的条件
 
 3. 将增强器装换为方法拦截器链，使用了责任链的设计模式，递归调用排序好的拦截器链
-

@@ -1,3 +1,9 @@
+---
+group: 集合
+title: Collections之List
+order: 4
+---
+
 # Collections 之 List
 
 集合就是存储数据的容器

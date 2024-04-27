@@ -1,7 +1,7 @@
 ---
-group: 开发工具使用
+group: 开发工具
 title: skywalking
-order: 1
+order: 2
 ---
 
 # skywalking
