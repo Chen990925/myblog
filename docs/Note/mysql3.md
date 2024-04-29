@@ -35,7 +35,7 @@ begin
   declare i int;                    
   set i=1;                          
   while(i<=100000)do                 
-    insert into employees(name,age,position) values(CONCAT('zhuge',i),i,'dev');  
+    insert into employees(name,age,position) values(CONCAT('cjl',i),i,'dev');  
     set i=i+1;                       
   end while;
 end;;
@@ -507,20 +507,20 @@ mysql> set session optimizer_trace="enabled=off";    --关闭trace
 
 
 - **单路排序**的详细过程：
-  1. 从索引 name 找到第一个满足 name = 'zhuge' 条件的主键 id
+  1. 从索引 name 找到第一个满足 name = 'cjl' 条件的主键 id
   2.  根据主键 id 取出整行，**取出所有字段的值，存入 sort_buffer 中**
-  3. 从索引 name 找到下一个满足 name = ‘zhuge’ 条件的主键 id
-  4. 重复步骤 2、3 直到不满足 name = 'zhuge'
+  3. 从索引 name 找到下一个满足 name = ‘cjl’ 条件的主键 id
+  4. 重复步骤 2、3 直到不满足 name = 'cjl'
   5. 对 sort_buffer 中的数据按照字段 position 进行排序
   6. 返回结果给客户端
 
 
 
 - **双路排序**的详细过程：
-  1. 从索引 name 找到第一个满足 name = ‘zhuge’  的主键 id
+  1. 从索引 name 找到第一个满足 name = cjl  的主键 id
   2.  根据主键 id 取出整行，**把排序字段 position 和主键 id 这两个字段放到 sort buffer 中**
-  3. 从索引 name 取下一个满足 name = ‘zhuge’  记录的主键 id
-  4.  重复 3、4 直到不满足 name = ‘zhuge’ 
+  3. 从索引 name 取下一个满足 name = cjl  记录的主键 id
+  4.  重复 3、4 直到不满足 name = cjl 
   5. 对 sort_buffer 中的字段 position 和主键 id 按照字段 position 进行排序
   6. 遍历排序好的 id 和字段 position，按照 id 的值**回到原表**中取出 所有字段的值返回给客户端
 

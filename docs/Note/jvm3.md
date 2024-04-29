@@ -148,7 +148,7 @@ Class<? extends Math> mathClass = math.getClass
 public User test1() {
    User user = new User();
    user.setId(1);
-   user.setName("zhuge");
+   user.setName("cjl");
    //TODO 保存到数据库
    return user;
 }
@@ -156,7 +156,7 @@ public User test1() {
 public void test2() {
    User user = new User();
    user.setId(1);
-   user.setName("zhuge");
+   user.setName("cjl");
    //TODO 保存到数据库
    //注意，没有返回后这个局部的user变量就是无效变量，直接跟随栈帧回收而回收
 }

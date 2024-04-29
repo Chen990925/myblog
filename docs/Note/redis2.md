@@ -58,14 +58,14 @@ Redis 借助操作系统提供的写时复制技术（Copy-On-Write, COW），�
 
 **AOF 持久化，将修改的每一条指令记录进文件 appendonly.aof 中** (先写入 os cache，每隔一段时间 fsync 到磁盘)
 
-比如执行命令 **“set zhuge 666”**，aof 文件里会记录如下数据
+比如执行命令 **“set cjl 666”**，aof 文件里会记录如下数据
 
 ```shell
 *3
 $3
 set
 $5
-zhuge
+cjl
 $3
 666
 ```
@@ -403,7 +403,7 @@ public class JedisSingleTest {
             //从redis连接池里拿出一个连接执行命令
             jedis = jedisPool.getResource();
  
-            System.out.println(jedis.set("single", "zhuge"));
+            System.out.println(jedis.set("single", "cjl"));
             System.out.println(jedis.get("single"));
  
             //管道示例
@@ -411,7 +411,7 @@ public class JedisSingleTest {
             Pipeline pl = jedis.pipelined();
             for (int i = 0; i < 10; i++) {
                 pl.incr("pipelineKey");
-                pl.set("zhuge" + i, "zhuge");
+                pl.set("cjl" + i, "cjl");
             }
             List<Object> results = pl.syncAndReturnAll();
             System.out.println(results);
@@ -455,9 +455,9 @@ pipeline 中发送的每个 command 都会被 server 立即执行，如果执行
 Pipeline pl = jedis.pipelined();
 for (int i = 0; i < 10; i++) {
     pl.incr("pipelineKey");
-    pl.set("zhuge" + i, "zhuge");
+    pl.set("cjl" + i, "cjl");
     //模拟管道报错
-    // pl.setbit("zhuge", -1, true);
+    // pl.setbit("cjl", -1, true);
 }
 List<Object> results = pl.syncAndReturnAll();
 System.out.println(results);
@@ -544,7 +544,7 @@ public class JedisSentinelTest {
         Jedis jedis = null;
         try {
             jedis = jedisSentinelPool.getResource();
-            System.out.println(jedis.set("sentinel", "zhuge"));
+            System.out.println(jedis.set("sentinel", "cjl"));
             System.out.println(jedis.get("sentinel"));
         } catch (Exception e) {
             e.printStackTrace();
@@ -618,8 +618,8 @@ public class IndexController {
         int i = 1;
         while (true){
             try {
-                stringRedisTemplate.opsForValue().set("zhuge"+i, i+"");
-                System.out.println("设置key："+ "zhuge" + i);
+                stringRedisTemplate.opsForValue().set("cjl"+i, i+"");
+                System.out.println("设置key："+ "cjl" + i);
                 i++;
                 Thread.sleep(1000);
             }catch (Exception e){

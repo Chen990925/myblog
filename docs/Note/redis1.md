@@ -41,7 +41,7 @@ order: 1
 - 对象缓存
 
   1) SET  user:1  value(json格式数据)
-  2) MSET  user:1:name  zhuge   user:1:balance  1888
+  2) MSET  user:1:name  cjl   user:1:balance  1888
      MGET  user:1:name   user:1:balance 
 
 - 分布式锁
@@ -87,8 +87,8 @@ order: 1
 **应用场景**
 
 - 对象缓存
-  HMSET  user  {userId}:name  zhuge  {userId}:balance  1888
-  HMSET  user  1:name  zhuge  1:balance  1888
+  HMSET  user  {userId}:name  cjl  {userId}:balance  1888
+  HMSET  user  1:name  cjl  1:balance  1888
   HMGET  user  1:name  1:balance
 
 - 电商购物车
@@ -213,18 +213,18 @@ order: 1
 
 - 集合操作实现**微博微信关注模型**
   1) 诸葛老师关注的人: 
-     zhugeSet-> {guojia, xushu}
+     cjl-> {guojia, xushu}
   2) 杨过老师关注的人:
-     yangguoSet--> {zhuge, baiqi, guojia, xushu}
+     yangguoSet--> {cjl, baiqi, guojia, xushu}
   3) 郭嘉老师关注的人: 
-     guojiaSet-> {zhuge, yangguo, baiqi, xushu, xunyu)
+     guojiaSet-> {cjl, yangguo, baiqi, xushu, xunyu)
   4) 我和杨过老师共同关注: 
-     SINTER zhugeSet yangguoSet--> {guojia, xushu}
+     SINTER cjlSet yangguoSet--> {guojia, xushu}
   5) 我关注的人也关注他(杨过老师): 
      SISMEMBER guojiaSet yangguo 
      SISMEMBER xushuSet yangguo
   6) 我可能认识的人: 
-     SDIFF yangguoSet zhugeSet->(zhuge, baiqi}
+     SDIFF yangguoSet cjlSet->(cjl, baiqi}
 
 - 集合操作实现电商**商品筛选**
 
