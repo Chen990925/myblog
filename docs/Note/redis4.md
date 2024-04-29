@@ -50,7 +50,7 @@ String get(String key) {
 
 当布隆过滤器说**某个值存在时，这个值可能不存在；当它说不存在时，那就肯定不存在。**
 
-<img src="D:\Java\project\myblog\public\images\image-20240429215800391.png" alt="image-20240429215800391" style="zoom:33%;" />
+<img src="../../public/images/image-20240429215800391.png" alt="image-20240429215800391" style="zoom:33%;" />
 
 **布隆过滤器就是一个大型的位数组和几个不一样的无偏 hash 函数。**
 
@@ -232,7 +232,7 @@ String get(String key) {
 
 4、也可以用阿里开源的 **canal 通过监听数据库的 binlog 日志及时的去修改缓存**，但是引入了新的中间件，增加了系统的复杂度。
 
-<img src="D:\Java\project\myblog\public\images\image-20240429222114557.png" alt="image-20240429222114557" style="zoom: 33%;" />
+<img src="../../public/images/image-20240429222114557.png" alt="image-20240429222114557" style="zoom: 33%;" />
 
 **总结：**
 
