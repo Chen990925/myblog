@@ -132,4 +132,40 @@ title: 算法题常见方法
 4. ConcurrentHashMap：线程安全的HashMap实现，通过分段锁提供高效的并发访问。
 
 
+## Character
+
+Character 类是字符数据类型 char 的包装类。Character 类的对象包含类型为 char 的单个字段，这样能把基本数据类型当对象来处理
+
+| **void** Character(char value)             | 构造一个新分配的 Character 对象，用以表示指定的 char 值      |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| char charValue()                           | 返回此 Character 对象的值，此对象表示基本 char 值            |
+| int compareTo(Character anotherCharacter)  | 根据数字比较两个 Character 对象                              |
+| boolean equals(Character anotherCharacter) | 将此对象与指定对象比较，当且仅当参数不是 null，而 是一个与此对象 包含相同 char 值的 Character 对象时， 结果才是 true |
+| **boolean isDigit(char ch)**               | 确定指定字符是否为数字，如果通过 Character. getType (ch) 提供的字 符的常规类别类型为 DECIMAL_DIGIT_NUMBER，则字符为数字 |
+| **boolean isLetter(int codePoint)**        | 确定指定字符（Unicode 代码点）是否为字母                     |
+| **boolean isLetterOrDigit(int codePoint)** | 确定指定字符（Unicode 代码点）是否为字母或数字               |
+| boolean isLowerCase(char ch)               | 确定指定字符是否为小写字母                                   |
+| boolean isUpperCase(char ch)               | 确定指定字符是否为大写字母                                   |
+| char toLowerCase(char ch)                  | 使用来自 UnicodeData 文件的大小写映射信息将字符参数转换为小写 |
+| char toUpperCase(char ch)                  | 使用来自 UnicodeData 文件的大小写映射信息将字符参数转换为大写 |
+| boolean isWhitespace(char ch)              | 判断是否为空格                                               |
+
+
+
+## Collections
+
+- [sort](https://m.baidu.com/s?word=sort&sa=re_dqa_zy)(Collection)。对集合进行排序。
+- [reverse](https://m.baidu.com/s?word=reverse&sa=re_dqa_zy)(List)。反转集合中元素的顺序。
+- [shuffle](https://m.baidu.com/s?word=shuffle&sa=re_dqa_zy)(List)。对集合进行随机排序。
+- fill (List, Object)。用指定对象替换集合中的所有元素。
+- [copy](https://m.baidu.com/s?word=copy&sa=re_dqa_zy)(List m, List n)。将集合 n 中的元素复制到 m 中，并覆盖相应索引的元素。
+- [min](https://m.baidu.com/s?word=min&sa=re_dqa_zy)(Collection) 和 min (Collection, Comparator)。返回集合中的最小元素，后者允许通过 Comparator 指定比较方式。
+- [max](https://m.baidu.com/s?word=max&sa=re_dqa_zy)(Collection) 和 max (Collection, Comparator)。返回集合中的最大元素，后者允许通过 Comparator 指定比较方式。
+- [indexOfSubList](https://m.baidu.com/s?word=indexOfSubList&sa=re_dqa_zy)(List, List)。查找子列表在另一个列表中首次出现的索引。
+- lastIndexOfSubList (List, List)。查找子列表在另一个列表中最后一次出现的索引。
+- [rotate](https://m.baidu.com/s?word=rotate&sa=re_dqa_zy)(List, int)。将集合中的元素向右移动指定数量的位置，负数表示向左移动。
+- [swap](https://m.baidu.com/s?word=swap&sa=re_dqa_zy)(List, int, int)。交换集合中指定索引位置的两个元素。
+- binarySearch (Collection, Object)。使用二分搜索法查找指定元素在集合中的索引，要求集合已排序。
+- replaceAll(List, Object, Object)。替换集合中指定的元素为另一个元素，并返回是否成功替换。
+
 
