@@ -1,10 +1,10 @@
 ---
 group: rocketMQ
-title: Rocket高级特性
+title: RocketMQ高级特性
 order: 3
 ---
 
-# Rocket高级特性
+# RocketMQ高级特性
 
 ## 基础概念复习
 
