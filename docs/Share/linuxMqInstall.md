@@ -249,3 +249,100 @@ Can access virtual hosts 中显示 No access，即 user1 用户没有可以访�
 <img src="../../public/images/image-20240430211243945.png" alt="image-20240430211243945" style="zoom:33%;" />
 
 可以发现，user1 用户也可以访问了
+
+
+## rocketMQ
+
+官网下载
+
+[下载地址](https://rocketmq.apache.org/download/)
+
+<img src="../../public/images/image-20240504183107984.png" alt="image-20240504183107984" style="zoom:50%;" />
+
+### 上传下载好的运行版本文件并解压
+
+使用 unzip 命令解压缩文件
+
+使用 unzip 命令解压缩.zip 文件。在使用前需要确保 Linux 中安装有 unzip 的命令
+
+没有的话使用 `sudo yum install unzip` 命令进行安装（）centos7 版本
+
+使用 `sudo dnf install unzip` 命令进行安装（）centos8 版本
+
+<img src="../../public/images/image-20240505110408993.png" alt="image-20240505110408993" style="zoom:50%;" />
+
+1. 直接 cd 进入到目标目录，压缩包拖拽进文件目录
+2. 使用 unzip rocketmq-all-5.1.0-bin-release.zip，解压对应的.zip 压缩文件
+
+<img src="../../public/images/image-20240505110508038.png" alt="image-20240505110508038" style="zoom: 50%;" />
+
+### 启动 RocketMQ
+
+- **启动 NameServer** 
+
+  启动 NameServer 非常简单， 在 `$ROCKETMQ_HOME/bin` 目录下有个 `mqnamesrv`。直接执行这个脚本就可以启动 RocketMQ 的 NameServer 服务。
+
+  但是要注意，RocketMQ 默认预设的 JVM 内存是 4G，这是 RocketMQ 给我们的最佳配置。但是通常我们用虚拟机的话都是不够 4G 内存的，所以需要调整下 JVM 内存大小。[修改的方式是直接修改 `runserver.sh`
+
+  1. 用 `vi runserver.sh` 编辑这个脚本，在脚本中找到这一行调整内存大小为 512M
+
+     <img src="../../public/images/image-20240505110811294.png" alt="image-20240505110811294" style="zoom:50%;" />
+
+     ```sh
+     JAVA_OPT="${JAVA_OPT} -server -Xms512m -Xmx512m -Xmn256m -
+     XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=320m"
+     ```
+
+  2. **进入 bin 目录下，执行 nohup sh mqnamesrv &**
+
+     <img src="../../public/images/image-20240505111308208.png" alt="image-20240505111308208" style="zoom:50%;" />
+
+     启动完成后，在 nohup.out 里看到这一条关键日志就是启动成功了。并且使用 jps 指令可以看到有一个 NamesrvStartup 进程。
+
+     <img src="../../public/images/image-20240505111717869.png" alt="image-20240505111717869" style="zoom:50%;" />
+
+     jps
+
+     ![image-20240505111741900](../../public/images/image-20240505111741900.png)
+
+     可以使用 tail -f ~/logs/rocketmqlogs/namesrv.log 查看日志
+
+     <img src="../../public/images/image-20240505111949206.png" alt="image-20240505111949206" style="zoom:50%;" />
+
+- 启动 Broker
+
+  在启动前需要进入 bin 目录下修改一下配置文件，增加外网地址便于访问。按照自己的需求来，需要哪个便修改哪一个配置文件。
+  例如修改 broker.conf `conf文件夹下`
+
+  <img src="../../public/images/image-20240505112759746.png" alt="image-20240505112759746" style="zoom:50%;" />
+
+  启动 Broker 的脚本是 runbroker.sh。Broker 的默认预设内存是 8G，启动前，如果内存不够，同样需要调整下 JVM 内存。vi runbroker.sh，找到这一行，进行内存调整
+
+  ```shell
+  JAVA_OPT="${JAVA_OPT} -server -Xms512m -Xmx512m -Xmn256m"
+  ```
+
+  <img src="../../public/images/image-20240505113410999.png" alt="image-20240505113410999" style="zoom:50%;" />
+
+  然后我们需要找到 $ROCKETMQ_HOME/conf/broker.conf， vi 指令进行编辑，在最下面加入一个配置：
+
+  ```
+  autoCreateTopicEnable=true
+  ```
+
+  然后也以静默启动的方式启动 runbroker.sh
+
+  ```shell
+  nohup ./mqbroker &
+  ```
+
+  启动完成后，同样是检查 nohup.out 日志，有这一条关键日志就标识启动成功了。 并且 jps 指令可以看到一个 BrokerStartup 进程。
+
+  <img src="../../public/images/image-20240505114028809.png" alt="image-20240505114028809" style="zoom:50%;" />
+
+  jps
+
+  <img src="../../public/images/image-20240505114004450.png" alt="image-20240505114004450" style="zoom:50%;" />
+
+  至此rocket安装完成！
+
