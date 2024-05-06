@@ -346,3 +346,75 @@ Can access virtual hosts 中显示 No access，即 user1 用户没有可以访�
 
   至此rocket安装完成！
 
+
+## Kafka
+
+### **安装前的环境准备**
+
+由于Kafka是用Scala语言开发的，运行在JVM上，因此在安装Kafka之前需要先安装JDK。
+
+```sh
+yum install java‐1.8.0‐openjdk* ‐y
+```
+
+kafka依赖zookeeper，所以需要先安装zookeeper
+
+```sh
+wget https://mirror.bit.edu.cn/apache/zookeeper/zookeeper‐3.5.8/apache‐zookeeper‐3.5.8‐bin.tar.gz
+tar ‐zxvf apache‐zookeeper‐3.5.8‐bin.tar.gz
+
+cd apache‐zookeeper‐3.5.8‐bin
+cp conf/zoo_sample.cfg conf/zoo.cfg
+# 启动zookeeper
+bin/zkServer.sh start
+bin/zkCli.sh
+ls / #查看zk的根目录相关节点
+```
+
+### **下载安装包修改配置**
+
+下载2.2.0 release版本，并解压：
+
+```sh
+wget https://mirror.bit.edu.cn/apache/kafka/2.4.1/kafka_2.11‐2.4.1.tgz # 2.11是scala的版本，2.4.1是kafka的版本
+tar ‐xzf kafka_2.11‐2.4.1.tgz
+cd kafka_2.11‐2.4.1
+```
+
+**修改配置**
+
+修改配置文件`config/server.properties:`
+
+```sh
+#broker.id属性在kafka集群中必须要是唯一
+broker.id=0
+#kafka部署的机器ip和提供服务的端口号
+listeners=PLAINTEXT://192.168.65.60:9092
+#kafka的消息存储文件
+log.dir=/usr/local/data/kafka‐logs
+#kafka连接zookeeper的地址
+zookeeper.connect=192.168.65.60:2181
+```
+
+### **启动服务**
+
+启动脚本语法：`kafka­-server­-start.sh [­-daemon] server.properties`
+
+可以看到，`server.properties`的配置路径是一个强制的参数，`­-daemon`表示以后台进程运行，否则ssh客户端退出后，就会停止服务。
+
+> 注意，在启动kafka时会使用linux主机名关联的ip地址，所以需要把主机名和linux的ip映射配置到本地host里，用vim /etc/hosts
+
+```sh
+# 启动kafka，运行日志在logs目录的server.log文件里
+bin/kafka‐server‐start.sh ‐daemon config/server.properties #后台启动，不会打印日志到控制台
+#或者用
+bin/kafka‐server‐start.sh config/server.properties &
+# 我们进入zookeeper目录通过zookeeper客户端查看下zookeeper的目录树
+bin/zkCli.sh
+ls / #查看zk的根目录kafka相关节点
+ls /brokers/ids #查看kafka节点
+# 停止kafka
+bin/kafka‐server‐stop.sh
+```
+
+
