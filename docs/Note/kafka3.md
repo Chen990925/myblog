@@ -8,7 +8,7 @@ order: 3
 
 ##  **kafka-manager**
 
-<img src="D:/Java/project/myblog/public/images/image-20240506192114124.png" alt="image-20240506192114124" style="zoom: 33%;" />
+<img src="../../public/images/image-20240506192114124.png" alt="image-20240506192114124" style="zoom: 33%;" />
 
 安装及基本使用可参考：https://www.cnblogs.com/dadonggg/p/8205302.html
 
@@ -196,7 +196,7 @@ Kafka 的事务不同于 Rocketmq，Rocketmq 是保障本地事务 (比如数据
 
 - **读写数据的批量 batch 处理以及压缩传输**
 
-  <img src="D:/Java/project/myblog/public/images/image-20240506193502499.png" alt="image-20240506193502499" style="zoom: 33%;" />
+  <img src="../../public/images/image-20240506193502499.png" alt="image-20240506193502499" style="zoom: 33%;" />
 
 > 顺序，零拷贝，批量处理。rocketMQ也有这些优点
 
