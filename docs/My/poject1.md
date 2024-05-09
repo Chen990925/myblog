@@ -1,6 +1,6 @@
 ---
 group: 1.0.0
-title: proxy-core 
+title: core 
 order: 1
 ---
 
