@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96483:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
 \u8F93\u51FA\uFF1A["o","l","l","e","h"]
 `,paraId:4,tocIndex:1},{value:"\u793A\u4F8B 2\uFF1A",paraId:5,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["H","a","n","n","a","h"]
 \u8F93\u51FA\uFF1A["h","a","n","n","a","H"]
@@ -2689,7 +2689,184 @@ private void environmentInit() {
    environment.setConfig(ConfigUtil.getYmlConfig(ApplicationConfig.class));
    log.info("load ApplicationConfig finished.");
 }
-`,paraId:111,tocIndex:32},{value:"\u5BF9\u7C7B\u64CD\u4F5C\u7684\u4E00\u4E9B\u65B9\u6CD5TODO",paraId:112,tocIndex:33},{value:"\u5DE5\u5177\u7C7BTODO",paraId:113,tocIndex:34}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
+`,paraId:111,tocIndex:32},{value:"\u5BF9\u7C7B\u64CD\u4F5C\u7684\u4E00\u4E9B\u65B9\u6CD5TODO",paraId:112,tocIndex:33},{value:"\u5DE5\u5177\u7C7BTODO",paraId:113,tocIndex:34}]},14410:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E00\u4E9B\u516C\u5171\u7684\u4EE3\u7801\uFF0C\u914D\u7F6E\u7B49",paraId:0,tocIndex:0},{value:"\u5E38\u91CF\u548C\u5C5E\u6027\u952E",paraId:1,tocIndex:2},{value:`public interface Constants {
+	//\u5B9A\u4E49\u4E86\u4E00\u4E2A Netty \u901A\u9053\u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u5B58\u50A8\u4E0B\u4E00\u4E2A\u901A\u9053
+    AttributeKey<Channel> NEXT_CHANNEL = AttributeKey.newInstance("nxt_channel");
+	//\u5B9A\u4E49\u4E86\u4E00\u4E2A\u5B57\u7B26\u4E32\u7C7B\u578B\u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u5B58\u50A8\u7528\u6237ID
+    AttributeKey<String> USER_ID = AttributeKey.newInstance("user_id");
+	//\u5B9A\u4E49\u4E86\u4E00\u4E2A\u5B57\u7B26\u4E32\u7C7B\u578B\u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u5B58\u50A8\u5BA2\u6237\u7AEF\u5BC6\u94A5
+    AttributeKey<String> CLIENT_KEY = AttributeKey.newInstance("client_key");
+	
+    //\u5B9A\u4E49\u4E86\u6570\u636E\u5305\u4E2D\u5934\u90E8\u3001\u7C7B\u578B\u3001\u5E8F\u5217\u53F7\u548C\u4FE1\u606F\u957F\u5EA6\u7684\u5927\u5C0F
+    int HEADER_SIZE = 4;
+    int TYPE_SIZE = 1;
+    int SERIAL_NUMBER_SIZE = 8;
+    int INFO_LENGTH_SIZE = 4;
+	
+    //\u5B9A\u4E49\u4E86\u4E00\u4E9B\u4EE3\u7406\u6570\u636E\u7C7B\u578B\u7684\u540D\u79F0\u5E38\u91CF\uFF0C\u5305\u62EC\u5FC3\u8DF3\u3001\u8BA4\u8BC1\u3001\u8FDE\u63A5\u3001\u65AD\u5F00\u8FDE\u63A5\u3001\u4F20\u8F93\u548C\u9519\u8BEF
+    interface ProxyDataTypeName {
+        String HEARTBEAT = "HEARTBEAT";
+        String AUTH = "AUTH";
+        String CONNECT = "CONNECT";
+        String DISCONNECT = "DISCONNECT";
+        String TRANSFER = "TRANSFER";
+        String ERROR = "ERROR";
+    }
+}
+`,paraId:2,tocIndex:2},{value:"\u4EE3\u7406\u6D88\u606F\u63A5\u53E3\uFF0C\u5185\u5BB9\u4E3A\u7A7A",paraId:3,tocIndex:3},{value:"\u5B9E\u73B0\u4E86",paraId:4,tocIndex:3},{value:"Handler<ChannelHandlerContext, ProxyMessage>",paraId:4,tocIndex:3},{value:"\u679A\u4E3E\u7C7B",paraId:5,tocIndex:4},{value:`@Getter
+@AllArgsConstructor
+public enum ExceptionEnum {
+
+    AUTH_FAILED(1, "\u8BA4\u8BC1\u5931\u8D25");
+
+    private Integer code;
+    private String msg;
+}
+`,paraId:6,tocIndex:4},{value:"\u4E8B\u4EF6\u679A\u4E3E\u7C7B\uFF0C\u5E76\u4E14\u5C06type\u548C\u5BF9\u5E94\u679A\u4E3E\u7C7B\u578B\u5173\u8054",paraId:7,tocIndex:5},{value:`@Getter
+@AllArgsConstructor
+public enum ProxyDataTypeEnum {
+    HEARTBEAT(0x01, Constants.ProxyDataTypeName.HEARTBEAT, "\u5FC3\u8DF3"),
+    AUTH(0x02, Constants.ProxyDataTypeName.AUTH,"\u8BA4\u8BC1"),
+    CONNECT(0x03, Constants.ProxyDataTypeName.CONNECT,"\u8FDE\u63A5"),
+    DISCONNECT(0x04, Constants.ProxyDataTypeName.DISCONNECT,"\u65AD\u5F00\u8FDE\u63A5"),
+    TRANSFER(0x05, Constants.ProxyDataTypeName.TRANSFER,"\u6570\u636E\u4F20\u8F93"),
+    ERROR(0x06, Constants.ProxyDataTypeName.ERROR,"\u5F02\u5E38");
+
+    ////cache\u5C06\u6570\u636E\u7C7B\u578B\u7684\u6574\u6570\u503C\u4E0E\u5BF9\u5E94\u7684\u679A\u4E3E\u5E38\u91CF\u8FDB\u884C\u6620\u5C04
+    private static Map<Integer,ProxyDataTypeEnum> cache = Stream.of(values()).collect(Collectors.toMap(ProxyDataTypeEnum::getType, Function.identity()));
+
+    private int type;
+    private String name;
+    private String desc;
+
+    public static ProxyDataTypeEnum of(Integer type) {
+       return cache.get(type);
+    }
+}
+`,paraId:8,tocIndex:5},{value:"\u5BA2\u6237\u7AEF\u914D\u7F6E\u4FE1\u606F",paraId:9,tocIndex:6},{value:`@Data
+public class ProxyClientConfig {
+    //\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684\u73AF\u5883\u4FE1\u606F
+    private String environment;
+    //\u5BA2\u6237\u7AEF\u5BC6\u94A5\uFF0C\u7528\u4E8E\u8BA4\u8BC1\u548C\u6388\u6743
+    private String clientKey;
+    //\u4EE3\u7406\u914D\u7F6E\u5217\u8868\uFF0C\u5305\u542B\u4E86\u591A\u4E2A\u4EE3\u7406\u4FE1\u606F
+    private List<Proxy> proxy;
+
+    @Data
+    public static class Proxy {
+        //\u4EE3\u7406\u670D\u52A1\u5668\u7AEF\u53E3
+       private Integer serverPort;
+        //\u5BA2\u6237\u7AEF\u4FE1\u606F
+       private String clientInfo;
+    }
+}
+`,paraId:10,tocIndex:6},{value:"\u7528\u4E8E\u5728 Netty \u7BA1\u9053\u4E2D\u68C0\u6D4B\u7A7A\u95F2\u72B6\u6001\uFF0C\u5E76\u6267\u884C\u76F8\u5E94\u7684\u64CD\u4F5C",paraId:11,tocIndex:7},{value:`public class IdleCheckHandler extends IdleStateHandler {
+
+    //\u5206\u522B\u8868\u793A\u8BFB\u7A7A\u95F2\u65F6\u95F4\u3001\u5199\u7A7A\u95F2\u65F6\u95F4\u548C\u6240\u6709\u7C7B\u578B\u7A7A\u95F2\u65F6\u95F4\u7684\u9608\u503C
+    public IdleCheckHandler(int readerIdleTimeSeconds, int writerIdleTimeSeconds, int allIdleTimeSeconds) {
+        //\u8C03\u7528\u7236\u7C7B IdleStateHandler \u7684\u6784\u9020\u51FD\u6570\uFF0C\u5E76\u4F20\u5165\u8FD9\u4E09\u4E2A\u53C2\u6570\uFF0C\u521D\u59CB\u5316\u7A7A\u95F2\u72B6\u6001\u5904\u7406\u5668
+        super(readerIdleTimeSeconds, writerIdleTimeSeconds, allIdleTimeSeconds);
+    }
+
+    //\u91CD\u5199\u4E86\u7236\u7C7B\u7684 channelIdle() \u65B9\u6CD5\uFF0C\u7528\u4E8E\u5904\u7406\u7BA1\u9053\u7684\u7A7A\u95F2\u4E8B\u4EF6\u3002
+    @Override
+    protected void channelIdle(ChannelHandlerContext ctx, IdleStateEvent evt) throws Exception {
+        //\u5728\u65B9\u6CD5\u4E2D\uFF0C\u9996\u5148\u5224\u65AD\u7A7A\u95F2\u72B6\u6001\u4E8B\u4EF6\u7684\u7C7B\u578B\uFF0C\u6839\u636E\u4E0D\u540C\u7C7B\u578B\u6267\u884C\u4E0D\u540C\u7684\u64CD\u4F5C\u3002
+        if (IdleStateEvent.FIRST_WRITER_IDLE_STATE_EVENT == evt) {
+            //\u5982\u679C\u662F\u7B2C\u4E00\u6B21\u5199\u7A7A\u95F2\uFF08FIRST_WRITER_IDLE_STATE_EVENT\uFF09\uFF0C\u5219\u5411\u7BA1\u9053\u5199\u5165\u4E00\u4E2A\u5FC3\u8DF3\u6D88\u606F\uFF08\u901A\u8FC7 ProxyMessage.buildHeartbeatMessage() \u65B9\u6CD5\u6784\u5EFA\uFF09\uFF0C\u4EE5\u4FDD\u6301\u8FDE\u63A5\u7684\u6D3B\u8DC3\u72B6\u6001\u3002
+            ctx.channel().writeAndFlush(ProxyMessage.buildHeartbeatMessage());
+        } else if (IdleStateEvent.FIRST_READER_IDLE_STATE_EVENT == evt) {
+            //\u5982\u679C\u662F\u7B2C\u4E00\u6B21\u8BFB\u7A7A\u95F2\uFF08FIRST_READER_IDLE_STATE_EVENT\uFF09\uFF0C\u5219\u5173\u95ED\u7BA1\u9053\uFF08\u901A\u8FC7 ctx.channel().close() \u65B9\u6CD5\u5173\u95ED\uFF09\uFF0C\u65AD\u5F00\u8FDE\u63A5\u3002
+            ctx.channel().close();
+        }
+        //\u6700\u540E\u8C03\u7528\u7236\u7C7B\u7684 channelIdle() \u65B9\u6CD5\uFF0C\u7EE7\u7EED\u6267\u884C\u5176\u4ED6\u53EF\u80FD\u7684\u7A7A\u95F2\u5904\u7406\u903B\u8F91,\u89C1netty\u5904\u7406\u7A7A\u95F2
+        super.channelIdle(ctx, evt);
+    }
+}
+`,paraId:12,tocIndex:7},{value:"\u7528\u4E8E\u5C06 ProxyMessage \u5BF9\u8C61\u7F16\u89E3\u7801",paraId:13,tocIndex:8},{value:"\u8FD9\u4E2A\u9879\u76EE\u4E2D\u7684\u6D88\u606F\u5BF9\u8C61\u7684\u5B9A\u4E49\uFF0C\u7528\u4E8E\u5728\u7F51\u7EDC\u901A\u4FE1\u4E2D\u4F20\u9012\u6D88\u606F\uFF0C\u5141\u8BB8\u94FE\u5F0F\u8C03\u7528",paraId:14,tocIndex:9},{value:`@Accessors(chain = true)
+@Data
+public class ProxyMessage {
+
+	//\u5FC3\u8DF3\u6D88\u606F
+    public static final byte TYPE_HEARTBEAT = 0x01;
+
+	//\u8BA4\u8BC1\u6D88\u606F\uFF0C\u68C0\u6D4BclientKey\u662F\u5426\u6B63\u786E
+    public static final byte TYPE_AUTH = 0x02;
+
+	//\u4EE3\u7406\u540E\u7AEF\u670D\u52A1\u5668\u5EFA\u7ACB\u8FDE\u63A5\u6D88\u606F
+    public static final byte TYPE_CONNECT = 0x03;
+
+	//\u4EE3\u7406\u540E\u7AEF\u670D\u52A1\u5668\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F
+    public static final byte TYPE_DISCONNECT = 0x04;
+
+	//\u4EE3\u7406\u6570\u636E\u4F20\u8F93
+    public static final byte TYPE_TRANSFER = 0x05;
+
+	//\u901A\u7528\u5F02\u5E38\u4FE1\u606F
+    public static final byte TYPE_ERROR = 0x06;
+
+	//\u6D88\u606F\u7C7B\u578B
+    private byte type;
+
+	//\u6D88\u606F\u6D41\u6C34\u53F7
+    private long serialNumber;
+
+	//\u6D88\u606F\u547D\u4EE4\u8BF7\u6C42\u4FE1\u606F
+    private String info;
+
+	//\u6D88\u606F\u4F20\u8F93\u6570\u636E
+    private byte[] data;
+
+    @Override
+    public String toString() {
+        return "ProxyMessage [type=" + type + ", serialNumber=" + serialNumber + ", info=" + info + ", data=" + Arrays.toString(data) + "]";
+    }
+
+    public static ProxyMessage create() {
+        return new ProxyMessage();
+    }
+
+    public static ProxyMessage buildHeartbeatMessage() {
+        return create().setType(TYPE_HEARTBEAT);
+    }
+
+	//\u521B\u5EFA\u8BA4\u8BC1\u6D88\u606F
+    public static ProxyMessage buildAuthMessage(String info) {
+        return create().setType(TYPE_AUTH)
+            .setInfo(info);
+    }
+
+    public static ProxyMessage buildConnectMessage(String info) {
+        return create().setType(TYPE_CONNECT)
+            .setInfo(info);
+    }
+
+    public static ProxyMessage buildDisconnectMessage(String info) {
+        return create().setType(TYPE_DISCONNECT)
+            .setInfo(info);
+    }
+
+    public static ProxyMessage buildTransferMessage(String info, byte[] data) {
+        return create().setType(TYPE_TRANSFER)
+            .setInfo(info)
+            .setData(data);
+    }
+
+    public static ProxyMessage buildErrMessage(ExceptionEnum exceptionEnum, String info) {
+        JSONObject data = new JSONObject();
+        data.put("code", exceptionEnum.getCode());
+        data.put("msg", exceptionEnum.getMsg());
+        data.put("info", info);
+        return create().setType(TYPE_ERROR)
+            .setInfo(data.toJSONString());
+    }
+
+    // \u4E00\u4E2A\u6784\u5EFA\u9519\u8BEF\u6D88\u606F\u7684\u65B9\u6CD5\uFF0C\u53EF\u4EE5\u6307\u5B9A\u5F02\u5E38\u4FE1\u606F\u548C\u5176\u4ED6\u76F8\u5173\u4FE1\u606F\uFF0C\u5C06\u5176\u5C01\u88C5\u6210\u4E00\u4E2A\u9519\u8BEF\u6D88\u606F\u5BF9\u8C61\u8FD4\u56DE
+    public static ProxyMessage buildErrMessage(ExceptionEnum exceptionEnum) {
+       return buildErrMessage(exceptionEnum, null);
+    }
+}
+`,paraId:15,tocIndex:9}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
     int h;
     //hashmap\u91CC\u4E0D\u662F\u7528\u53D6\u6A21\u800C\u662F\u4F4D\u8FD0\u7B97\u6548\u7387\u9AD8\uFF0C\u5DEE10\u500D\u6548\u7387
     return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
