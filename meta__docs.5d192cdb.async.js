@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96483:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},59912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96483:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},97810:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72156:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45766:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56308:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},83413:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76278:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},1155:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50586:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91695:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
 \u8F93\u51FA\uFF1A["o","l","l","e","h"]
 `,paraId:4,tocIndex:1},{value:"\u793A\u4F8B 2\uFF1A",paraId:5,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["H","a","n","n","a","h"]
 \u8F93\u51FA\uFF1A["h","a","n","n","a","H"]
@@ -2067,7 +2067,12 @@ public boolean equals(Object obj) {
 `,paraId:33,tocIndex:7},{value:"String \u662F\u4E0D\u53EF\u53D8\u7684\u7C7B\uFF0C\u4E00\u65E6\u521B\u5EFA\u5C31\u4E0D\u80FD\u88AB\u4FEE\u6539\u3002\u6BCF\u6B21\u5BF9 String \u8FDB\u884C\u64CD\u4F5C\u65F6\uFF0C\u90FD\u4F1A\u521B\u5EFA\u4E00\u4E2A\u65B0\u7684 String \u5BF9\u8C61\u3002",paraId:34,tocIndex:7},{value:"StringBuffer \u548C StringBuilder \u662F\u53EF\u53D8\u7684\u7C7B\uFF0C\u53EF\u4EE5\u52A8\u6001\u4FEE\u6539\u5B57\u7B26\u4E32\u5185\u5BB9\u3002",paraId:34,tocIndex:7},{value:`\u7EBF\u7A0B\u5B89\u5168\u6027\uFF1A
 `,paraId:33,tocIndex:7},{value:"String \u662F\u7EBF\u7A0B\u5B89\u5168\u7684\uFF0C\u56E0\u4E3A\u5B83\u662F\u4E0D\u53EF\u53D8\u7684\u3002\u591A\u4E2A\u7EBF\u7A0B\u53EF\u4EE5\u540C\u65F6\u8BBF\u95EE\u540C\u4E00\u4E2A String \u5BF9\u8C61\u800C\u65E0\u9700\u62C5\u5FC3\u6570\u636E\u7684\u4FEE\u6539\u95EE\u9898\u3002",paraId:35,tocIndex:7},{value:"StringBuffer \u662F\u7EBF\u7A0B\u5B89\u5168\u7684\uFF0C\u5B83\u7684\u65B9\u6CD5\u4F7F\u7528\u4E86 synchronized \u5173\u952E\u5B57\u8FDB\u884C\u540C\u6B65\uFF0C\u4FDD\u8BC1\u5728\u591A\u7EBF\u7A0B\u73AF\u5883\u4E0B\u7684\u5B89\u5168\u6027\u3002",paraId:35,tocIndex:7},{value:"StringBuilder \u662F\u975E\u7EBF\u7A0B\u5B89\u5168\u7684\uFF0C\u4E0D\u4F7F\u7528 synchronized \u5173\u952E\u5B57\uFF0C\u6240\u4EE5\u5728\u591A\u7EBF\u7A0B\u73AF\u5883\u4E0B\u4F7F\u7528\u65F6\u9700\u8981\u624B\u52A8\u8FDB\u884C\u540C\u6B65\u63A7\u5236\u3002",paraId:35,tocIndex:7},{value:`\u6027\u80FD\uFF1A
 `,paraId:33,tocIndex:7},{value:"\u7531\u4E8E String \u662F\u4E0D\u53EF\u53D8\u7684\uFF0C\u6BCF\u6B21\u5BF9 String \u8FDB\u884C\u64CD\u4F5C\u90FD\u4F1A\u521B\u5EFA\u4E00\u4E2A\u65B0\u7684 String \u5BF9\u8C61\uFF0C\u9891\u7E41\u7684\u5B57\u7B26\u4E32\u62FC\u63A5\u4F1A\u5BFC\u81F4\u5927\u91CF\u7684\u5BF9\u8C61\u521B\u5EFA\u548C\u5185\u5B58\u6D88\u8017\u3002",paraId:36,tocIndex:7},{value:"StringBuffer \u662F\u53EF\u53D8\u7684\uFF0C\u5BF9\u5B57\u7B26\u4E32\u7684\u4FEE\u6539\u662F\u5728\u539F\u6709\u5BF9\u8C61\u4E0A\u8FDB\u884C\uFF0C\u4E0D\u4F1A\u521B\u5EFA\u65B0\u7684\u5BF9\u8C61\uFF0C\u56E0\u6B64\u5728\u9891\u7E41\u7684\u5B57\u7B26\u4E32\u62FC\u63A5\u573A\u666F\u4E0B\u6BD4 String \u66F4\u9AD8\u6548\u3002",paraId:36,tocIndex:7},{value:"StringBuilder \u4E0E StringBuffer \u7C7B\u4F3C\uFF0C\u4F46\u4E0D\u4FDD\u8BC1\u7EBF\u7A0B\u5B89\u5168\u6027\uFF0C\u56E0\u6B64\u5728\u5355\u7EBF\u7A0B\u73AF\u5883\u4E0B\u6027\u80FD\u66F4\u9AD8\u3002",paraId:36,tocIndex:7},{value:"\u53CD\u5C04\u7528\u9014\u53CA\u5B9E\u73B0\u539F\u7406",paraId:5},{value:"\u53CD\u5C04\u662F Java \u8BED\u8A00\u4E2D\u7684\u4E00\u9879\u7279\u6027\uFF0C\u5B83\u5141\u8BB8\u7A0B\u5E8F\u5728\u8FD0\u884C\u65F6",paraId:37,tocIndex:8},{value:"\u52A8\u6001\u5730\u83B7\u53D6\u548C\u64CD\u4F5C\u7C7B\u7684\u4FE1\u606F",paraId:37,tocIndex:8},{value:"\u3002\u901A\u8FC7\u53CD\u5C04\uFF0C\u6211\u4EEC\u53EF\u4EE5\u5728\u7F16\u8BD1\u65F6\u672A\u77E5\u7684\u60C5\u51B5\u4E0B\uFF0C\u83B7\u53D6\u7C7B\u7684",paraId:37,tocIndex:8},{value:"\u6784\u9020\u51FD\u6570\u3001\u65B9\u6CD5\u3001\u5B57\u6BB5\uFF0C\u5E76\u5728\u8FD0\u884C\u65F6\u52A8\u6001\u5730\u521B\u5EFA\u5BF9\u8C61\u3001\u8C03\u7528\u65B9\u6CD5\u4EE5\u53CA\u8BBF\u95EE\u548C\u4FEE\u6539\u5B57\u6BB5\u7684\u503C",paraId:37,tocIndex:8},{value:"\u3002",paraId:37,tocIndex:8},{value:"\u53CD\u5C04\u7684\u5E94\u7528\u6709\u5F88\u591A\u65B9\u9762\u3002\u9996\u5148\uFF0C\u5B83\u63D0\u4F9B\u4E86\u4E00\u79CD",paraId:38,tocIndex:8},{value:"\u52A8\u6001\u52A0\u8F7D\u7C7B",paraId:38,tocIndex:8},{value:"\u7684\u673A\u5236\uFF0C\u4F7F\u5F97\u6211\u4EEC\u53EF\u4EE5\u5728\u8FD0\u884C\u65F6\u6839\u636E\u9700\u8981\u52A0\u8F7D\u5916\u90E8\u7684\u7C7B\u548C\u8D44\u6E90\uFF0C\u5B9E\u73B0\u63D2\u4EF6\u5316\u7684\u67B6\u6784\u3002",paraId:38,tocIndex:8},{value:"\u5176\u6B21\uFF0C\u53CD\u5C04\u80FD\u591F\u5B9E\u73B0",paraId:39,tocIndex:8},{value:"\u5BF9\u8C61\u7684\u52A8\u6001\u521B\u5EFA\u548C\u521D\u59CB\u5316",paraId:39,tocIndex:8},{value:"\u3002\u901A\u8FC7\u83B7\u53D6\u7C7B\u7684\u6784\u9020\u51FD\u6570\uFF0C\u5E76\u8C03\u7528 newInstance () \u65B9\u6CD5\uFF0C\u6211\u4EEC\u53EF\u4EE5\u5728\u8FD0\u884C\u65F6\u52A8\u6001\u5730\u521B\u5EFA\u5BF9\u8C61\uFF0C\u800C\u4E0D\u9700\u8981\u63D0\u524D\u77E5\u9053\u5177\u4F53\u7684\u7C7B\u540D\u3002",paraId:39,tocIndex:8},{value:"\u53E6\u5916\uFF0C\u901A\u8FC7\u53CD\u5C04\u53EF\u4EE5",paraId:40,tocIndex:8},{value:"\u52A8\u6001\u5730\u8C03\u7528\u7C7B\u7684\u65B9\u6CD5",paraId:40,tocIndex:8},{value:"\u3002\u6211\u4EEC\u53EF\u4EE5\u83B7\u53D6\u7C7B\u7684\u65B9\u6CD5\u5BF9\u8C61\uFF0C\u5E76\u4F7F\u7528 ",paraId:40,tocIndex:8},{value:"invoke ()",paraId:40,tocIndex:8},{value:" \u65B9\u6CD5\u6765\u8C03\u7528\u8FD9\u4E9B\u65B9\u6CD5\uFF0C\u751A\u81F3\u53EF\u4EE5\u8C03\u7528\u79C1\u6709\u65B9\u6CD5\u3002",paraId:40,tocIndex:8},{value:"\u53CD\u5C04\u8FD8\u5141\u8BB8\u6211\u4EEC",paraId:41,tocIndex:8},{value:"\u83B7\u53D6\u7C7B\u7684\u5B57\u6BB5\u4FE1\u606F",paraId:41,tocIndex:8},{value:"\uFF0C\u5E76\u5728\u8FD0\u884C\u65F6\u5BF9\u5176\u8FDB\u884C\u8BFB\u53D6\u548C\u4FEE\u6539\u3002\u901A\u8FC7\u83B7\u53D6\u5B57\u6BB5\u5BF9\u8C61\u5E76\u4F7F\u7528get()\u548Cset()\u65B9\u6CD5\uFF0C\u6211\u4EEC\u53EF\u4EE5\u8BBF\u95EE\u548C\u4FEE\u6539\u7C7B\u7684\u5B57\u6BB5\uFF0C\u5305\u62EC\u79C1\u6709\u5B57\u6BB5\u3002",paraId:41,tocIndex:8},{value:"\u6B64\u5916\uFF0C\u53CD\u5C04\u8FD8\u63D0\u4F9B\u4E86\u68C0\u67E5\u7C7B\u7684\u6CE8\u89E3\u3001\u6CDB\u578B\u4FE1\u606F\u4EE5\u53CA\u7236\u7C7B\u548C\u63A5\u53E3\u7684\u80FD\u529B\uFF0C\u4E3A\u6846\u67B6\u5F00\u53D1\u548C\u5DE5\u5177\u7F16\u5199\u63D0\u4F9B\u4E86\u4FBF\u5229\u3002",paraId:42,tocIndex:8},{value:"\u5C3D\u7BA1\u53CD\u5C04\u63D0\u4F9B\u4E86\u5F88\u5927\u7684\u7075\u6D3B\u6027\uFF0C\u4F46\u4E5F\u9700\u8981\u6CE8\u610F\u5B83\u7684\u4F7F\u7528\u573A\u666F\u548C\u6027\u80FD\u5F71\u54CD\u3002\u53CD\u5C04\u64CD\u4F5C\u901A\u5E38\u6BD4\u76F4\u63A5\u8C03\u7528\u65B9\u6CD5\u548C\u8BBF\u95EE\u5B57\u6BB5\u7684",paraId:43,tocIndex:8},{value:"\u6027\u80FD\u8981\u4F4E",paraId:43,tocIndex:8},{value:"\uFF0C\u56E0\u6B64\u5728\u5BF9\u6027\u80FD\u8981\u6C42\u8F83\u9AD8\u7684\u573A\u666F\u4E2D\u5E94\u8C28\u614E\u4F7F\u7528\u3002",paraId:43,tocIndex:8},{value:"\u4EC0\u4E48\u662F\u5B88\u62A4\u7EBF\u7A0B\uFF1F\u4E0E\u666E\u901A\u7EBF\u7A0B\u7684\u533A\u522B",paraId:5},{value:"\u5B88\u62A4\u7EBF\u7A0B\u662F\u5728\u7A0B\u5E8F\u8FD0\u884C\u65F6\u5728\u540E\u53F0\u63D0\u4F9B\u4E00\u79CD\u652F\u6301\u6027\u7684\u7EBF\u7A0B\u3002\u4E0E\u666E\u901A\u7EBF\u7A0B\u76F8\u6BD4\uFF0C\u5B88\u62A4\u7EBF\u7A0B\u6709\u4EE5\u4E0B\u51E0\u4E2A\u533A\u522B\uFF1A",paraId:44,tocIndex:9},{value:"\u7EC8\u6B62\u6761\u4EF6\uFF1A\u5F53\u6240\u6709\u7528\u6237\u7EBF\u7A0B\u7ED3\u675F\u65F6\uFF0C\u5B88\u62A4\u7EBF\u7A0B\u4F1A\u81EA\u52A8\u505C\u6B62\u3002\u6362\u53E5\u8BDD\u8BF4\uFF0C",paraId:45,tocIndex:9},{value:"\u5B88\u62A4\u7EBF\u7A0B\u4E0D\u4F1A\u963B\u6B62\u7A0B\u5E8F\u7684\u7EC8\u6B62\uFF0C\u5373\u4F7F\u5B83\u4EEC\u8FD8\u6CA1\u6709\u6267\u884C\u5B8C\u4EFB\u52A1",paraId:45,tocIndex:9},{value:"\u3002",paraId:45,tocIndex:9},{value:"\u751F\u547D\u5468\u671F\uFF1A\u5B88\u62A4\u7EBF\u7A0B\u7684\u751F\u547D\u5468\u671F\u4E0E\u4E3B\u7EBF\u7A0B\u6216\u5176\u4ED6\u7528\u6237\u7EBF\u7A0B\u65E0\u5173\u3002",paraId:45,tocIndex:9},{value:"\u5F53\u6240\u6709\u7684\u975E\u5B88\u62A4\u7EBF\u7A0B\u90FD\u7ED3\u675F\u65F6\uFF0CJVM \u5C06\u4F1A\u9000\u51FA\u5E76\u505C\u6B62\u5B88\u62A4\u7EBF\u7A0B\u7684\u6267\u884C",paraId:45,tocIndex:9},{value:"\u3002",paraId:45,tocIndex:9},{value:"\u7EBF\u7A0B\u4F18\u5148\u7EA7\uFF1A\u5B88\u62A4\u7EBF\u7A0B\u7684\u4F18\u5148\u7EA7\u9ED8\u8BA4\u4E0E\u666E\u901A\u7EBF\u7A0B\u4E00\u6837\u3002\u4F18\u5148\u7EA7\u8F83\u9AD8\u7684\u5B88\u62A4\u7EBF\u7A0B\u4E5F\u4E0D\u80FD\u591F\u4FDD\u8BC1\u5728\u5176\u4ED6\u7EBF\u7A0B\u4E4B\u524D\u6267\u884C\u3002",paraId:45,tocIndex:9},{value:"\u8D44\u6E90\u56DE\u6536\uFF1A\u5B88\u62A4\u7EBF\u7A0B\u901A\u5E38\u88AB\u7528\u4E8E\u6267\u884C\u4E00\u4E9B\u540E\u53F0\u4EFB\u52A1\uFF0C\u4F8B\u5982",paraId:45,tocIndex:9},{value:"\u5783\u573E\u56DE\u6536\u3001\u65E5\u5FD7\u8BB0\u5F55\u3001\u5B9A\u65F6\u4EFB\u52A1",paraId:45,tocIndex:9},{value:"\u7B49\u3002\u5F53\u53EA\u5269\u4E0B\u5B88\u62A4\u7EBF\u7A0B\u65F6\uFF0CJVM \u4F1A\u81EA\u52A8\u9000\u51FA\u5E76\u4E14\u4E0D\u4F1A\u7B49\u5F85\u5B88\u62A4\u7EBF\u7A0B\u6267\u884C\u5B8C\u6BD5\u3002",paraId:45,tocIndex:9},{value:"\u200B	\u9700\u8981\u6CE8\u610F\u7684\u662F\uFF0C\u5B88\u62A4\u7EBF\u7A0B\u4E0E\u666E\u901A\u7EBF\u7A0B\u5728\u7F16\u5199\u4EE3\u7801\u65F6\u6CA1\u6709\u592A\u5927\u7684\u533A\u522B\u3002\u53EF\u4EE5\u901A\u8FC7\u5C06\u7EBF\u7A0B\u7684setDaemon(true)\u65B9\u6CD5\u8BBE\u7F6E\u4E3A true\uFF0C\u5C06\u666E\u901A\u7EBF\u7A0B\u8F6C\u6362\u4E3A\u5B88\u62A4\u7EBF\u7A0B\u3002",paraId:46,tocIndex:9},{value:`
-\u200B	\u603B\u7ED3\u8D77\u6765\uFF0C\u5B88\u62A4\u7EBF\u7A0B\u5728\u7A0B\u5E8F\u8FD0\u884C\u8FC7\u7A0B\u4E2D\u63D0\u4F9B\u4E86\u4E00\u79CD\u652F\u6301\u6027\u7684\u670D\u52A1\uFF0C\u4F1A\u5728\u6240\u6709\u7684\u7528\u6237\u7EBF\u7A0B\u7ED3\u675F\u65F6\u81EA\u52A8\u505C\u6B62\u3002`,paraId:46,tocIndex:9}]},53033:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E1A\u52A1\u573A\u666F\u65B9\u9762\u9762\u8BD5\u9898",paraId:0},{value:"\u662F\u5426\u5B9A\u4E49\u3001\u8BBE\u8BA1\u8FC7\u4E1A\u52A1\u6A21\u578B\uFF1F",paraId:0},{value:"\u7B54\u6848\u89E3\u6790\u601D\u8DEF",paraId:1,tocIndex:1},{value:"\uFF1A\u8FD9\u4E2A\u95EE\u9898\u770B\u4F3C\u201C\u9AD8\u5927\u4E0A\u201D\uFF0C\u4F46\u5176\u5B9E\u975E\u5E38\u7B80\u5355\u3002\u6240\u8C13\u7684\u4E1A\u52A1\u6A21\u578B\u5C31\u662F\u5C06",paraId:1,tocIndex:1},{value:"\u9700\u6C42\u8F6C\u6362\u6210\u7A0B\u5E8F\u4E4B\u540E\uFF0C\u8BBE\u8BA1\u7684\u6570\u636E\u5E93\u548C\u6570\u636E\u8868",paraId:1,tocIndex:1},{value:"\uFF0C\u6240\u4EE5\u5728\u5F00\u53D1\u4E2D\u4F60\u4E00\u5B9A\u5B9A\u4E49\u8FC7\u6216\u8BBE\u8BA1\u8FC7\u4E1A\u52A1\u6A21\u578B\u3002",paraId:1,tocIndex:1},{value:"\u7406\u89E3\u9700\u6C42->\u5206\u6790\u9700\u6C42->\u5EFA\u7ACB\u5173\u7CFB\u548C\u4F9D\u8D56->\u8BBE\u8BA1\u4E1A\u52A1\u903B\u8F91->\u6301\u4E45\u5316\u6570\u636E\u6A21\u578B",paraId:2,tocIndex:1},{value:"\u5728\u8BBE\u8BA1\u6570\u636E\u5E93\u7684\u6574\u4E2A\u8FC7\u7A0B\u4E2D\uFF0C\u8981\u9075\u5FAA\u6570\u636E\u5E93\u7684\u201C\u4E09\u8303\u5F0F\u201D\u3002",paraId:3,tocIndex:1},{value:"2.\u5982\u4F55\u9632\u6B62\u91CD\u590D\u63D0\u4EA4\u8BA2\u5355\uFF1F(\u5982\u4F55\u4FDD\u8BC1\u5E42\u7B49\u6027)",paraId:0},{value:"\u91CD\u590D\u63D0\u4EA4\u539F\u56E0",paraId:4,tocIndex:2},{value:"\u4E00\u79CD\u662F\u7531\u4E8E\u7528\u6237\u5728\u77ED\u65F6\u95F4\u5185\u591A\u6B21\u70B9\u51FB\u4E0B\u5355\u6309\u94AE\uFF0C\u6216\u6D4F\u89C8\u5668\u5237\u65B0\u6309\u94AE\u5BFC\u81F4\u3002",paraId:5,tocIndex:2},{value:"\u53E6\u4E00\u79CD\u5219\u662F\u7531\u4E8ENginx\u6216\u7C7B\u4F3C\u4E8ESpringCloud Gateway\u7684\u7F51\u5173\u5C42\uFF0C\u8FDB\u884C\u8D85\u65F6\u91CD\u8BD5\u9020\u6210\u7684\u3002",paraId:5,tocIndex:2},{value:"\u65B9\u6848\u4E00\uFF1A\u63D0\u4EA4\u8BA2\u5355\u6309\u94AE\u7F6E\u7070",paraId:6,tocIndex:2},{value:"\u8FD9\u79CD\u89E3\u51B3\u65B9\u6848\u5728\u6CE8\u518C\u767B\u5F55\u7684\u573A\u666F\u4E0B\u6BD4\u8F83\u5E38\u89C1\uFF0C\u5F53\u6211\u4EEC\u70B9\u51FB\u201D\u53D1\u9001\u9A8C\u8BC1\u7801\u201C\u6309\u94AE\u7684\u65F6\u5019\uFF0C\u4F1A\u8FDB\u884C\u624B\u673A\u77ED\u4FE1\u9A8C\u8BC1\u7801\u53D1\u9001\uFF0C\u4E14\u6309\u94AE\u5C31\u4F1A\u6709\u4E00\u5206\u949F\u5DE6\u53F3\u7684\u7F6E\u7070\u3002",paraId:7,tocIndex:2},{value:"\u4F46\u8FD9\u79CD\u65B9\u6848\u53EA\u80FD\u89E3\u51B3\u591A\u6B21\u70B9\u51FB\u4E0B\u5355\u6309\u94AE\u7684\u95EE\u9898\uFF0C\u5BF9\u4E8ENginx\u6216\u7C7B\u4F3C\u4E8ESpringCloud Gateway\u7684\u8D85\u65F6\u91CD\u8BD5\u6240\u5BFC\u81F4\u7684\u95EE\u9898\u662F\u65E0\u80FD\u4E3A\u529B\u7684\u3002",paraId:8,tocIndex:2},{value:"\u5F53\u7136\uFF0C\u8FD9\u79CD\u65B9\u6848\u4E5F\u4E0D\u662F\u771F\u7684\u6CA1\u6709\u4EF7\u503C\u3002\u5B83\u53EF\u4EE5\u5728\u9AD8\u5E76\u53D1\u573A\u666F\u4E0B\uFF0C\u4ECE\u6D4F\u89C8\u5668\u7AEF\u53BB\u62E6\u4F4F\u4E00\u90E8\u5206\u8BF7\u6C42\uFF0C\u51CF\u5C11\u540E\u7AEF\u670D\u52A1\u5668\u7684\u5904\u7406\u538B\u529B\u3002",paraId:9,tocIndex:2},{value:"\u65B9\u6848\u4E8C\uFF1A\u9884\u751F\u6210\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7",paraId:10,tocIndex:2},{value:"\uFF081\uFF09\u540E\u7AEF\u65B0\u589E\u4E00\u4E2A\u63A5\u53E3\uFF0C\u7528\u4E8E\u9884\u751F\u6210\u4E00\u4E2A\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D",paraId:11,tocIndex:2},{value:"\u8BE5\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D\u4E0D\u80FD\u4EE3\u66FF\u6570\u636E\u5E93\u4E3B\u952E\uFF0C\u5728\u672A\u5206\u5E93\u5206\u8868\u573A\u666F\u4E0B\uFF0C\u4E3B\u952E\u8FD8\u662F\u7528\u6570\u636E\u5E93\u81EA\u589EID\u6BD4\u8F83\u597D\u3002",paraId:12,tocIndex:2},{value:"\uFF082\uFF09\u8FDB\u5165\u521B\u5EFA\u8BA2\u5355\u9875\u9762\u65F6\uFF0C\u524D\u7AEF\u8BF7\u6C42\u8BE5\u63A5\u53E3\uFF0C",paraId:13,tocIndex:2},{value:"\u83B7\u53D6\u8BE5\u8BA2\u5355\u53F7",paraId:13,tocIndex:2},{value:"\u3002",paraId:13,tocIndex:2},{value:"\uFF083\uFF09\u5728\u63D0\u4EA4\u8BA2\u5355\u65F6\uFF0C\u8BF7\u6C42\u53C2\u6570\u91CC\u8981\u5E26\u4E0A\u8FD9\u4E2A\u9884\u751F\u6210\u7684\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D\uFF0C\u5229\u7528\u6570\u636E\u5E93\u7684\u552F\u4E00\u7D22\u5F15\u7279\u6027\uFF0C\u5728\u63D2\u5165\u8BA2\u5355\u8BB0\u5F55\u65F6\uFF0C\u5982\u679C\u8BE5\u201C\u5168\u5C40\u552F\u4E00\u7684\u8BA2\u5355\u53F7\u201D\u91CD\u590D\uFF0C\u8BB0\u5F55\u4F1A\u63D2\u5165\u5931\u8D25\u3002",paraId:14,tocIndex:2},{value:"\u65B9\u6848\u4E09\uFF1A\u524D\u7AEF\u81EA\u5DF1\u751F\u6210\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7",paraId:15,tocIndex:2},{value:" \u7B80\u5316\u4E86\u4E00\u5B9A\u7684\u903B\u8F91\u4E0D\u7528\u8BF7\u6C42\u63A5\u53E3\u4E86",paraId:15,tocIndex:2},{value:"\u65B9\u6848\u56DB\uFF1A\u4ECE\u8BA2\u5355\u4E1A\u52A1\u7684\u672C\u8D28\u5165\u624B",paraId:16,tocIndex:2},{value:"\u5982\u4F55\u9632\u6B62\u91CD\u590D\u63D0\u4EA4\u8BA2\u5355",paraId:17,tocIndex:2},{value:"\uFF0C\u5176\u5B9E\u5C31\u662F",paraId:17,tocIndex:2},{value:"\u9632\u6B62\u5728\u77ED\u65F6\u95F4\u5185\uFF0C\u7528\u6237\u548C\u5546\u54C1\u8FDB\u884C\u591A\u6B21\u8FDE\u63A5",paraId:17,tocIndex:2},{value:"\u3002",paraId:17,tocIndex:2},{value:"\u53EF\u4EE5\u7528 ",paraId:18,tocIndex:2},{value:"\u7528\u6237ID + \u5206\u9694\u7B26 + \u5546\u54C1ID",paraId:18,tocIndex:2},{value:" \u4F5C\u4E3A\u552F\u4E00\u6807\u8BC6\uFF0C\u8BA9\u6301\u6709\u76F8\u540C\u6807\u8BC6\u7684\u8BF7\u6C42\u5728\u77ED\u65F6\u95F4\u5185\u4E0D\u80FD\u91CD\u590D\u4E0B\u5355\uFF0C\u4E0D\u5C31\u53EF\u4EE5\u4E86\u5417\uFF1F\u800C\u4E14\uFF0CRedis\u4E0D\u6B63\u662F\u505A\u8FD9\u79CD\u89E3\u51B3\u65B9\u6848\u7684\u5229\u5668\u5417\uFF1F",paraId:18,tocIndex:2},{value:"\u628A",paraId:19,tocIndex:2},{value:"\u7528\u6237ID + \u5206\u9694\u7B26 + \u5546\u54C1ID",paraId:19,tocIndex:2},{value:"\u4F5C\u4E3ARedis key\uFF0C\u5E76\u628A\u201D\u77ED\u65F6\u95F4\u6240\u5BF9\u5E94\u7684\u79D2\u6570\u201C\u8BBE\u7F6E\u4E3Aseconds\uFF0C\u8BA9\u5B83\u8FC7\u671F\u81EA\u52A8\u5220\u9664\u3002",paraId:19,tocIndex:2},{value:"3.\u9AD8\u5E76\u53D1\u5982\u4F55\u8BBE\u8BA1\u4E00\u4E2A\u79D2\u6740\u7CFB\u7EDF",paraId:0},{value:"\u6D41\u91CF\u4F1A\u5728\u67D0\u4E2A\u70B9\u6FC0\u51F8\uFF0C\u5BF9\u6B64\u8981\u8BBE\u8BA1\u4E00\u4E2A\u5168\u65B0\u7684\u7CFB\u7EDF\u6765\u5E94\u5BF9\u8FD9\u79CD\u573A\u666F",paraId:20,tocIndex:3},{value:"\u9875\u9762\u9759\u6001\u5316\uFF1A",paraId:21,tocIndex:3},{value:"\u6D3B\u52A8\u9875\u9762\u662F\u7528\u6237\u6D41\u91CF\u7684\u7B2C\u4E00\u5165\u53E3\uFF0C\u6240\u4EE5\u5E76\u53D1\u91CF\u6700\u5927\u3002\u5982\u679C\u8FD9\u4E9B\u6D41\u91CF\u90FD\u80FD\u76F4\u63A5\u8BBF\u95EE\u670D\u52A1\u7AEF\uFF0C\u670D\u52A1\u7AEF\u6709\u5F88\u5927\u53EF\u80FD\u4F1A\u6302\u6389\u800C\u6D3B\u52A8\u4E2D\u5927\u90E8\u5206\u5185\u5BB9\u5F88\u6709\u53EF\u80FD\u90FD\u662F\u56FA\u5B9A\u7684\uFF0C\uFF08\u5546\u54C1\u540D\u79F0\uFF0C\u63CF\u8FF0\u7B49\uFF09\uFF0C\u901A\u5E38\u60C5\u51B5\u4E0B\u4F1A\u5BF9\u9875\u9762\u505A\u9759\u6001\u5316\u5904\u7406\u3002\u53EA\u6709\u5230\u79D2\u6740\u65F6\u95F4\u70B9\u4E14\u7528\u6237\u70B9\u4E86\u79D2\u6740\u6309\u94AE\u624D\u4F1A\u6B63\u5F0F\u8BF7\u6C42\u670D\u52A1\u7AEF\uFF0C\u8FD9\u6837\u80FD\u8FC7\u6EE4\u5927\u90E8\u5206\u8BF7\u6C42",paraId:22,tocIndex:3},{value:"CDN\u52A0\u901F",paraId:23,tocIndex:3},{value:"\u6BCF\u4E2A\u533A\u57DF\u8BF7\u6C42\u670D\u52A1\u7AEF\u65F6\u95F4\u5404\u4E0D\u76F8\u540C\uFF0C\u5730\u57DF\u76F8\u5DEE\u8FDC\u7F51\u901F\u5404\u4E0D\u76F8\u540C\u3002\u4E3A\u6B64\u9700\u8981\u4F7F\u7528cdn",paraId:24,tocIndex:3},{value:"\u5185\u5BB9\u5206\u53D1\u7F51\u7EDC",paraId:24,tocIndex:3},{value:"\uFF0C\u4F7F\u7528\u6237\u5C31\u8FD1\u83B7\u53D6\u5185\u5BB9\uFF0C\u964D\u4F4E\u7F51\u7EDC\u62E5\u585E\uFF0C\u63D0\u9AD8\u8BBF\u95EE\u54CD\u5E94\u901F\u7387\u548C\u547D\u4E2D\u7387",paraId:24,tocIndex:3},{value:"\u79D2\u6740\u6309\u94AE\uFF1A",paraId:25,tocIndex:3},{value:"\u5982\u4F55\u5728\u9759\u6001\u9875\u9762\u4E2D\u4FDD\u8BC1\u79D2\u6740\u6309\u94AE\u662F\u7B2C\u4E00\u65F6\u95F4\u70B9\u4EAE\u7684\u5462\uFF1F",paraId:26,tocIndex:3},{value:"\u4F7F\u7528js\u6587\u4EF6\u63A7\u5236\u3002\u4E00\u822C\u5C06js\uFF0Ccss\u548C\u9759\u6001\u8D44\u6E90\u653E\u5728cdn\u4E0A\u3002\u79D2\u6740\u5F00\u59CB\u4E4B\u524D\uFF0Cjs\u6807\u5FD7\u4E3Afalse\uFF0C\u5F53\u79D2\u6740\u5F00\u59CB\u65F6\u7CFB\u7EDF\u751F\u6210\u4E00\u4E2A\u65B0\u7684js\u6587\u4EF6\uFF0C\u6B64\u65F6\u6807\u5FD7\u4E3Atrue",paraId:27,tocIndex:3},{value:"\u524D\u7AEF\u8FD8\u53EF\u4EE5\u52A0\u4E00\u4E2A\u5B9A\u65F6\u5668\uFF0C\u63A7\u523610s\u4E4B\u5185\u53EA\u5141\u8BB8\u53D1\u8D77\u4E00\u6B21\u8BF7\u6C42\uFF0C\u5982\u679C\u70B9\u51FB\u4E00\u6B21\u521910s\u5185\u7F6E\u7070",paraId:28,tocIndex:3},{value:"\u7F13\u5B58\uFF1A",paraId:29,tocIndex:3},{value:"\u7F13\u5B58\u4E09\u5927\u95EE\u9898\uFF1A",paraId:30,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u51FB\u7A7F\uFF1A\u5927\u91CF\u8BF7\u6C42\u53BB\u8BF7\u6C42\u6570\u636E\u5E93\u7136\u540E\u5C06\u6570\u636E\u653E\u5165\u7F13\u5B58\uFF0C\u4E3A\u6B64\u53EF\u4EE5\u8FDB\u884C\u7F13\u5B58\u9884\u70ED\u548C\u6DFB\u52A0\u5206\u5E03\u5F0F\u9501",paraId:31,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u7A7F\u900F\uFF1A\u5546\u54C1id\u5728\u6570\u636E\u5E93\u4E0D\u5B58\u5728\uFF0C\u5982\u679C\u662F\u66F4\u65B0\u5F88\u5C11\u7684\u573A\u666F\u53EF\u4EE5\u4F7F\u7528\u5E03\u9686\u8FC7\u6EE4\u5668\uFF0C\u4F46\u5982\u679C\u7F13\u5B58\u66F4\u65B0\u9891\u7E41\uFF0C\u5219\u9700\u8981\u5C06\u4E0D\u5B58\u5728\u7684\u5546\u54C1id\u4E5F\u7F13\u5B58\u8D77\u6765",paraId:32,tocIndex:3},{value:"\u8FD9\u79CD\u7279\u6B8A\u5546\u54C1\u7684\u8D85\u65F6\u65F6\u95F4\u8981\u77ED",paraId:32,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u96EA\u5D29\uFF1A",paraId:33,tocIndex:3},{value:"\u5E93\u5B58\u95EE\u9898\uFF1A\u5206\u5E03\u5F0F\u9501",paraId:34,tocIndex:3},{value:"\u5728\u7528\u6237\u4E0B\u5355\u540E\u8FDB\u884C\u5E93\u5B58\u7684\u9884\u6263\u51CF\uFF0C\u5982\u679C\u8D85\u65F6\u672A\u652F\u4ED8\u5C31\u52A0\u56DE\u53BB",paraId:35,tocIndex:3},{value:"\u4F46\u5728\u5E76\u53D1\u573A\u666F\u4E0B\u4F1A\u6709\u539F\u5B50\u6027\u95EE\u9898\u800C\u5BFC\u81F4\u8D85\u5356",paraId:36,tocIndex:3},{value:"\u4F7F\u7528redisson\u5206\u5E03\u5F0F\u9501",paraId:37,tocIndex:3},{value:"mq\u5F02\u6B65\u5904\u7406",paraId:38,tocIndex:3},{value:"\u628A\u4E0B\u5355\u548C\u652F\u4ED8\u529F\u80FD\u4ECE\u79D2\u6740\u4E2D\u62BD\u51FA\u6765\uFF0C\u7531\u79D2\u6740\u7AEF\u53D1\u9001\u6D88\u606F\uFF0C\u4E0B\u5355\u670D\u52A1\u6D88\u8D39\u6D88\u606F",paraId:39,tocIndex:3},{value:"\u6B64\u65F6\u53C8\u8981\u6CE8\u610F",paraId:40,tocIndex:3},{value:"\u6D88\u606F\u4E22\u5931\uFF1A",paraId:41,tocIndex:3},{value:"\u91CD\u590D\u6D88\u8D39\uFF1A",paraId:42,tocIndex:3},{value:"\u9650\u6D41\uFF1A",paraId:43,tocIndex:3},{value:"\u8BC6\u522B\u975E\u6CD5\u8BF7\u6C42\uFF1A1.\u5BF9\u67D0\u4E2A\u7528\u6237/IP\u9650\u6D41",paraId:44,tocIndex:3},{value:"2.\u5BF9\u8BF7\u6C42\u63A5\u53E3\u603B\u6B21\u6570\u8FDB\u884C\u9650\u5236",paraId:45,tocIndex:3},{value:"3.\u9A8C\u8BC1\u7801 \u6570\u5B57/\u79FB\u52A8\u6ED1\u5757",paraId:46,tocIndex:3},{value:"snowflake",paraId:47,tocIndex:4},{value:"\uFF08\u96EA\u82B1\u7B97\u6CD5\uFF09\uFF1ATwitter \u5F00\u6E90\u7684\u5206\u5E03\u5F0F id \u751F\u6210\u7B97\u6CD5\uFF0C64 \u4F4D\u7684 long \u578B\u7684 id\uFF0C\u5206\u4E3A 4 \u90E8\u5206\uFF1A",paraId:47,tocIndex:4},{value:"1 bit\uFF1A\u4E0D\u7528\uFF0C\u7EDF\u4E00\u4E3A 0",paraId:48,tocIndex:4},{value:"41 bits\uFF1A",paraId:48,tocIndex:4},{value:"\u6BEB\u79D2\u65F6\u95F4\u6233",paraId:48,tocIndex:4},{value:"\uFF0C\u53EF\u4EE5\u8868\u793A 69 \u5E74\u7684\u65F6\u95F4\u3002",paraId:48,tocIndex:4},{value:"10 bits\uFF1A5 bits \u4EE3\u8868\u673A\u623F id\uFF0C5 \u4E2A bits \u4EE3\u8868\u673A\u5668 id\u3002\u6700\u591A\u4EE3\u8868 32 \u4E2A\u673A\u623F\uFF0C\u6BCF\u4E2A\u673A\u623F\u6700\u591A\u4EE3\u8868 32 \u53F0\u673A\u5668\u3002",paraId:48,tocIndex:4},{value:"12 bits\uFF1A\u540C\u4E00\u6BEB\u79D2\u5185\u7684 id\uFF0C\u6700\u591A 4096 \u4E2A\u4E0D\u540C id\uFF0C\u81EA\u589E\u6A21\u5F0F",paraId:48,tocIndex:4},{value:"\u4F18\u70B9\uFF1A",paraId:49,tocIndex:4},{value:"\u6BEB\u79D2\u6570\u5728\u9AD8\u4F4D\uFF0C\u81EA\u589E\u5E8F\u5217\u5728\u4F4E\u4F4D\uFF0C\u6574\u4E2AID\u90FD\u662F\u8D8B\u52BF\u9012\u589E\u7684\u3002",paraId:50,tocIndex:4},{value:"\u4E0D\u4F9D\u8D56\u6570\u636E\u5E93\u7B49\u7B2C\u4E09\u65B9\u7CFB\u7EDF\uFF0C\u4EE5\u670D\u52A1\u7684\u65B9\u5F0F\u90E8\u7F72\uFF0C\u7A33\u5B9A\u6027\u66F4\u9AD8\uFF0C\u751F\u6210ID\u7684\u6027\u80FD\u4E5F\u662F\u975E\u5E38\u9AD8\u7684\u3002",paraId:50,tocIndex:4},{value:"\u53EF\u4EE5\u6839\u636E\u81EA\u8EAB\u4E1A\u52A1\u7279\u6027\u5206\u914Dbit\u4F4D\uFF0C\u975E\u5E38\u7075\u6D3B\u3002",paraId:50,tocIndex:4},{value:"\u7F3A\u70B9\uFF1A\u5F3A\u4F9D\u8D56\u673A\u5668\u65F6\u949F\uFF0C\u5982\u679C\u673A\u5668\u4E0A\u65F6\u949F\u56DE\u62E8\uFF08\u53EF\u4EE5\u641C\u7D22 ",paraId:51,tocIndex:4},{value:"2017 \u5E74\u95F0\u79D2 7:59:60",paraId:51,tocIndex:4},{value:"\uFF09\uFF0C\u4F1A\u5BFC\u81F4\u53D1\u53F7\u91CD\u590D\u6216\u8005\u670D\u52A1\u4F1A\u5904\u4E8E\u4E0D\u53EF\u7528\u72B6\u6001",paraId:51,tocIndex:4},{value:"\u670D\u52A1\u5668\u4E0A\u7684\u65F6\u949F\u4E0D\u540C\u6B65\u540E\uFF0C\u53C8\u81EA\u52A8\u8FDB\u884C\u540C\u6B65\u4E86\uFF0C\u524D\u540E\u65F6\u95F4\u4E0D\u4E00\u81F4",paraId:52,tocIndex:4},{value:"\u65F6\u949F\u56DE\u62E8",paraId:53,tocIndex:4},{value:"\uFF1A",paraId:53,tocIndex:4},{value:"\u670D\u52A1\u5668\u65F6\u949F\u53EF\u80FD\u4F1A\u56E0\u4E3A\u5404\u79CD\u539F\u56E0\u53D1\u751F\u4E0D\u51C6\uFF0C\u800C\u7F51\u7EDC\u4E2D\u4F1A\u63D0\u4F9B NTP \u670D\u52A1\u6765\u505A\u65F6\u95F4\u6821\u51C6\uFF0C\u56E0\u6B64\u5728\u505A\u6821\u51C6\u7684\u65F6\u5019\uFF0C\u670D\u52A1\u5668\u65F6\u949F\u5C31\u4F1A\u53D1\u751F\u65F6\u949F\u7684\u8DF3\u8DC3\u6216\u8005\u56DE\u62E8\u95EE\u9898\u3002",paraId:53,tocIndex:4},{value:"\u65B9\u6CD5\u4E00\uFF1A\u65F6\u949F\u540C\u6B65",paraId:54,tocIndex:4},{value:"\u670D\u52A1\u5668\u4E0A\u90FD\u5B89\u88C5\u4E86 ",paraId:55,tocIndex:4},{value:"ntpdate",paraId:55,tocIndex:4},{value:" \u8F6F\u4EF6\uFF0C\u4F5C\u4E3A NTP \u5BA2\u6237\u7AEF\uFF0C\u4F1A\u6BCF\u9694 ",paraId:55,tocIndex:4},{value:"10 \u5206\u949F",paraId:55,tocIndex:4},{value:"\u5411 ",paraId:55,tocIndex:4},{value:"NTP \u65F6\u95F4\u670D\u52A1\u5668",paraId:55,tocIndex:4},{value:"\u540C\u6B65\u4E00\u6B21\u65F6\u95F4",paraId:55,tocIndex:4},{value:"\uFF081\uFF09\u65B9\u5F0F\u4E00\uFF1A\u4F7F\u7528\u7F8E\u56E2 ",paraId:56,tocIndex:4},{value:"Leaf",paraId:56,tocIndex:4},{value:"\u65B9\u6848\uFF0C\u57FA\u4E8E\u96EA\u82B1\u7B97\u6CD5\u3002",paraId:56,tocIndex:4},{value:"\uFF082\uFF09",paraId:57,tocIndex:4},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4F7F\u7528\u767E\u5EA6 UidGenerator\uFF0C\u57FA\u4E8E\u96EA\u82B1\u7B97\u6CD5",paraId:57,tocIndex:4},{value:"\uFF083\uFF09\u65B9\u5F0F\u4E09\uFF1A\u7528 Redis \u751F\u6210\u81EA\u589E\u7684\u5206\u5E03\u5F0F ID\u3002\u5F0A\u7AEF\u662F ID \u5BB9\u6613\u88AB\u731C\u5230\uFF0C\u6709\u5B89\u5168\u98CE\u9669\u3002",paraId:58,tocIndex:4}]},23267:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E3A\u4EC0\u4E48\u8981\u7528 Redis\uFF1F\u6709\u9884\u4F30 QPS \u7684\u63D0\u5347\u5E45\u5EA6\u5417\uFF1F",paraId:0},{value:"\u4E3A\u4EC0\u4E48\u7528 Redis\uFF1F\u56DE\u7B54 Redis \u7684\u4F18\u52BF\u5373\u53EF\u3002 QPS\uFF08Queries Per Second\uFF0C\u6BCF\u79D2\u949F\u67E5\u8BE2\u6B21\u6570\uFF09\u7684\u95EE\u9898\u53EF\u4EE5\u4F7F\u7528 Redis \u6027\u80FD\u6D4B\u8BD5\u62A5\u544A\u4E2D\u7684\u6570\u636E\u5373\u53EF\u3002 Redis \u4F18\u52BF\u6709\u4EE5\u4E0B\u51E0\u4E2A\uFF1A",paraId:1,tocIndex:1},{value:"\u57FA\u4E8E\u5185\u5B58",paraId:2,tocIndex:1},{value:"\uFF1ARedis \u662F\u4E00\u79CD\u57FA\u4E8E\u5185\u5B58\u7684\u6570\u636E\u5B58\u50A8\u7CFB\u7EDF\uFF0C\u6240\u6709\u7684\u6570\u636E\u90FD\u5B58\u50A8\u5728\u5185\u5B58\u4E2D\u3002\u76F8\u6BD4\u4F20\u7EDF\u7684\u78C1\u76D8\u5B58\u50A8\u7CFB\u7EDF\uFF0C\u5185\u5B58\u8BBF\u95EE\u901F\u5EA6\u66F4\u5FEB",paraId:2,tocIndex:1},{value:"\u5355\u7EBF\u7A0B\u6A21\u578B",paraId:3,tocIndex:1},{value:"\uFF1ARedis \u4F7F\u7528\u5355\u7EBF\u7A0B\u6A21\u578B\u6765\u5904\u7406\u5BA2\u6237\u7AEF\u8BF7\u6C42\u3002\u907F\u514D\u591A\u7EBF\u7A0B\u7684\u7ADE\u4E89\u6761\u4EF6\u548C\u9501\u5F00\u9500\u3002",paraId:3,tocIndex:1},{value:"\u9AD8\u6548\u6570\u636E\u7ED3\u6784",paraId:4,tocIndex:1},{value:"\uFF1ARedis \u63D0\u4F9B\u4E86\u591A\u79CD\u9AD8\u6548\u7684\u6570\u636E\u7ED3\u6784\uFF0C\u5982\u54C8\u5E0C\u8868\u3001\u6709\u5E8F\u96C6\u5408\u7B49\u3002\u8FD9\u4E9B\u6570\u636E\u7ED3\u6784\u7684\u5B9E\u73B0\u90FD\u7ECF\u8FC7\u4E86\u4F18\u5316",paraId:4,tocIndex:1},{value:"\u975E\u963B\u585E I/O",paraId:5,tocIndex:1},{value:"\uFF1ARedis \u4F7F\u7528\u4E86\u975E\u963B\u585E I/O \u6A21\u578B\uFF0CRedis \u4E0D\u4F1A\u7B49\u5F85\u6570\u636E\u7684\u8FD4\u56DE\uFF0C\u800C\u662F\u7EE7\u7EED\u5904\u7406\u5176\u4ED6\u8BF7\u6C42\u3002\u53EF\u4EE5\u5145\u5206\u5229\u7528 CPU \u7684\u65F6\u95F4\uFF0C\u63D0\u9AD8\u6574\u4F53\u7684\u541E\u5410\u91CF\u3002",paraId:5,tocIndex:1},{value:"\u6709\u9884\u4F30 QPS \u7684\u63D0\u5347\u5E45\u5EA6\u5417\uFF1F\uFF1Abenchmark",paraId:6,tocIndex:1},{value:"\u5728 Redis \u5B89\u88C5\u5B8C\u6BD5\u540E\u4F1A\u81EA\u52A8\u5B89\u88C5\u4E00\u4E2A redis-benchmark \u6D4B\u8BD5\u5DE5\u5177\uFF0C\u5176\u662F\u4E00\u4E2A\u538B\u529B\u6D4B\u8BD5\u5DE5\u5177\uFF0C\u7528\u4E8E\u6D4B\u8BD5 Redis \u7684\u6027\u80FD\u3002",paraId:7,tocIndex:1},{value:"redis-benchmark \u5E38\u7528\u547D\u4EE4\u9009\u9879\u8BF4\u660E",paraId:8,tocIndex:1},{value:` -c <clients>       \u6307\u5B9A\u672C\u6B21\u6D4B\u8BD5\u6BCF\u4E2A\u6307\u4EE4\u7684\u5E76\u884C\u8FDE\u63A5 Redis server \u7684\u5BA2\u6237\u7AEF\u6570\u91CF (default 50)
+\u200B	\u603B\u7ED3\u8D77\u6765\uFF0C\u5B88\u62A4\u7EBF\u7A0B\u5728\u7A0B\u5E8F\u8FD0\u884C\u8FC7\u7A0B\u4E2D\u63D0\u4F9B\u4E86\u4E00\u79CD\u652F\u6301\u6027\u7684\u670D\u52A1\uFF0C\u4F1A\u5728\u6240\u6709\u7684\u7528\u6237\u7EBF\u7A0B\u7ED3\u675F\u65F6\u81EA\u52A8\u505C\u6B62\u3002`,paraId:46,tocIndex:9}]},67900:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"Statement",paraId:0,tocIndex:1},{value:"\u662F\u4E00\u79CD\u6267\u884C\u9759\u6001SQL\u8BED\u53E5\u7684\u63A5\u53E3\u3002\u5B83\u662F\u4E0E\u7279\u5B9A\u6570\u636E\u5E93\u7684\u8FDE\u63A5\u76F8\u5173\u8054\u7684\u5BF9\u8C61\uFF0C\u7528\u4E8E\u5411\u6570\u636E\u5E93\u53D1\u9001SQL\u8BED\u53E5\u5E76\u6267\u884C\u76F8\u5E94\u7684\u67E5\u8BE2\u3001\u66F4\u65B0\u6216\u5220\u9664\u64CD\u4F5C",paraId:0,tocIndex:1},{value:"MyBatis \u4E2D\u7684 Executor\uFF08\u6267\u884C\u5668\uFF09\u662F\u7528\u4E8E\u6267\u884C SQL \u8BED\u53E5\u5E76\u8FD4\u56DE\u7ED3\u679C\u7684\u7EC4\u4EF6\u3002MyBatis \u63D0\u4F9B\u4E86\u4E09\u79CD\u4E0D\u540C\u7C7B\u578B\u7684 Executor\uFF0C\u5B83\u4EEC\u4E4B\u95F4\u7684\u533A\u522B\u4E3B\u8981\u4F53\u73B0\u5728 SQL \u8BED\u53E5\u7684\u6267\u884C\u65B9\u5F0F\u548C\u7ED3\u679C\u7684\u5904\u7406\u65B9\u5F0F\u4E0A\uFF1A",paraId:1,tocIndex:1},{value:"SimpleExecutor",paraId:2,tocIndex:1},{value:`\uFF08\u7B80\u5355\u6267\u884C\u5668\uFF09\uFF1A
+`,paraId:2,tocIndex:1},{value:"SimpleExecutor \u662F MyBatis \u9ED8\u8BA4\u7684\u6267\u884C\u5668\u3002",paraId:3,tocIndex:1},{value:"\u6BCF\u6267\u884C\u4E00\u6B21 update \u6216 query \u64CD\u4F5C\uFF0C\u5C31\u4F1A\u5F00\u542F\u4E00\u4E2A\u65B0\u7684 Statement \u5BF9\u8C61\uFF0C\u6267\u884C\u5B8C\u6BD5\u540E\u7ACB\u5373\u5173\u95ED Statement\u3002",paraId:3,tocIndex:1},{value:"\u4E0D\u4F1A\u5BF9 Statement \u5BF9\u8C61\u8FDB\u884C\u590D\u7528\uFF0C\u6BCF\u6B21\u6267\u884C SQL \u90FD\u4F1A\u521B\u5EFA\u65B0\u7684 Statement\u3002",paraId:3,tocIndex:1},{value:"\u9002\u7528\u4E8E\u7B80\u5355\u7684\u5C0F\u578B\u5E94\u7528\uFF0C\u6216\u8005\u5BF9\u6027\u80FD\u8981\u6C42\u4E0D\u9AD8\u7684\u573A\u666F\u3002",paraId:3,tocIndex:1},{value:"ReuseExecutor",paraId:2,tocIndex:1},{value:`\uFF08\u53EF\u91CD\u7528\u6267\u884C\u5668\uFF09\uFF1A
+`,paraId:2,tocIndex:1},{value:"ReuseExecutor \u5728\u6267\u884C SQL \u8BED\u53E5\u65F6\u4F1A\u91CD\u7528 Statement \u5BF9\u8C61\uFF0C\u5373\u5F53\u591A\u6B21\u6267\u884C\u76F8\u540C SQL \u8BED\u53E5\u65F6\uFF0C\u4F1A\u590D\u7528\u4E4B\u524D\u5DF2\u7ECF\u521B\u5EFA\u7684 Statement \u5BF9\u8C61\u3002",paraId:4,tocIndex:1},{value:"\u5BF9\u4E8E\u76F8\u540C\u7684 SQL \u8BED\u53E5\uFF0C\u53EA\u4F1A\u521B\u5EFA\u4E00\u4E2A Statement \u5BF9\u8C61\uFF0C\u5E76\u7F13\u5B58\u8D77\u6765\u4F9B\u540E\u7EED\u91CD\u590D\u4F7F\u7528\u3002",paraId:4,tocIndex:1},{value:"\u9002\u7528\u4E8E\u6267\u884C\u9891\u7387\u8F83\u9AD8\u3001\u76F8\u540C SQL \u8BED\u53E5\u7684\u573A\u666F\uFF0C\u53EF\u4EE5\u51CF\u5C11 Statement \u5BF9\u8C61\u7684\u521B\u5EFA\u548C\u9500\u6BC1\u5F00\u9500\uFF0C\u63D0\u9AD8\u6027\u80FD\u3002",paraId:4,tocIndex:1},{value:"BatchExecutor",paraId:2,tocIndex:1},{value:`\uFF08\u6279\u5904\u7406\u6267\u884C\u5668\uFF09\uFF1A
+`,paraId:2,tocIndex:1},{value:"BatchExecutor \u7528\u4E8E\u6267\u884C\u6279\u5904\u7406 SQL \u64CD\u4F5C\uFF0C\u5373\u4E00\u6B21\u6027\u6267\u884C\u591A\u4E2A SQL \u8BED\u53E5\uFF0C\u901A\u5E38\u7528\u4E8E\u6279\u91CF\u63D2\u5165\u3001\u66F4\u65B0\u6216\u5220\u9664\u6570\u636E\u3002",paraId:5,tocIndex:1},{value:"\u5728 BatchExecutor \u4E2D\uFF0C\u4F1A\u5C06\u591A\u4E2A SQL \u8BED\u53E5\u6536\u96C6\u8D77\u6765\uFF0C\u4E00\u6B21\u6027\u63D0\u4EA4\u5230\u6570\u636E\u5E93\u6267\u884C\uFF0C\u7136\u540E\u8FD4\u56DE\u6267\u884C\u7ED3\u679C\u3002",paraId:5,tocIndex:1},{value:"\u9002\u7528\u4E8E\u9700\u8981\u6279\u91CF\u5904\u7406\u5927\u91CF\u6570\u636E\u7684\u573A\u666F\uFF0C\u53EF\u4EE5\u51CF\u5C11\u4E0E\u6570\u636E\u5E93\u7684\u4EA4\u4E92\u6B21\u6570\uFF0C\u63D0\u9AD8\u6570\u636E\u5904\u7406\u7684\u6548\u7387\u3002",paraId:5,tocIndex:1},{value:"ORM\uFF08Object-Relational Mapping\uFF0C",paraId:6,tocIndex:2},{value:"\u5BF9\u8C61\u5173\u7CFB\u6620\u5C04",paraId:6,tocIndex:2},{value:"\uFF09\u662F\u4E00\u79CD",paraId:6,tocIndex:2},{value:"\u7F16\u7A0B\u6280\u672F",paraId:6,tocIndex:2},{value:"\uFF0C\u7528\u4E8E\u5728",paraId:6,tocIndex:2},{value:"\u9762\u5411\u5BF9\u8C61\u7F16\u7A0B\u8BED\u8A00",paraId:6,tocIndex:2},{value:"\u548C",paraId:6,tocIndex:2},{value:"\u5173\u7CFB\u578B\u6570\u636E\u5E93",paraId:6,tocIndex:2},{value:"\u4E4B\u95F4\u5EFA\u7ACB\u6620\u5C04\u5173\u7CFB\uFF0C\u4ECE\u800C\u5C06\u6570\u636E\u5E93\u4E2D\u7684\u6570\u636E\u6620\u5C04\u4E3A\u9762\u5411\u5BF9\u8C61\u7F16\u7A0B\u8BED\u8A00\u4E2D\u7684\u5BF9\u8C61\uFF0C\u4F7F\u5F97\u5F00\u53D1\u8005\u53EF\u4EE5\u901A\u8FC7",paraId:6,tocIndex:2},{value:"\u9762\u5411\u5BF9\u8C61\u7684\u65B9\u5F0F\u6765\u64CD\u4F5C\u6570\u636E\u5E93\uFF0C\u800C\u4E0D\u5FC5\u5173\u5FC3\u5E95\u5C42\u6570\u636E\u5E93\u7684\u7EC6\u8282",paraId:6,tocIndex:2},{value:"MyBatis \u88AB\u79F0\u4E3A\u534A\u81EA\u52A8 ORM \u6620\u5C04\u5DE5\u5177\uFF0C\u4E3B\u8981\u662F\u56E0\u4E3A\u5B83\u5728\u8FDB\u884C\u5BF9\u8C61\u548C\u6570\u636E\u5E93\u8868\u4E4B\u95F4\u7684\u6620\u5C04\u65F6\uFF0C",paraId:7,tocIndex:3},{value:"\u9700\u8981\u5F00\u53D1\u8005\u624B\u52A8\u7F16\u5199 SQL \u6620\u5C04\u6587\u4EF6\u6216\u8005\u4F7F\u7528\u6CE8\u89E3\u6765\u914D\u7F6E\u5BF9\u8C61\u548C\u6570\u636E\u5E93\u8868\u4E4B\u95F4\u7684\u6620\u5C04\u5173\u7CFB",paraId:7,tocIndex:3},{value:"\u3002\u8FD9\u4E0E\u5168\u81EA\u52A8\u7684 ORM \u6846\u67B6\u76F8\u6BD4\u6709\u6240\u533A\u522B\u3002",paraId:7,tocIndex:3},{value:"\u4E0B\u9762\u662F MyBatis \u4E0E\u5168\u81EA\u52A8 ORM \u6846\u67B6\u4E4B\u95F4\u7684\u533A\u522B\uFF1A",paraId:8,tocIndex:3},{value:"\u8981\u81EA\u5DF1\u5199\u6620\u5C04\u6587\u4EF6\uFF0C\u4F46\u662F\u7075\u6D3B\u6027\u9AD8",paraId:9,tocIndex:3},{value:"\u6620\u5C04\u65B9\u5F0F",paraId:10,tocIndex:3},{value:`\uFF1A
+`,paraId:10,tocIndex:3},{value:"MyBatis\uFF1A\u5F00\u53D1\u8005\u9700\u8981\u624B\u52A8\u7F16\u5199 SQL \u6620\u5C04\u6587\u4EF6\uFF08\u6216\u8005\u4F7F\u7528\u6CE8\u89E3\uFF09\uFF0C\u6307\u5B9A\u5BF9\u8C61\u548C\u6570\u636E\u5E93\u8868\u4E4B\u95F4\u7684\u6620\u5C04\u5173\u7CFB\uFF0C\u5305\u62EC SQL \u67E5\u8BE2\u8BED\u53E5\u3001\u53C2\u6570\u6620\u5C04\u3001\u7ED3\u679C\u6620\u5C04\u7B49\u3002",paraId:11,tocIndex:3},{value:"\u5168\u81EA\u52A8 ORM \u6846\u67B6\uFF1A\u901A\u5E38\u91C7\u7528\u7EA6\u5B9A\u4F18\u4E8E\u914D\u7F6E\u7684\u65B9\u5F0F\uFF0C\u6839\u636E\u5BF9\u8C61\u7684\u547D\u540D\u89C4\u5219\u548C\u6570\u636E\u5E93\u8868\u7684\u547D\u540D\u89C4\u5219\u81EA\u52A8\u751F\u6210\u6620\u5C04\u5173\u7CFB\uFF0C\u5F00\u53D1\u8005\u65E0\u9700\u624B\u52A8\u7F16\u5199\u6620\u5C04\u6587\u4EF6\uFF0C\u51CF\u5C11\u4E86\u5F00\u53D1\u8005\u7684\u5DE5\u4F5C\u91CF\u3002",paraId:11,tocIndex:3},{value:"\u7075\u6D3B\u6027",paraId:10,tocIndex:3},{value:`\uFF1A
+`,paraId:10,tocIndex:3},{value:"MyBatis\uFF1A\u7531\u4E8E\u9700\u8981\u624B\u52A8\u7F16\u5199 SQL \u6620\u5C04\u6587\u4EF6\uFF0C\u5F00\u53D1\u8005\u53EF\u4EE5\u7075\u6D3B\u5730\u63A7\u5236 SQL \u67E5\u8BE2\u8BED\u53E5\u7684\u7F16\u5199\u548C\u6267\u884C\uFF0C\u53EF\u4EE5\u4F18\u5316 SQL \u67E5\u8BE2\u8BED\u53E5\uFF0C\u63D0\u9AD8\u67E5\u8BE2\u6027\u80FD\u3002",paraId:12,tocIndex:3},{value:"\u5168\u81EA\u52A8 ORM \u6846\u67B6\uFF1A\u81EA\u52A8\u751F\u6210\u7684 SQL \u67E5\u8BE2\u8BED\u53E5\u53EF\u80FD\u4E0D\u591F\u7075\u6D3B\uFF0C\u65E0\u6CD5\u6EE1\u8DB3\u590D\u6742\u67E5\u8BE2\u7684\u9700\u6C42\uFF0C\u5F00\u53D1\u8005\u53EF\u80FD\u9700\u8981\u624B\u52A8\u7F16\u5199 SQL \u8BED\u53E5\u8FDB\u884C\u4F18\u5316\u3002",paraId:12,tocIndex:3},{value:"MyBatis \u4E2D\u7684 Mapper \u63A5\u53E3\u662F\u5B9A\u4E49\u4E86\u4E0E\u6570\u636E\u5E93\u4EA4\u4E92\u7684\u65B9\u6CD5\uFF0C\u5B83\u901A\u5E38\u4E0E\u6620\u5C04\u6587\u4EF6\uFF08Mapper XML \u6587\u4EF6\uFF09\u4E00\u8D77\u4F7F\u7528\uFF0C\u7528\u4E8E\u63CF\u8FF0 SQL \u8BED\u53E5\u548C\u53C2\u6570\u6620\u5C04\u5173\u7CFB\u3002",paraId:13,tocIndex:4},{value:"Mapper \u63A5\u53E3\u7684\u5B9E\u73B0\u539F\u7406\u4E3B\u8981\u6D89\u53CA\u5230\u52A8\u6001\u4EE3\u7406\u548C\u53CD\u5C04\u673A\u5236\u3002",paraId:14,tocIndex:4},{value:"\u52A8\u6001\u4EE3\u7406",paraId:15,tocIndex:4},{value:"\uFF1AMyBatis \u4F7F\u7528 ",paraId:15,tocIndex:4},{value:"JDK \u52A8\u6001\u4EE3\u7406\u6280\u672F",paraId:15,tocIndex:4},{value:"\uFF0C\u6839\u636E Mapper \u63A5\u53E3\u7684\u5B9A\u4E49\uFF0C\u5728\u8FD0\u884C\u65F6\u52A8\u6001\u751F\u6210\u4E00\u4E2A\u4EE3\u7406\u5BF9\u8C61\u3002\u8FD9\u4E2A\u4EE3\u7406\u5BF9\u8C61\u5B9E\u73B0\u4E86 Mapper \u63A5\u53E3\u4E2D\u5B9A\u4E49\u7684\u65B9\u6CD5\uFF0C\u5E76\u5C06\u65B9\u6CD5\u8C03\u7528\u8F6C\u53D1\u5230\u76F8\u5E94\u7684 SQL \u8BED\u53E5\u6267\u884C\u5668\uFF08Executor\uFF09\u4E2D\u3002",paraId:15,tocIndex:4},{value:"\u6620\u5C04\u6587\u4EF6\uFF08Mapper XML \u6587\u4EF6\uFF09",paraId:15,tocIndex:4},{value:"\uFF1AMapper \u63A5\u53E3\u901A\u5E38\u4E0E\u6620\u5C04\u6587\u4EF6\u4E00\u8D77\u4F7F\u7528\uFF0C\u6620\u5C04\u6587\u4EF6\u4E2D\u5B9A\u4E49\u4E86 SQL \u8BED\u53E5\u548C\u53C2\u6570\u6620\u5C04\u5173\u7CFB\u3002\u5728 Mapper \u63A5\u53E3\u4E2D\u7684\u65B9\u6CD5\u540D\u79F0\u548C\u6620\u5C04\u6587\u4EF6\u4E2D\u7684 ",paraId:15,tocIndex:4},{value:"<select>",paraId:15,tocIndex:4},{value:"\u3001",paraId:15,tocIndex:4},{value:"<insert>",paraId:15,tocIndex:4},{value:"\u3001",paraId:15,tocIndex:4},{value:"<update>",paraId:15,tocIndex:4},{value:"\u3001",paraId:15,tocIndex:4},{value:"<delete>",paraId:15,tocIndex:4},{value:" \u7B49\u6807\u7B7E\u7684 id \u5C5E\u6027\u76F8\u5BF9\u5E94\uFF0C\u901A\u8FC7\u8FD9\u79CD\u65B9\u5F0F\u5EFA\u7ACB\u4E86\u65B9\u6CD5\u548C SQL \u8BED\u53E5\u7684\u5BF9\u5E94\u5173\u7CFB\u3002",paraId:15,tocIndex:4},{value:"\u65B9\u6CD5\u8C03\u7528",paraId:15,tocIndex:4},{value:"\uFF1A\u5F53\u8C03\u7528 Mapper \u63A5\u53E3\u4E2D\u7684\u65B9\u6CD5\u65F6\uFF0C\u5B9E\u9645\u4E0A\u662F\u8C03\u7528\u4E86\u4EE3\u7406\u5BF9\u8C61\u4E2D\u76F8\u5E94\u7684\u65B9\u6CD5\u3002\u4EE3\u7406\u5BF9\u8C61\u6839\u636E\u65B9\u6CD5\u540D\u79F0\u627E\u5230\u5BF9\u5E94\u7684 SQL \u8BED\u53E5\uFF0C\u5E76\u6839\u636E\u65B9\u6CD5\u53C2\u6570\u52A8\u6001\u751F\u6210 SQL \u8BED\u53E5\uFF0C\u7136\u540E\u8C03\u7528 SQL \u8BED\u53E5\u6267\u884C\u5668\u6267\u884C SQL \u8BED\u53E5\u3002",paraId:15,tocIndex:4},{value:"\u53C2\u6570\u6620\u5C04",paraId:15,tocIndex:4},{value:"\uFF1A\u5728 Mapper \u63A5\u53E3\u7684\u65B9\u6CD5\u53C2\u6570\u4E2D\uFF0C\u53EF\u4EE5\u4F7F\u7528 ",paraId:15,tocIndex:4},{value:"@Param",paraId:15,tocIndex:4},{value:" \u6CE8\u89E3\u6765\u6307\u5B9A\u65B9\u6CD5\u53C2\u6570\u7684\u540D\u79F0\uFF0C\u7136\u540E\u5728\u6620\u5C04\u6587\u4EF6\u4E2D\u4F7F\u7528 ",paraId:15,tocIndex:4},{value:"${paramName}",paraId:15,tocIndex:4},{value:" \u7684\u65B9\u5F0F\u6765\u5F15\u7528\u65B9\u6CD5\u53C2\u6570\u3002MyBatis \u4F1A\u6839\u636E\u53C2\u6570\u6620\u5C04\u5173\u7CFB\u5C06\u65B9\u6CD5\u53C2\u6570\u6620\u5C04\u5230 SQL \u8BED\u53E5\u4E2D\u3002",paraId:15,tocIndex:4},{value:"\u7ED3\u679C\u6620\u5C04",paraId:15,tocIndex:4},{value:"\uFF1A\u5728\u6620\u5C04\u6587\u4EF6\u4E2D\u53EF\u4EE5\u4F7F\u7528 ",paraId:15,tocIndex:4},{value:"<resultMap>",paraId:15,tocIndex:4},{value:" \u6807\u7B7E\u6765\u5B9A\u4E49\u7ED3\u679C\u6620\u5C04\u5173\u7CFB\uFF0C\u5C06\u67E5\u8BE2\u7ED3\u679C\u6620\u5C04\u4E3A Java \u5BF9\u8C61\u3002MyBatis \u4F1A\u6839\u636E\u7ED3\u679C\u6620\u5C04\u5173\u7CFB\u5C06\u67E5\u8BE2\u7ED3\u679C\u8F6C\u6362\u4E3A Java \u5BF9\u8C61\uFF0C\u5E76\u8FD4\u56DE\u7ED9\u8C03\u7528\u8005\u3002",paraId:15,tocIndex:4}]},53033:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E1A\u52A1\u573A\u666F\u65B9\u9762\u9762\u8BD5\u9898",paraId:0},{value:"\u662F\u5426\u5B9A\u4E49\u3001\u8BBE\u8BA1\u8FC7\u4E1A\u52A1\u6A21\u578B\uFF1F",paraId:0},{value:"\u7B54\u6848\u89E3\u6790\u601D\u8DEF",paraId:1,tocIndex:1},{value:"\uFF1A\u8FD9\u4E2A\u95EE\u9898\u770B\u4F3C\u201C\u9AD8\u5927\u4E0A\u201D\uFF0C\u4F46\u5176\u5B9E\u975E\u5E38\u7B80\u5355\u3002\u6240\u8C13\u7684\u4E1A\u52A1\u6A21\u578B\u5C31\u662F\u5C06",paraId:1,tocIndex:1},{value:"\u9700\u6C42\u8F6C\u6362\u6210\u7A0B\u5E8F\u4E4B\u540E\uFF0C\u8BBE\u8BA1\u7684\u6570\u636E\u5E93\u548C\u6570\u636E\u8868",paraId:1,tocIndex:1},{value:"\uFF0C\u6240\u4EE5\u5728\u5F00\u53D1\u4E2D\u4F60\u4E00\u5B9A\u5B9A\u4E49\u8FC7\u6216\u8BBE\u8BA1\u8FC7\u4E1A\u52A1\u6A21\u578B\u3002",paraId:1,tocIndex:1},{value:"\u7406\u89E3\u9700\u6C42->\u5206\u6790\u9700\u6C42->\u5EFA\u7ACB\u5173\u7CFB\u548C\u4F9D\u8D56->\u8BBE\u8BA1\u4E1A\u52A1\u903B\u8F91->\u6301\u4E45\u5316\u6570\u636E\u6A21\u578B",paraId:2,tocIndex:1},{value:"\u5728\u8BBE\u8BA1\u6570\u636E\u5E93\u7684\u6574\u4E2A\u8FC7\u7A0B\u4E2D\uFF0C\u8981\u9075\u5FAA\u6570\u636E\u5E93\u7684\u201C\u4E09\u8303\u5F0F\u201D\u3002",paraId:3,tocIndex:1},{value:"2.\u5982\u4F55\u9632\u6B62\u91CD\u590D\u63D0\u4EA4\u8BA2\u5355\uFF1F(\u5982\u4F55\u4FDD\u8BC1\u5E42\u7B49\u6027)",paraId:0},{value:"\u91CD\u590D\u63D0\u4EA4\u539F\u56E0",paraId:4,tocIndex:2},{value:"\u4E00\u79CD\u662F\u7531\u4E8E\u7528\u6237\u5728\u77ED\u65F6\u95F4\u5185\u591A\u6B21\u70B9\u51FB\u4E0B\u5355\u6309\u94AE\uFF0C\u6216\u6D4F\u89C8\u5668\u5237\u65B0\u6309\u94AE\u5BFC\u81F4\u3002",paraId:5,tocIndex:2},{value:"\u53E6\u4E00\u79CD\u5219\u662F\u7531\u4E8ENginx\u6216\u7C7B\u4F3C\u4E8ESpringCloud Gateway\u7684\u7F51\u5173\u5C42\uFF0C\u8FDB\u884C\u8D85\u65F6\u91CD\u8BD5\u9020\u6210\u7684\u3002",paraId:5,tocIndex:2},{value:"\u65B9\u6848\u4E00\uFF1A\u63D0\u4EA4\u8BA2\u5355\u6309\u94AE\u7F6E\u7070",paraId:6,tocIndex:2},{value:"\u8FD9\u79CD\u89E3\u51B3\u65B9\u6848\u5728\u6CE8\u518C\u767B\u5F55\u7684\u573A\u666F\u4E0B\u6BD4\u8F83\u5E38\u89C1\uFF0C\u5F53\u6211\u4EEC\u70B9\u51FB\u201D\u53D1\u9001\u9A8C\u8BC1\u7801\u201C\u6309\u94AE\u7684\u65F6\u5019\uFF0C\u4F1A\u8FDB\u884C\u624B\u673A\u77ED\u4FE1\u9A8C\u8BC1\u7801\u53D1\u9001\uFF0C\u4E14\u6309\u94AE\u5C31\u4F1A\u6709\u4E00\u5206\u949F\u5DE6\u53F3\u7684\u7F6E\u7070\u3002",paraId:7,tocIndex:2},{value:"\u4F46\u8FD9\u79CD\u65B9\u6848\u53EA\u80FD\u89E3\u51B3\u591A\u6B21\u70B9\u51FB\u4E0B\u5355\u6309\u94AE\u7684\u95EE\u9898\uFF0C\u5BF9\u4E8ENginx\u6216\u7C7B\u4F3C\u4E8ESpringCloud Gateway\u7684\u8D85\u65F6\u91CD\u8BD5\u6240\u5BFC\u81F4\u7684\u95EE\u9898\u662F\u65E0\u80FD\u4E3A\u529B\u7684\u3002",paraId:8,tocIndex:2},{value:"\u5F53\u7136\uFF0C\u8FD9\u79CD\u65B9\u6848\u4E5F\u4E0D\u662F\u771F\u7684\u6CA1\u6709\u4EF7\u503C\u3002\u5B83\u53EF\u4EE5\u5728\u9AD8\u5E76\u53D1\u573A\u666F\u4E0B\uFF0C\u4ECE\u6D4F\u89C8\u5668\u7AEF\u53BB\u62E6\u4F4F\u4E00\u90E8\u5206\u8BF7\u6C42\uFF0C\u51CF\u5C11\u540E\u7AEF\u670D\u52A1\u5668\u7684\u5904\u7406\u538B\u529B\u3002",paraId:9,tocIndex:2},{value:"\u65B9\u6848\u4E8C\uFF1A\u9884\u751F\u6210\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7",paraId:10,tocIndex:2},{value:"\uFF081\uFF09\u540E\u7AEF\u65B0\u589E\u4E00\u4E2A\u63A5\u53E3\uFF0C\u7528\u4E8E\u9884\u751F\u6210\u4E00\u4E2A\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D",paraId:11,tocIndex:2},{value:"\u8BE5\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D\u4E0D\u80FD\u4EE3\u66FF\u6570\u636E\u5E93\u4E3B\u952E\uFF0C\u5728\u672A\u5206\u5E93\u5206\u8868\u573A\u666F\u4E0B\uFF0C\u4E3B\u952E\u8FD8\u662F\u7528\u6570\u636E\u5E93\u81EA\u589EID\u6BD4\u8F83\u597D\u3002",paraId:12,tocIndex:2},{value:"\uFF082\uFF09\u8FDB\u5165\u521B\u5EFA\u8BA2\u5355\u9875\u9762\u65F6\uFF0C\u524D\u7AEF\u8BF7\u6C42\u8BE5\u63A5\u53E3\uFF0C",paraId:13,tocIndex:2},{value:"\u83B7\u53D6\u8BE5\u8BA2\u5355\u53F7",paraId:13,tocIndex:2},{value:"\u3002",paraId:13,tocIndex:2},{value:"\uFF083\uFF09\u5728\u63D0\u4EA4\u8BA2\u5355\u65F6\uFF0C\u8BF7\u6C42\u53C2\u6570\u91CC\u8981\u5E26\u4E0A\u8FD9\u4E2A\u9884\u751F\u6210\u7684\u201C\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7\u201D\uFF0C\u5229\u7528\u6570\u636E\u5E93\u7684\u552F\u4E00\u7D22\u5F15\u7279\u6027\uFF0C\u5728\u63D2\u5165\u8BA2\u5355\u8BB0\u5F55\u65F6\uFF0C\u5982\u679C\u8BE5\u201C\u5168\u5C40\u552F\u4E00\u7684\u8BA2\u5355\u53F7\u201D\u91CD\u590D\uFF0C\u8BB0\u5F55\u4F1A\u63D2\u5165\u5931\u8D25\u3002",paraId:14,tocIndex:2},{value:"\u65B9\u6848\u4E09\uFF1A\u524D\u7AEF\u81EA\u5DF1\u751F\u6210\u5168\u5C40\u552F\u4E00\u8BA2\u5355\u53F7",paraId:15,tocIndex:2},{value:" \u7B80\u5316\u4E86\u4E00\u5B9A\u7684\u903B\u8F91\u4E0D\u7528\u8BF7\u6C42\u63A5\u53E3\u4E86",paraId:15,tocIndex:2},{value:"\u65B9\u6848\u56DB\uFF1A\u4ECE\u8BA2\u5355\u4E1A\u52A1\u7684\u672C\u8D28\u5165\u624B",paraId:16,tocIndex:2},{value:"\u5982\u4F55\u9632\u6B62\u91CD\u590D\u63D0\u4EA4\u8BA2\u5355",paraId:17,tocIndex:2},{value:"\uFF0C\u5176\u5B9E\u5C31\u662F",paraId:17,tocIndex:2},{value:"\u9632\u6B62\u5728\u77ED\u65F6\u95F4\u5185\uFF0C\u7528\u6237\u548C\u5546\u54C1\u8FDB\u884C\u591A\u6B21\u8FDE\u63A5",paraId:17,tocIndex:2},{value:"\u3002",paraId:17,tocIndex:2},{value:"\u53EF\u4EE5\u7528 ",paraId:18,tocIndex:2},{value:"\u7528\u6237ID + \u5206\u9694\u7B26 + \u5546\u54C1ID",paraId:18,tocIndex:2},{value:" \u4F5C\u4E3A\u552F\u4E00\u6807\u8BC6\uFF0C\u8BA9\u6301\u6709\u76F8\u540C\u6807\u8BC6\u7684\u8BF7\u6C42\u5728\u77ED\u65F6\u95F4\u5185\u4E0D\u80FD\u91CD\u590D\u4E0B\u5355\uFF0C\u4E0D\u5C31\u53EF\u4EE5\u4E86\u5417\uFF1F\u800C\u4E14\uFF0CRedis\u4E0D\u6B63\u662F\u505A\u8FD9\u79CD\u89E3\u51B3\u65B9\u6848\u7684\u5229\u5668\u5417\uFF1F",paraId:18,tocIndex:2},{value:"\u628A",paraId:19,tocIndex:2},{value:"\u7528\u6237ID + \u5206\u9694\u7B26 + \u5546\u54C1ID",paraId:19,tocIndex:2},{value:"\u4F5C\u4E3ARedis key\uFF0C\u5E76\u628A\u201D\u77ED\u65F6\u95F4\u6240\u5BF9\u5E94\u7684\u79D2\u6570\u201C\u8BBE\u7F6E\u4E3Aseconds\uFF0C\u8BA9\u5B83\u8FC7\u671F\u81EA\u52A8\u5220\u9664\u3002",paraId:19,tocIndex:2},{value:"3.\u9AD8\u5E76\u53D1\u5982\u4F55\u8BBE\u8BA1\u4E00\u4E2A\u79D2\u6740\u7CFB\u7EDF",paraId:0},{value:"\u6D41\u91CF\u4F1A\u5728\u67D0\u4E2A\u70B9\u6FC0\u51F8\uFF0C\u5BF9\u6B64\u8981\u8BBE\u8BA1\u4E00\u4E2A\u5168\u65B0\u7684\u7CFB\u7EDF\u6765\u5E94\u5BF9\u8FD9\u79CD\u573A\u666F",paraId:20,tocIndex:3},{value:"\u9875\u9762\u9759\u6001\u5316\uFF1A",paraId:21,tocIndex:3},{value:"\u6D3B\u52A8\u9875\u9762\u662F\u7528\u6237\u6D41\u91CF\u7684\u7B2C\u4E00\u5165\u53E3\uFF0C\u6240\u4EE5\u5E76\u53D1\u91CF\u6700\u5927\u3002\u5982\u679C\u8FD9\u4E9B\u6D41\u91CF\u90FD\u80FD\u76F4\u63A5\u8BBF\u95EE\u670D\u52A1\u7AEF\uFF0C\u670D\u52A1\u7AEF\u6709\u5F88\u5927\u53EF\u80FD\u4F1A\u6302\u6389\u800C\u6D3B\u52A8\u4E2D\u5927\u90E8\u5206\u5185\u5BB9\u5F88\u6709\u53EF\u80FD\u90FD\u662F\u56FA\u5B9A\u7684\uFF0C\uFF08\u5546\u54C1\u540D\u79F0\uFF0C\u63CF\u8FF0\u7B49\uFF09\uFF0C\u901A\u5E38\u60C5\u51B5\u4E0B\u4F1A\u5BF9\u9875\u9762\u505A\u9759\u6001\u5316\u5904\u7406\u3002\u53EA\u6709\u5230\u79D2\u6740\u65F6\u95F4\u70B9\u4E14\u7528\u6237\u70B9\u4E86\u79D2\u6740\u6309\u94AE\u624D\u4F1A\u6B63\u5F0F\u8BF7\u6C42\u670D\u52A1\u7AEF\uFF0C\u8FD9\u6837\u80FD\u8FC7\u6EE4\u5927\u90E8\u5206\u8BF7\u6C42",paraId:22,tocIndex:3},{value:"CDN\u52A0\u901F",paraId:23,tocIndex:3},{value:"\u6BCF\u4E2A\u533A\u57DF\u8BF7\u6C42\u670D\u52A1\u7AEF\u65F6\u95F4\u5404\u4E0D\u76F8\u540C\uFF0C\u5730\u57DF\u76F8\u5DEE\u8FDC\u7F51\u901F\u5404\u4E0D\u76F8\u540C\u3002\u4E3A\u6B64\u9700\u8981\u4F7F\u7528cdn",paraId:24,tocIndex:3},{value:"\u5185\u5BB9\u5206\u53D1\u7F51\u7EDC",paraId:24,tocIndex:3},{value:"\uFF0C\u4F7F\u7528\u6237\u5C31\u8FD1\u83B7\u53D6\u5185\u5BB9\uFF0C\u964D\u4F4E\u7F51\u7EDC\u62E5\u585E\uFF0C\u63D0\u9AD8\u8BBF\u95EE\u54CD\u5E94\u901F\u7387\u548C\u547D\u4E2D\u7387",paraId:24,tocIndex:3},{value:"\u79D2\u6740\u6309\u94AE\uFF1A",paraId:25,tocIndex:3},{value:"\u5982\u4F55\u5728\u9759\u6001\u9875\u9762\u4E2D\u4FDD\u8BC1\u79D2\u6740\u6309\u94AE\u662F\u7B2C\u4E00\u65F6\u95F4\u70B9\u4EAE\u7684\u5462\uFF1F",paraId:26,tocIndex:3},{value:"\u4F7F\u7528js\u6587\u4EF6\u63A7\u5236\u3002\u4E00\u822C\u5C06js\uFF0Ccss\u548C\u9759\u6001\u8D44\u6E90\u653E\u5728cdn\u4E0A\u3002\u79D2\u6740\u5F00\u59CB\u4E4B\u524D\uFF0Cjs\u6807\u5FD7\u4E3Afalse\uFF0C\u5F53\u79D2\u6740\u5F00\u59CB\u65F6\u7CFB\u7EDF\u751F\u6210\u4E00\u4E2A\u65B0\u7684js\u6587\u4EF6\uFF0C\u6B64\u65F6\u6807\u5FD7\u4E3Atrue",paraId:27,tocIndex:3},{value:"\u524D\u7AEF\u8FD8\u53EF\u4EE5\u52A0\u4E00\u4E2A\u5B9A\u65F6\u5668\uFF0C\u63A7\u523610s\u4E4B\u5185\u53EA\u5141\u8BB8\u53D1\u8D77\u4E00\u6B21\u8BF7\u6C42\uFF0C\u5982\u679C\u70B9\u51FB\u4E00\u6B21\u521910s\u5185\u7F6E\u7070",paraId:28,tocIndex:3},{value:"\u7F13\u5B58\uFF1A",paraId:29,tocIndex:3},{value:"\u7F13\u5B58\u4E09\u5927\u95EE\u9898\uFF1A",paraId:30,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u51FB\u7A7F\uFF1A\u5927\u91CF\u8BF7\u6C42\u53BB\u8BF7\u6C42\u6570\u636E\u5E93\u7136\u540E\u5C06\u6570\u636E\u653E\u5165\u7F13\u5B58\uFF0C\u4E3A\u6B64\u53EF\u4EE5\u8FDB\u884C\u7F13\u5B58\u9884\u70ED\u548C\u6DFB\u52A0\u5206\u5E03\u5F0F\u9501",paraId:31,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u7A7F\u900F\uFF1A\u5546\u54C1id\u5728\u6570\u636E\u5E93\u4E0D\u5B58\u5728\uFF0C\u5982\u679C\u662F\u66F4\u65B0\u5F88\u5C11\u7684\u573A\u666F\u53EF\u4EE5\u4F7F\u7528\u5E03\u9686\u8FC7\u6EE4\u5668\uFF0C\u4F46\u5982\u679C\u7F13\u5B58\u66F4\u65B0\u9891\u7E41\uFF0C\u5219\u9700\u8981\u5C06\u4E0D\u5B58\u5728\u7684\u5546\u54C1id\u4E5F\u7F13\u5B58\u8D77\u6765",paraId:32,tocIndex:3},{value:"\u8FD9\u79CD\u7279\u6B8A\u5546\u54C1\u7684\u8D85\u65F6\u65F6\u95F4\u8981\u77ED",paraId:32,tocIndex:3},{value:"\u200B	\u7F13\u5B58\u96EA\u5D29\uFF1A",paraId:33,tocIndex:3},{value:"\u5E93\u5B58\u95EE\u9898\uFF1A\u5206\u5E03\u5F0F\u9501",paraId:34,tocIndex:3},{value:"\u5728\u7528\u6237\u4E0B\u5355\u540E\u8FDB\u884C\u5E93\u5B58\u7684\u9884\u6263\u51CF\uFF0C\u5982\u679C\u8D85\u65F6\u672A\u652F\u4ED8\u5C31\u52A0\u56DE\u53BB",paraId:35,tocIndex:3},{value:"\u4F46\u5728\u5E76\u53D1\u573A\u666F\u4E0B\u4F1A\u6709\u539F\u5B50\u6027\u95EE\u9898\u800C\u5BFC\u81F4\u8D85\u5356",paraId:36,tocIndex:3},{value:"\u4F7F\u7528redisson\u5206\u5E03\u5F0F\u9501",paraId:37,tocIndex:3},{value:"mq\u5F02\u6B65\u5904\u7406",paraId:38,tocIndex:3},{value:"\u628A\u4E0B\u5355\u548C\u652F\u4ED8\u529F\u80FD\u4ECE\u79D2\u6740\u4E2D\u62BD\u51FA\u6765\uFF0C\u7531\u79D2\u6740\u7AEF\u53D1\u9001\u6D88\u606F\uFF0C\u4E0B\u5355\u670D\u52A1\u6D88\u8D39\u6D88\u606F",paraId:39,tocIndex:3},{value:"\u6B64\u65F6\u53C8\u8981\u6CE8\u610F",paraId:40,tocIndex:3},{value:"\u6D88\u606F\u4E22\u5931\uFF1A",paraId:41,tocIndex:3},{value:"\u91CD\u590D\u6D88\u8D39\uFF1A",paraId:42,tocIndex:3},{value:"\u9650\u6D41\uFF1A",paraId:43,tocIndex:3},{value:"\u8BC6\u522B\u975E\u6CD5\u8BF7\u6C42\uFF1A1.\u5BF9\u67D0\u4E2A\u7528\u6237/IP\u9650\u6D41",paraId:44,tocIndex:3},{value:"2.\u5BF9\u8BF7\u6C42\u63A5\u53E3\u603B\u6B21\u6570\u8FDB\u884C\u9650\u5236",paraId:45,tocIndex:3},{value:"3.\u9A8C\u8BC1\u7801 \u6570\u5B57/\u79FB\u52A8\u6ED1\u5757",paraId:46,tocIndex:3},{value:"snowflake",paraId:47,tocIndex:4},{value:"\uFF08\u96EA\u82B1\u7B97\u6CD5\uFF09\uFF1ATwitter \u5F00\u6E90\u7684\u5206\u5E03\u5F0F id \u751F\u6210\u7B97\u6CD5\uFF0C64 \u4F4D\u7684 long \u578B\u7684 id\uFF0C\u5206\u4E3A 4 \u90E8\u5206\uFF1A",paraId:47,tocIndex:4},{value:"1 bit\uFF1A\u4E0D\u7528\uFF0C\u7EDF\u4E00\u4E3A 0",paraId:48,tocIndex:4},{value:"41 bits\uFF1A",paraId:48,tocIndex:4},{value:"\u6BEB\u79D2\u65F6\u95F4\u6233",paraId:48,tocIndex:4},{value:"\uFF0C\u53EF\u4EE5\u8868\u793A 69 \u5E74\u7684\u65F6\u95F4\u3002",paraId:48,tocIndex:4},{value:"10 bits\uFF1A5 bits \u4EE3\u8868\u673A\u623F id\uFF0C5 \u4E2A bits \u4EE3\u8868\u673A\u5668 id\u3002\u6700\u591A\u4EE3\u8868 32 \u4E2A\u673A\u623F\uFF0C\u6BCF\u4E2A\u673A\u623F\u6700\u591A\u4EE3\u8868 32 \u53F0\u673A\u5668\u3002",paraId:48,tocIndex:4},{value:"12 bits\uFF1A\u540C\u4E00\u6BEB\u79D2\u5185\u7684 id\uFF0C\u6700\u591A 4096 \u4E2A\u4E0D\u540C id\uFF0C\u81EA\u589E\u6A21\u5F0F",paraId:48,tocIndex:4},{value:"\u4F18\u70B9\uFF1A",paraId:49,tocIndex:4},{value:"\u6BEB\u79D2\u6570\u5728\u9AD8\u4F4D\uFF0C\u81EA\u589E\u5E8F\u5217\u5728\u4F4E\u4F4D\uFF0C\u6574\u4E2AID\u90FD\u662F\u8D8B\u52BF\u9012\u589E\u7684\u3002",paraId:50,tocIndex:4},{value:"\u4E0D\u4F9D\u8D56\u6570\u636E\u5E93\u7B49\u7B2C\u4E09\u65B9\u7CFB\u7EDF\uFF0C\u4EE5\u670D\u52A1\u7684\u65B9\u5F0F\u90E8\u7F72\uFF0C\u7A33\u5B9A\u6027\u66F4\u9AD8\uFF0C\u751F\u6210ID\u7684\u6027\u80FD\u4E5F\u662F\u975E\u5E38\u9AD8\u7684\u3002",paraId:50,tocIndex:4},{value:"\u53EF\u4EE5\u6839\u636E\u81EA\u8EAB\u4E1A\u52A1\u7279\u6027\u5206\u914Dbit\u4F4D\uFF0C\u975E\u5E38\u7075\u6D3B\u3002",paraId:50,tocIndex:4},{value:"\u7F3A\u70B9\uFF1A\u5F3A\u4F9D\u8D56\u673A\u5668\u65F6\u949F\uFF0C\u5982\u679C\u673A\u5668\u4E0A\u65F6\u949F\u56DE\u62E8\uFF08\u53EF\u4EE5\u641C\u7D22 ",paraId:51,tocIndex:4},{value:"2017 \u5E74\u95F0\u79D2 7:59:60",paraId:51,tocIndex:4},{value:"\uFF09\uFF0C\u4F1A\u5BFC\u81F4\u53D1\u53F7\u91CD\u590D\u6216\u8005\u670D\u52A1\u4F1A\u5904\u4E8E\u4E0D\u53EF\u7528\u72B6\u6001",paraId:51,tocIndex:4},{value:"\u670D\u52A1\u5668\u4E0A\u7684\u65F6\u949F\u4E0D\u540C\u6B65\u540E\uFF0C\u53C8\u81EA\u52A8\u8FDB\u884C\u540C\u6B65\u4E86\uFF0C\u524D\u540E\u65F6\u95F4\u4E0D\u4E00\u81F4",paraId:52,tocIndex:4},{value:"\u65F6\u949F\u56DE\u62E8",paraId:53,tocIndex:4},{value:"\uFF1A",paraId:53,tocIndex:4},{value:"\u670D\u52A1\u5668\u65F6\u949F\u53EF\u80FD\u4F1A\u56E0\u4E3A\u5404\u79CD\u539F\u56E0\u53D1\u751F\u4E0D\u51C6\uFF0C\u800C\u7F51\u7EDC\u4E2D\u4F1A\u63D0\u4F9B NTP \u670D\u52A1\u6765\u505A\u65F6\u95F4\u6821\u51C6\uFF0C\u56E0\u6B64\u5728\u505A\u6821\u51C6\u7684\u65F6\u5019\uFF0C\u670D\u52A1\u5668\u65F6\u949F\u5C31\u4F1A\u53D1\u751F\u65F6\u949F\u7684\u8DF3\u8DC3\u6216\u8005\u56DE\u62E8\u95EE\u9898\u3002",paraId:53,tocIndex:4},{value:"\u65B9\u6CD5\u4E00\uFF1A\u65F6\u949F\u540C\u6B65",paraId:54,tocIndex:4},{value:"\u670D\u52A1\u5668\u4E0A\u90FD\u5B89\u88C5\u4E86 ",paraId:55,tocIndex:4},{value:"ntpdate",paraId:55,tocIndex:4},{value:" \u8F6F\u4EF6\uFF0C\u4F5C\u4E3A NTP \u5BA2\u6237\u7AEF\uFF0C\u4F1A\u6BCF\u9694 ",paraId:55,tocIndex:4},{value:"10 \u5206\u949F",paraId:55,tocIndex:4},{value:"\u5411 ",paraId:55,tocIndex:4},{value:"NTP \u65F6\u95F4\u670D\u52A1\u5668",paraId:55,tocIndex:4},{value:"\u540C\u6B65\u4E00\u6B21\u65F6\u95F4",paraId:55,tocIndex:4},{value:"\uFF081\uFF09\u65B9\u5F0F\u4E00\uFF1A\u4F7F\u7528\u7F8E\u56E2 ",paraId:56,tocIndex:4},{value:"Leaf",paraId:56,tocIndex:4},{value:"\u65B9\u6848\uFF0C\u57FA\u4E8E\u96EA\u82B1\u7B97\u6CD5\u3002",paraId:56,tocIndex:4},{value:"\uFF082\uFF09",paraId:57,tocIndex:4},{value:"\u65B9\u5F0F\u4E8C\uFF1A\u4F7F\u7528\u767E\u5EA6 UidGenerator\uFF0C\u57FA\u4E8E\u96EA\u82B1\u7B97\u6CD5",paraId:57,tocIndex:4},{value:"\uFF083\uFF09\u65B9\u5F0F\u4E09\uFF1A\u7528 Redis \u751F\u6210\u81EA\u589E\u7684\u5206\u5E03\u5F0F ID\u3002\u5F0A\u7AEF\u662F ID \u5BB9\u6613\u88AB\u731C\u5230\uFF0C\u6709\u5B89\u5168\u98CE\u9669\u3002",paraId:58,tocIndex:4}]},23267:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E3A\u4EC0\u4E48\u8981\u7528 Redis\uFF1F\u6709\u9884\u4F30 QPS \u7684\u63D0\u5347\u5E45\u5EA6\u5417\uFF1F",paraId:0},{value:"\u4E3A\u4EC0\u4E48\u7528 Redis\uFF1F\u56DE\u7B54 Redis \u7684\u4F18\u52BF\u5373\u53EF\u3002 QPS\uFF08Queries Per Second\uFF0C\u6BCF\u79D2\u949F\u67E5\u8BE2\u6B21\u6570\uFF09\u7684\u95EE\u9898\u53EF\u4EE5\u4F7F\u7528 Redis \u6027\u80FD\u6D4B\u8BD5\u62A5\u544A\u4E2D\u7684\u6570\u636E\u5373\u53EF\u3002 Redis \u4F18\u52BF\u6709\u4EE5\u4E0B\u51E0\u4E2A\uFF1A",paraId:1,tocIndex:1},{value:"\u57FA\u4E8E\u5185\u5B58",paraId:2,tocIndex:1},{value:"\uFF1ARedis \u662F\u4E00\u79CD\u57FA\u4E8E\u5185\u5B58\u7684\u6570\u636E\u5B58\u50A8\u7CFB\u7EDF\uFF0C\u6240\u6709\u7684\u6570\u636E\u90FD\u5B58\u50A8\u5728\u5185\u5B58\u4E2D\u3002\u76F8\u6BD4\u4F20\u7EDF\u7684\u78C1\u76D8\u5B58\u50A8\u7CFB\u7EDF\uFF0C\u5185\u5B58\u8BBF\u95EE\u901F\u5EA6\u66F4\u5FEB",paraId:2,tocIndex:1},{value:"\u5355\u7EBF\u7A0B\u6A21\u578B",paraId:3,tocIndex:1},{value:"\uFF1ARedis \u4F7F\u7528\u5355\u7EBF\u7A0B\u6A21\u578B\u6765\u5904\u7406\u5BA2\u6237\u7AEF\u8BF7\u6C42\u3002\u907F\u514D\u591A\u7EBF\u7A0B\u7684\u7ADE\u4E89\u6761\u4EF6\u548C\u9501\u5F00\u9500\u3002",paraId:3,tocIndex:1},{value:"\u9AD8\u6548\u6570\u636E\u7ED3\u6784",paraId:4,tocIndex:1},{value:"\uFF1ARedis \u63D0\u4F9B\u4E86\u591A\u79CD\u9AD8\u6548\u7684\u6570\u636E\u7ED3\u6784\uFF0C\u5982\u54C8\u5E0C\u8868\u3001\u6709\u5E8F\u96C6\u5408\u7B49\u3002\u8FD9\u4E9B\u6570\u636E\u7ED3\u6784\u7684\u5B9E\u73B0\u90FD\u7ECF\u8FC7\u4E86\u4F18\u5316",paraId:4,tocIndex:1},{value:"\u975E\u963B\u585E I/O",paraId:5,tocIndex:1},{value:"\uFF1ARedis \u4F7F\u7528\u4E86\u975E\u963B\u585E I/O \u6A21\u578B\uFF0CRedis \u4E0D\u4F1A\u7B49\u5F85\u6570\u636E\u7684\u8FD4\u56DE\uFF0C\u800C\u662F\u7EE7\u7EED\u5904\u7406\u5176\u4ED6\u8BF7\u6C42\u3002\u53EF\u4EE5\u5145\u5206\u5229\u7528 CPU \u7684\u65F6\u95F4\uFF0C\u63D0\u9AD8\u6574\u4F53\u7684\u541E\u5410\u91CF\u3002",paraId:5,tocIndex:1},{value:"\u6709\u9884\u4F30 QPS \u7684\u63D0\u5347\u5E45\u5EA6\u5417\uFF1F\uFF1Abenchmark",paraId:6,tocIndex:1},{value:"\u5728 Redis \u5B89\u88C5\u5B8C\u6BD5\u540E\u4F1A\u81EA\u52A8\u5B89\u88C5\u4E00\u4E2A redis-benchmark \u6D4B\u8BD5\u5DE5\u5177\uFF0C\u5176\u662F\u4E00\u4E2A\u538B\u529B\u6D4B\u8BD5\u5DE5\u5177\uFF0C\u7528\u4E8E\u6D4B\u8BD5 Redis \u7684\u6027\u80FD\u3002",paraId:7,tocIndex:1},{value:"redis-benchmark \u5E38\u7528\u547D\u4EE4\u9009\u9879\u8BF4\u660E",paraId:8,tocIndex:1},{value:` -c <clients>       \u6307\u5B9A\u672C\u6B21\u6D4B\u8BD5\u6BCF\u4E2A\u6307\u4EE4\u7684\u5E76\u884C\u8FDE\u63A5 Redis server \u7684\u5BA2\u6237\u7AEF\u6570\u91CF (default 50)
  -n <requests>      \u6307\u5B9A\u672C\u6B21\u6D4B\u8BD5\u6BCF\u4E2A\u6307\u4EE4\u7684\u8BF7\u6C42\u603B\u6570 (default 100000)
  -d <size>          \u672C\u6B21\u6D4B\u8BD5 set/get \u6570\u636E\u5927\u5C0F\uFF0C\u5355\u4F4D\u5B57\u8282 (default 3)
  -q                 \u672C\u6B21\u6D4B\u8BD5\u7684\u62A5\u544A\uFF0C\u7B80\u8981\u8F93\u51FA
@@ -2866,7 +2871,604 @@ public class ProxyMessage {
        return buildErrMessage(exceptionEnum, null);
     }
 }
-`,paraId:15,tocIndex:9}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
+`,paraId:15,tocIndex:9}]},11850:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u542F\u52A8\u7C7B",paraId:0,tocIndex:1},{value:`@NeutrinoApplication
+public class ProxyClient {
+
+    public static void main(String[] args) {
+       NeutrinoLauncher.run(ProxyClient.class, args);
+    }
+}
+`,paraId:1,tocIndex:1},{value:"\u914D\u7F6E\u4EE3\u7406\u7684\u7C7B\uFF0C\u4ECEyaml\u914D\u7F6E\u6587\u4EF6\u4E2D\u83B7\u53D6\u5BF9\u5E94\u5C5E\u6027",paraId:2,tocIndex:2},{value:`@Data
+@Configuration(prefix = "proxy")
+public class ProxyConfig {
+    public static ProxyConfig instance;
+    //\u4EE3\u7406\u7684\u534F\u8BAE\u914D\u7F6E\u4FE1\u606F
+    private Protocol protocol;
+    //\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684\u914D\u7F6E\u4FE1\u606F
+    private Client client;
+    //\u4EE3\u7406\u5BA2\u6237\u7AEF\u914D\u7F6E
+    private ProxyClientConfig clientConfig;
+
+    @Data
+    public static class Protocol {
+       @Value("max-frame-length")
+       private Integer maxFrameLength;
+       @Value("length-field-offset")
+       private Integer lengthFieldOffset;
+       @Value("length-field-length")
+       private Integer lengthFieldLength;
+       @Value("initial-bytes-to-strip")
+       private Integer initialBytesToStrip;
+       @Value("length-adjustment")
+       private Integer lengthAdjustment;
+       @Value("read-idle-time")
+       private Integer readIdleTime;
+       @Value("write-idle-time")
+       private Integer writeIdleTime;
+       @Value("all-idle-time-seconds")
+       private Integer allIdleTimeSeconds;
+    }
+
+    @Data
+    public static class Client {
+       @Value("key-store-password")
+       private String keyStorePassword;
+       @Value("jks-path")
+       private String jksPath;
+       @Value("server-ip")
+       private String serverIp;
+       @Value("server-port")
+       private Integer serverPort;
+       @Value("ssl-enable")
+       private Boolean sslEnable;
+    }
+
+    @Init
+    public void init() {
+       instance = this;
+    }
+}
+`,paraId:3,tocIndex:2},{value:"\u7BA1\u7406\u5BA2\u6237\u7AEF\u4E0E\u4EE3\u7406\u670D\u52A1\u5668\u4E4B\u95F4\u7684 Channel",paraId:4,tocIndex:3},{value:"\u5148\u89E3\u91CA\u4E0B",paraId:5,tocIndex:3},{value:"AttributeKey",paraId:5,tocIndex:3},{value:"AttributeKey",paraId:6,tocIndex:3},{value:" \u662F Netty \u4E2D\u7684\u4E00\u4E2A\u7C7B\uFF0C\u7528\u4E8E\u5728 ",paraId:6,tocIndex:3},{value:"AttributeMap",paraId:6,tocIndex:3},{value:" \u4E2D\u5B58\u50A8\u548C\u68C0\u7D22\u5C5E\u6027\u7684\u952E\u3002\u5728 Netty \u4E2D\uFF0C",paraId:6,tocIndex:3},{value:"ChannelHandlerContext",paraId:6,tocIndex:3},{value:"\u3001",paraId:6,tocIndex:3},{value:"Channel",paraId:6,tocIndex:3},{value:" \u7B49\u5BF9\u8C61\u90FD\u5B9E\u73B0\u4E86 ",paraId:6,tocIndex:3},{value:"AttributeMap",paraId:6,tocIndex:3},{value:" \u63A5\u53E3\uFF0C\u56E0\u6B64\u53EF\u4EE5\u901A\u8FC7 ",paraId:6,tocIndex:3},{value:"AttributeKey",paraId:6,tocIndex:3},{value:" \u5728\u8FD9\u4E9B\u5BF9\u8C61\u4E0A\u7ED1\u5B9A\u548C\u83B7\u53D6\u5C5E\u6027\u503C\u3002",paraId:6,tocIndex:3},{value:"\u5177\u4F53\u6765\u8BF4\uFF0C",paraId:7,tocIndex:3},{value:"AttributeKey",paraId:7,tocIndex:3},{value:" \u5145\u5F53\u4E86\u5C5E\u6027\u7684\u952E\uFF0C\u901A\u8FC7\u7ED9\u5B9A\u7684\u952E\uFF08\u5373 ",paraId:7,tocIndex:3},{value:"AttributeKey",paraId:7,tocIndex:3},{value:" \u5BF9\u8C61\uFF09\u53EF\u4EE5\u5728 ",paraId:7,tocIndex:3},{value:"AttributeMap",paraId:7,tocIndex:3},{value:" \u4E2D\u5B58\u50A8\u548C\u68C0\u7D22\u5BF9\u5E94\u7684\u5C5E\u6027\u503C\u3002\u6BCF\u4E2A ",paraId:7,tocIndex:3},{value:"AttributeKey",paraId:7,tocIndex:3},{value:" \u5BF9\u8C61\u90FD\u662F\u552F\u4E00\u7684\uFF0C\u56E0\u6B64\u4E0D\u540C\u7684\u5C5E\u6027\u4F7F\u7528\u4E0D\u540C\u7684 ",paraId:7,tocIndex:3},{value:"AttributeKey",paraId:7,tocIndex:3},{value:"\u3002",paraId:7,tocIndex:3},{value:"\u5728\u7ED9\u5B9A\u7684 ",paraId:8,tocIndex:3},{value:"AttributeMap",paraId:8,tocIndex:3},{value:" \u4E2D\uFF0C\u53EF\u4EE5\u901A\u8FC7 ",paraId:8,tocIndex:3},{value:"AttributeKey",paraId:8,tocIndex:3},{value:" \u7ED1\u5B9A\u548C\u83B7\u53D6\u5C5E\u6027\u503C\uFF0C\u4F8B\u5982\uFF1A",paraId:8,tocIndex:3},{value:`AttributeKey<String> key = AttributeKey.valueOf("myKey");
+channel.attr(key).set("myValue");
+String value = channel.attr(key).get();
+`,paraId:9,tocIndex:3},{value:"\u8FD9\u6837\uFF0C\u5C31\u53EF\u4EE5\u5C06\u952E\u503C\u5BF9\uFF08key-value pair\uFF09\u5B58\u50A8\u5728 ",paraId:10,tocIndex:3},{value:"AttributeMap",paraId:10,tocIndex:3},{value:" \u4E2D\uFF0C\u5E76\u5728\u9700\u8981\u65F6\u68C0\u7D22\u51FA\u6765\u3002",paraId:10,tocIndex:3},{value:"\u5728\u4E0A\u9762\u4EE3\u7801\u7247\u6BB5\u4E2D\uFF0C",paraId:11,tocIndex:3},{value:"AttributeKey",paraId:11,tocIndex:3},{value:' \u7684\u4F5C\u7528\u5C31\u662F\u521B\u5EFA\u4E86\u4E00\u4E2A\u540D\u4E3A "myKey" \u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u5728 ',paraId:11,tocIndex:3},{value:"Channel",paraId:11,tocIndex:3},{value:" \u5BF9\u8C61\u7684\u5C5E\u6027\u4E2D\u5B58\u50A8\u548C\u68C0\u7D22\u5B57\u7B26\u4E32\u7C7B\u578B\u7684\u5C5E\u6027\u503C\u3002",paraId:11,tocIndex:3},{value:`public class ClientChannelMannager {
+
+    // \u5B9A\u4E49\u4E24\u4E2A Channel \u5C5E\u6027\u7684 AttributeKey
+    private static final AttributeKey<Boolean> USER_CHANNEL_WRITEABLE = AttributeKey.newInstance("user_channel_writeable");
+    private static final AttributeKey<Boolean> CLIENT_CHANNEL_WRITEABLE = AttributeKey.newInstance("client_channel_writeable");
+
+    // \u6700\u5927\u8FDE\u63A5\u6C60\u5927\u5C0F
+    private static final int MAX_POOL_SIZE = 100;
+	
+    // \u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel \u6620\u5C04\u8868
+    private static Map<String, Channel> realServerChannels = new ConcurrentHashMap<String, Channel>();
+
+    // \u4EE3\u7406 Channel \u8FDE\u63A5\u6C60
+    private static ConcurrentLinkedQueue<Channel> proxyChannelPool = new ConcurrentLinkedQueue<Channel>();
+
+    // \u547D\u4EE4 Channel
+    private static volatile Channel cmdChannel;
+
+    // \u83B7\u53D6\u4EE3\u7406 Channel
+    public static void borrowProxyChanel(Bootstrap bootstrap, final ProxyChannelBorrowListener borrowListener) {
+        // \u4ECE\u8FDE\u63A5\u6C60\u4E2D\u83B7\u53D6\u4EE3\u7406 Channel
+        Channel channel = proxyChannelPool.poll();
+        if (channel != null) {
+            borrowListener.success(channel);
+            return;
+        }
+		// \u5982\u679C\u8FDE\u63A5\u6C60\u4E2D\u6CA1\u6709\u53EF\u7528\u7684\u4EE3\u7406 Channel\uFF0C\u5219\u521B\u5EFA\u65B0\u7684
+        bootstrap.connect(ProxyConfig.instance.getClient().getServerIp(), ProxyConfig.instance.getClient().getServerPort()).addListener(new ChannelFutureListener() {
+
+            @Override
+            public void operationComplete(ChannelFuture future) throws Exception {
+                //\u5224\u65AD\u8FDE\u63A5\u64CD\u4F5C\u662F\u5426\u6210\u529F
+                if (future.isSuccess()) {
+                    //\u5982\u679C\u6210\u529F\uFF0C\u5219\u8C03\u7528 borrowListener.success(future.channel()) \u6765\u901A\u77E5 borrowListener \u8FDE\u63A5\u6210\u529F\uFF0C\u5E76\u4F20\u9012\u8FDE\u63A5\u7684 Channel \u7ED9 borrowListener
+                    borrowListener.success(future.channel());
+                } else {
+                    //\u8FDE\u63A5\u64CD\u4F5C\u5931\u8D25\uFF0C\u5219\u8C03\u7528 borrowListener.error(future.cause()) \u6765\u901A\u77E5 borrowListener \u8FDE\u63A5\u5931\u8D25\uFF0C\u5E76\u4F20\u9012\u8FDE\u63A5\u5931\u8D25\u7684\u539F\u56E0\u7ED9 borrowListener
+                    borrowListener.error(future.cause());
+                }
+            }
+        });
+    }
+
+    // \u5F52\u8FD8\u4EE3\u7406 Channel
+    public static void returnProxyChanel(Channel proxyChanel) {
+        //// \u5982\u679C\u8FDE\u63A5\u6C60\u4E2D\u7684\u4EE3\u7406 Channel \u6570\u91CF\u5DF2\u8FBE\u5230\u6700\u5927\u503C\uFF0C\u5219\u5173\u95ED\u5F53\u524D\u4EE3\u7406 Channel
+        if (proxyChannelPool.size() > MAX_POOL_SIZE) {
+            proxyChanel.close();
+        } else {
+            //AUTO_READ \u9009\u9879\u63A7\u5236\u662F\u5426\u81EA\u52A8\u8BFB\u53D6\u6570\u636E\u3002\u5C06\u5176\u8BBE\u7F6E\u4E3A true \u8868\u793A\u5F53\u524D Channel \u53EF\u4EE5\u81EA\u52A8\u8BFB\u53D6\u6570\u636E
+            proxyChanel.config().setOption(ChannelOption.AUTO_READ, true);
+            //\u79FB\u9664\u4E86\u5F53\u524D\u4EE3\u7406 Channel \u4E2D\u7ED1\u5B9A\u7684\u540D\u4E3A Constants.NEXT_CHANNEL \u7684\u5C5E\u6027
+            proxyChanel.attr(Constants.NEXT_CHANNEL).remove();
+            //\u5C06\u5F53\u524D\u4EE3\u7406 Channel \u6DFB\u52A0\u5230\u8FDE\u63A5\u6C60\u4E2D
+            proxyChannelPool.offer(proxyChanel);
+        }
+    }
+
+     // \u79FB\u9664\u4EE3\u7406 Channel
+    public static void removeProxyChanel(Channel proxyChanel) {
+        proxyChannelPool.remove(proxyChanel);
+    }
+
+    // \u8BBE\u7F6E\u547D\u4EE4 Channel
+    public static void setCmdChannel(Channel cmdChannel) {
+        ClientChannelMannager.cmdChannel = cmdChannel;
+    }
+
+    // \u83B7\u53D6\u547D\u4EE4 Channel
+    public static Channel getCmdChannel() {
+        return cmdChannel;
+    }
+
+    // \u8BBE\u7F6E\u771F\u5B9E\u670D\u52A1\u5668\u7684\u7528\u6237 ID
+    public static void setRealServerChannelUserId(Channel realServerChannel, String userId) {
+        realServerChannel.attr(Constants.USER_ID).set(userId);
+    }
+
+    // \u83B7\u53D6\u771F\u5B9E\u670D\u52A1\u5668\u7684\u7528\u6237 ID
+    public static String getRealServerChannelUserId(Channel realServerChannel) {
+        return realServerChannel.attr(Constants.USER_ID).get();
+    }
+
+    // \u6839\u636E\u7528\u6237 ID \u83B7\u53D6\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel
+    public static Channel getRealServerChannel(String userId) {
+        return realServerChannels.get(userId);
+    }
+
+    // \u6DFB\u52A0\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel
+    public static void addRealServerChannel(String userId, Channel realServerChannel) {
+        realServerChannels.put(userId, realServerChannel);
+    }
+
+    // \u79FB\u9664\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel
+    public static Channel removeRealServerChannel(String userId) {
+        return realServerChannels.remove(userId);
+    }
+
+    // \u5224\u65AD\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel \u662F\u5426\u53EF\u8BFB
+    public static boolean isRealServerReadable(Channel realServerChannel) {
+        return realServerChannel.attr(CLIENT_CHANNEL_WRITEABLE).get() && realServerChannel.attr(USER_CHANNEL_WRITEABLE).get();
+    }
+
+    // \u6E05\u7A7A\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel
+    public static void clearRealServerChannels() {
+        Iterator<Entry<String, Channel>> ite = realServerChannels.entrySet().iterator();
+        while (ite.hasNext()) {
+            Channel realServerChannel = ite.next().getValue();
+            if (realServerChannel.isActive()) {
+                realServerChannel.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE);
+            }
+        }
+        realServerChannels.clear();
+    }
+}
+`,paraId:12,tocIndex:3},{value:"\u63A5\u53E3\uFF1A\u83B7\u53D6\u8FDE\u63A5\u540E\u5BF9\u4E8E\u6210\u529F\u548C\u5931\u8D25\u7684\u5904\u7406",paraId:13,tocIndex:5},{value:"\u5904\u7406\u4E0E\u670D\u52A1\u7AEF\u4E4B\u95F4\u7684\u6570\u636E\u4F20\u8F93",paraId:14,tocIndex:6},{value:`@Slf4j
+public class ClientChannelHandler extends SimpleChannelInboundHandler<ProxyMessage> {
+
+    //\u5B9A\u4E49\u4E00\u4E2A\u9759\u6001\u7684\u6D88\u606F\u8C03\u5EA6\u5668\uFF0C\u6839\u636E\u6D88\u606F\u7C7B\u578B\u5206\u53D1\u5904\u7406\u63A5\u6536\u5230\u7684\u6D88\u606F
+    private static volatile Dispatcher<ChannelHandlerContext, ProxyMessage> dispatcher;
+
+    //\u6784\u9020\u51FD\u6570\uFF0C\u521D\u59CB\u5316\u6D88\u606F\u8C03\u5EA6\u5668
+	public ClientChannelHandler() {
+        LockUtil.doubleCheckProcess(() -> null == dispatcher,
+            ClientChannelHandler.class,
+            () -> {
+                dispatcher = new DefaultDispatcher<>("\u6D88\u606F\u8C03\u5EA6\u5668",
+                    BeanManager.getBeanListBySuperClass(ProxyMessageHandler.class),
+                    proxyMessage -> ProxyDataTypeEnum.of((int)proxyMessage.getType()) == null ? null : ProxyDataTypeEnum.of((int)proxyMessage.getType()).getName());
+            });
+    }
+
+    // \u5904\u7406\u6536\u5230\u7684\u6D88\u606F
+    @Override
+    protected void channelRead0(ChannelHandlerContext ctx, ProxyMessage proxyMessage) throws Exception {
+        log.info("recieved proxy message, type is {}", proxyMessage.getType());
+        // \u4F7F\u7528\u6D88\u606F\u8C03\u5EA6\u5668\u5206\u53D1\u6D88\u606F\u7ED9\u76F8\u5E94\u7684\u5904\u7406\u5668
+        dispatcher.dispatch(ctx, proxyMessage);
+    }
+
+    // \u5904\u7406 Channel \u53EF\u5199\u72B6\u6001\u53D8\u66F4\u4E8B\u4EF6
+    @Override
+    public void channelWritabilityChanged(ChannelHandlerContext ctx) throws Exception {
+        // \u8BBE\u7F6E\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel \u7684\u81EA\u52A8\u8BFB\u53D6\u72B6\u6001\u4E0E\u5BA2\u6237\u7AEF Channel \u7684\u53EF\u5199\u72B6\u6001\u4FDD\u6301\u4E00\u81F4
+        Channel realServerChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+        if (realServerChannel != null) {
+            realServerChannel.config().setOption(ChannelOption.AUTO_READ, ctx.channel().isWritable());
+        }
+        super.channelWritabilityChanged(ctx);
+    }
+
+    // \u5904\u7406 Channel \u8FDE\u63A5\u65AD\u5F00\u4E8B\u4EF6
+    @Override
+    public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+        // \u63A7\u5236\u8FDE\u63A5\u65AD\u5F00\u5904\u7406
+        if (ClientChannelMannager.getCmdChannel() == ctx.channel()) {
+            log.info("\u4E0E\u670D\u52A1\u7AEF\u65AD\u5F00\u8FDE\u63A5");
+            ClientChannelMannager.setCmdChannel(null);
+            ClientChannelMannager.clearRealServerChannels();
+        } else {
+            // \u6570\u636E\u4F20\u8F93\u8FDE\u63A5\u65AD\u5F00\u5904\u7406
+            Channel realServerChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+            if (realServerChannel != null && realServerChannel.isActive()) {
+                realServerChannel.close();
+            }
+        }
+		// \u79FB\u9664\u4EE3\u7406 Channel
+        ClientChannelMannager.removeProxyChanel(ctx.channel());
+        super.channelInactive(ctx);
+    }
+    
+    // \u5904\u7406\u5F02\u5E38\u4E8B\u4EF6
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
+        super.exceptionCaught(ctx, cause);
+        cause.printStackTrace();
+    }
+}
+`,paraId:15,tocIndex:6},{value:`@Slf4j
+@Component
+public class ProxyClientRunner implements ApplicationRunner {
+    //// \u81EA\u52A8\u88C5\u914D\u4EE3\u7406\u914D\u7F6E\u5BF9\u8C61
+    @Autowired
+    private ProxyConfig proxyConfig;
+    
+    // \u81EA\u52A8\u88C5\u914D Netty Bootstrap \u5BF9\u8C61\uFF0C\u7528\u4E8E\u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5668
+    @Autowired("bootstrap")
+    private static Bootstrap bootstrap;
+    
+    // \u81EA\u52A8\u88C5\u914D Netty Bootstrap \u5BF9\u8C61\uFF0C\u7528\u4E8E\u8FDE\u63A5\u771F\u5B9E\u670D\u52A1\u5668
+    @Autowired("realServerBootstrap")
+    private static Bootstrap realServerBootstrap;
+    
+    // Netty \u7684 NioEventLoopGroup \u5BF9\u8C61\uFF0C\u7528\u4E8E\u5904\u7406 I/O \u4E8B\u4EF6\u7684\u591A\u7EBF\u7A0B\u4E8B\u4EF6\u5FAA\u73AF\u5668
+    private static NioEventLoopGroup workerGroup;
+
+    @Override
+    public void run(String[] args) {
+       // \u83B7\u53D6\u5BA2\u6237\u7AEF\u914D\u7F6E\u4FE1\u606F
+       ProxyClientConfig clientConfig = getClientConfig(args.length >= 1 ? args[args.length - 1] : null);
+        // \u8BBE\u7F6E\u4EE3\u7406\u914D\u7F6E\u5BF9\u8C61\u7684\u5BA2\u6237\u7AEF\u914D\u7F6E\u4FE1\u606F
+       proxyConfig.setClientConfig(clientConfig);
+        // \u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5668
+       connectProxyServer();
+    }
+
+    /**
+     * \u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5668
+     */
+    private void connectProxyServer() {
+       // \u521B\u5EFA NioEventLoopGroup \u5BF9\u8C61
+       workerGroup = new NioEventLoopGroup();
+       // \u914D\u7F6E\u771F\u5B9E\u670D\u52A1\u5668\u7684 Bootstrap \u5BF9\u8C61 ,netty\u5E38\u89C4\u914D\u7F6E
+       realServerBootstrap.group(workerGroup); 
+       realServerBootstrap.channel(NioSocketChannel.class);
+       realServerBootstrap.handler(new ChannelInitializer<SocketChannel>() {
+
+           // \u521D\u59CB\u5316 ChannelHandler
+          @Override
+          public void initChannel(SocketChannel ch) throws Exception {
+             ch.pipeline().addLast(new RealServerChannelHandler());
+          }
+       });
+
+        // \u914D\u7F6E\u4EE3\u7406\u670D\u52A1\u5668\u7684 Bootstrap \u5BF9\u8C61
+       bootstrap.group(workerGroup);
+       bootstrap.channel(NioSocketChannel.class);
+       bootstrap.handler(new ChannelInitializer<SocketChannel>() {
+
+          @Override
+          public void initChannel(SocketChannel ch) throws Exception {
+              // \u5982\u679C\u9700\u8981\uFF0C\u6DFB\u52A0 SSL \u5904\u7406\u5668
+             if (proxyConfig.getClient().getSslEnable()) {
+                ch.pipeline().addLast(createSslHandler());
+             }
+			// \u6DFB\u52A0\u4EE3\u7406\u6D88\u606F\u7F16\u89E3\u7801\u5668
+             ch.pipeline().addLast(new ProxyMessageDecoder(proxyConfig.getProtocol().getMaxFrameLength(),
+                proxyConfig.getProtocol().getLengthFieldOffset(), proxyConfig.getProtocol().getLengthFieldLength(),
+                proxyConfig.getProtocol().getLengthAdjustment(), proxyConfig.getProtocol().getInitialBytesToStrip()));
+             ch.pipeline().addLast(new ProxyMessageEncoder());
+             // \u6DFB\u52A0\u7A7A\u95F2\u68C0\u6D4B\u5904\u7406\u5668
+             ch.pipeline().addLast(new IdleCheckHandler(proxyConfig.getProtocol().getReadIdleTime(), proxyConfig.getProtocol().getWriteIdleTime(), proxyConfig.getProtocol().getAllIdleTimeSeconds()));
+              //\u5904\u7406\u4E0E\u670D\u52A1\u7AEF\u4E4B\u95F4\u7684\u6570\u636E\u4F20\u8F93\u5904\u7406\u5668
+             ch.pipeline().addLast(new ClientChannelHandler());
+          }
+       });
+        
+        // \u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5668
+       bootstrap.connect(proxyConfig.getClient().getServerIp(), proxyConfig.getClient().getServerPort())
+          .addListener(new ChannelFutureListener() {
+			
+             @Override
+             public void operationComplete(ChannelFuture future) throws Exception {
+                if (future.isSuccess()) {
+
+                   // \u8FDE\u63A5\u6210\u529F\uFF0C\u5411\u670D\u52A1\u5668\u53D1\u9001\u5BA2\u6237\u7AEF\u8BA4\u8BC1\u4FE1\u606F\uFF08clientKey\uFF09
+                   ClientChannelMannager.setCmdChannel(future.channel());
+future.channel().writeAndFlush(ProxyMessage.buildAuthMessage(JSONObject.toJSONString(proxyConfig.getClientConfig())));
+                   log.info("\u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u6210\u529F.");
+                } else {
+                   log.info("\u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5931\u8D25!");
+                }
+             }
+          });
+    }
+
+    //\u5982\u679C\u9700\u8981\u65F6\u624D\u6DFB\u52A0\u7684 SSL \u5904\u7406\u5668
+    private ChannelHandler createSslHandler() {
+       try {
+          // \u4ECE\u6587\u4EF6\u8DEF\u5F84\u83B7\u53D6 JKS \u6587\u4EF6\u7684\u8F93\u5165\u6D41
+          InputStream jksInputStream = FileUtil.getInputStream(proxyConfig.getClient().getJksPath());
+
+          SSLContext clientContext = SSLContext.getInstance("TLS");
+          final KeyStore ks = KeyStore.getInstance("JKS");
+           // \u52A0\u8F7D JKS \u6587\u4EF6\u5230 KeyStore \u4E2D
+          ks.load(jksInputStream, proxyConfig.getClient().getKeyStorePassword().toCharArray());
+           // \u521D\u59CB\u5316 TrustManagerFactory\uFF0C\u5E76\u4F7F\u7528 KeyStore \u521D\u59CB\u5316
+          TrustManagerFactory tmf = TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm());
+          tmf.init(ks);
+           // \u83B7\u53D6 TrustManager \u6570\u7EC4
+          TrustManager[] trustManagers = tmf.getTrustManagers();
+           // \u4F7F\u7528 TrustManager \u521D\u59CB\u5316 SSLContext
+          clientContext.init(null, trustManagers, null);
+
+           // \u521B\u5EFA SSLEngine
+          SSLEngine sslEngine = clientContext.createSSLEngine();
+          sslEngine.setUseClientMode(true);
+
+           // \u8FD4\u56DE SSL \u5904\u7406\u5668
+          return new SslHandler(sslEngine);
+       } catch (Exception e) {
+          log.error("\u521B\u5EFASSL\u5904\u7406\u5668\u5931\u8D25", e);
+          e.printStackTrace();
+       }
+       return null;
+    }
+
+    // \u8FD4\u56DE\u4E00\u4E2A\u65B0\u7684 Bootstrap \u5B9E\u4F8B
+    @Bean
+    public Bootstrap bootstrap() {
+       return new Bootstrap();
+    }
+
+    // \u8FD4\u56DE\u4E00\u4E2A\u65B0\u7684 Bootstrap \u5B9E\u4F8B
+    @Bean
+    public Bootstrap realServerBootstrap() {
+       return new Bootstrap();
+    }
+
+    private ProxyClientConfig getClientConfig(String path) {
+        // \u5982\u679C\u8DEF\u5F84\u4E3A\u7A7A\uFF0C\u5219\u8BBE\u7F6E\u9ED8\u8BA4\u914D\u7F6E\u6587\u4EF6\u8DEF\u5F84
+       if (StringUtil.isEmpty(path)) {
+          path = "./config.json";
+       }
+        // \u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\u5185\u5BB9
+       String content = FileUtil.readContentAsString(path);
+        // \u5982\u679C\u5185\u5BB9\u4E3A\u7A7A\uFF0C\u5219\u6253\u5370\u9519\u8BEF\u4FE1\u606F\u5E76\u9000\u51FA\u7A0B\u5E8F
+       if (StringUtil.isEmpty(content)) {
+          log.error("\u914D\u7F6E\u6587\u4EF6: {} \u4E0D\u5B58\u5728\u6216\u683C\u5F0F\u5F02\u5E38!", path);
+          System.exit(0);
+          return null;
+       }
+       try {
+           // \u89E3\u6790\u914D\u7F6E\u6587\u4EF6\u5185\u5BB9\u4E3A ProxyClientConfig \u5BF9\u8C61
+          ProxyClientConfig clientConfig = JSONObject.parseObject(content, ProxyClientConfig.class);
+           // \u5982\u679C\u5BA2\u6237\u7AEF\u5BC6\u94A5\u6216\u4EE3\u7406\u5217\u8868\u4E3A\u7A7A\uFF0C\u5219\u6253\u5370\u9519\u8BEF\u4FE1\u606F\u5E76\u9000\u51FA\u7A0B\u5E8F
+          if (StringUtil.isEmpty(clientConfig.getClientKey()) || CollectionUtil.isEmpty(clientConfig.getProxy())) {
+             log.error("\u914D\u7F6E\u5F02\u5E38!");
+             System.exit(0);
+             return null;
+          }
+          return clientConfig;
+       } catch (Exception e) {
+          log.error("\u89E3\u6790\u914D\u7F6E\u6587\u4EF6\u5F02\u5E38!", e);
+       }
+       return null;
+    }
+}
+`,paraId:16,tocIndex:7},{value:"\u5904\u7406\u4E0E\u88AB\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684\u6570\u636E\u4F20\u8F93",paraId:17,tocIndex:8},{value:`public class RealServerChannelHandler extends SimpleChannelInboundHandler<ByteBuf> {
+
+    @Override
+    protected void channelRead0(ChannelHandlerContext ctx, ByteBuf buf) throws Exception {
+        Channel realServerChannel = ctx.channel();
+        Channel channel = realServerChannel.attr(Constants.NEXT_CHANNEL).get();
+        if (channel == null) {
+            // \u4EE3\u7406\u5BA2\u6237\u7AEF\u8FDE\u63A5\u65AD\u5F00
+            ctx.channel().close();
+        } else {
+            byte[] bytes = new byte[buf.readableBytes()];
+            buf.readBytes(bytes);
+            String userId = ClientChannelMannager.getRealServerChannelUserId(realServerChannel);
+            channel.writeAndFlush(ProxyMessage.buildTransferMessage(userId, bytes));
+        }
+    }
+
+    @Override
+    public void channelActive(ChannelHandlerContext ctx) throws Exception {
+        super.channelActive(ctx);
+    }
+
+    @Override
+    public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+        Channel realServerChannel = ctx.channel();
+        String userId = ClientChannelMannager.getRealServerChannelUserId(realServerChannel);
+        ClientChannelMannager.removeRealServerChannel(userId);
+        Channel channel = realServerChannel.attr(Constants.NEXT_CHANNEL).get();
+        if (channel != null) {
+            channel.writeAndFlush(ProxyMessage.buildDisconnectMessage(userId));
+        }
+
+        super.channelInactive(ctx);
+    }
+
+    @Override
+    public void channelWritabilityChanged(ChannelHandlerContext ctx) throws Exception {
+        Channel realServerChannel = ctx.channel();
+        Channel proxyChannel = realServerChannel.attr(Constants.NEXT_CHANNEL).get();
+        if (proxyChannel != null) {
+            proxyChannel.config().setOption(ChannelOption.AUTO_READ, realServerChannel.isWritable());
+        }
+
+        super.channelWritabilityChanged(ctx);
+    }
+
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
+        super.exceptionCaught(ctx, cause);
+    }
+}
+`,paraId:18,tocIndex:8},{value:"\u5404\u7C7B\u4E8B\u4EF6\u7684\u5904\u7406\u5668\uFF0C\u7ECF\u7531Dispacher\u5206\u53D1\u8FC7\u6765\u5904\u7406",paraId:19,tocIndex:9},{value:"\u5904\u7406\u8FDE\u63A5\u4E8B\u4EF6\u7684\u5904\u7406\u5668\uFF0C\u7ECF\u7531Dispacher\u5206\u53D1\u8FC7\u6765\u5904\u7406",paraId:20,tocIndex:10},{value:`@Match(type = Constants.ProxyDataTypeName.CONNECT)
+@Component
+public class ProxyMessageConnectHandler implements ProxyMessageHandler {
+    // \u7528\u4E8E\u8FDE\u63A5\u4EE3\u7406\u670D\u52A1\u5668\u7684 Bootstrap \u5BF9\u8C61
+    @Autowired("bootstrap")
+    private Bootstrap bootstrap;
+    
+    // \u7528\u4E8E\u8FDE\u63A5\u771F\u5B9E\u670D\u52A1\u5668\u7684 Bootstrap \u5BF9\u8C61
+    @Autowired("realServerBootstrap")
+    private Bootstrap realServerBootstrap;
+
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+		// \u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u4EE3\u7406\u670D\u52A1\u5668\u7684\u547D\u4EE4\u901A\u9053
+       final Channel cmdChannel = ctx.channel();
+        // \u7528\u6237ID\uFF0C\u4ECE\u4EE3\u7406\u6D88\u606F\u4E2D\u83B7\u53D6
+       final String userId = proxyMessage.getInfo();
+        // \u89E3\u6790\u670D\u52A1\u5668\u4FE1\u606F\uFF0C\u683C\u5F0F\u4E3A IP:Port
+       String[] serverInfo = new String(proxyMessage.getData()).split(":");
+       String ip = serverInfo[0];
+       int port = Integer.parseInt(serverInfo[1]);
+        
+        // \u8FDE\u63A5\u771F\u5B9E\u670D\u52A1\u5668
+       realServerBootstrap.connect(ip, port).addListener(new ChannelFutureListener() {
+
+          @Override
+          public void operationComplete(ChannelFuture future) throws Exception {
+
+             // \u8FDE\u63A5\u540E\u7AEF\u670D\u52A1\u5668\u6210\u529F
+             if (future.isSuccess()) {
+                 // \u83B7\u53D6\u771F\u5B9E\u670D\u52A1\u5668\u7684 Channel
+                final Channel realServerChannel = future.channel();
+				// \u5173\u95ED\u81EA\u52A8\u8BFB\u53D6
+                realServerChannel.config().setOption(ChannelOption.AUTO_READ, false);
+
+                // \u83B7\u53D6\u4E00\u4E2A\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684 Channel\uFF0C\u5E76\u8FDB\u884C\u8FDE\u63A5\u7ED1\u5B9A
+                ClientChannelMannager.borrowProxyChanel(bootstrap, new ProxyChannelBorrowListener() {
+
+                   @Override
+                   public void success(Channel channel) {
+                      // \u8FDE\u63A5\u7ED1\u5B9A
+                      channel.attr(Constants.NEXT_CHANNEL).set(realServerChannel);
+                      realServerChannel.attr(Constants.NEXT_CHANNEL).set(channel);
+
+                      // \u8FDC\u7A0B\u7ED1\u5B9A,\u5411\u4EE3\u7406\u5BA2\u6237\u7AEF\u53D1\u9001\u8FDE\u63A5\u6210\u529F\u6D88\u606F
+                      channel.writeAndFlush(ProxyMessage.buildConnectMessage(userId + "@" + ProxyConfig.instance.getClientConfig().getClientKey()));
+
+                      realServerChannel.config().setOption(ChannelOption.AUTO_READ, true);
+                      ClientChannelMannager.addRealServerChannel(userId, realServerChannel);
+                      ClientChannelMannager.setRealServerChannelUserId(realServerChannel, userId);
+                   }
+
+                    // \u8FDE\u63A5\u4EE3\u7406\u5BA2\u6237\u7AEF\u5931\u8D25\uFF0C\u5411\u4EE3\u7406\u670D\u52A1\u5668\u53D1\u9001\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F
+                   @Override
+                   public void error(Throwable cause) {
+                      ProxyMessage proxyMessage = new ProxyMessage();
+                      proxyMessage.setType(ProxyMessage.TYPE_DISCONNECT);
+                      proxyMessage.setInfo(userId);
+                      cmdChannel.writeAndFlush(proxyMessage);
+                   }
+                });
+
+             } else {
+                 // \u8FDE\u63A5\u540E\u7AEF\u670D\u52A1\u5668\u5931\u8D25\uFF0C\u5411\u4EE3\u7406\u5BA2\u6237\u7AEF\u53D1\u9001\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F
+                cmdChannel.writeAndFlush(ProxyMessage.buildDisconnectMessage(userId));
+             }
+          }
+       });
+    }
+
+    // \u8FD4\u56DE\u5904\u7406\u5668\u7684\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.CONNECT.getDesc();
+    }
+}
+`,paraId:21,tocIndex:10},{value:"\u5904\u7406\u65AD\u5F00\u8FDE\u63A5\u7684\u4E8B\u4EF6",paraId:22,tocIndex:11},{value:`@Match(type = Constants.ProxyDataTypeName.DISCONNECT)
+@Component
+public class ProxyMessageDisconnectHandler implements ProxyMessageHandler {
+
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+        // \u83B7\u53D6\u4E0E\u771F\u5B9E\u670D\u52A1\u5668\u8FDE\u63A5\u7684\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684 Channel
+       Channel realServerChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+       if (realServerChannel != null) {
+           // \u79FB\u9664\u8FDE\u63A5\u7ED1\u5B9A
+          ctx.channel().attr(Constants.NEXT_CHANNEL).remove();
+           // \u5C06\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684 Channel \u8FD4\u56DE\u8FDE\u63A5\u6C60
+          ClientChannelMannager.returnProxyChanel(ctx.channel());
+            // \u5411\u771F\u5B9E\u670D\u52A1\u5668\u53D1\u9001\u7A7A\u6570\u636E\u5E76\u5173\u95ED\u8FDE\u63A5
+          realServerChannel.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE);
+       }
+    }
+
+    // \u8FD4\u56DE\u5904\u7406\u5668\u7684\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.DISCONNECT.getDesc();
+    }
+
+}
+`,paraId:23,tocIndex:11},{value:"\u5904\u7406\u6570\u636E\u4F20\u8F93\u7684\u4E8B\u4EF6",paraId:24,tocIndex:12},{value:`@Match(type = Constants.ProxyDataTypeName.TRANSFER)
+@Component
+public class ProxyMessageTransferHandler implements ProxyMessageHandler {
+
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+        // \u83B7\u53D6\u4E0E\u771F\u5B9E\u670D\u52A1\u5668\u8FDE\u63A5\u7684\u4EE3\u7406\u5BA2\u6237\u7AEF\u7684 Channel
+       Channel realServerChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+       if (realServerChannel != null) {
+           // \u6784\u9020\u5B57\u8282\u7F13\u51B2\u533A\u5E76\u5199\u5165\u6570\u636E
+          ByteBuf buf = ctx.alloc().buffer(proxyMessage.getData().length);
+          buf.writeBytes(proxyMessage.getData());
+           // \u5411\u771F\u5B9E\u670D\u52A1\u5668\u53D1\u9001\u6570\u636E
+          realServerChannel.writeAndFlush(buf);
+       }
+    }
+
+    @Override
+    public String name() {
+        // \u8FD4\u56DE\u5904\u7406\u5668\u7684\u540D\u79F0
+       return ProxyDataTypeEnum.TRANSFER.getDesc();
+    }
+
+}
+`,paraId:25,tocIndex:12},{value:`@Slf4j
+@Match(type = Constants.ProxyDataTypeName.ERROR)
+@Component
+public class ProxyMessageErrorHandler implements ProxyMessageHandler {
+
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+       log.info("\u5F02\u5E38\u4FE1\u606F: {}", proxyMessage.getInfo());
+       JSONObject data = JSONObject.parseObject(proxyMessage.getInfo());
+        // \u83B7\u53D6\u5F02\u5E38\u7801
+       Integer code = data.getInteger("code");
+        // \u5982\u679C\u5F02\u5E38\u7801\u4E3A\u8BA4\u8BC1\u5931\u8D25
+       if (ExceptionEnum.AUTH_FAILED.getCode().equals(code)) {
+          // \u9000\u51FA\u7CFB\u7EDF
+          System.exit(0);
+       }
+    }
+
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.DISCONNECT.getDesc();
+    }
+}
+`,paraId:26,tocIndex:13}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
     int h;
     //hashmap\u91CC\u4E0D\u662F\u7528\u53D6\u6A21\u800C\u662F\u4F4D\u8FD0\u7B97\u6548\u7387\u9AD8\uFF0C\u5DEE10\u500D\u6548\u7387
     return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
@@ -4263,7 +4865,272 @@ String s = temp.toString();
         System.out.println(d1 == d2);//\u8F93\u51FAfalse  
     }
 } 
-`,paraId:75,tocIndex:10}]},99345:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7B14\u8BB0\u6587\u6863",paraId:0,tocIndex:0},{value:"\u6A21\u5757\u3002java\u76F8\u5173\u77E5\u8BC6\u70B9\u7684\u6DF1\u5EA6\u89E3\u6790",paraId:0,tocIndex:0},{value:"jvm->tomcat->\u5E76\u53D1->\u6E90\u7801\u6846\u67B6->redis->zookeeper->mq->netty->dubbo->elk->es->springcloud alibaba",paraId:1,tocIndex:0}]},16480:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u901A\u8FC7Java\u547D\u4EE4\u6267\u884C\u4EE3\u7801\u7684\u5927\u4F53\u6D41\u7A0B\u5982\u4E0B\uFF1A",paraId:0,tocIndex:1},{value:"\u6700\u5173\u952E\u7684\u4E00\u6B65\u5C31\u662F\uFF1A",paraId:1,tocIndex:1},{value:"\u6211\u4EEC\u7684\u7C7B\u662F\u5982\u4F55\u8FDB\u5165\u5230\u865A\u62DF\u673A\u5F53\u4E2D\u7684",paraId:1,tocIndex:1},{value:"\u52A0\u8F7D\uFF1A\u5728\u78C1\u76D8\u4E0A\u67E5\u627E\u5B57\u8282\u7801\u6587\u4EF6",paraId:2,tocIndex:1},{value:"\uFF08target/classes\u4E0B\u7684\u6587\u4EF6\uFF09",paraId:2,tocIndex:1},{value:"\u4F7F\u7528\u5230\u7C7B\u65F6\u624D\u4F1A\u52A0\u8F7D\uFF0C\u4F8B\u5982\u8C03\u7528\u7C7B\u7684**main()**\u65B9\u6CD5\uFF0C",paraId:2,tocIndex:1},{value:"new()",paraId:2,tocIndex:1},{value:"\u5BF9\u8C61\u7B49\u3002\u5728\u52A0\u8F7D\u9636\u6BB5\u4F1A\u5728\u5185\u5B58\u4E2D\u751F\u6210\u4E00\u4E2A",paraId:2,tocIndex:1},{value:"\u4EE3\u8868\u8FD9\u4E2A\u7C7B\u7684java.lang.Class\u5BF9\u8C61",paraId:2,tocIndex:1},{value:"\uFF08",paraId:2,tocIndex:1},{value:"\u53CC\u4EB2\u59D4\u6D3E",paraId:2,tocIndex:1},{value:"\uFF09\uFF0C\u4F5C\u4E3A\u65B9\u6CD5\u533A\u8FD9\u4E2A\u7C7B\u7684\u5404\u79CD\u6570\u636E\uFF08",paraId:2,tocIndex:1},{value:" \u9759\u6001\u503C",paraId:2,tocIndex:1},{value:"\uFF09\u7684\u8BBF\u95EE\u5165\u53E3",paraId:2,tocIndex:1},{value:"\u9A8C\u8BC1\uFF1A\u6821\u9A8C",paraId:3,tocIndex:1},{value:"\u5B57\u8282\u7801\u6587\u4EF6",paraId:3,tocIndex:1},{value:"\u7684\u6B63\u786E\u6027",paraId:3,tocIndex:1},{value:"\u51C6\u5907\uFF1A\u7ED9\u7C7B\u7684\u9759\u6001\u53D8\u91CF\u5206\u914D\u5185\u5B58\uFF0C\u5E76\u8D4B\u4E88",paraId:4,tocIndex:1},{value:"\u9ED8\u8BA4\u503C",paraId:4,tocIndex:1},{value:" ",paraId:4,tocIndex:1},{value:"(int\u4E3A0\uFF0CObject\u4E3Anull,boolean\u4E3Afalse)",paraId:4,tocIndex:1},{value:"\u89E3\u6790\uFF1A\u5C06",paraId:5,tocIndex:1},{value:"\u7B26\u53F7\u5F15\u7528",paraId:5,tocIndex:1},{value:"\u66FF\u6362\u4E3A\u76F4\u63A5\u5F15\u7528\uFF0C\u8BE5\u9636\u6BB5\u4F1A\u628A\u4E00\u4E9B\u9759\u6001\u65B9\u6CD5(\u7B26\u53F7\u5F15\u7528)\u66FF\u6362\u4E3A\u6307\u5411\u6570\u636E\u6240\u5B58\u5185\u5B58\u7684\u6307\u9488\u6216\u53E5\u67C4\u7B49(\u76F4\u63A5\u5F15\u7528)\uFF0C\u8FD9\u662F\u6240\u8C13\u7684",paraId:5,tocIndex:1},{value:"\u9759\u6001\u94FE\u63A5",paraId:5,tocIndex:1},{value:"\u8FC7\u7A0B(\u7C7B\u52A0\u8F7D\u671F\u95F4\u5B8C\u6210)\uFF0C",paraId:5,tocIndex:1},{value:"\u52A8\u6001\u94FE\u63A5",paraId:5,tocIndex:1},{value:"\u662F\u5728\u7A0B\u5E8F\u8FD0\u884C\u671F\u95F4\u5B8C\u6210\u7684\u5C06\u7B26\u53F7\u5F15\u7528\u66FF\u6362\u4E3A\u76F4\u63A5\u5F15\u7528",paraId:5,tocIndex:1},{value:"\u9759\u6001\u94FE\u63A5\uFF1A\u628A\u6CA1\u6709\u610F\u4E49\u7684\u7B26\u53F7\uFF08main,\u7C7B\u540D,\u65B9\u6CD5\u540D\u7B49\uFF09\u66FF\u6362\u4E3A\u8FD9\u4E9B\u7B26\u53F7\u6240\u4EE3\u8868\u7684\u5728\u5185\u5B58\u4E2D\u7684\u4F4D\u7F6E",paraId:6,tocIndex:1},{value:"\u521D\u59CB\u5316\uFF1A\u5BF9\u7C7B\u7684\u9759\u6001\u53D8\u91CF",paraId:7,tocIndex:1},{value:"\u521D\u59CB\u5316",paraId:7,tocIndex:1},{value:"\u4E3A\u6307\u5B9A\u7684\u503C",paraId:7,tocIndex:1},{value:" ",paraId:7,tocIndex:1},{value:"\uFF0C\u6267\u884C\u9759\u6001\u4EE3\u7801\u5757",paraId:7,tocIndex:1},{value:"\u8FD9\u4E9B\u6B65\u9AA4\u53EA\u662F\u5148\u628A\u7C7B\u52A0\u8F7D\u5230",paraId:8,tocIndex:1},{value:"\u65B9\u6CD5\u533A\uFF01\uFF01\uFF01\uFF01\uFF01\uFF01\uFF01",paraId:8,tocIndex:1},{value:"\u7C7B\u88AB\u52A0\u8F7D\u5230\u65B9\u6CD5\u533A\u4E2D\u540E\u4E3B\u8981\u5305\u542B\u4E86 ",paraId:9,tocIndex:1},{value:"\u8FD0\u884C\u65F6\u5E38\u91CF\u6C60\u3001\u7C7B\u578B\u4FE1\u606F\u3001\u5B57\u6BB5\u4FE1\u606F\u3001\u65B9\u6CD5\u4FE1\u606F\u3001\u7C7B\u52A0\u8F7D\u5668\u7684",paraId:9,tocIndex:1},{value:"\u5F15\u7528\u3001\u5BF9\u5E94class\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:10,tocIndex:1},{value:"\u7B49\u4E00\u4E9B\u548C",paraId:10,tocIndex:1},{value:"\u7C7B\u672C\u8EAB",paraId:10,tocIndex:1},{value:"\u6709\u5173\u7684\u4FE1\u606F\u548C\u5F15\u7528\uFF0C\u6CA1\u6709\u5B9E\u4F8B\u76F8\u5173\u7684\uFF01\uFF01",paraId:10,tocIndex:1},{value:"\u7C7B\u52A0\u8F7D\u5668\u7684\u5F15\u7528\uFF1A\u7C7B->\u7C7B\u52A0\u8F7D\u5668\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:11,tocIndex:1},{value:"\u5BF9\u5E94class\u5B9E\u4F8B\u7684\u5F15\u7528:\u7C7B\u52A0\u8F7D\u5668\u5728\u52A0\u8F7D\u7C7B\u4FE1\u606F\u653E\u5230\u65B9\u6CD5\u533A\u4E2D\u540E\uFF0C\u4F1A\u521B\u5EFA\u4E00\u4E2A\u5BF9\u5E94\u7684Class \u7C7B\u578B\u7684 \u5BF9\u8C61\u5B9E\u4F8B\u653E\u5230\u5806(Heap)\u4E2D, \u4F5C\u4E3A\u5F00\u53D1\u4EBA\u5458\u8BBF\u95EE\u65B9\u6CD5\u533A\u4E2D\u7C7B\u5B9A\u4E49\u7684\u5165\u53E3\u548C\u5207\u5165\u70B9\u3002",paraId:12,tocIndex:1},{value:"\u4E5F\u5C31\u662F\u8BF4\uFF1A\u9700\u8981\u83B7\u53D6",paraId:13,tocIndex:1},{value:"\u7C7B\u672C\u8EAB",paraId:13,tocIndex:1},{value:"\u7684\u4FE1\u606F\u65F6\uFF0C\u9700\u8981",paraId:13,tocIndex:1},{value:"\u5148\u4ECE\u5806\u4E2D\u83B7\u53D6\u8FD9\u4E2A\u5B9E\u4F8B",paraId:13,tocIndex:1},{value:"\uFF0C\u518D\u6839\u636E",paraId:13,tocIndex:1},{value:"\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:13,tocIndex:1},{value:"\u627E\u5230\u65B9\u6CD5\u533A\u4E2D\u672C\u8EAB\u7684\u7C7B\u4FE1\u606F\u3002",paraId:13,tocIndex:1},{value:"\u6CE8\u610F\uFF1A\u7C7B\u662F\u5148\u52A0\u8F7D\u518D\u4F7F\u7528\u7684\u800C\u4E0D\u662F\u4E00\u6B21\u6027\u5168\u90E8\u52A0\u8F7D\uFF01\uFF08\u61D2\u52A0\u8F7D\uFF09",paraId:14,tocIndex:1},{value:"\u4E0A\u9762\u7684\u7C7B\u52A0\u8F7D\u8FC7\u7A0B\u4E3B\u8981\u662F\u901A\u8FC7\u7C7B\u52A0\u8F7D\u5668\u6765\u5B9E\u73B0\u7684\uFF0CJava\u91CC\u6709\u5982\u4E0B\u51E0\u79CD\u7C7B\u52A0\u8F7D\u5668",paraId:15,tocIndex:2},{value:"\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u652F\u6491JVM\u8FD0\u884C\u7684\u4F4D\u4E8EJRE\u7684lib\u76EE\u5F55\u4E0B\u7684",paraId:16,tocIndex:2},{value:"\u6838\u5FC3\u7C7B\u5E93",paraId:16,tocIndex:2},{value:"\uFF0C\u6BD4\u5982rt.jar\u3001charsets.jar\u7B49\uFF08lang.String\u7C7B\uFF09",paraId:16,tocIndex:2},{value:"\u6269\u5C55\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u652F\u6491JVM\u8FD0\u884C\u7684\u4F4D\u4E8EJRE\u7684lib\u76EE\u5F55\u4E0B\u7684ext\u6269\u5C55\u76EE\u5F55\u4E2D\u7684JAR\u7C7B\u5305",paraId:17,tocIndex:2},{value:"\u5E94\u7528\u7A0B\u5E8F\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7DClassPath\u8DEF\u5F84\u4E0B\u7684\u7C7B\u5305\uFF0C\u4E3B\u8981\u5C31\u662F\u52A0\u8F7D\u4F60\u81EA\u5DF1\u5199\u7684\u90A3\u4E9B\u7C7B",paraId:18,tocIndex:2},{value:"\u81EA\u5B9A\u4E49\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u7528\u6237\u81EA\u5B9A\u4E49\u8DEF\u5F84\u4E0B\u7684\u7C7B\u5305",paraId:19,tocIndex:2},{value:"\u4E3A\u4EC0\u4E48\u5728\u6211\u6253\u5370\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\u65F6\u6253\u5370\u7684\u662Fnull?",paraId:20,tocIndex:2},{value:"\u56E0\u4E3A\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\u4E0D\u662Fjava\u7684\u5BF9\u8C61\uFF0C\u800C\u662Fc++\u751F\u6210\u7684\u5BF9\u8C61",paraId:21,tocIndex:2},{value:"JVM\u542F\u52A8\u5668\u65F6\u521B\u5EFAsun.misc.Launcher\uFF0C\u5316\u4F7F\u7528\u4E86\u5355\u4F8B\u6A21\u5F0F\u8BBE\u8BA1\u3002",paraId:22,tocIndex:3},{value:"\u5728Launcher",paraId:23,tocIndex:3},{value:"\u6784\u9020\u65B9\u6CD5",paraId:23,tocIndex:3},{value:"\u5185\u90E8\uFF0C\u5176\u521B\u5EFA\u4E86\u4E24\u4E2A\u7C7B\u52A0\u8F7D\u5668\uFF0C\u5206\u522B\u662Fsun.misc.Launcher.ExtClassLoader(\u6269\u5C55\u7C7B\u52A0\u8F7D\u5668)\u548Csun.misc.Launcher.AppClassLoader(\u5E94\u7528\u7C7B\u52A0\u8F7D\u5668)\u3002",paraId:23,tocIndex:3},{value:`//Launcher\u7684\u6784\u9020\u65B9\u6CD5
+`,paraId:75,tocIndex:10}]},58783:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7684\u5206\u7C7B\uFF1A",paraId:0,tocIndex:0},{value:"\u7ED3\u6784\u5316\u6570\u636E\uFF1A",paraId:1,tocIndex:0},{value:" \u56FA\u5B9A\u683C\u5F0F\uFF0C\u6709\u9650\u957F\u5EA6    \u6BD4\u5982 mysql \u5B58\u7684\u6570\u636E",paraId:1,tocIndex:0},{value:"**\u975E\u7ED3\u6784\u5316\u6570\u636E\uFF1A**\u4E0D\u5B9A\u957F\uFF0C\u65E0\u56FA\u5B9A\u683C\u5F0F   \u6BD4\u5982\u90AE\u4EF6\uFF0Cword \u6587\u6863\uFF0C\u65E5\u5FD7",paraId:2,tocIndex:0},{value:"\u534A\u7ED3\u6784\u5316\u6570\u636E\uFF1A",paraId:3,tocIndex:0},{value:" \u524D\u4E24\u8005\u7ED3\u5408     \u6BD4\u5982 xml\uFF0Chtml",paraId:3,tocIndex:0},{value:"\u641C\u7D22\u7684\u5206\u7C7B\uFF1A",paraId:4,tocIndex:0},{value:"\u7ED3\u6784\u5316\u6570\u636E\u641C\u7D22\uFF1A",paraId:5,tocIndex:0},{value:"\u4F7F\u7528",paraId:6,tocIndex:0},{value:"\u5173\u7CFB\u578B\u6570\u636E\u5E93",paraId:6,tocIndex:0},{value:"\u975E\u7ED3\u6784\u5316\u6570\u636E\u641C\u7D22",paraId:7,tocIndex:0},{value:"\u987A\u5E8F\u626B\u63CF",paraId:8,tocIndex:0},{value:"\u5168\u6587\u68C0\u7D22",paraId:9,tocIndex:0},{value:"\u4EC0\u4E48\u662F\u5168\u6587\u68C0\u7D22",paraId:10,tocIndex:1},{value:"\u5168\u6587\u68C0\u7D22\u662F\u6307\uFF1A",paraId:11,tocIndex:1},{value:"\u901A\u8FC7\u4E00\u4E2A\u7A0B\u5E8F",paraId:12,tocIndex:1},{value:"\u626B\u63CF\u6587\u672C\u4E2D\u7684",paraId:12,tocIndex:1},{value:"\u6BCF\u4E00\u4E2A\u5355\u8BCD",paraId:12,tocIndex:1},{value:"\uFF0C\u9488\u5BF9\u5355\u8BCD\u5EFA\u7ACB\u7D22\u5F15\uFF0C\u5E76\u4FDD\u5B58",paraId:12,tocIndex:1},{value:"\u8BE5\u5355\u8BCD\u5728\u6587\u672C\u4E2D\u7684",paraId:12,tocIndex:1},{value:"\u4F4D\u7F6E",paraId:12,tocIndex:1},{value:"\u3001\u4EE5\u53CA\u51FA\u73B0\u7684",paraId:12,tocIndex:1},{value:"\u6B21\u6570",paraId:12,tocIndex:1},{value:"\u7528\u6237\u67E5\u8BE2\u65F6\uFF0C\u901A\u8FC7\u4E4B\u524D\u5EFA\u7ACB\u597D\u7684\u7D22\u5F15\u6765\u67E5\u8BE2\uFF0C\u5C06\u7D22\u5F15\u4E2D\u5355\u8BCD\u5BF9\u5E94\u7684\u6587\u672C\u4F4D\u7F6E\u3001\u51FA\u73B0\u7684\u6B21\u6570\u8FD4\u56DE\u7ED9\u7528\u6237\uFF0C\u56E0\u4E3A\u6709\u4E86\u5177\u4F53\u6587\u672C\u7684\u4F4D\u7F6E\uFF0C\u6240\u4EE5\u5C31\u53EF\u4EE5\u5C06\u5177\u4F53\u5185\u5BB9\u8BFB\u53D6\u51FA\u6765\u4E86",paraId:13,tocIndex:1},{value:"\u641C\u7D22\u539F\u7406\u7B80\u5355\u6982\u62EC\u7684\u8BDD\u53EF\u4EE5\u5206\u4E3A\u8FD9\u4E48\u51E0\u6B65\uFF1A",paraId:14,tocIndex:1},{value:"\u5185\u5BB9\u722C\u53D6",paraId:15,tocIndex:1},{value:'\uFF0C\u505C\u987F\u8BCD\u8FC7\u6EE4\u6BD4\u5982\u4E00\u4E9B\u65E0\u7528\u7684\u50CF "\u7684"\uFF0C\u201C\u4E86\u201D \u4E4B\u7C7B\u7684\u8BED\u6C14\u8BCD / \u8FDE\u63A5\u8BCD',paraId:15,tocIndex:1},{value:"\u5185\u5BB9\u5206\u8BCD",paraId:15,tocIndex:1},{value:"\uFF0C\u63D0\u53D6\u5173\u952E\u8BCD",paraId:15,tocIndex:1},{value:"\u6839\u636E\u5173\u952E\u8BCD\u5EFA\u7ACB\u5012\u6392\u7D22\u5F15",paraId:15,tocIndex:1},{value:"\u7528\u6237\u8F93\u5165\u5173\u952E\u8BCD\u8FDB\u884C\u641C\u7D22",paraId:15,tocIndex:1},{value:"\u5012\u6392\u7D22\u5F15",paraId:16},{value:"\u7D22\u5F15\u5C31\u7C7B\u4F3C\u4E8E",paraId:17,tocIndex:2},{value:"\u76EE\u5F55",paraId:17,tocIndex:2},{value:"\uFF0C\u5E73\u65F6\u6211\u4EEC\u4F7F\u7528\u7684\u90FD\u662F\u7D22\u5F15\uFF0C",paraId:17,tocIndex:2},{value:"\u90FD\u662F\u901A\u8FC7\u4E3B\u952E\u5B9A\u4F4D\u5230\u67D0\u6761\u6570\u636E",paraId:17,tocIndex:2},{value:"\u90A3\u4E48\u5012\u6392\u7D22\u5F15\u5462\uFF0C\u521A\u597D\u76F8\u53CD\uFF0C",paraId:18,tocIndex:2},{value:"\u6570\u636E\u5BF9\u5E94\u5230\u4E3B\u952E",paraId:18,tocIndex:2},{value:"\u8FD9\u91CC\u4EE5\u4E00\u4E2A\u535A\u5BA2\u6587\u7AE0\u7684\u5185\u5BB9\u4E3A\u4F8B:",paraId:19,tocIndex:2},{value:"\u6B63\u6392\u7D22\u5F15\uFF08\u6B63\u5411\u7D22\u5F15\uFF09",paraId:20,tocIndex:2},{value:"\u6587\u7AE0 ID",paraId:21,tocIndex:2},{value:"\u6587\u7AE0\u6807\u9898",paraId:21,tocIndex:2},{value:"\u6587\u7AE0\u5185\u5BB9",paraId:21,tocIndex:2},{value:"1",paraId:21,tocIndex:2},{value:"\u6D45\u6790 JAVA \u8BBE\u8BA1\u6A21\u5F0F",paraId:21,tocIndex:2},{value:"JAVA \u8BBE\u8BA1\u6A21\u5F0F\u662F\u6BCF\u4E00\u4E2A JAVA \u7A0B\u5E8F\u5458\u90FD\u5E94\u8BE5\u638C\u63E1\u7684\u8FDB\u9636\u77E5\u8BC6",paraId:21,tocIndex:2},{value:"2",paraId:21,tocIndex:2},{value:"JAVA \u591A\u7EBF\u7A0B\u8BBE\u8BA1\u6A21\u5F0F",paraId:21,tocIndex:2},{value:"JAVA \u591A\u7EBF\u7A0B\u4E0E\u8BBE\u8BA1\u6A21\u5F0F\u7ED3\u5408",paraId:21,tocIndex:2},{value:"\u5012\u6392\u7D22\u5F15\uFF08\u53CD\u5411\u7D22\u5F15\uFF09",paraId:22,tocIndex:2},{value:"\u5047\u5982\uFF0C\u6211\u4EEC\u6709\u4E00\u4E2A\u7AD9\u5185\u641C\u7D22\u7684\u529F\u80FD\uFF0C\u901A\u8FC7\u67D0\u4E2A\u5173\u952E\u8BCD\u6765\u641C\u7D22\u76F8\u5173\u7684\u6587\u7AE0\uFF0C\u90A3\u4E48\u8FD9\u4E2A\u5173\u952E\u8BCD\u53EF\u80FD\u51FA\u73B0\u5728\u6807\u9898\u4E2D\uFF0C\u4E5F\u53EF\u80FD\u51FA\u73B0\u5728\u6587\u7AE0\u5185\u5BB9\u4E2D\uFF0C\u90A3\u6211\u4EEC\u5C06\u4F1A\u5728\u521B\u5EFA\u6216\u4FEE\u6539\u6587\u7AE0\u7684\u65F6\u5019\uFF0C\u5EFA\u7ACB\u4E00\u4E2A\u5173\u952E\u8BCD\u4E0E\u6587\u7AE0\u7684\u5BF9\u5E94\u5173\u7CFB\u8868\uFF0C\u8FD9\u79CD\uFF0C\u6211\u4EEC\u53EF\u4EE5\u79F0\u4E4B\u4E3A\u5012\u6392\u7D22\u5F15\u3002",paraId:23,tocIndex:2},{value:"like % java \u8BBE\u8BA1\u6A21\u5F0F %     java  \u8BBE\u8BA1\u6A21\u5F0F",paraId:24,tocIndex:2},{value:"\u5173\u952E\u8BCD",paraId:25,tocIndex:2},{value:"\u6587\u7AE0 ID",paraId:25,tocIndex:2},{value:"JAVA",paraId:25,tocIndex:2},{value:"1,2",paraId:25,tocIndex:2},{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:25,tocIndex:2},{value:"1,2",paraId:25,tocIndex:2},{value:"\u591A\u7EBF\u7A0B",paraId:25,tocIndex:2},{value:"2",paraId:25,tocIndex:2},{value:"\u7B80\u5355\u7406\u89E3\uFF0C\u6B63\u5411\u7D22\u5F15\u662F\u901A\u8FC7 key \u627E value\uFF0C\u53CD\u5411\u7D22\u5F15\u5219\u662F\u901A\u8FC7 value \u627E key\u3002ES \u5E95\u5C42\u5728\u68C0\u7D22\u65F6\u5E95\u5C42\u4F7F\u7528\u7684\u5C31\u662F\u5012\u6392\u7D22\u5F15\u3002",paraId:26,tocIndex:2},{value:"ElasticSearch\u662F\u4E00\u4E2A\u5206\u5E03\u5F0F\u3001RESTful \u98CE\u683C\u7684\u641C\u7D22\u548C\u6570\u636E\u5206\u6790\u5F15\u64CE\uFF0C\u662F\u7528 Java \u5F00\u53D1\u5E76\u4E14\u662F\u5F53\u524D\u6700\u6D41\u884C\u7684\u5F00\u6E90\u7684\u4F01\u4E1A\u7EA7\u641C\u7D22\u5F15\u64CE\uFF0C\u80FD\u591F\u8FBE\u5230\u8FD1\u5B9E\u65F6\u641C\u7D22\uFF0C\u7A33\u5B9A\uFF0C\u53EF\u9760\uFF0C\u5FEB\u901F\uFF0C\u5B89\u88C5\u4F7F\u7528\u65B9\u4FBF\u3002",paraId:27,tocIndex:3},{value:"\u5BA2\u6237\u7AEF\u652F\u6301 Java\u3001.NET\uFF08C#\uFF09\u3001PHP\u3001Python\u3001Ruby \u7B49\u591A\u79CD\u8BED\u8A00\u3002",paraId:28,tocIndex:3},{value:"\u5B98\u65B9\u7F51\u7AD9:",paraId:29,tocIndex:3},{value:" ",paraId:29,tocIndex:3},{value:"https://www.elastic.co/",paraId:29,tocIndex:3},{value:"\uFEFF",paraId:29,tocIndex:3},{value:"**\u4E0B\u8F7D\u5730\u5740\uFF1A**",paraId:30,tocIndex:3},{value:"https://www.elastic.co/cn/downloads/past-releases#elasticsearch",paraId:30,tocIndex:3},{value:"\u57FA\u4E8E Java \u8BED\u8A00\u5F00\u53D1\u7684\u641C\u7D22\u5F15\u64CE\u5E93\u7C7B",paraId:31,tocIndex:4},{value:"Lucene \u5177\u6709\u9AD8\u6027\u80FD\u3001\u6613\u6269\u5C55\u7684\u4F18\u70B9",paraId:32,tocIndex:4},{value:"Lucene \u7684\u5C40\u9650\u6027\uFE30",paraId:33,tocIndex:4},{value:"\u53EA\u80FD\u57FA\u4E8E Java \u8BED\u8A00\u5F00\u53D1",paraId:34,tocIndex:4},{value:"\u7C7B\u5E93\u7684\u63A5\u53E3\u5B66\u4E60\u66F2\u7EBF\u9661\u5CED",paraId:35,tocIndex:4},{value:"\u539F\u751F\u5E76\u4E0D\u652F\u6301\u6C34\u5E73\u6269\u5C55",paraId:36,tocIndex:4},{value:"Elasticsearch \u4E0E Lucene \u6838\u5FC3\u5E93\u7ADE\u4E89\u7684\u4F18\u52BF\u5728\u4E8E\uFF1A",paraId:37,tocIndex:4},{value:"\u5B8C\u7F8E\u5C01\u88C5\u4E86 Lucene \u6838\u5FC3\u5E93\uFF0C\u8BBE\u8BA1\u4E86\u53CB\u597D\u7684 Restful-API\uFF0C\u5F00\u53D1\u8005\u65E0\u9700\u8FC7\u591A\u5173\u6CE8\u5E95\u5C42\u673A\u5236\uFF0C\u76F4\u63A5\u5F00\u7BB1\u5373\u7528",paraId:38,tocIndex:4},{value:"\u5206\u7247\u4E0E\u526F\u672C\u673A\u5236\uFF0C\u76F4\u63A5\u89E3\u51B3\u4E86\u96C6\u7FA4\u4E0B\u6027\u80FD\u4E0E\u9AD8\u53EF\u7528\u95EE\u9898",paraId:39,tocIndex:4},{value:"ES Server \u8FDB\u7A0B  3 \u8282\u70B9   raft  (\u5947\u6570\u8282\u70B9)",paraId:40,tocIndex:4},{value:"\u6570\u636E\u5206\u7247 -> lucene \u5B9E\u4F8B   \u5206\u7247\u548C\u526F\u672C\u6570    1 \u4E2A ES \u8282\u70B9\u53EF\u4EE5\u6709\u591A\u4E2A lucene \u5B9E\u4F8B\uFF0C\u4E5F\u53EF\u4EE5\u6307\u5B9A\u4E00\u4E2A\u7D22\u5F15\u7684\u591A\u4E2A\u5206\u7247",paraId:41,tocIndex:4},{value:"ElasticSearch vs Solr",paraId:16},{value:"Solr \u662F\u7B2C\u4E00\u4E2A\u57FA\u4E8E Lucene \u6838\u5FC3\u5E93\u529F\u80FD\u5B8C\u5907\u7684\u641C\u7D22\u5F15\u64CE\u4EA7\u54C1\uFF0C\u8BDE\u751F\u8FDC\u65E9\u4E8E Elasticsearch",paraId:42,tocIndex:5},{value:"\u5F53\u5355\u7EAF\u7684\u5BF9\u5DF2\u6709\u6570\u636E\u8FDB\u884C\u641C\u7D22\u65F6\uFF0CSolr \u66F4\u5FEB\u3002\u5F53\u5B9E\u65F6\u5EFA\u7ACB\u7D22\u5F15\u65F6\uFF0CSolr \u4F1A\u4EA7\u751F io \u963B\u585E\uFF0C\u67E5\u8BE2\u6027\u80FD\u8F83\u5DEE\uFF0CElasticsearch \u5177\u6709\u660E\u663E\u7684\u4F18\u52BF",paraId:43,tocIndex:5},{value:"\u5927\u578B\u4E92\u8054\u7F51\u516C\u53F8\uFF0C\u5B9E\u9645\u751F\u4EA7\u73AF\u5883\u6D4B\u8BD5\uFF0C\u5C06\u641C\u7D22\u5F15\u64CE\u4ECE Solr \u8F6C\u5230 Elasticsearch \u4EE5\u540E\u7684\u5E73\u5747\u67E5\u8BE2\u901F\u5EA6\u6709\u4E86 50 \u500D\u7684\u63D0\u5347\u3002",paraId:44,tocIndex:5},{value:"\u603B\u7ED3\uFF1A",paraId:45,tocIndex:5},{value:"Solr \u5229\u7528 Zookeeper \u8FDB\u884C\u5206\u5E03\u5F0F\u7BA1\u7406\uFF0C\u800C Elasticsearch \u81EA\u8EAB\u5E26\u6709\u5206\u5E03\u5F0F\u534F\u8C03\u7BA1\u7406\u529F\u80FD\u3002",paraId:46,tocIndex:5},{value:"Solr \u652F\u6301\u66F4\u591A\u683C\u5F0F\u7684\u6570\u636E\uFF0C\u6BD4\u5982 JSON\u3001XML\u3001CSV\uFF0C\u800C Elasticsearch \u4EC5\u652F\u6301 json \u6587\u4EF6\u683C\u5F0F\u3002",paraId:47,tocIndex:5},{value:"Solr \u5728\u4F20\u7EDF\u7684\u641C\u7D22\u5E94\u7528\u4E2D\u8868\u73B0\u597D\u4E8E Elasticsearch\uFF0C\u4F46\u5728\u5904\u7406\u5B9E\u65F6\u641C\u7D22\u5E94\u7528\u65F6\u6548\u7387\u660E\u663E\u4F4E\u4E8E Elasticsearch\u3002",paraId:48,tocIndex:5},{value:"Solr \u662F\u4F20\u7EDF\u641C\u7D22\u5E94\u7528\u7684\u6709\u529B\u89E3\u51B3\u65B9\u6848\uFF0C\u4F46 Elasticsearch \u66F4\u9002\u7528\u4E8E\u65B0\u5174\u7684\u5B9E\u65F6\u641C\u7D22\u5E94\u7528\u3002",paraId:49,tocIndex:5},{value:"\u7AD9\u5185\u641C\u7D22",paraId:50,tocIndex:6},{value:"\u65E5\u5FD7\u7BA1\u7406\u4E0E\u5206\u6790",paraId:51,tocIndex:6},{value:"\u5927\u6570\u636E\u5206\u6790",paraId:52,tocIndex:6},{value:"\u5E94\u7528\u6027\u80FD\u76D1\u63A7",paraId:53,tocIndex:6},{value:"\u673A\u5668\u5B66\u4E60",paraId:54,tocIndex:6},{value:"\u56FD\u5185\u73B0\u5728\u6709\u5927\u91CF\u7684\u516C\u53F8\u90FD\u5728\u4F7F\u7528 Elasticsearch\uFF0C\u5305\u62EC\u643A\u7A0B\u3001\u6EF4\u6EF4\u3001\u4ECA\u65E5\u5934\u6761\u3001\u997F\u4E86\u4E48\u3001360 \u5B89\u5168\u3001\u5C0F\u7C73\u3001vivo \u7B49\u8BF8\u591A\u77E5\u540D\u516C\u53F8\u3002\u9664\u4E86\u641C\u7D22\u4E4B\u5916\uFF0C\u7ED3\u5408 ",paraId:55,tocIndex:6},{value:"Kibana\u3001Logstash\u3001Beats\uFF0CElastic Stack",paraId:55,tocIndex:6},{value:" \u8FD8\u88AB\u5E7F\u6CDB\u8FD0\u7528\u5728\u5927\u6570\u636E\u8FD1\u5B9E\u65F6\u5206\u6790\u9886\u57DF\uFF0C\u5305\u62EC\u65E5\u5FD7\u5206\u6790\u3001\u6307\u6807\u76D1\u63A7\u3001\u4FE1\u606F\u5B89\u5168\u7B49\u591A\u4E2A\u9886\u57DF\u3002\u5B83\u53EF\u4EE5\u5E2E\u52A9\u4F60\u63A2\u7D22\u6D77\u91CF\u7ED3\u6784\u5316\u3001\u975E\u7ED3\u6784\u5316\u6570\u636E\uFF0C\u6309\u9700\u521B\u5EFA\u53EF\u89C6\u5316\u62A5\u8868\uFF0C\u5BF9\u76D1\u63A7\u6570\u636E\u8BBE\u7F6E\u62A5\u8B66\u9608\u503C\uFF0C\u751A\u81F3\u901A\u8FC7\u4F7F\u7528\u673A\u5668\u5B66\u4E60\u6280\u672F\uFF0C\u81EA\u52A8\u8BC6\u522B\u5F02\u5E38\u72B6\u51B5\u3002",paraId:55,tocIndex:6},{value:"\u73AF\u5883\u51C6\u5907",paraId:56,tocIndex:7},{value:"\u8FD0\u884C Elasticsearch\uFF0C\u9700\u5B89\u88C5\u5E76\u914D\u7F6E JDK",paraId:57,tocIndex:7},{value:"\u8BBE\u7F6E $JAVA_HOME",paraId:58,tocIndex:7},{value:"\u5404\u4E2A\u7248\u672C\u5BF9 Java \u7684\u4F9D\u8D56 ",paraId:59,tocIndex:7},{value:"https://www.elastic.co/support/matrix#matrix_jvm",paraId:59,tocIndex:7},{value:"\uFEFF",paraId:59,tocIndex:7},{value:"Elasticsearch 5 \u9700\u8981 Java 8 \u4EE5\u4E0A\u7684\u7248\u672C",paraId:60,tocIndex:7},{value:"Elasticsearch \u4ECE 6.5 \u5F00\u59CB\u652F\u6301 Java 11",paraId:61,tocIndex:7},{value:"7.0 \u5F00\u59CB\uFF0C\u5185\u7F6E\u4E86 Java \u73AF\u5883",paraId:62,tocIndex:7},{value:"ES \u6BD4\u8F83\u8017\u5185\u5B58\uFF0C\u5EFA\u8BAE\u865A\u62DF\u673A 4G \u6216\u4EE5\u4E0A\u5185\u5B58\uFF0Cjvm1g \u4EE5\u4E0A\u7684\u5185\u5B58\u5206\u914D\uFF01\uFF01",paraId:63,tocIndex:7},{value:"\u53EF\u4EE5\u53C2\u8003 es \u7684\u73AF\u5883\u6587\u4EF6 elasticsearch-env.bat",paraId:64,tocIndex:7},{value:"ES \u7684 jdk \u73AF\u5883\u751F\u6548\u7684\u4F18\u5148\u7EA7\u914D\u7F6E ES_JAVA_HOME>JAVA_HOME>ES_HOME",paraId:65,tocIndex:7},{value:"\u4E0B\u8F7D\u5E76\u89E3\u538B ElasticSearch",paraId:66,tocIndex:7},{value:"\u4E0B\u8F7D\u5730\u5740\uFF1A ",paraId:67,tocIndex:7},{value:"https://www.elastic.co/cn/downloads/past-releases#elasticsearch",paraId:67,tocIndex:7},{value:"\uFEFF",paraId:67,tocIndex:7},{value:"\u9009\u62E9\u7248\u672C\uFF1A7.17.3",paraId:68,tocIndex:7},{value:"ElasticSearch \u6587\u4EF6\u76EE\u5F55\u7ED3\u6784",paraId:69,tocIndex:7},{value:"\u76EE\u5F55",paraId:70,tocIndex:7},{value:"\u63CF\u8FF0",paraId:70,tocIndex:7},{value:"bin",paraId:70,tocIndex:7},{value:"\u811A\u672C\u6587\u4EF6\uFF0C\u5305\u62EC\u542F\u52A8 elasticsearch\uFF0C\u5B89\u88C5\u63D2\u4EF6\uFF0C\u8FD0\u884C\u7EDF\u8BA1\u6570\u636E\u7B49",paraId:70,tocIndex:7},{value:"config",paraId:70,tocIndex:7},{value:"\u914D\u7F6E\u6587\u4EF6\u76EE\u5F55\uFF0C\u5982 elasticsearch \u914D\u7F6E\u3001\u89D2\u8272\u914D\u7F6E\u3001jvm \u914D\u7F6E\u7B49\u3002",paraId:70,tocIndex:7},{value:"jdk",paraId:70,tocIndex:7},{value:"java \u8FD0\u884C\u73AF\u5883",paraId:70,tocIndex:7},{value:"data",paraId:70,tocIndex:7},{value:"\u9ED8\u8BA4\u7684\u6570\u636E\u5B58\u653E\u76EE\u5F55\uFF0C\u5305\u542B\u8282\u70B9\u3001\u5206\u7247\u3001\u7D22\u5F15\u3001\u6587\u6863\u7684\u6240\u6709\u6570\u636E\uFF0C\u751F\u4EA7\u73AF\u5883\u9700\u8981\u4FEE\u6539\u3002",paraId:70,tocIndex:7},{value:"lib",paraId:70,tocIndex:7},{value:"elasticsearch \u4F9D\u8D56\u7684 Java \u7C7B\u5E93",paraId:70,tocIndex:7},{value:"logs",paraId:70,tocIndex:7},{value:"\u9ED8\u8BA4\u7684\u65E5\u5FD7\u6587\u4EF6\u5B58\u50A8\u8DEF\u5F84\uFF0C\u751F\u4EA7\u73AF\u5883\u9700\u8981\u4FEE\u6539\u3002",paraId:70,tocIndex:7},{value:"modules",paraId:70,tocIndex:7},{value:"\u5305\u542B\u6240\u6709\u7684 Elasticsearch \u6A21\u5757\uFF0C\u5982 Cluster\u3001Discovery\u3001Indices \u7B49\u3002",paraId:70,tocIndex:7},{value:"plugins",paraId:70,tocIndex:7},{value:"\u5DF2\u5B89\u88C5\u63D2\u4EF6\u76EE\u5F55",paraId:70,tocIndex:7},{value:"cluster.name",paraId:71,tocIndex:8},{value:"\u5F53\u524D\u8282\u70B9\u6240\u5C5E",paraId:72,tocIndex:8},{value:"\u96C6\u7FA4\u540D\u79F0",paraId:72,tocIndex:8},{value:"\uFF0C\u591A\u4E2A\u8282\u70B9\u5982\u679C\u8981\u7EC4\u6210\u540C\u4E00\u4E2A\u96C6\u7FA4\uFF0C\u90A3\u4E48\u96C6\u7FA4\u540D\u79F0\u4E00\u5B9A\u8981\u914D\u7F6E\u6210\u76F8\u540C\u3002\u9ED8\u8BA4\u503C elasticsearch\uFF0C\u751F\u4EA7\u73AF\u5883\u5EFA\u8BAE\u6839\u636E ES \u96C6\u7FA4\u7684\u4F7F\u7528\u76EE\u7684\u4FEE\u6539\u6210\u5408\u9002\u7684\u540D\u5B57\u3002",paraId:72,tocIndex:8},{value:"node.name",paraId:73,tocIndex:8},{value:"\u5F53\u524D",paraId:74,tocIndex:8},{value:"\u8282\u70B9\u540D\u79F0",paraId:74,tocIndex:8},{value:"\uFF0C\u9ED8\u8BA4\u503C\u5F53\u524D\u8282\u70B9\u90E8\u7F72\u6240\u5728\u673A\u5668\u7684\u4E3B\u673A\u540D\uFF0C\u6240\u4EE5\u5982\u679C\u4E00\u53F0\u673A\u5668\u4E0A\u8981\u8D77\u591A\u4E2A ES \u8282\u70B9\u7684\u8BDD\uFF0C\u9700\u8981\u901A\u8FC7\u914D\u7F6E\u8BE5\u5C5E\u6027\u660E\u786E\u6307\u5B9A\u4E0D\u540C\u7684\u8282\u70B9\u540D\u79F0\u3002",paraId:74,tocIndex:8},{value:"path.data",paraId:75,tocIndex:8},{value:"\u914D\u7F6E\u6570\u636E",paraId:76,tocIndex:8},{value:"\u5B58\u50A8\u76EE\u5F55",paraId:76,tocIndex:8},{value:"\uFF0C\u6BD4\u5982\u7D22\u5F15\u6570\u636E\u7B49\uFF0C\u9ED8\u8BA4\u503C $ES_HOME/data\uFF0C\u751F\u4EA7\u73AF\u5883\u4E0B\u5F3A\u70C8\u5EFA\u8BAE\u90E8\u7F72\u5230\u53E6\u5916\u7684\u5B89\u5168\u76EE\u5F55\uFF0C\u9632\u6B62 ES \u5347\u7EA7\u5BFC\u81F4\u6570\u636E\u88AB\u8BEF\u5220\u9664\u3002",paraId:76,tocIndex:8},{value:"path.logs",paraId:77,tocIndex:8},{value:"\u914D\u7F6E\u65E5\u5FD7\u5B58\u50A8\u76EE\u5F55",paraId:78,tocIndex:8},{value:"\uFF0C\u6BD4\u5982\u8FD0\u884C\u65E5\u5FD7\u548C\u96C6\u7FA4\u5065\u5EB7\u4FE1\u606F\u7B49\uFF0C\u9ED8\u8BA4\u503C $ES_HOME/logs\uFF0C\u751F\u4EA7\u73AF\u5883\u4E0B\u5F3A\u70C8\u5EFA\u8BAE\u90E8\u7F72\u5230\u53E6\u5916\u7684\u5B89\u5168\u76EE\u5F55\uFF0C\u9632\u6B62 ES \u5347\u7EA7\u5BFC\u81F4\u6570\u636E\u88AB\u8BEF\u5220\u9664\u3002",paraId:78,tocIndex:8},{value:"bootstrap.memory_lock",paraId:79,tocIndex:8},{value:"\u914D\u7F6E ES \u542F\u52A8\u65F6",paraId:80,tocIndex:8},{value:"\u662F\u5426\u8FDB\u884C\u5185\u5B58\u9501\u5B9A\u68C0\u67E5",paraId:80,tocIndex:8},{value:"\uFF0C\u9ED8\u8BA4\u503C true\u3002",paraId:80,tocIndex:8},{value:"ES \u5BF9\u4E8E\u5185\u5B58\u7684\u9700\u6C42\u6BD4\u8F83\u5927\uFF0C\u4E00\u822C\u751F\u4EA7\u73AF\u5883\u5EFA\u8BAE\u914D\u7F6E\u5927\u5185\u5B58\uFF0C\u5982\u679C\u5185\u5B58\u4E0D\u8DB3\uFF0C\u5BB9\u6613\u5BFC\u81F4\u5185\u5B58\u4EA4\u6362\u5230\u78C1\u76D8\uFF0C\u4E25\u91CD\u5F71\u54CD ES \u7684\u6027\u80FD\u3002\u6240\u4EE5\u9ED8\u8BA4\u542F\u52A8\u65F6\u8FDB\u884C\u76F8\u5E94\u5927\u5C0F\u5185\u5B58\u7684\u9501\u5B9A\uFF0C\u5982\u679C\u65E0\u6CD5\u9501\u5B9A\u5219\u4F1A\u542F\u52A8\u5931\u8D25\u3002",paraId:81,tocIndex:8},{value:"\u975E\u751F\u4EA7\u73AF\u5883\u53EF\u80FD\u673A\u5668\u5185\u5B58\u672C\u8EAB\u5C31\u5F88\u5C0F\uFF0C\u80FD\u591F\u4F9B\u7ED9 ES \u4F7F\u7528\u7684\u5C31\u66F4\u5C0F\uFF0C\u5982\u679C\u8BE5\u53C2\u6570\u914D\u7F6E\u4E3A true \u7684\u8BDD\u5F88\u53EF\u80FD\u5BFC\u81F4\u65E0\u6CD5\u9501\u5B9A\u5185\u5B58\u4EE5\u81F4 ES \u65E0\u6CD5\u6210\u529F\u542F\u52A8\uFF0C\u6B64\u65F6\u53EF\u4EE5\u4FEE\u6539\u4E3A false",paraId:82,tocIndex:8},{value:"network.host",paraId:83,tocIndex:8},{value:"\u914D\u7F6E",paraId:84,tocIndex:8},{value:"\u80FD\u591F\u8BBF\u95EE\u5F53\u524D\u8282\u70B9\u7684\u4E3B\u673A",paraId:84,tocIndex:8},{value:"\uFF0C\u9ED8\u8BA4\u503C\u4E3A\u5F53\u524D\u8282\u70B9\u6240\u5728\u673A\u5668\u7684\u672C\u673A\u56DE\u73AF\u5730\u5740 127.0.0.1 \u548C [::1]\uFF0C\u8FD9\u5C31\u5BFC\u81F4\u9ED8\u8BA4\u60C5\u51B5\u4E0B\u53EA\u80FD\u901A\u8FC7\u5F53\u524D\u8282\u70B9\u6240\u5728\u4E3B\u673A\u8BBF\u95EE\u5F53\u524D\u8282\u70B9\u3002",paraId:84,tocIndex:8},{value:"\u53EF\u4EE5\u914D\u7F6E\u4E3A 0.0.0.0 \uFF0C\u8868\u793A\u6240\u6709\u4E3B\u673A\u5747\u53EF\u8BBF\u95EE\u3002",paraId:84,tocIndex:8},{value:`#ES\u5F00\u542F\u8FDC\u7A0B\u8BBF\u95EE  
+network.host: 0.0.0.0
+`,paraId:85,tocIndex:8},{value:"http.port",paraId:86,tocIndex:8},{value:"\u914D\u7F6E\u5F53\u524D ES \u8282\u70B9",paraId:87,tocIndex:8},{value:"\u5BF9\u5916\u63D0\u4F9B\u670D\u52A1\u7684 http \u7AEF\u53E3",paraId:87,tocIndex:8},{value:"\uFF0C\u9ED8\u8BA4\u503C 9200",paraId:87,tocIndex:8},{value:"discovery.seed_hosts",paraId:88,tocIndex:8},{value:"\u914D\u7F6E\u53C2\u4E0E",paraId:89,tocIndex:8},{value:"\u96C6\u7FA4\u8282\u70B9\u53D1\u73B0\u8FC7\u7A0B\u7684\u4E3B\u673A\u5217\u8868",paraId:89,tocIndex:8},{value:"\uFF0C\u8BF4\u767D\u4E00\u70B9\u5C31\u662F\u96C6\u7FA4\u4E2D\u6240\u6709\u8282\u70B9\u6240\u5728\u7684\u4E3B\u673A\u5217\u8868\uFF0C\u53EF\u4EE5\u662F\u5177\u4F53\u7684 IP \u5730\u5740\uFF0C\u4E5F\u53EF\u4EE5\u662F\u53EF\u89E3\u6790\u7684\u57DF\u540D\u3002",paraId:89,tocIndex:8},{value:"cluster.initial_master_nodes",paraId:90,tocIndex:8},{value:"\u914D\u7F6E ES ",paraId:91,tocIndex:8},{value:"\u96C6\u7FA4\u521D\u59CB\u5316\u65F6\u53C2\u4E0E master \u9009\u4E3E\u7684\u8282\u70B9\u540D\u79F0\u5217\u8868",paraId:91,tocIndex:8},{value:"\uFF0C\u5FC5\u987B\u4E0E node.name \u914D\u7F6E\u7684\u4E00\u81F4\u3002",paraId:91,tocIndex:8},{value:"ES \u96C6\u7FA4\u9996\u6B21\u6784\u5EFA\u5B8C\u6210\u540E\uFF0C\u5E94\u8BE5\u5C06\u96C6\u7FA4\u4E2D\u6240\u6709\u8282\u70B9\u7684\u914D\u7F6E\u6587\u4EF6\u4E2D\u7684 ",paraId:92,tocIndex:8},{value:"cluster.initial_master_nodes",paraId:92,tocIndex:8},{value:" \u914D\u7F6E\u9879\u79FB\u9664\uFF0C\u91CD\u542F\u96C6\u7FA4\u6216\u8005\u5C06\u65B0\u8282\u70B9\u52A0\u5165\u67D0\u4E2A\u5DF2\u5B58\u5728\u7684\u96C6\u7FA4\u65F6\u5207\u8BB0\u4E0D\u8981\u8BBE\u7F6E\u8BE5\u914D\u7F6E\u9879\u3002",paraId:92,tocIndex:8},{value:"\u4FEE\u6539 JVM \u914D\u7F6E",paraId:93,tocIndex:8},{value:"\u4FEE\u6539 config/jvm.options \u914D\u7F6E\u6587\u4EF6\uFF0C\u8C03\u6574 jvm \u5806\u5185\u5B58\u5927\u5C0F",paraId:94,tocIndex:8},{value:`vim jvm.options
+-Xms4g
+-Xmx4g
+`,paraId:95,tocIndex:8},{value:"\u914D\u7F6E\u7684\u5EFA\u8BAE",paraId:96,tocIndex:8},{value:"Xms \u548C Xms \u8BBE\u7F6E\u6210 \u2014 \u6837",paraId:97,tocIndex:8},{value:"Xmx \u4E0D\u8981\u8D85\u8FC7\u673A\u5668\u5185\u5B58\u7684 50%",paraId:98,tocIndex:8},{value:"\u4E0D\u8981\u8D85\u8FC7 30GB - ",paraId:99,tocIndex:8},{value:"https://www.elastic.co/cn/blog/a-heap-of-trouble",paraId:99,tocIndex:8},{value:"\u542F\u52A8 ElasticSearch \u670D\u52A1",paraId:100,tocIndex:8},{value:"Windows",paraId:101,tocIndex:8},{value:"\u76F4\u63A5\u8FD0\u884C elasticsearch.bat",paraId:102,tocIndex:8},{value:"Linux\uFF08centos7\uFF09",paraId:103,tocIndex:8},{value:"\u590D\u6742\uFF0C\u89C1\u6559\u7A0B\uFF1A",paraId:103,tocIndex:8},{value:"https://note.youdao.com/ynoteshare/index.html?id=d5d5718ae542f274ba0fda4284a53231&type=note&_time=1715228771831",paraId:104,tocIndex:8},{value:"\u5BA2\u6237\u7AEF Kibana \u5B89\u88C5",paraId:105,tocIndex:8},{value:" ",paraId:105,tocIndex:8},{value:"\u7565",paraId:105,tocIndex:8},{value:"Elasticsearch \u5B89\u88C5\u5206\u8BCD\u63D2\u4EF6",paraId:16},{value:"Elasticsearch \u63D0\u4F9B\u63D2\u4EF6\u673A\u5236\u5BF9\u7CFB\u7EDF\u8FDB\u884C\u6269\u5C55",paraId:106,tocIndex:9},{value:"\u4EE5\u5B89\u88C5 analysis-icu \u8FD9\u4E2A\u5206\u8BCD\u63D2\u4EF6\u4E3A\u4F8B",paraId:107,tocIndex:9},{value:"\u5728\u7EBF\u5B89\u88C5",paraId:108,tocIndex:9},{value:`#\u67E5\u770B\u5DF2\u5B89\u88C5\u63D2\u4EF6
+bin/elasticsearch-plugin list
+#\u5B89\u88C5\u63D2\u4EF6
+bin/elasticsearch-plugin install analysis-icu
+#\u5220\u9664\u63D2\u4EF6
+bin/elasticsearch-plugin remove analysis-icu
+`,paraId:109,tocIndex:9},{value:"\u6CE8\u610F\uFF1A\u5B89\u88C5\u548C\u5220\u9664\u5B8C\u63D2\u4EF6\u540E\uFF0C\u9700\u8981\u91CD\u542F ES \u670D\u52A1\u624D\u80FD\u751F\u6548\u3002",paraId:110,tocIndex:9},{value:"\u6D4B\u8BD5\u5206\u8BCD\u6548\u679C",paraId:111,tocIndex:9},{value:`POST _analyze
+{
+    "analyzer":"icu_analyzer",
+    "text":"\u4E2D\u534E\u4EBA\u6C11\u5171\u548C\u56FD"
+}
+`,paraId:112,tocIndex:9},{value:"\u79BB\u7EBF\u5B89\u88C5",paraId:113,tocIndex:9},{value:"\u672C\u5730\u4E0B\u8F7D\u76F8\u5E94\u7684\u63D2\u4EF6\uFF0C\u89E3\u538B\uFF0C\u7136\u540E\u624B\u52A8\u4E0A\u4F20\u5230 elasticsearch \u7684 plugins \u76EE\u5F55\uFF0C\u7136\u540E\u91CD\u542F ES \u5B9E\u4F8B\u5C31\u53EF\u4EE5\u4E86\u3002",paraId:114,tocIndex:9},{value:"\u6BD4\u5982 ik \u4E2D\u6587\u5206\u8BCD\u63D2\u4EF6\uFF1A",paraId:115,tocIndex:9},{value:"https://github.com/medcl/elasticsearch-analysis-ik",paraId:115,tocIndex:9},{value:"\u6D4B\u8BD5\u5206\u8BCD\u6548\u679C",paraId:116,tocIndex:9},{value:`#ES\u7684\u9ED8\u8BA4\u5206\u8BCD\u8BBE\u7F6E\u662Fstandard\uFF0C\u4F1A\u5355\u5B57\u62C6\u5206
+POST _analyze
+{
+    "analyzer":"standard",
+    "text":"\u4E2D\u534E\u4EBA\u6C11\u5171\u548C\u56FD"
+}
+
+#ik_smart:\u4F1A\u505A\u6700\u7C97\u7C92\u5EA6\u7684\u62C6
+POST _analyze
+{
+    "analyzer": "ik_smart",
+    "text": "\u4E2D\u534E\u4EBA\u6C11\u5171\u548C\u56FD"
+ }
+
+#ik_max_word:\u4F1A\u5C06\u6587\u672C\u505A\u6700\u7EC6\u7C92\u5EA6\u7684\u62C6\u5206
+POST _analyze
+{
+    "analyzer":"ik_max_word",
+    "text":"\u4E2D\u534E\u4EBA\u6C11\u5171\u548C\u56FD"
+}
+`,paraId:117,tocIndex:9},{value:"\u521B\u5EFA\u7D22\u5F15\u65F6\u53EF\u4EE5\u6307\u5B9A IK \u5206\u8BCD\u5668\u4F5C\u4E3A\u9ED8\u8BA4\u5206\u8BCD\u5668",paraId:118,tocIndex:9},{value:`PUT /es_db
+{
+    "settings" : {
+        "index" : {
+            "analysis.analyzer.default.type": "ik_max_word"
+        }
+    }
+}
+`,paraId:119,tocIndex:9},{value:"ElasticSearch \u57FA\u672C\u6982\u5FF5",paraId:16},{value:"\u5173\u7CFB\u578B\u6570\u636E\u5E93 VS ElasticSearch",paraId:120,tocIndex:10},{value:"\u5728 7.0 \u4E4B\u524D\uFF0C\u4E00\u4E2A Index \u53EF\u4EE5\u8BBE\u7F6E\u591A\u4E2A Types",paraId:121,tocIndex:10},{value:"\u76EE\u524D Type \u5DF2\u7ECF\u88AB Deprecated\uFF0C7.0 \u5F00\u59CB\uFF0C\u4E00\u4E2A\u7D22\u5F15\u53EA\u80FD\u521B\u5EFA\u4E00\u4E2A Type - \u201C_doc\u201D",paraId:122,tocIndex:10},{value:"\u4F20\u7EDF\u5173\u7CFB\u578B\u6570\u636E\u5E93\u548C Elasticsearch \u7684\u533A\u522B:",paraId:123,tocIndex:10},{value:"Elasticsearch- Schemaless / \u76F8\u5173\u6027 / \u9AD8\u6027\u80FD\u5168\u6587\u68C0\u7D22",paraId:124,tocIndex:10},{value:"RDMS \u2014 \u4E8B\u52A1\u6027 / Join",paraId:125,tocIndex:10},{value:"\u7D22\u5F15\uFF08Index\uFF09",paraId:16},{value:"\u4E00\u4E2A\u7D22\u5F15\u5C31\u662F\u4E00\u4E2A\u62E5\u6709\u51E0\u5206\u76F8\u4F3C\u7279\u5F81\u7684\u6587\u6863\u7684\u96C6\u5408",paraId:126,tocIndex:11},{value:"\u6BD4\u5982\u8BF4\uFF0C\u53EF\u4EE5\u6709\u4E00\u4E2A\u5BA2\u6237\u6570\u636E\u7684\u7D22\u5F15\uFF0C\u53E6\u4E00\u4E2A\u4EA7\u54C1\u76EE\u5F55\u7684\u7D22\u5F15\uFF0C\u8FD8\u6709\u4E00\u4E2A\u8BA2\u5355\u6570\u636E\u7684\u7D22\u5F15",paraId:127,tocIndex:11},{value:"\u4E00\u4E2A\u7D22\u5F15\u7531\u4E00\u4E2A\u540D\u5B57\u6765\u6807\u8BC6\uFF08\u5FC5\u987B\u5168\u90E8\u662F\u5C0F\u5199\u5B57\u6BCD\u7684\uFF09",paraId:128,tocIndex:11},{value:"\uFF0C\u5E76\u4E14\u5F53\u6211\u4EEC\u8981\u5BF9\u5BF9\u5E94\u4E8E\u8FD9\u4E2A\u7D22\u5F15\u4E2D\u7684\u6587\u6863\u8FDB\u884C\u7D22\u5F15\u3001\u641C\u7D22\u3001\u66F4\u65B0\u548C\u5220\u9664\u7684\u65F6\u5019\uFF0C\u90FD\u8981\u4F7F\u7528\u5230\u8FD9\u4E2A\u540D\u5B57",paraId:128,tocIndex:11},{value:"\u6587\u6863\uFF08Document\uFF09",paraId:16},{value:"Elasticsearch \u662F\u9762\u5411\u6587\u6863\u7684\uFF0C\u6587\u6863\u662F\u6240\u6709\u53EF\u641C\u7D22\u6570\u636E\u7684\u6700\u5C0F\u5355\u4F4D\u3002",paraId:129,tocIndex:12},{value:"\u65E5\u5FD7\u6587\u4EF6\u4E2D\u7684\u65E5\u5FD7\u9879",paraId:130,tocIndex:12},{value:"\u4E00\u672C\u7535\u5F71\u7684\u5177\u4F53\u4FE1\u606F / \u4E00\u5F20\u5531\u7247\u7684\u8BE6\u7EC6\u4FE1\u606F",paraId:131,tocIndex:12},{value:"MP3 \u64AD\u653E\u5668\u91CC\u7684\u4E00\u9996\u6B4C / \u4E00\u7BC7 PDF \u6587\u6863\u4E2D\u7684\u5177\u4F53\u5185\u5BB9",paraId:132,tocIndex:12},{value:"\u6587\u6863\u4F1A\u88AB\u5E8F\u5217\u5316\u6210 JSON \u683C\u5F0F\uFF0C\u4FDD\u5B58\u5728 Elasticsearch \u4E2D",paraId:133,tocIndex:12},{value:"JSON \u5BF9\u8C61\u7531\u5B57\u6BB5\u7EC4\u6210",paraId:134,tocIndex:12},{value:"\u6BCF\u4E2A\u5B57\u6BB5\u90FD\u6709\u5BF9\u5E94\u7684\u5B57\u6BB5\u7C7B\u578B (\u5B57\u7B26\u4E32 / \u6570\u503C / \u5E03\u5C14 / \u65E5\u671F / \u4E8C\u8FDB\u5236 / \u8303\u56F4\u7C7B\u578B)",paraId:135,tocIndex:12},{value:"\u6BCF\u4E2A\u6587\u6863\u90FD\u6709\u4E00\u4E2A Unique ID",paraId:136,tocIndex:12},{value:"\u53EF\u4EE5\u81EA\u5DF1\u6307\u5B9A ID \u6216\u8005\u901A\u8FC7 Elasticsearch \u81EA\u52A8\u751F\u6210",paraId:137,tocIndex:12},{value:"\u4E00\u7BC7\u6587\u6863\u5305\u542B\u4E86\u4E00\u7CFB\u5217\u5B57\u6BB5\uFF0C\u7C7B\u4F3C\u6570\u636E\u5E93\u8868\u4E2D\u7684\u4E00\u6761\u8BB0\u5F55",paraId:138,tocIndex:12},{value:"JSON \u6587\u6863\uFF0C\u683C\u5F0F\u7075\u6D3B\uFF0C\u4E0D\u9700\u8981\u9884\u5148\u5B9A\u4E49\u683C\u5F0F",paraId:139,tocIndex:12},{value:"\u5B57\u6BB5\u7684\u7C7B\u578B\u53EF\u4EE5\u6307\u5B9A\u6216\u8005\u901A\u8FC7 Elasticsearch \u81EA\u52A8\u63A8\u7B97",paraId:140,tocIndex:12},{value:"\u652F\u6301\u6570\u7EC4 / \u652F\u6301\u5D4C\u5957",paraId:141,tocIndex:12},{value:"\u6587\u6863\u5143\u6570\u636E",paraId:142,tocIndex:12},{value:"\u5143\u6570\u636E\uFF0C\u7528\u4E8E\u6807\u6CE8\u6587\u6863\u7684\u76F8\u5173\u4FE1\u606F\uFF1A",paraId:143,tocIndex:12},{value:"_index\uFF1A\u6587\u6863\u6240\u5C5E\u7684\u7D22\u5F15\u540D",paraId:144,tocIndex:12},{value:"_type\uFF1A\u6587\u6863\u6240\u5C5E\u7684\u7C7B\u578B\u540D",paraId:145,tocIndex:12},{value:"_id\uFF1A\u6587\u6863\u552F \u2014ld",paraId:146,tocIndex:12},{value:"_source: \u6587\u6863\u7684\u539F\u59CB Json \u6570\u636E",paraId:147,tocIndex:12},{value:"_version: ",paraId:148,tocIndex:12},{value:" \u6587\u6863\u7684\u7248\u672C\u53F7\uFF0C\u4FEE\u6539\u5220\u9664\u64CD\u4F5C_version \u90FD\u4F1A\u81EA\u589E 1",paraId:148,tocIndex:12},{value:"_",paraId:149,tocIndex:12},{value:"seq_no:  ",paraId:149,tocIndex:12},{value:"\u548C",paraId:149,tocIndex:12},{value:"_version",paraId:149,tocIndex:12},{value:" \u4E00\u6837\uFF0C\u4E00\u65E6\u6570\u636E\u53D1\u751F\u66F4\u6539\uFF0C\u6570\u636E\u4E5F\u4E00\u76F4\u662F\u7D2F\u8BA1\u7684\u3002Shard \u7EA7\u522B\u4E25\u683C\u9012\u589E\uFF0C\u4FDD\u8BC1\u540E\u5199\u5165\u7684 Doc \u7684_seq_no \u5927\u4E8E\u5148\u5199\u5165\u7684 Doc \u7684_seq_no\u3002",paraId:149,tocIndex:12},{value:"_primary_term: _primary_term ",paraId:150,tocIndex:12},{value:"\u4E3B\u8981\u662F\u7528\u6765\u6062\u590D\u6570\u636E\u65F6\u5904\u7406\u5F53\u591A\u4E2A\u6587\u6863\u7684",paraId:150,tocIndex:12},{value:"_seq_no ",paraId:150,tocIndex:12},{value:"\u4E00\u6837\u65F6\u7684\u51B2\u7A81\uFF0C\u907F\u514D",paraId:150,tocIndex:12},{value:" Primary Shard",paraId:150,tocIndex:12},{value:" \u4E0A\u7684\u5199\u5165\u88AB\u8986\u76D6\u3002\u6BCF\u5F53 Primary Shard \u53D1\u751F\u91CD\u65B0\u5206\u914D\u65F6\uFF0C\u6BD4\u5982\u91CD\u542F\uFF0CPrimary \u9009\u4E3E\u7B49\uFF0C_primary_term \u4F1A\u9012\u589E 1\u3002",paraId:150,tocIndex:12},{value:"\u521B\u5EFA\u7D22\u5F15",paraId:16},{value:"\u7D22\u5F15\u547D\u540D\u5FC5\u987B\u5C0F\u5199\uFF0C\u4E0D\u80FD\u4EE5\u4E0B\u5212\u7EBF\u5F00\u5934",paraId:151,tocIndex:14},{value:"\u683C\u5F0F: PUT / \u7D22\u5F15\u540D\u79F0",paraId:152,tocIndex:14},{value:`#\u521B\u5EFA\u7D22\u5F15
+PUT /es_db
+
+#\u521B\u5EFA\u7D22\u5F15\u65F6\u53EF\u4EE5\u8BBE\u7F6E\u5206\u7247\u6570\u548C\u526F\u672C\u6570
+PUT /es_db
+{
+    "settings" : {
+        "number_of_shards" : 3,
+        "number_of_replicas" : 2
+    }
+}
+
+#\u4FEE\u6539\u7D22\u5F15\u914D\u7F6E
+PUT /es_db/_settings
+{
+    "index" : {
+        "number_of_replicas" : 1
+    }
+}
+`,paraId:153,tocIndex:14},{value:"\u67E5\u8BE2\u7D22\u5F15",paraId:16},{value:"\u683C\u5F0F: GET / \u7D22\u5F15\u540D\u79F0",paraId:154,tocIndex:15},{value:`#\u67E5\u8BE2\u7D22\u5F15
+GET /es_db
+ 
+#es_db\u662F\u5426\u5B58\u5728
+HEAD /es_db
+`,paraId:155,tocIndex:15},{value:"\u5220\u9664\u7D22\u5F15",paraId:156,tocIndex:15},{value:"\u683C\u5F0F: DELETE / \u7D22\u5F15\u540D\u79F0",paraId:157,tocIndex:15},{value:`DELETE /es_db
+`,paraId:158,tocIndex:15},{value:"ElasticSearch \u6587\u6863\u64CD\u4F5C",paraId:159,tocIndex:15},{value:"\u793A\u4F8B\u6570\u636E",paraId:160,tocIndex:15},{value:`PUT /es_db
+{
+    "settings" : {
+        "index" : {
+            "analysis.analyzer.default.type": "ik_max_word"
+        }
+    }
+}
+ 
+PUT /es_db/_doc/1
+{
+"name": "\u5F20\u4E09",
+"sex": 1,
+"age": 25,
+"address": "\u5E7F\u5DDE\u5929\u6CB3\u516C\u56ED",
+"remark": "java developer"
+}
+
+PUT /es_db/_doc/2
+{
+"name": "\u674E\u56DB",
+"sex": 1,
+"age": 28,
+"address": "\u5E7F\u5DDE\u8354\u6E7E\u5927\u53A6",
+"remark": "java assistant"
+}
+ 
+PUT /es_db/_doc/3
+{
+"name": "\u738B\u4E94",
+"sex": 0,
+"age": 26,
+"address": "\u5E7F\u5DDE\u767D\u4E91\u5C71\u516C\u56ED",
+"remark": "php developer"
+}
+ 
+PUT /es_db/_doc/4
+{
+"name": "\u8D75\u516D",
+"sex": 0,
+"age": 22,
+"address": "\u957F\u6C99\u6A58\u5B50\u6D32",
+"remark": "python assistant"
+}
+ 
+PUT /es_db/_doc/5
+{
+"name": "\u5F20\u9F99",
+"sex": 0,
+"age": 19,
+"address": "\u957F\u6C99\u9E93\u8C37\u4F01\u4E1A\u5E7F\u573A",
+"remark": "java architect assistant"
+}	
+	
+PUT /es_db/_doc/6
+{
+"name": "\u8D75\u864E",
+"sex": 1,
+"age": 32,
+"address": "\u957F\u6C99\u9E93\u8C37\u5174\u5DE5\u56FD\u9645\u4EA7\u4E1A\u56ED",
+"remark": "java architect"
+}	
+`,paraId:161,tocIndex:15},{value:"\u683C\u5F0F: [PUT | POST] / \u7D22\u5F15\u540D\u79F0 /[_doc  | _create ]/id",paraId:162,tocIndex:16},{value:`# \u521B\u5EFA\u6587\u6863,\u6307\u5B9Aid
+# \u5982\u679Cid\u4E0D\u5B58\u5728\uFF0C\u521B\u5EFA\u65B0\u7684\u6587\u6863\uFF0C\u5426\u5219\u5148\u5220\u9664\u73B0\u6709\u6587\u6863\uFF0C\u518D\u521B\u5EFA\u65B0\u7684\u6587\u6863\uFF0C\u7248\u672C\u4F1A\u589E\u52A0
+PUT /es_db/_doc/1
+{
+"name": "\u5F20\u4E09",
+"sex": 1,
+"age": 25,
+"address": "\u5E7F\u5DDE\u5929\u6CB3\u516C\u56ED",
+"remark": "java developer"
+}	
+ 
+#\u521B\u5EFA\u6587\u6863\uFF0CES\u751F\u6210id
+POST /es_db/_doc
+{
+"name": "\u5F20\u4E09",
+"sex": 1,
+"age": 25,
+"address": "\u5E7F\u5DDE\u5929\u6CB3\u516C\u56ED",
+"remark": "java developer"
+}
+`,paraId:163,tocIndex:16},{value:"\u6CE8\u610F\uFF1APOST \u548C PUT \u90FD\u80FD\u8D77\u5230\u521B\u5EFA / \u66F4\u65B0\u7684\u4F5C\u7528\uFF0C",paraId:164,tocIndex:16},{value:"PUT \u9700\u8981\u5BF9\u4E00\u4E2A\u5177\u4F53\u7684\u8D44\u6E90\u8FDB\u884C\u64CD\u4F5C\u4E5F\u5C31\u662F\u8981\u786E\u5B9A id \u624D\u80FD\u8FDB\u884C\u66F4\u65B0 / \u521B\u5EFA",paraId:164,tocIndex:16},{value:"\uFF0C\u800C ",paraId:164,tocIndex:16},{value:"POST \u662F\u53EF\u4EE5\u9488\u5BF9\u6574\u4E2A\u8D44\u6E90\u96C6\u5408\u8FDB\u884C\u64CD\u4F5C\u7684\uFF0C\u5982\u679C\u4E0D\u5199 id \u5C31\u7531 ES \u751F\u6210\u4E00\u4E2A\u552F\u4E00 id \u8FDB\u884C\u521B\u5EFA\u65B0\u6587\u6863",paraId:164,tocIndex:16},{value:"\uFF0C\u5982\u679C\u586B\u4E86 id \u90A3\u5C31\u9488\u5BF9\u8FD9\u4E2A id \u7684\u6587\u6863\u8FDB\u884C\u521B\u5EFA / \u66F4\u65B0",paraId:164,tocIndex:16},{value:"Create - \u5982\u679C ID \u5DF2\u7ECF\u5B58\u5728\uFF0C\u4F1A\u5931\u8D25",paraId:165,tocIndex:16},{value:"\u4FEE\u6539\u6587\u6863",paraId:16},{value:"\u4F7F\u7528",paraId:166,tocIndex:17},{value:"_update",paraId:166,tocIndex:17},{value:" \u90E8\u5206\u66F4\u65B0\uFF0C\u683C\u5F0F: POST / \u7D22\u5F15\u540D\u79F0 /_update/id",paraId:166,tocIndex:17},{value:"update \u4E0D\u4F1A\u5220\u9664\u539F\u6765\u7684\u6587\u6863\uFF0C\u800C\u662F\u5B9E\u73B0\u771F\u6B63\u7684\u6570\u636E\u66F4\u65B0",paraId:167,tocIndex:17},{value:`# \u90E8\u5206\u66F4\u65B0\uFF1A\u5728\u539F\u6709\u6587\u6863\u4E0A\u66F4\u65B0
+# Update -\u6587\u6863\u5FC5\u987B\u5DF2\u7ECF\u5B58\u5728\uFF0C\u66F4\u65B0\u53EA\u4F1A\u5BF9\u76F8\u5E94\u5B57\u6BB5\u505A\u589E\u91CF\u4FEE\u6539
+POST /es_db/_update/1
+{
+  "doc": {
+    "age": 28
+  }
+}
+ 
+#\u67E5\u8BE2\u6587\u6863
+GET /es_db/_doc/1
+`,paraId:168,tocIndex:17},{value:"\u4F7F\u7528 _update_by_query \u66F4\u65B0\u6587\u6863",paraId:169,tocIndex:17},{value:`POST /es_db/_update_by_query
+{
+  "query": { 
+    "match": {
+      "_id": 1
+    }
+  },
+  "script": {
+    "source": "ctx._source.age = 30"
+  }
+}
+`,paraId:170,tocIndex:17},{value:"\u5E76\u53D1\u573A\u666F\u4E0B\u4FEE\u6539\u6587\u6863",paraId:171,tocIndex:17},{value:"_seq_no ",paraId:172,tocIndex:17},{value:"\u548C",paraId:172,tocIndex:17},{value:"_primary_term",paraId:172,tocIndex:17},{value:" \u662F\u5BF9",paraId:172,tocIndex:17},{value:"_version",paraId:172,tocIndex:17},{value:" \u7684\u4F18\u5316\uFF0C7.X \u7248\u672C\u7684 ES \u9ED8\u8BA4\u4F7F\u7528\u8FD9\u79CD\u65B9\u5F0F\u63A7\u5236\u7248\u672C\uFF0C\u6240\u4EE5\u5F53\u5728\u9AD8\u5E76\u53D1\u73AF\u5883\u4E0B\u4F7F\u7528\u4E50\u89C2\u9501\u673A\u5236\u4FEE\u6539\u6587\u6863\u65F6\uFF0C\u8981\u5E26\u4E0A\u5F53\u524D\u6587\u6863\u7684",paraId:172,tocIndex:17},{value:"_seq_no ",paraId:172,tocIndex:17},{value:"\u548C",paraId:172,tocIndex:17},{value:"_primary_term",paraId:172,tocIndex:17},{value:" \u8FDB\u884C\u66F4\u65B0\uFF1A",paraId:172,tocIndex:17},{value:`POST /es_db/_doc/2?if_seq_no=21&if_primary_term=6
+{
+  "name": "\u674E\u56DBxxx"
+}
+`,paraId:173,tocIndex:17},{value:"\u5982\u679C\u7248\u672C\u53F7\u4E0D\u5BF9\uFF0C\u4F1A\u629B\u51FA\u7248\u672C\u51B2\u7A81\u5F02\u5E38",paraId:174,tocIndex:17},{value:"\u6839\u636E id \u67E5\u8BE2\u6587\u6863\uFF0C\u683C\u5F0F: ",paraId:175,tocIndex:18},{value:"GET / \u7D22\u5F15\u540D\u79F0 /_doc/id",paraId:175,tocIndex:18},{value:`GET /es_db/_doc/1
+`,paraId:176,tocIndex:18},{value:"\u6761\u4EF6\u67E5\u8BE2 ",paraId:177,tocIndex:18},{value:"_search",paraId:177,tocIndex:18},{value:"\uFF0C\u683C\u5F0F\uFF1A ",paraId:177,tocIndex:18},{value:"/ \u7D22\u5F15\u540D\u79F0 /_doc/_search",paraId:177,tocIndex:18},{value:`# \u67E5\u8BE2\u524D10\u6761\u6587\u6863
+GET /es_db/_doc/_search
+`,paraId:178,tocIndex:18},{value:"ES Search API \u63D0\u4F9B\u4E86\u4E24\u79CD\u6761\u4EF6\u67E5\u8BE2\u641C\u7D22\u65B9\u5F0F\uFF1A",paraId:179,tocIndex:18},{value:"REST \u98CE\u683C\u7684\u8BF7\u6C42 URI\uFF0C\u76F4\u63A5\u5C06\u53C2\u6570\u5E26\u8FC7\u53BB",paraId:180,tocIndex:18},{value:"\u5C01\u88C5\u5230 request body \u4E2D\uFF0C\u8FD9\u79CD\u65B9\u5F0F\u53EF\u4EE5\u5B9A\u4E49\u66F4\u52A0\u6613\u8BFB\u7684 JSON \u683C\u5F0F",paraId:181,tocIndex:18},{value:`#\u901A\u8FC7URI\u641C\u7D22\uFF0C\u4F7F\u7528\u201Cq\u201D\u6307\u5B9A\u67E5\u8BE2\u5B57\u7B26\u4E32\uFF0C\u201Cquery string syntax\u201D KV\u952E\u503C\u5BF9
+ 
+#\u6761\u4EF6\u67E5\u8BE2, \u5982\u8981\u67E5\u8BE2age\u7B49\u4E8E28\u5C81\u7684 _search?q=*:***
+GET /es_db/_doc/_search?q=age:28
+ 
+#\u8303\u56F4\u67E5\u8BE2, \u5982\u8981\u67E5\u8BE2age\u572825\u81F326\u5C81\u4E4B\u95F4\u7684 _search?q=***[** TO **]  \u6CE8\u610F: TO \u5FC5\u987B\u4E3A\u5927\u5199
+GET /es_db/_doc/_search?q=age[25 TO 26]
+ 
+#\u67E5\u8BE2\u5E74\u9F84\u5C0F\u4E8E\u7B49\u4E8E28\u5C81\u7684 :<=
+GET /es_db/_doc/_search?q=age:<=28
+#\u67E5\u8BE2\u5E74\u9F84\u5927\u4E8E28\u524D\u7684 :>
+GET /es_db/_doc/_search?q=age:>28
+ 
+#\u5206\u9875\u67E5\u8BE2 from=*&size=*
+GET /es_db/_doc/_search?q=age[25 TO 26]&from=0&size=1
+ 
+#\u5BF9\u67E5\u8BE2\u7ED3\u679C\u53EA\u8F93\u51FA\u67D0\u4E9B\u5B57\u6BB5 _source=\u5B57\u6BB5,\u5B57\u6BB5
+GET /es_db/_doc/_search?_source=name,age
+ 
+#\u5BF9\u67E5\u8BE2\u7ED3\u679C\u6392\u5E8F sort=\u5B57\u6BB5:desc/asc
+GET /es_db/_doc/_search?sort=age:desc
+`,paraId:182,tocIndex:18},{value:"\u5220\u9664\u6587\u6863",paraId:16},{value:"\u683C\u5F0F: DELETE / \u7D22\u5F15\u540D\u79F0 /_doc/id",paraId:183,tocIndex:19},{value:`DELETE /es_db/_doc/1
+`,paraId:184,tocIndex:19},{value:"\u6279\u91CF\u64CD\u4F5C\u53EF\u4EE5\u51CF\u5C11\u7F51\u7EDC\u8FDE\u63A5\u6240\u4EA7\u751F\u7684\u5F00\u9500\uFF0C\u63D0\u5347\u6027\u80FD",paraId:185,tocIndex:20},{value:"\u652F\u6301\u5728\u4E00\u6B21 API \u8C03\u7528\u4E2D\uFF0C\u5BF9\u4E0D\u540C\u7684\u7D22\u5F15\u8FDB\u884C\u64CD\u4F5C",paraId:186,tocIndex:20},{value:"\u53EF\u4EE5\u5728 URI \u4E2D\u6307\u5B9A Index\uFF0C\u4E5F\u53EF\u4EE5\u5728\u8BF7\u6C42\u7684 Payload \u4E2D\u8FDB\u884C",paraId:187,tocIndex:20},{value:"\u64CD\u4F5C\u4E2D\u5355\u6761\u64CD\u4F5C\u5931\u8D25\uFF0C\u5E76\u4E0D\u4F1A\u5F71\u54CD\u5176\u4ED6\u64CD\u4F5C",paraId:188,tocIndex:20},{value:"\u8FD4\u56DE\u7ED3\u679C\u5305\u62EC\u4E86\u6BCF\u4E00\u6761\u64CD\u4F5C\u6267\u884C\u7684\u7ED3\u679C",paraId:189,tocIndex:20},{value:"\u6279\u91CF\u5199\u5165",paraId:190,tocIndex:20},{value:"\u6279\u91CF\u5BF9\u6587\u6863\u8FDB\u884C\u5199\u64CD\u4F5C\u662F\u901A\u8FC7_bulk \u7684 API \u6765\u5B9E\u73B0\u7684",paraId:191,tocIndex:20},{value:"\u8BF7\u6C42\u65B9\u5F0F\uFF1APOST",paraId:192,tocIndex:20},{value:"\u8BF7\u6C42\u5730\u5740\uFF1A_bulk",paraId:193,tocIndex:20},{value:"\u8BF7\u6C42\u53C2\u6570\uFF1A\u901A\u8FC7_bulk \u64CD\u4F5C\u6587\u6863\uFF0C\u4E00\u822C\u81F3\u5C11\u6709\u4E24\u884C\u53C2\u6570 (\u6216\u5076\u6570\u884C\u53C2\u6570)",paraId:194,tocIndex:20},{value:"\u7B2C\u4E00\u884C\u53C2\u6570\u4E3A\u6307\u5B9A\u64CD\u4F5C\u7684\u7C7B\u578B\u53CA\u64CD\u4F5C\u7684\u5BF9\u8C61 (index,type \u548C id)",paraId:195,tocIndex:20},{value:"\u7B2C\u4E8C\u884C\u53C2\u6570\u624D\u662F\u64CD\u4F5C\u7684\u6570\u636E",paraId:196,tocIndex:20},{value:"\u53C2\u6570\u7C7B\u4F3C\u4E8E\uFF1A",paraId:197,tocIndex:20},{value:`{"actionName":{"_index":"indexName", "_type":"typeName","_id":"id"}}
+{"field1":"value1", "field2":"value2"}
+`,paraId:198,tocIndex:20},{value:"actionName\uFF1A\u8868\u793A\u64CD\u4F5C\u7C7B\u578B\uFF0C\u4E3B\u8981\u6709 create,index,delete \u548C update",paraId:199,tocIndex:20},{value:"\u6279\u91CF\u521B\u5EFA\u6587\u6863 create",paraId:200,tocIndex:20},{value:`POST _bulk
+{"create":{"_index":"article", "_type":"_doc", "_id":3}}
+{"id":3,"title":"fox\u8001\u5E08","content":"fox\u8001\u5E08666","tags":["java", "\u9762\u5411\u5BF9\u8C61"],"create_time":1554015482530}
+{"create":{"_index":"article", "_type":"_doc", "_id":4}}
+{"id":4,"title":"mark\u8001\u5E08","content":"mark\u8001\u5E08NB","tags":["java", "\u9762\u5411\u5BF9\u8C61"],"create_time":1554015482530}
+`,paraId:201,tocIndex:20},{value:"\u666E\u901A\u521B\u5EFA\u6216\u5168\u91CF\u66FF\u6362 index",paraId:202,tocIndex:20},{value:`POST _bulk
+{"index":{"_index":"article", "_type":"_doc", "_id":3}}
+{"id":3,"title":"\u56FE\u7075\u5F90\u5EB6\u8001\u5E08","content":"\u56FE\u7075\u5B66\u9662\u5F90\u5EB6\u8001\u5E08666","tags":["java", "\u9762\u5411\u5BF9\u8C61"],"create_time":1554015482530}
+{"index":{"_index":"article", "_type":"_doc", "_id":4}}
+{"id":4,"title":"\u56FE\u7075\u8BF8\u845B\u8001\u5E08","content":"\u56FE\u7075\u5B66\u9662\u8BF8\u845B\u8001\u5E08NB","tags":["java", "\u9762\u5411\u5BF9\u8C61"],"create_time":1554015482530}
+`,paraId:203,tocIndex:20},{value:"\u5982\u679C\u539F\u6587\u6863\u4E0D\u5B58\u5728\uFF0C\u5219\u662F\u521B\u5EFA",paraId:204,tocIndex:20},{value:"\u5982\u679C\u539F\u6587\u6863\u5B58\u5728\uFF0C\u5219\u662F\u66FF\u6362 (\u5168\u91CF\u4FEE\u6539\u539F\u6587\u6863)",paraId:205,tocIndex:20},{value:"\u6279\u91CF\u5220\u9664 delete",paraId:206,tocIndex:20},{value:`POST _bulk
+{"delete":{"_index":"article", "_type":"_doc", "_id":3}}
+{"delete":{"_index":"article", "_type":"_doc", "_id":4}}
+`,paraId:207,tocIndex:20},{value:"\u6279\u91CF\u4FEE\u6539 update",paraId:208,tocIndex:20},{value:`POST _bulk
+{"update":{"_index":"article", "_type":"_doc", "_id":3}}
+{"doc":{"title":"ES\u5927\u6CD5\u5FC5\u4FEE\u5185\u529F"}}
+{"update":{"_index":"article", "_type":"_doc", "_id":4}}
+{"doc":{"create_time":1554018421008}}
+`,paraId:209,tocIndex:20},{value:"\u7EC4\u5408\u5E94\u7528",paraId:210,tocIndex:20},{value:`POST _bulk
+{"create":{"_index":"article", "_type":"_doc", "_id":3}}
+{"id":3,"title":"fox\u8001\u5E08","content":"fox\u8001\u5E08666","tags":["java", "\u9762\u5411\u5BF9\u8C61"],"create_time":1554015482530}
+{"delete":{"_index":"article", "_type":"_doc", "_id":3}}
+{"update":{"_index":"article", "_type":"_doc", "_id":4}}
+{"doc":{"create_time":1554018421008}}
+`,paraId:211,tocIndex:20},{value:"\u6279\u91CF\u8BFB\u53D6",paraId:212,tocIndex:20},{value:"es \u7684\u6279\u91CF\u67E5\u8BE2\u53EF\u4EE5\u4F7F\u7528 mget \u548C msearch \u4E24\u79CD\u3002\u5176\u4E2D mget \u662F\u9700\u8981\u6211\u4EEC\u77E5\u9053\u5B83\u7684 id\uFF0C\u53EF\u4EE5\u6307\u5B9A\u4E0D\u540C\u7684 index\uFF0C\u4E5F\u53EF\u4EE5\u6307\u5B9A\u8FD4\u56DE\u503C source\u3002msearch \u53EF\u4EE5\u901A\u8FC7\u5B57\u6BB5\u67E5\u8BE2\u6765\u8FDB\u884C\u4E00\u4E2A\u6279\u91CF\u7684\u67E5\u627E\u3002",paraId:213,tocIndex:20},{value:"_mget",paraId:214,tocIndex:20},{value:`#\u53EF\u4EE5\u901A\u8FC7ID\u6279\u91CF\u83B7\u53D6\u4E0D\u540Cindex\u548Ctype\u7684\u6570\u636E
+GET _mget
+{
+"docs": [
+{
+"_index": "es_db",
+"_id": 1
+},
+{
+"_index": "article",
+"_id": 4
+}
+]
+}
+ 
+#\u53EF\u4EE5\u901A\u8FC7ID\u6279\u91CF\u83B7\u53D6es_db\u7684\u6570\u636E
+GET /es_db/_mget
+{
+"docs": [
+{
+"_id": 1
+},
+{
+"_id": 4
+}
+]
+}
+#\u7B80\u5316\u540E
+GET /es_db/_mget 
+{
+ "ids":["1","2"]  
+ }
+`,paraId:215,tocIndex:20},{value:"_msearch",paraId:216,tocIndex:20},{value:"\u5728_msearch \u4E2D\uFF0C\u8BF7\u6C42\u683C\u5F0F\u548C bulk \u7C7B\u4F3C\u3002\u67E5\u8BE2\u4E00\u6761\u6570\u636E\u9700\u8981\u4E24\u4E2A\u5BF9\u8C61\uFF0C\u7B2C\u4E00\u4E2A\u8BBE\u7F6E index \u548C type\uFF0C\u7B2C\u4E8C\u4E2A\u8BBE\u7F6E\u67E5\u8BE2\u8BED\u53E5\u3002\u67E5\u8BE2\u8BED\u53E5\u548C search \u76F8\u540C\u3002\u5982\u679C\u53EA\u662F\u67E5\u8BE2\u4E00\u4E2A index\uFF0C\u6211\u4EEC\u53EF\u4EE5\u5728 url \u4E2D\u5E26\u4E0A index\uFF0C\u8FD9\u6837\uFF0C\u5982\u679C\u67E5\u8BE5 index \u53EF\u4EE5\u76F4\u63A5\u7528\u7A7A\u5BF9\u8C61\u8868\u793A\u3002",paraId:217,tocIndex:20},{value:`GET /es_db/_msearch
+{}
+{"query" : {"match_all" : {}}, "from" : 0, "size" : 2}
+{"index" : "article"}
+{"query" : {"match_all" : {}}}
+`,paraId:218,tocIndex:20}]},99345:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7B14\u8BB0\u6587\u6863",paraId:0,tocIndex:0},{value:"\u6A21\u5757\u3002java\u76F8\u5173\u77E5\u8BC6\u70B9\u7684\u6DF1\u5EA6\u89E3\u6790",paraId:0,tocIndex:0},{value:"jvm->tomcat->\u5E76\u53D1->\u6E90\u7801\u6846\u67B6->redis->zookeeper->mq->netty->dubbo->elk->es->springcloud alibaba",paraId:1,tocIndex:0}]},16480:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u901A\u8FC7Java\u547D\u4EE4\u6267\u884C\u4EE3\u7801\u7684\u5927\u4F53\u6D41\u7A0B\u5982\u4E0B\uFF1A",paraId:0,tocIndex:1},{value:"\u6700\u5173\u952E\u7684\u4E00\u6B65\u5C31\u662F\uFF1A",paraId:1,tocIndex:1},{value:"\u6211\u4EEC\u7684\u7C7B\u662F\u5982\u4F55\u8FDB\u5165\u5230\u865A\u62DF\u673A\u5F53\u4E2D\u7684",paraId:1,tocIndex:1},{value:"\u52A0\u8F7D\uFF1A\u5728\u78C1\u76D8\u4E0A\u67E5\u627E\u5B57\u8282\u7801\u6587\u4EF6",paraId:2,tocIndex:1},{value:"\uFF08target/classes\u4E0B\u7684\u6587\u4EF6\uFF09",paraId:2,tocIndex:1},{value:"\u4F7F\u7528\u5230\u7C7B\u65F6\u624D\u4F1A\u52A0\u8F7D\uFF0C\u4F8B\u5982\u8C03\u7528\u7C7B\u7684**main()**\u65B9\u6CD5\uFF0C",paraId:2,tocIndex:1},{value:"new()",paraId:2,tocIndex:1},{value:"\u5BF9\u8C61\u7B49\u3002\u5728\u52A0\u8F7D\u9636\u6BB5\u4F1A\u5728\u5185\u5B58\u4E2D\u751F\u6210\u4E00\u4E2A",paraId:2,tocIndex:1},{value:"\u4EE3\u8868\u8FD9\u4E2A\u7C7B\u7684java.lang.Class\u5BF9\u8C61",paraId:2,tocIndex:1},{value:"\uFF08",paraId:2,tocIndex:1},{value:"\u53CC\u4EB2\u59D4\u6D3E",paraId:2,tocIndex:1},{value:"\uFF09\uFF0C\u4F5C\u4E3A\u65B9\u6CD5\u533A\u8FD9\u4E2A\u7C7B\u7684\u5404\u79CD\u6570\u636E\uFF08",paraId:2,tocIndex:1},{value:" \u9759\u6001\u503C",paraId:2,tocIndex:1},{value:"\uFF09\u7684\u8BBF\u95EE\u5165\u53E3",paraId:2,tocIndex:1},{value:"\u9A8C\u8BC1\uFF1A\u6821\u9A8C",paraId:3,tocIndex:1},{value:"\u5B57\u8282\u7801\u6587\u4EF6",paraId:3,tocIndex:1},{value:"\u7684\u6B63\u786E\u6027",paraId:3,tocIndex:1},{value:"\u51C6\u5907\uFF1A\u7ED9\u7C7B\u7684\u9759\u6001\u53D8\u91CF\u5206\u914D\u5185\u5B58\uFF0C\u5E76\u8D4B\u4E88",paraId:4,tocIndex:1},{value:"\u9ED8\u8BA4\u503C",paraId:4,tocIndex:1},{value:" ",paraId:4,tocIndex:1},{value:"(int\u4E3A0\uFF0CObject\u4E3Anull,boolean\u4E3Afalse)",paraId:4,tocIndex:1},{value:"\u89E3\u6790\uFF1A\u5C06",paraId:5,tocIndex:1},{value:"\u7B26\u53F7\u5F15\u7528",paraId:5,tocIndex:1},{value:"\u66FF\u6362\u4E3A\u76F4\u63A5\u5F15\u7528\uFF0C\u8BE5\u9636\u6BB5\u4F1A\u628A\u4E00\u4E9B\u9759\u6001\u65B9\u6CD5(\u7B26\u53F7\u5F15\u7528)\u66FF\u6362\u4E3A\u6307\u5411\u6570\u636E\u6240\u5B58\u5185\u5B58\u7684\u6307\u9488\u6216\u53E5\u67C4\u7B49(\u76F4\u63A5\u5F15\u7528)\uFF0C\u8FD9\u662F\u6240\u8C13\u7684",paraId:5,tocIndex:1},{value:"\u9759\u6001\u94FE\u63A5",paraId:5,tocIndex:1},{value:"\u8FC7\u7A0B(\u7C7B\u52A0\u8F7D\u671F\u95F4\u5B8C\u6210)\uFF0C",paraId:5,tocIndex:1},{value:"\u52A8\u6001\u94FE\u63A5",paraId:5,tocIndex:1},{value:"\u662F\u5728\u7A0B\u5E8F\u8FD0\u884C\u671F\u95F4\u5B8C\u6210\u7684\u5C06\u7B26\u53F7\u5F15\u7528\u66FF\u6362\u4E3A\u76F4\u63A5\u5F15\u7528",paraId:5,tocIndex:1},{value:"\u9759\u6001\u94FE\u63A5\uFF1A\u628A\u6CA1\u6709\u610F\u4E49\u7684\u7B26\u53F7\uFF08main,\u7C7B\u540D,\u65B9\u6CD5\u540D\u7B49\uFF09\u66FF\u6362\u4E3A\u8FD9\u4E9B\u7B26\u53F7\u6240\u4EE3\u8868\u7684\u5728\u5185\u5B58\u4E2D\u7684\u4F4D\u7F6E",paraId:6,tocIndex:1},{value:"\u521D\u59CB\u5316\uFF1A\u5BF9\u7C7B\u7684\u9759\u6001\u53D8\u91CF",paraId:7,tocIndex:1},{value:"\u521D\u59CB\u5316",paraId:7,tocIndex:1},{value:"\u4E3A\u6307\u5B9A\u7684\u503C",paraId:7,tocIndex:1},{value:" ",paraId:7,tocIndex:1},{value:"\uFF0C\u6267\u884C\u9759\u6001\u4EE3\u7801\u5757",paraId:7,tocIndex:1},{value:"\u8FD9\u4E9B\u6B65\u9AA4\u53EA\u662F\u5148\u628A\u7C7B\u52A0\u8F7D\u5230",paraId:8,tocIndex:1},{value:"\u65B9\u6CD5\u533A\uFF01\uFF01\uFF01\uFF01\uFF01\uFF01\uFF01",paraId:8,tocIndex:1},{value:"\u7C7B\u88AB\u52A0\u8F7D\u5230\u65B9\u6CD5\u533A\u4E2D\u540E\u4E3B\u8981\u5305\u542B\u4E86 ",paraId:9,tocIndex:1},{value:"\u8FD0\u884C\u65F6\u5E38\u91CF\u6C60\u3001\u7C7B\u578B\u4FE1\u606F\u3001\u5B57\u6BB5\u4FE1\u606F\u3001\u65B9\u6CD5\u4FE1\u606F\u3001\u7C7B\u52A0\u8F7D\u5668\u7684",paraId:9,tocIndex:1},{value:"\u5F15\u7528\u3001\u5BF9\u5E94class\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:10,tocIndex:1},{value:"\u7B49\u4E00\u4E9B\u548C",paraId:10,tocIndex:1},{value:"\u7C7B\u672C\u8EAB",paraId:10,tocIndex:1},{value:"\u6709\u5173\u7684\u4FE1\u606F\u548C\u5F15\u7528\uFF0C\u6CA1\u6709\u5B9E\u4F8B\u76F8\u5173\u7684\uFF01\uFF01",paraId:10,tocIndex:1},{value:"\u7C7B\u52A0\u8F7D\u5668\u7684\u5F15\u7528\uFF1A\u7C7B->\u7C7B\u52A0\u8F7D\u5668\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:11,tocIndex:1},{value:"\u5BF9\u5E94class\u5B9E\u4F8B\u7684\u5F15\u7528:\u7C7B\u52A0\u8F7D\u5668\u5728\u52A0\u8F7D\u7C7B\u4FE1\u606F\u653E\u5230\u65B9\u6CD5\u533A\u4E2D\u540E\uFF0C\u4F1A\u521B\u5EFA\u4E00\u4E2A\u5BF9\u5E94\u7684Class \u7C7B\u578B\u7684 \u5BF9\u8C61\u5B9E\u4F8B\u653E\u5230\u5806(Heap)\u4E2D, \u4F5C\u4E3A\u5F00\u53D1\u4EBA\u5458\u8BBF\u95EE\u65B9\u6CD5\u533A\u4E2D\u7C7B\u5B9A\u4E49\u7684\u5165\u53E3\u548C\u5207\u5165\u70B9\u3002",paraId:12,tocIndex:1},{value:"\u4E5F\u5C31\u662F\u8BF4\uFF1A\u9700\u8981\u83B7\u53D6",paraId:13,tocIndex:1},{value:"\u7C7B\u672C\u8EAB",paraId:13,tocIndex:1},{value:"\u7684\u4FE1\u606F\u65F6\uFF0C\u9700\u8981",paraId:13,tocIndex:1},{value:"\u5148\u4ECE\u5806\u4E2D\u83B7\u53D6\u8FD9\u4E2A\u5B9E\u4F8B",paraId:13,tocIndex:1},{value:"\uFF0C\u518D\u6839\u636E",paraId:13,tocIndex:1},{value:"\u5B9E\u4F8B\u7684\u5F15\u7528",paraId:13,tocIndex:1},{value:"\u627E\u5230\u65B9\u6CD5\u533A\u4E2D\u672C\u8EAB\u7684\u7C7B\u4FE1\u606F\u3002",paraId:13,tocIndex:1},{value:"\u6CE8\u610F\uFF1A\u7C7B\u662F\u5148\u52A0\u8F7D\u518D\u4F7F\u7528\u7684\u800C\u4E0D\u662F\u4E00\u6B21\u6027\u5168\u90E8\u52A0\u8F7D\uFF01\uFF08\u61D2\u52A0\u8F7D\uFF09",paraId:14,tocIndex:1},{value:"\u4E0A\u9762\u7684\u7C7B\u52A0\u8F7D\u8FC7\u7A0B\u4E3B\u8981\u662F\u901A\u8FC7\u7C7B\u52A0\u8F7D\u5668\u6765\u5B9E\u73B0\u7684\uFF0CJava\u91CC\u6709\u5982\u4E0B\u51E0\u79CD\u7C7B\u52A0\u8F7D\u5668",paraId:15,tocIndex:2},{value:"\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u652F\u6491JVM\u8FD0\u884C\u7684\u4F4D\u4E8EJRE\u7684lib\u76EE\u5F55\u4E0B\u7684",paraId:16,tocIndex:2},{value:"\u6838\u5FC3\u7C7B\u5E93",paraId:16,tocIndex:2},{value:"\uFF0C\u6BD4\u5982rt.jar\u3001charsets.jar\u7B49\uFF08lang.String\u7C7B\uFF09",paraId:16,tocIndex:2},{value:"\u6269\u5C55\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u652F\u6491JVM\u8FD0\u884C\u7684\u4F4D\u4E8EJRE\u7684lib\u76EE\u5F55\u4E0B\u7684ext\u6269\u5C55\u76EE\u5F55\u4E2D\u7684JAR\u7C7B\u5305",paraId:17,tocIndex:2},{value:"\u5E94\u7528\u7A0B\u5E8F\u7C7B\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7DClassPath\u8DEF\u5F84\u4E0B\u7684\u7C7B\u5305\uFF0C\u4E3B\u8981\u5C31\u662F\u52A0\u8F7D\u4F60\u81EA\u5DF1\u5199\u7684\u90A3\u4E9B\u7C7B",paraId:18,tocIndex:2},{value:"\u81EA\u5B9A\u4E49\u52A0\u8F7D\u5668\uFF1A\u8D1F\u8D23\u52A0\u8F7D\u7528\u6237\u81EA\u5B9A\u4E49\u8DEF\u5F84\u4E0B\u7684\u7C7B\u5305",paraId:19,tocIndex:2},{value:"\u4E3A\u4EC0\u4E48\u5728\u6211\u6253\u5370\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\u65F6\u6253\u5370\u7684\u662Fnull?",paraId:20,tocIndex:2},{value:"\u56E0\u4E3A\u5F15\u5BFC\u7C7B\u52A0\u8F7D\u5668\u4E0D\u662Fjava\u7684\u5BF9\u8C61\uFF0C\u800C\u662Fc++\u751F\u6210\u7684\u5BF9\u8C61",paraId:21,tocIndex:2},{value:"JVM\u542F\u52A8\u5668\u65F6\u521B\u5EFAsun.misc.Launcher\uFF0C\u5316\u4F7F\u7528\u4E86\u5355\u4F8B\u6A21\u5F0F\u8BBE\u8BA1\u3002",paraId:22,tocIndex:3},{value:"\u5728Launcher",paraId:23,tocIndex:3},{value:"\u6784\u9020\u65B9\u6CD5",paraId:23,tocIndex:3},{value:"\u5185\u90E8\uFF0C\u5176\u521B\u5EFA\u4E86\u4E24\u4E2A\u7C7B\u52A0\u8F7D\u5668\uFF0C\u5206\u522B\u662Fsun.misc.Launcher.ExtClassLoader(\u6269\u5C55\u7C7B\u52A0\u8F7D\u5668)\u548Csun.misc.Launcher.AppClassLoader(\u5E94\u7528\u7C7B\u52A0\u8F7D\u5668)\u3002",paraId:23,tocIndex:3},{value:`//Launcher\u7684\u6784\u9020\u65B9\u6CD5
 public Launcher() {
     Launcher.ExtClassLoader var1;
     try {
@@ -4826,7 +5693,1589 @@ Sequence Number\uFF1A\u5BF9\u4E8E\u6BCF\u4E2A PID\uFF0C\u8BE5 Producer \u53D1\u9
      producer.abortTransaction();
  }
  producer.close();
-`,paraId:51,tocIndex:12},{value:"10\u3001kafka \u9AD8\u6027\u80FD\u7684\u539F\u56E0",paraId:0},{value:"**\u78C1\u76D8\u987A\u5E8F\u8BFB\u5199\uFF1A**kafka \u6D88\u606F\u4E0D\u80FD\u4FEE\u6539\u4EE5\u53CA\u4E0D\u4F1A\u4ECE\u6587\u4EF6\u4E2D\u95F4\u5220\u9664\u4FDD\u8BC1\u4E86\u78C1\u76D8\u987A\u5E8F\u8BFB\uFF0Ckafka \u7684\u6D88\u606F\u5199\u5165\u6587\u4EF6\u90FD\u662F\u8FFD\u52A0\u5728\u6587\u4EF6\u672B\u5C3E\uFF0C\u4E0D\u4F1A\u5199\u5165\u6587\u4EF6\u4E2D\u7684\u67D0\u4E2A\u4F4D\u7F6E (\u968F\u673A\u5199) \u4FDD\u8BC1\u4E86\u78C1\u76D8\u987A\u5E8F\u5199\u3002",paraId:52,tocIndex:13},{value:"\u6570\u636E\u4F20\u8F93\u7684\u96F6\u62F7\u8D1D",paraId:53,tocIndex:13},{value:"\u8BFB\u5199\u6570\u636E\u7684\u6279\u91CF batch \u5904\u7406\u4EE5\u53CA\u538B\u7F29\u4F20\u8F93",paraId:54,tocIndex:13},{value:"\u987A\u5E8F\uFF0C\u96F6\u62F7\u8D1D\uFF0C\u6279\u91CF\u5904\u7406\u3002rocketMQ\u4E5F\u6709\u8FD9\u4E9B\u4F18\u70B9",paraId:55,tocIndex:13}]},49190:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7D22\u5F15",paraId:0,tocIndex:1},{value:"\u662F\u5E2E\u52A9MySQL\u9AD8\u6548\u83B7\u53D6\u6570\u636E\u7684",paraId:0,tocIndex:1},{value:"\u6392\u597D\u5E8F",paraId:0,tocIndex:1},{value:"\u7684",paraId:0,tocIndex:1},{value:"\u6570\u636E\u7ED3\u6784",paraId:0,tocIndex:1},{value:"Hash\u8868",paraId:1,tocIndex:1},{value:"\uFF1A",paraId:1,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u67E5\u627E\u901F\u5EA6\u5FEB\uFF0C",paraId:2,tocIndex:1},{value:"\u65F6\u95F4\u590D\u6742\u5EA6\u4E3AO(1)",paraId:2,tocIndex:1},{value:"\uFF1B\u9002\u7528\u4E8E\u7B49\u503C\u67E5\u8BE2\uFF0C\u5982\u4E3B\u952E\u67E5\u8BE2\u3002",paraId:2,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u4E0D\u652F\u6301",paraId:3,tocIndex:1},{value:"\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F",paraId:3,tocIndex:1},{value:"\uFF1B\u4E0D\u9002\u7528\u4E8E\u9700\u8981\u987A\u5E8F\u8BBF\u95EE\u7684\u573A\u666F\u3002",paraId:3,tocIndex:1},{value:"B\u6811",paraId:4,tocIndex:1},{value:"\uFF1A",paraId:4,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u5E73\u8861\u6027\u597D\uFF0C\u652F\u6301\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\uFF1B\u9002\u7528\u4E8E\u8303\u56F4\u67E5\u8BE2\u9891\u7E41\u7684\u573A\u666F\u3002",paraId:5,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u53EF\u80FD\u9700\u8981\u8FDB\u884C",paraId:6,tocIndex:1},{value:"\u5E73\u8861\u8C03\u6574",paraId:6,tocIndex:1},{value:"\uFF0C\u6027\u80FD\u8F83Hash\u8868\u5DEE\u4E00\u4E9B\uFF0C\u975E\u53F6\u5B50\u8282\u70B9\u5B58\u50A8\u6570\u636E\u5BFC\u81F4\u9636\u6570\u66F4\u591A",paraId:6,tocIndex:1},{value:"\u7EA2\u9ED1\u6811",paraId:7,tocIndex:1},{value:"\uFF1A",paraId:7,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u5E73\u8861\u6027\u597D\uFF0C\u652F\u6301\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\uFF1B\u9002\u7528\u4E8E\u6709\u5E8F\u6570\u636E\u7684\u7D22\u5F15\u3002",paraId:8,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u76F8\u5BF9\u4E8EB\u6811\uFF0C",paraId:9,tocIndex:1},{value:"\u5728\u6570\u636E\u91CF\u8F83\u5927\u65F6\uFF0C\u5E73\u8861\u6027\u53EF\u80FD\u964D\u4F4E\u3002",paraId:9,tocIndex:1},{value:"\u4E8C\u53C9\u6811",paraId:10,tocIndex:1},{value:"\uFF1A",paraId:10,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u7B80\u5355\u6613\u61C2\uFF0C\u6613\u4E8E\u5B9E\u73B0\uFF1B\u9002\u7528\u4E8E\u5C0F\u89C4\u6A21\u6570\u636E\u548C\u7279\u5B9A\u573A\u666F\u3002",paraId:11,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u4E0D\u5E73\u8861\u7684\u4E8C\u53C9\u6811\u67E5\u627E\u6548\u7387\u8F83\u4F4E\uFF0C\u53EF\u80FD\u5BFC\u81F4\u6027\u80FD\u95EE\u9898\u3002",paraId:12,tocIndex:1},{value:"B+\u6811",paraId:13},{value:"\u6CE8\u610F\uFF0C\u4E3B\u952E\u7D22\u5F15\u91CC\u5B58\u653E\u4E86\u6574\u5F20\u8868\u7684\u6570\u636E\uFF0C\u6240\u4EE5\u4F1A\u6BD4\u4E8C\u7EA7\u7D22\u5F15\u8981\u5927\uFF0C\u4E8C\u7EA7\u7D22\u5F15\u53EA\u5B58\u653E\u4E86\u4E3B\u952E",paraId:14,tocIndex:2},{value:"\u5E73\u8861\u6027\u597D",paraId:15,tocIndex:2},{value:"\uFF1AB+\u6811\u662F\u4E00\u79CD\u5E73\u8861\u6811\u7ED3\u6784\uFF0C\u80FD\u591F",paraId:15,tocIndex:2},{value:"\u4FDD\u6301\u6811\u7684\u5E73\u8861\u6027",paraId:15,tocIndex:2},{value:"\uFF0C\u4F7F\u5F97\u5728\u6570\u636E\u91CF\u8F83\u5927\u65F6\uFF0C\u6811\u7684\u9AD8\u5EA6\u76F8\u5BF9\u8F83\u5C0F\uFF0C\u4ECE\u800C\u63D0\u9AD8\u4E86\u68C0\u7D22\u7684\u6548\u7387\u3002",paraId:15,tocIndex:2},{value:"2000W+\u4E0B\u7684\u6570\u636E\u91CF\u4E0B\u4F9D\u7136\u53EF\u4EE5\u4FDD\u6301\u4E09\u9636....\uFF0C\u4E8C\u9636\u4E5F\u53EF\u4EE5\u5B58100\u591AW",paraId:16,tocIndex:2},{value:"\u7B2C\u4E00\u9636\u7684\u8282\u70B9\u5E38\u9A7B\u5185\u5B58\uFF0C\u6240\u4EE5\u6548\u7387\u5F88\u9AD8",paraId:17,tocIndex:2},{value:"\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\u9AD8\u6548",paraId:18,tocIndex:2},{value:"\uFF1AB+\u6811\u4E2D\u7684\u5185\u90E8\u8282\u70B9\u53EA\u5B58\u50A8\u952E\u503C\u4FE1\u606F\uFF0C\u800C\u6570\u636E\u90FD\u5B58\u50A8\u5728\u53F6\u5B50\u8282\u70B9\u4E0A\uFF0C\u5E76\u4E14\u53F6\u5B50\u8282\u70B9\u4E4B\u95F4\u901A\u8FC7\u6307\u9488\u8FDE\u63A5\uFF0C\u5F62\u6210\u4E00\u4E2A\u6709\u5E8F\u94FE\u8868\u3002\u8FD9\u79CD\u7ED3\u6784\u4F7F\u5F97\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\u64CD\u4F5C\u975E\u5E38\u9AD8\u6548\uFF0C",paraId:18,tocIndex:2},{value:"\u53EF\u4EE5\u5FEB\u901F\u5730\u5B9A\u4F4D\u5230\u8303\u56F4\u5185\u7684\u6570\u636E",paraId:18,tocIndex:2},{value:"\u3002",paraId:18,tocIndex:2},{value:"\u9002\u7528\u4E8E\u78C1\u76D8\u5B58\u50A8",paraId:19,tocIndex:2},{value:"\uFF1AB+\u6811\u7684\u8282\u70B9\u5927\u5C0F\u901A\u5E38\u4F1A\u88AB\u8BBE\u8BA1\u6210\u9875\u5927\u5C0F\uFF0C\u8FD9\u6837",paraId:19,tocIndex:2},{value:"\u6BCF\u4E2A\u8282\u70B9\u90FD\u53EF\u4EE5\u5B8C\u5168\u653E\u5165\u4E00\u4E2A\u78C1\u76D8\u9875",paraId:19,tocIndex:2},{value:"\u4E2D\uFF0C",paraId:19,tocIndex:2},{value:"\u51CF\u5C11\u4E86\u78C1\u76D8IO\u6B21\u6570",paraId:19,tocIndex:2},{value:"\uFF0C\u9002\u5408\u5927\u89C4\u6A21\u6570\u636E\u7684\u5B58\u50A8\u548C\u67E5\u8BE2\u3002",paraId:19,tocIndex:2},{value:"\u652F\u6301\u9AD8\u6548\u7684\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C",paraId:20,tocIndex:2},{value:"\uFF1AB+\u6811\u7684\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u901A\u5E38",paraId:20,tocIndex:2},{value:"\u53EA\u6D89\u53CA\u5230\u5C40\u90E8\u7684\u8282\u70B9\u8C03\u6574\uFF0C\u4E0D\u4F1A\u5BFC\u81F4\u6574\u68F5\u6811\u7684\u91CD\u6784",paraId:20,tocIndex:2},{value:"\uFF0C\u56E0\u6B64\u5177\u6709\u8F83\u9AD8\u7684\u63D2\u5165\u548C\u5220\u9664\u6548\u7387\u3002",paraId:20,tocIndex:2},{value:"InnoDB\u7D22\u5F15\u5B9E\u73B0(\u805A\u7C07)",paraId:13},{value:"\u8868\u6570\u636E\u6587\u4EF6\u672C\u8EAB\u5C31\u662F\u6309B+Tree\u7EC4\u7EC7\u7684\u4E00\u4E2A\u7D22\u5F15\u7ED3\u6784\u6587\u4EF6",paraId:21,tocIndex:4},{value:"\u805A\u96C6\u7D22\u5F15-\u53F6\u8282\u70B9\u5305\u542B\u4E86\u5B8C\u6574\u7684\u6570\u636E\u8BB0\u5F55",paraId:22,tocIndex:4},{value:"\u4E3A\u4EC0\u4E48\u5EFA\u8BAEInnoDB\u8868\u5FC5\u987B\u5EFA\u4E3B\u952E\uFF0C\u5E76\u4E14\u63A8\u8350\u4F7F\u7528\u6574\u578B\u7684\u81EA\u589E\u4E3B\u952E\uFF1F",paraId:23,tocIndex:4},{value:"\u652F\u6301\u5FEB\u901F\u5B9A\u4F4D\u548C\u8303\u56F4\u67E5\u8BE2",paraId:24,tocIndex:4},{value:"\uFF1A\u4F7F\u7528\u6574\u578B\u7684\u81EA\u589E\u4E3B\u952E\u4F5C\u4E3A\u4E3B\u952E\uFF0C\u53EF\u4EE5\u4FDD\u8BC1\u65B0\u63D2\u5165\u7684\u6570\u636E\u90FD\u662F\u6309\u7167\u987A\u5E8F\u9012\u589E\u7684\uFF0C\u8FD9\u6837\u5728\u67E5\u8BE2\u548C\u8303\u56F4\u67E5\u8BE2\u65F6\uFF0C\u53EF\u4EE5\u66F4\u5FEB\u5730\u5B9A\u4F4D\u5230\u76EE\u6807\u6570\u636E\u3002",paraId:24,tocIndex:4},{value:"\u51CF\u5C11\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u53EF\u80FD\u9700\u8981\u8FDB\u884C\u5E73\u8861\u8C03\u6574",paraId:24,tocIndex:4},{value:"\u51CF\u5C11\u4E3B\u952E\u51B2\u7A81\u548C\u9501\u51B2\u7A81",paraId:24,tocIndex:4},{value:"\uFF1A\u81EA\u589E\u4E3B\u952E\u5728\u63D2\u5165\u65B0\u6570\u636E\u65F6\u4E0D\u4F1A\u5F15\u53D1\u4E3B\u952E\u51B2\u7A81\uFF0C\u4E5F\u4E0D\u4F1A\u5728\u7D22\u5F15\u4E0A\u5F15\u53D1\u9501\u51B2\u7A81\uFF0C\u80FD\u591F\u63D0\u9AD8\u5E76\u53D1\u63D2\u5165\u7684\u6548\u7387\u3002",paraId:24,tocIndex:4},{value:"\u4E3B\u952E\u4FDD\u8BC1\u552F\u4E00\u6027\u548C\u6570\u636E\u5B8C\u6574\u6027",paraId:24,tocIndex:4},{value:"\uFF1A\u4E3B\u952E\u4FDD\u8BC1\u4E86\u6BCF\u4E00\u884C\u6570\u636E\u7684\u552F\u4E00\u6027\uFF0C\u907F\u514D\u4E86\u8868\u4E2D\u51FA\u73B0\u91CD\u590D\u6570\u636E\u7684\u60C5\u51B5\uFF0C\u4ECE\u800C\u4FDD\u8BC1\u4E86\u6570\u636E\u7684\u5B8C\u6574\u6027\u548C\u4E00\u81F4\u6027\u3002",paraId:24,tocIndex:4},{value:"\u4E3A\u4EC0\u4E48\u975E\u4E3B\u952E\u7D22\u5F15\u7ED3\u6784\u53F6\u5B50\u8282\u70B9\u5B58\u50A8\u7684\u662F\u4E3B\u952E\u503C\uFF1F(\u4E00\u81F4\u6027\u548C\u8282\u7701\u5B58\u50A8\u7A7A\u95F4)",paraId:25,tocIndex:4},{value:"\u51CF\u5C11\u5197\u4F59\u5B58\u50A8",paraId:26,tocIndex:4},{value:"\uFF1A\u5C06\u4E3B\u952E\u503C\u5B58\u50A8\u5728\u975E\u4E3B\u952E\u7D22\u5F15\u7ED3\u6784\u7684\u53F6\u5B50\u8282\u70B9\u4E2D\uFF0C\u907F\u514D\u4E86\u91CD\u590D\u5B58\u50A8\u6570\u636E\u7684\u60C5\u51B5\uFF0C\u51CF\u5C11\u4E86\u5B58\u50A8\u7A7A\u95F4\u7684\u5360\u7528\u3002",paraId:26,tocIndex:4},{value:"\u652F\u6301\u8986\u76D6\u7D22\u5F15\u67E5\u8BE2",paraId:27,tocIndex:4},{value:"\uFF1A\u5982\u679C\u67E5\u8BE2\u7684\u5217\u90FD\u5305\u542B\u5728\u4E86\u975E\u4E3B\u952E\u7D22\u5F15\u4E2D\uFF0C\u90A3\u4E48\u53EF\u4EE5\u76F4\u63A5\u901A\u8FC7\u975E\u4E3B\u952E\u7D22\u5F15\u5B8C\u6210\u67E5\u8BE2\uFF0C\u65E0\u9700\u518D\u6B21\u8BBF\u95EE\u4E3B\u952E\u7D22\u5F15\uFF0C\u4ECE\u800C\u8FDB\u4E00\u6B65\u63D0\u9AD8\u4E86\u67E5\u8BE2\u6548\u7387\u3002",paraId:27,tocIndex:4},{value:"\u8054\u5408\u7D22\u5F15\u7684\u5E95\u5C42\u5B58\u50A8\u7ED3\u6784\u957F\u4EC0\u4E48\u6837\uFF1F",paraId:28,tocIndex:5},{value:"\u6700\u5DE6\u524D\u7F00\u539F\u5219\u662F\u6307\u5728\u4F7F\u7528\u590D\u5408\u7D22\u5F15\u8FDB\u884C\u67E5\u8BE2\u65F6\uFF0C\u5982\u679C\u67E5\u8BE2\u6761\u4EF6\u6D89\u53CA\u5230\u4E86\u590D\u5408\u7D22\u5F15\u7684\u591A\u4E2A\u5217\uFF0C\u90A3\u4E48\u53EF\u4EE5\u5229\u7528\u7D22\u5F15\u7684\u6700\u5DE6\u524D\u7F00\u6765\u8FDB\u884C\u67E5\u8BE2\u3002",paraId:29,tocIndex:5},{value:"\u5177\u4F53\u6765\u8BF4\uFF0C\u5C31\u662F\u5728\u67E5\u8BE2\u65F6\u5C3D\u91CF\u4ECE\u590D\u5408\u7D22\u5F15\u7684\u6700\u5DE6\u8FB9\u7684\u5217\u5F00\u59CB\uFF0C\u4F9D\u6B21\u4F7F\u7528\u7D22\u5F15\u7684\u5217\u3002",paraId:30,tocIndex:5},{value:"\u4E3A\u4EC0\u4E48\u8981\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF1F",paraId:31,tocIndex:5},{value:"\u63D0\u9AD8\u67E5\u8BE2\u6548\u7387",paraId:32,tocIndex:5},{value:"\uFF1A\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\u53EF\u4EE5\u786E\u4FDD\u67E5\u8BE2\u65F6\u5C3D\u53EF\u80FD\u4F7F\u7528\u590D\u5408\u7D22\u5F15\u7684\u5DE6\u8FB9\u5217\uFF0C\u8FD9\u6837\u53EF\u4EE5",paraId:32,tocIndex:5},{value:"\u51CF\u5C11\u6570\u636E\u5E93\u626B\u63CF\u7684\u6570\u636E\u91CF",paraId:32,tocIndex:5},{value:"\uFF0C\u52A0\u5FEB\u67E5\u8BE2\u901F\u5EA6\u3002",paraId:32,tocIndex:5},{value:"\u51CF\u5C11\u7D22\u5F15\u7684\u590D\u6742\u6027",paraId:32,tocIndex:5},{value:"\uFF1A\u5982\u679C\u4E0D\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF0C\u5C31\u53EF\u80FD\u9700\u8981",paraId:32,tocIndex:5},{value:"\u4E3A\u6BCF\u79CD\u67E5\u8BE2\u60C5\u51B5\u90FD\u5EFA\u7ACB\u4E0D\u540C\u7684\u7D22\u5F15",paraId:32,tocIndex:5},{value:"\u9488\u5BF9\u6BCF\u6761sql\u5EFA\u7ACB\u4E0D\u540C\u7684\u8054\u5408\u7D22\u5F15\uFF0C\u6D6A\u8D39\u7A7A\u95F4",paraId:32,tocIndex:5},{value:"\uFF0C\u5BFC\u81F4\u7D22\u5F15\u7684\u6570\u91CF\u589E\u52A0\uFF0C\u7EF4\u62A4\u548C\u7BA1\u7406\u6210\u672C\u4E5F\u968F\u4E4B\u589E\u52A0\u3002",paraId:32,tocIndex:5},{value:"\u907F\u514D\u6027\u80FD\u4E0B\u964D",paraId:32,tocIndex:5},{value:"\uFF1A\u5982\u679C\u67E5\u8BE2\u6761\u4EF6\u4E0D\u7B26\u5408\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF0C\u6570\u636E\u5E93\u53EF\u80FD\u65E0\u6CD5\u4F7F\u7528\u7D22\u5F15\uFF0C\u53EA\u80FD\u8FDB\u884C",paraId:32,tocIndex:5},{value:"\u5168\u8868\u626B\u63CF",paraId:32,tocIndex:5},{value:"\uFF0C\u5BFC\u81F4\u67E5\u8BE2\u6027\u80FD\u5927\u5E45\u4E0B\u964D\u3002",paraId:32,tocIndex:5}]},34596:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"Explain\u5DE5\u5177\u4ECB\u7ECD",paraId:0},{value:"\u4F7F\u7528EXPLAIN\u5173\u952E\u5B57\u53EF\u4EE5\u6A21\u62DF\u4F18\u5316\u5668\u6267\u884CSQL\u8BED\u53E5\uFF0C\u5206\u6790\u4F60\u7684\u67E5\u8BE2\u8BED\u53E5\u6216\u662F\u7ED3\u6784\u7684\u6027\u80FD\u74F6\u9888",paraId:1,tocIndex:0},{value:"\u5728 select \u8BED\u53E5\u4E4B\u524D\u589E\u52A0 explain \u5173\u952E\u5B57\uFF0CMySQL \u4F1A\u5728\u67E5\u8BE2\u4E0A\u8BBE\u7F6E\u4E00\u4E2A\u6807\u8BB0\uFF0C\u6267\u884C\u67E5\u8BE2\u4F1A\u8FD4\u56DE\u6267\u884C\u8BA1\u5212\u7684\u4FE1\u606F\uFF0C\u800C\u4E0D\u662F",paraId:2,tocIndex:0},{value:"\u6267\u884C\u8FD9\u6761SQL",paraId:3,tocIndex:0},{value:"\u6CE8\u610F\uFF1A\u5982\u679C from \u4E2D\u5305\u542B\u5B50\u67E5\u8BE2\uFF0C\u4ECD\u4F1A\u6267\u884C\u8BE5\u5B50\u67E5\u8BE2\uFF0C\u5C06\u7ED3\u679C\u653E\u5165\u4E34\u65F6\u8868\u4E2D",paraId:4,tocIndex:0},{value:"Explain\u5206\u6790\u793A\u4F8B",paraId:0},{value:" \u793A\u4F8B\u8868\uFF1A\n DROP TABLE IF EXISTS `actor`;\n CREATE TABLE `actor` (\n `id` int(11) NOT NULL,\n`name` varchar(45) DEFAULT NULL,\n`update_time` datetime DEFAULT NULL,\n     PRIMARY KEY (`id`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `actor` (`id`, `name`, `update_time`) VALUES (1,'a','2017\u201012\u201022 15:27:18'), (2,'b','20\n17\u201012\u201022 15:27:18'), (3,'c','2017\u201012\u201022 15:27:18');\n\n DROP TABLE IF EXISTS `film`;\n CREATE TABLE `film` (\n `id` int(11) NOT NULL AUTO_INCREMENT,\n `name` varchar(10) DEFAULT NULL,\n PRIMARY KEY (`id`),\n KEY `idx_name` (`name`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `film` (`id`, `name`) VALUES (3,'film0'),(1,'film1'),(2,'film2');\n\n DROP TABLE IF EXISTS `film_actor`;\n CREATE TABLE `film_actor` (\n `id` int(11) NOT NULL,\n `film_id` int(11) NOT NULL,\n `actor_id` int(11) NOT NULL,\n `remark` varchar(255) DEFAULT NULL,\n PRIMARY KEY (`id`),\n KEY `idx_film_actor_id` (`film_id`,`actor_id`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `film_actor` (`id`, `film_id`, `actor_id`) VALUES (1,1,1),(2,1,2),(3,2,1);\n",paraId:5,tocIndex:1},{value:`mysql> explain select * from actor;
+`,paraId:51,tocIndex:12},{value:"10\u3001kafka \u9AD8\u6027\u80FD\u7684\u539F\u56E0",paraId:0},{value:"**\u78C1\u76D8\u987A\u5E8F\u8BFB\u5199\uFF1A**kafka \u6D88\u606F\u4E0D\u80FD\u4FEE\u6539\u4EE5\u53CA\u4E0D\u4F1A\u4ECE\u6587\u4EF6\u4E2D\u95F4\u5220\u9664\u4FDD\u8BC1\u4E86\u78C1\u76D8\u987A\u5E8F\u8BFB\uFF0Ckafka \u7684\u6D88\u606F\u5199\u5165\u6587\u4EF6\u90FD\u662F\u8FFD\u52A0\u5728\u6587\u4EF6\u672B\u5C3E\uFF0C\u4E0D\u4F1A\u5199\u5165\u6587\u4EF6\u4E2D\u7684\u67D0\u4E2A\u4F4D\u7F6E (\u968F\u673A\u5199) \u4FDD\u8BC1\u4E86\u78C1\u76D8\u987A\u5E8F\u5199\u3002",paraId:52,tocIndex:13},{value:"\u6570\u636E\u4F20\u8F93\u7684\u96F6\u62F7\u8D1D",paraId:53,tocIndex:13},{value:"\u8BFB\u5199\u6570\u636E\u7684\u6279\u91CF batch \u5904\u7406\u4EE5\u53CA\u538B\u7F29\u4F20\u8F93",paraId:54,tocIndex:13},{value:"\u987A\u5E8F\uFF0C\u96F6\u62F7\u8D1D\uFF0C\u6279\u91CF\u5904\u7406\u3002rocketMQ\u4E5F\u6709\u8FD9\u4E9B\u4F18\u70B9",paraId:55,tocIndex:13}]},2055:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u5E93\u64CD\u4F5C\u6846\u67B6\u7684\u5386\u7A0B",paraId:0},{value:"\u200B		JDBC (Java Data Base Connection,java \u6570\u636E\u5E93\u8FDE\u63A5) \u662F\u4E00\u79CD",paraId:1,tocIndex:2},{value:"\u7528\u4E8E\u6267\u884C SQL \u8BED\u53E5\u7684 Java API",paraId:1,tocIndex:2},{value:", \u53EF\u4EE5\u4E3A\u591A\u79CD\u5173\u7CFB\u6570\u636E\u5E93\u63D0\u4F9B\u7EDF\u4E00\u8BBF\u95EE\uFF0C\u5B83\u7531\u4E00\u7EC4\u7528 Java \u8BED\u8A00\u7F16\u5199\u7684\u7C7B\u548C\u63A5\u53E3\u7EC4\u6210.JDBC \u63D0\u4F9B\u4E86\u4E00\u79CD\u57FA\u51C6\uFF0C\u636E\u6B64\u53EF\u4EE5\u6784\u5EFA\u66F4\u9AD8\u7EA7\u7684\u5DE5\u5177\u548C\u63A5\u53E3\uFF0C\u4F7F\u6570\u636E\u5E93\u5F00\u53D1\u4EBA\u5458\u80FD\u591F\u7F16\u5199\u6570\u636E\u5E93\u5E94\u7528\u7A0B\u5E8F",paraId:1,tocIndex:2},{value:"\u4F18\u70B9\uFF1A",paraId:2,tocIndex:2},{value:"\u8FD0\u884C\u671F\uFF1A\u5FEB\u6377\u3001\u9AD8\u6548",paraId:2,tocIndex:2},{value:"\u7F3A\u70B9\uFF1A\u7F16\u8F91\u671F\uFF1A**\u4EE3\u7801\u91CF\u5927\u3001\u7E41\u7410\u5F02\u5E38\u5904\u7406\u3001**\u4E0D\u652F\u6301\u6570\u636E\u5E93\u8DE8\u5E73\u53F0",paraId:3,tocIndex:2},{value:"jdbc \u6838\u5FC3 api\uFF1A",paraId:4,tocIndex:2},{value:"DriverManager  \u8FDE\u63A5\u6570\u636E\u5E93",paraId:5,tocIndex:2},{value:"Connection  \u8FDE\u63A5\u6570\u636E\u5E93\u7684\u62BD\u8C61",paraId:5,tocIndex:2},{value:"Statment  \u6267\u884C SQL",paraId:5,tocIndex:2},{value:"ResultSet  \u6570\u636E\u7ED3\u679C\u96C6",paraId:5,tocIndex:2},{value:"DBUtils",paraId:0},{value:"\u200B		DBUtils \u662F Java \u7F16\u7A0B\u4E2D\u7684\u6570\u636E\u5E93\u64CD\u4F5C\u5B9E\u7528\u5DE5\u5177\uFF0C\u5C0F\u5DE7\u7B80\u5355\u5B9E\u7528\u3002",paraId:6,tocIndex:3},{value:"\u200B		DBUtils \u5C01\u88C5\u4E86\u5BF9 JDBC \u7684\u64CD\u4F5C\uFF0C\u7B80\u5316\u4E86 JDBC \u64CD\u4F5C\uFF0C\u53EF\u4EE5\u5C11\u5199\u4EE3\u7801\u3002",paraId:7,tocIndex:3},{value:"\u200B		DBUtils \u4E09\u4E2A\u6838\u5FC3\u529F\u80FD\u4ECB\u7ECD",paraId:8,tocIndex:3},{value:"\u200B			1\u3001QueryRunner \u4E2D\u63D0\u4F9B\u5BF9 sql \u8BED\u53E5\u64CD\u4F5C\u7684 API",paraId:9,tocIndex:3},{value:"\u200B			2\u3001ResultSetHandler \u63A5\u53E3\uFF0C\u7528\u4E8E\u5B9A\u4E49 select \u64CD\u4F5C\u540E\uFF0C\u600E\u6837\u5C01\u88C5\u7ED3\u679C\u96C6",paraId:10,tocIndex:3},{value:"\u200B			3\u3001DBUtils \u7C7B\uFF0C\u5B83\u5C31\u662F\u4E00\u4E2A\u5DE5\u5177\u7C7B\uFF0C\u5B9A\u4E49\u4E86\u5173\u95ED\u8D44\u6E90\u4E0E\u4E8B\u52A1\u5904\u7406\u7684\u65B9\u6CD5",paraId:11,tocIndex:3},{value:"Hibernate",paraId:0},{value:"ORM   \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\uFF1Aobject\uFF1Ajava \u5BF9\u8C61\uFF0C relational \uFF1A\u5173\u7CFB\u578B\u6570\u636E\uFF0C  mapping \uFF1A \u6620\u5C04",paraId:12,tocIndex:4},{value:"Hibernate \u5C06 Java \u7C7B\u6620\u5C04\u5230\u6570\u636E\u5E93\u8868\u4E2D\uFF0C\u4ECE Java \u6570\u636E\u7C7B\u578B\u4E2D\u6620\u5C04\u5230 SQL \u6570\u636E\u7C7B\u578B\u4E2D\uFF0C\u5E76\u628A\u5F00\u53D1\u4EBA\u5458\u4ECE 95% \u7684\u516C\u5171\u6570\u636E\u6301\u7EED\u6027\u7F16\u7A0B\u5DE5\u4F5C\u4E2D\u89E3\u653E\u51FA\u6765\u3002",paraId:13,tocIndex:4},{value:"Hibernate \u662F\u4F20\u7EDF Java \u5BF9\u8C61\u548C\u6570\u636E\u5E93\u670D\u52A1\u5668\u4E4B\u95F4\u7684\u6865\u6881\uFF0C\u7528\u6765\u5904\u7406\u57FA\u4E8E O/R \u6620\u5C04\u673A\u5236\u548C\u6A21\u5F0F\u7684\u90A3\u4E9B\u5BF9\u8C61\u3002",paraId:14,tocIndex:4},{value:"Hibernate \u4F18\u52BF",paraId:15,tocIndex:4},{value:"Hibernate ",paraId:16,tocIndex:4},{value:"\u4F7F\u7528 XML \u6587\u4EF6\u6765\u5904\u7406\u6620\u5C04 Java \u7C7B\u522B\u5230\u6570\u636E\u5E93\u8868\u683C\u4E2D\uFF0C\u5E76\u4E14\u4E0D\u7528\u7F16\u5199\u4EFB\u4F55\u4EE3\u7801",paraId:16,tocIndex:4},{value:"\u3002",paraId:16,tocIndex:4},{value:"\u4E3A\u5728\u6570\u636E\u5E93\u4E2D\u76F4\u63A5\u50A8\u5B58\u548C\u68C0\u7D22 Java \u5BF9\u8C61\u63D0\u4F9B\u7B80\u5355\u7684 APIs\u3002",paraId:17,tocIndex:4},{value:"\u5982\u679C\u5728\u6570\u636E\u5E93\u4E2D\u6216\u4EFB\u4F55\u5176\u5B83\u8868\u683C\u4E2D\u51FA\u73B0\u53D8\u5316\uFF0C\u90A3\u4E48\u4EC5\u9700\u8981\u6539\u53D8 XML \u6587\u4EF6\u5C5E\u6027\u3002",paraId:18,tocIndex:4},{value:"\u62BD\u8C61\u4E0D\u719F\u6089\u7684 SQL \u7C7B\u578B\uFF0C\u5E76\u4E3A\u6211\u4EEC\u63D0\u4F9B\u5DE5\u4F5C\u4E2D\u6240\u719F\u6089\u7684 Java \u5BF9\u8C61\u3002",paraId:19,tocIndex:4},{value:"Hibernate \u4E0D\u9700\u8981\u5E94\u7528\u7A0B\u5E8F\u670D\u52A1\u5668\u6765\u64CD\u4F5C\u3002",paraId:20,tocIndex:4},{value:"\u64CD\u63A7\u4F60\u6570\u636E\u5E93\u4E2D\u5BF9\u8C61\u590D\u6742\u7684\u5173\u8054\u3002",paraId:21,tocIndex:4},{value:"\u6700\u5C0F\u5316\u4E0E\u8BBF\u95EE\u6570\u636E\u5E93\u7684\u667A\u80FD\u63D0\u53D6\u7B56\u7565\u3002",paraId:22,tocIndex:4},{value:"\u63D0\u4F9B\u7B80\u5355\u7684\u6570\u636E\u8BE2\u95EE\u3002",paraId:23,tocIndex:4},{value:"Hibernate \u52A3\u52BF",paraId:24,tocIndex:4},{value:"hibernate \u7684\u5B8C\u5168\u5C01\u88C5\u5BFC\u81F4\u65E0\u6CD5\u4F7F\u7528\u6570\u636E\u7684\u4E00\u4E9B\u529F\u80FD\u3002",paraId:25,tocIndex:4},{value:"Hibernate \u7684\u7F13\u5B58\u95EE\u9898\u3002",paraId:26,tocIndex:4},{value:"Hibernate \u5BF9\u4E8E\u4EE3\u7801\u7684\u8026\u5408\u5EA6\u592A\u9AD8\u3002",paraId:27,tocIndex:4},{value:"Hibernate \u5BFB\u627E bug \u56F0\u96BE\u3002",paraId:28,tocIndex:4},{value:"Hibernate \u6279\u91CF\u6570\u636E\u64CD\u4F5C\u9700\u8981\u5927\u91CF\u7684\u5185\u5B58\u7A7A\u95F4\u800C\u4E14\u6267\u884C\u8FC7\u7A0B\u4E2D\u9700\u8981\u7684\u5BF9\u8C61\u592A\u591A",paraId:29,tocIndex:4},{value:"JDBCTemplate",paraId:0},{value:"JdbcTemplate \u9488\u5BF9\u6570\u636E\u67E5\u8BE2\u63D0\u4F9B\u4E86\u591A\u4E2A\u91CD\u8F7D\u7684\u6A21\u677F\u65B9\u6CD5\uFF0C\u4F60\u53EF\u4EE5\u6839\u636E\u9700\u8981\u9009\u7528\u4E0D\u540C\u7684\u6A21\u677F\u65B9\u6CD5\u3002\u5982\u679C\u4F60\u7684\u67E5\u8BE2\u5F88\u7B80\u5355\uFF0C\u4EC5\u4EC5\u662F\u4F20\u5165\u76F8\u5E94 SQL \u6216\u8005\u76F8\u5173\u53C2\u6570\uFF0C\u7136\u540E\u53D6\u5F97\u4E00\u4E2A\u5355\u4E00\u7684\u7ED3\u679C\uFF0C\u90A3\u4E48\u4F60\u53EF\u4EE5\u9009\u62E9\u5982\u4E0B\u4E00\u7EC4\u4FBF\u5229\u7684\u6A21\u677F\u65B9\u6CD5\u3002",paraId:30,tocIndex:5},{value:"\u4F18\u70B9\uFF1A\u8FD0\u884C\u671F\uFF1A\u9AD8\u6548\u3001\u5185\u5D4C Spring \u6846\u67B6\u4E2D\u3001\u652F\u6301\u57FA\u4E8E AOP \u7684\u58F0\u660E\u5F0F\u4E8B\u52A1",paraId:31,tocIndex:5},{value:"\u7F3A\u70B9\uFF1A",paraId:32,tocIndex:5},{value:"\u5FC5\u987B\u4E8E Spring \u6846\u67B6\u7ED3\u5408\u5728\u4E00\u8D77\u4F7F\u7528\u3001\u4E0D\u652F\u6301\u6570\u636E\u5E93\u8DE8\u5E73\u53F0\u3001\u9ED8\u8BA4\u6CA1\u6709\u7F13\u5B58",paraId:32,tocIndex:5},{value:"MyBatis \u662F\u4E00\u6B3E\u4F18\u79C0\u7684\u6301\u4E45\u5C42\u6846\u67B6 / \u534A\u81EA\u52A8\u7684 ORM\uFF0C\u5B83\u652F\u6301",paraId:33,tocIndex:6},{value:"\u81EA\u5B9A\u4E49 SQL\u3001\u5B58\u50A8\u8FC7\u7A0B\u4EE5\u53CA\u9AD8\u7EA7\u6620\u5C04",paraId:33,tocIndex:6},{value:"\u6301\u4E45\u5C42\u6846\u67B6\u662F\u7528\u4E8E\u7B80\u5316\u6570\u636E\u6301\u4E45\u5316\uFF08\u901A\u5E38\u662F\u6307\u5C06\u6570\u636E\u4FDD\u5B58\u5230\u6570\u636E\u5E93\u4E2D\uFF09\u7684\u5F00\u53D1\u8FC7\u7A0B\u7684\u5DE5\u5177\u6216\u6846\u67B6",paraId:34,tocIndex:6},{value:"MyBatis \u514D\u9664\u4E86\u51E0\u4E4E\u6240\u6709\u7684 JDBC \u4EE3\u7801\u4EE5\u53CA\u8BBE\u7F6E\u53C2\u6570\u548C\u83B7\u53D6\u7ED3\u679C\u96C6\u7684\u5DE5\u4F5C(",paraId:35,tocIndex:6},{value:"\u64CD\u4F5C\u7B80\u5355",paraId:35,tocIndex:6},{value:")\u3002MyBatis \u53EF\u4EE5\u901A\u8FC7",paraId:35,tocIndex:6},{value:"\u7B80\u5355\u7684 XML \u6216\u6CE8\u89E3\u6765\u914D\u7F6E\u548C\u6620\u5C04\u539F\u59CB\u7C7B\u578B\u3001\u63A5\u53E3\u548C Java POJO",paraId:35,tocIndex:6},{value:"\uFF08Plain Old Java Objects\uFF0C\u666E\u901A\u8001\u5F0F Java \u5BF9\u8C61\uFF09\u4E3A\u6570\u636E\u5E93\u4E2D\u7684\u8BB0\u5F55\u3002",paraId:35,tocIndex:6},{value:"\u4F18\u70B9\uFF1A",paraId:36,tocIndex:6},{value:"\u4E0E JDBC \u76F8\u6BD4\uFF0C\u51CF\u5C11\u4E86 50% \u7684\u4EE3\u7801\u91CF",paraId:37,tocIndex:6},{value:"\u51CF\u5C11\u4EE3\u7801\u91CF",paraId:37,tocIndex:6},{value:"\u6700\u7B80\u5355\u7684\u6301\u4E45\u5316\u6846\u67B6\uFF0C\u7B80\u5355\u6613\u5B66",paraId:37,tocIndex:6},{value:"\u7B80\u5355",paraId:37,tocIndex:6},{value:"SQL \u4EE3\u7801\u4ECE\u7A0B\u5E8F\u4EE3\u7801\u4E2D\u5F7B\u5E95\u5206\u79BB\u51FA\u6765\uFF0C\u53EF\u4EE5\u91CD\u7528",paraId:37,tocIndex:6},{value:"\u89E3\u8026",paraId:37,tocIndex:6},{value:"\u63D0\u4F9B XML \u6807\u7B7E\uFF0C\u652F\u6301\u7F16\u5199",paraId:37,tocIndex:6},{value:"\u52A8\u6001 SQL",paraId:37,tocIndex:6},{value:"\u52A8\u6001sql",paraId:37,tocIndex:6},{value:"\u63D0\u4F9B\u6620\u5C04\u6807\u7B7E\uFF0C\u652F\u6301\u5BF9\u8C61\u4E0E\u6570\u636E\u5E93\u7684 ORM \u5B57\u6BB5\u5173\u7CFB\u6620\u5C04",paraId:37,tocIndex:6},{value:"orm\u6620\u5C04",paraId:37,tocIndex:6},{value:"\u652F\u6301\u7F13\u5B58\u3001\u8FDE\u63A5\u6C60\u3001\u6570\u636E\u5E93\u79FB\u690D....",paraId:37,tocIndex:6},{value:"\u7F3A\u70B9\uFF1A",paraId:38,tocIndex:6},{value:"SQL \u8BED\u53E5\u7F16\u5199\u5DE5\u4F5C\u91CF\u5927\uFF0C\u719F\u7EC3\u5EA6\u8981\u9AD8",paraId:39,tocIndex:6},{value:"\u6570\u636E\u5E93",paraId:39,tocIndex:6},{value:"\u79FB\u690D\u6027\u6BD4\u8F83\u5DEE",paraId:39,tocIndex:6},{value:"\uFF0C\u5982\u679C\u9700\u8981\u5207\u6362\u6570\u636E\u5E93\u7684\u8BDD\uFF0CSQL \u8BED\u53E5\u4F1A\u6709\u5F88\u5927\u7684\u5DEE\u5F02",paraId:39,tocIndex:6},{value:"1.\u5BFC\u5165\u76F8\u5173\u7684\u4F9D\u8D56",paraId:40,tocIndex:7},{value:`    <dependencies>
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.5.4</version>
+        </dependency> 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.47</version>
+        </dependency>  
+    </dependencies>
+`,paraId:41,tocIndex:7},{value:"\u9A71\u52A8\u8BF7\u6309\u7167\u6570\u636E\u5E93\u7248\u672C\u8FDB\u884C\u5BF9\u5E94 ",paraId:42,tocIndex:7},{value:"https://dev.mysql.com/doc/relnotes/connector-j/5.1/en/",paraId:42,tocIndex:7},{value:"2.\u521B\u5EFA\u5BF9\u5E94\u7684\u6570\u636E\u8868",paraId:43,tocIndex:7},{value:"3.\u521B\u5EFA\u4E0E\u8868\u5BF9\u5E94\u7684\u5B9E\u4F53\u7C7B\u5BF9\u8C61",paraId:44,tocIndex:7},{value:"Emp.java",paraId:45,tocIndex:7},{value:`public class Emp {
+    private Integer id;
+    private String username;
+ 
+    public Integer getId() {
+        return id;
+    }
+ 
+    public void setId(Integer id) {
+        this.id = id;
+    }
+ 
+    public String getUsername() {
+        return username;
+    }
+ 
+    public void setUsername(String username) {
+        this.username = username;
+    }
+ 
+    @Override
+    public String toString() {
+        return "Emp{" +
+                "id=" + id +
+                ", username='" + username + '\\'' +
+                '}';
+    }
+}
+`,paraId:46,tocIndex:7},{value:"4.\u521B\u5EFA\u5BF9\u5E94\u7684 Mapper \u63A5\u53E3",paraId:47,tocIndex:7},{value:`public interface EmpMapper {
+    // \u6839\u636Eid\u67E5\u8BE2Emp\u5B9E\u4F53
+    @Select("select * from emp where id=#{id}")
+    Emp selectEmp(Integer id);
+ 
+    // \u63D2\u5165
+    Integer insertEmp(Emp emp);
+ 
+    // \u66F4\u65B0
+    Integer updateEmp(Emp emp);
+ 
+    // \u5220\u9664
+    Integer deleteEmp(Integer id);
+}
+`,paraId:48,tocIndex:7},{value:"5.\u7F16\u5199\u914D\u7F6E\u6587\u4EF6 ",paraId:49,tocIndex:7},{value:"mybatis-config.xml",paraId:49,tocIndex:7},{value:`<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <!--<mapper resource="EmpMapper.xml"/>-->
+        <mapper class="cn.xxx.mapper.EmpMapper"></mapper>
+    </mappers>
+</configuration>
+`,paraId:50,tocIndex:7},{value:"6.EmpMapper.xml",paraId:51,tocIndex:7},{value:`<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.xxx.mapper.EmpMapper">
+ 
+    <!--\u6839\u636Eid\u67E5\u8BE2Emp\u5B9E\u4F53-->
+    <select id="selectEmp" resultType="cn.xxx.pojo.Emp">
+        select * from Emp where id = #{id}
+    </select>
+ 
+    <insert id="insertEmp">
+        INSERT INTO
+        \`mybatis\`.\`emp\` ( \`username\`)
+        VALUES (#{username});
+    </insert>
+ 
+    <update id="updateEmp">
+        UPDATE EMP
+        SET username=#{username}
+        WHERE id=#{id}
+    </update>
+ 
+    <delete id="deleteEmp">
+        DELETE FROM emp
+        WHERE id=#{id}
+    </delete>
+
+</mapper>
+`,paraId:52,tocIndex:7},{value:"7.\u7F16\u5199\u6D4B\u8BD5\u7C7B",paraId:53,tocIndex:7},{value:"\u57FA\u4E8EStatementId\uFF0C\u63A5\u53E3\u7ED1\u5B9A\uFF0C\u6CE8\u89E3\u7684\u65B9\u5F0F\u6267\u884C",paraId:54,tocIndex:7},{value:`public class MybatisTest {
+ 
+    SqlSessionFactory sqlSessionFactory;
+    
+    @Before
+    public void before(){
+        // \u4ECE XML \u4E2D\u6784\u5EFA SqlSessionFactory
+        String resource = "mybatis.xml";
+        InputStream inputStream = null;
+        try {
+            inputStream = Resources.getResourceAsStream(resource);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
+    }
+ 
+    /**
+     * \u57FA\u4E8EStatementId\u7684\u65B9\u5F0F\u53BB\u6267\u884CSQL
+     * <mapper resource="EmpMapper.xml"/>
+     * @throws IOException
+     */
+    @Test
+    public void test01() {
+        try (SqlSession session = sqlSessionFactory.openSession()) {
+            Emp emp = (Emp) session.selectOne("cn.xxx.pojo.EmpMapper.selectEmp", 1);
+            System.out.println(emp);
+        }
+    }
+ 
+    /**
+     * \u57FA\u4E8E\u63A5\u53E3\u7ED1\u5B9A\u7684\u65B9\u5F0F
+     *  1.\u65B0\u5EFA\u6570\u636E\u8BBF\u95EE\u5C42\u7684\u63A5\u53E3\uFF1A  POJOMapper
+     *  2.\u6DFB\u52A0mapper\u4E2D\u5BF9\u5E94\u7684\u64CD\u4F5C\u7684\u65B9\u6CD5
+     *      1.\u65B9\u6CD5\u540D\u8981\u548Cmapper\u4E2D\u5BF9\u5E94\u7684\u64CD\u4F5C\u7684\u8282\u70B9\u7684id\u8981\u4E00\u81F4
+     *      2.\u8FD4\u56DE\u7C7B\u578B\u8981\u548Cmapper\u4E2D\u5BF9\u5E94\u7684\u64CD\u4F5C\u7684\u8282\u70B9\u7684resultType\u8981\u4E00\u81F4
+     *      3.mapper\u4E2D\u5BF9\u5E94\u7684\u64CD\u4F5C\u7684\u8282\u70B9\u7684\u53C2\u6570\u5FC5\u987B\u8981\u5728\u65B9\u6CD5\u7684\u53C2\u6570\u4E2D\u58F0\u660E
+     *  3.Mapper.xml \u4E2D\u7684namespace\u5FC5\u987B\u8981\u548C\u63A5\u53E3\u7684\u5B8C\u6574\u9650\u5B9A\u540D\u8981\u4E00\u81F4
+     *  4.\u4FEE\u6539mybatis\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u4E2D\u7684mappers,\u91C7\u7528\u63A5\u53E3\u7ED1\u5B9A\u7684\u65B9\u5F0F:
+     *        <mapper class="cn.xxx.mapper.EmpMapper"></mapper>
+     *  5.\u4E00\u5B9A\u8981\u5C06mapper.xml\u548C\u63A5\u53E3\u653E\u5728\u540C\u4E00\u7EA7\u76EE\u5F55\u4E2D\uFF0C\u53EA\u9700\u8981\u5728resources\u65B0\u5EFA\u548C\u63A5\u53E3\u540C\u6837\u7ED3\u6784\u7684\u6587\u4EF6\u5939\u5C31\u884C\u4E86\uFF0C\u751F\u6210\u5C31\u4F1A\u5408\u5E76\u5728\u4E00\u8D77
+     */
+    @Test
+    public void test02(){
+        try (SqlSession session = sqlSessionFactory.openSession()) {
+            EmpMapper mapper = session.getMapper(EmpMapper.class);
+            Emp emp = mapper.selectEmp(1);
+            System.out.println(emp);
+        }
+    }
+ 
+    /**
+     * \u57FA\u4E8E\u6CE8\u89E3\u7684\u65B9\u5F0F
+     * 1.\u5728\u63A5\u53E3\u65B9\u6CD5\u4E0A\u9762\u5199\u4E0A\u5BF9\u5E94\u7684\u6CE8\u89E3
+     *	@Select("select * from emp where id=#{id}")
+     * \u6CE8\u610F\uFF1A
+     * \u6CE8\u89E3\u53EF\u4EE5\u548Cxml\u5171\u7528\uFF0C \u4F46\u662F\u4E0D\u80FD\u540C\u65F6\u5B58\u5728\u65B9\u6CD5\u5BF9\u5E94\u7684xml\u7684id
+     */
+    @Test
+    public void test03(){
+        try (SqlSession session = sqlSessionFactory.openSession()) {
+            EmpMapper mapper = session.getMapper(EmpMapper.class);
+            Emp emp = mapper.selectEmp(1);
+            System.out.println(emp);
+        }
+    }
+}
+`,paraId:55,tocIndex:7},{value:"\u589E\u5220\u6539\u67E5\u7684\u57FA\u672C\u64CD\u4F5C",paraId:0},{value:"EmpDao.java",paraId:56,tocIndex:8},{value:`public interface EmpDao {
+ 
+    public Emp findEmpByEmpno(Integer empno);
+ 
+    public int updateEmp(Emp emp);
+ 
+    public int deleteEmp(Integer empno);
+ 
+    public int insertEmp(Emp emp);
+ 
+}
+`,paraId:57,tocIndex:8},{value:"EmpDao.xml",paraId:58,tocIndex:8},{value:`<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace:\u7F16\u5199\u63A5\u53E3\u7684\u5168\u7C7B\u540D\uFF0C\u5C31\u662F\u544A\u8BC9\u8981\u5B9E\u73B0\u8BE5\u914D\u7F6E\u6587\u4EF6\u662F\u54EA\u4E2A\u63A5\u53E3\u7684\u5177\u4F53\u5B9E\u73B0-->
+<mapper namespace="cn.tulingxueyuan.dao.EmpDao">
+    <!--
+    select:\u8868\u793A\u8FD9\u4E2A\u64CD\u4F5C\u662F\u4E00\u4E2A\u67E5\u8BE2\u64CD\u4F5C
+    id\u8868\u793A\u7684\u662F\u8981\u5339\u914D\u7684\u65B9\u6CD5\u7684\u540D\u79F0
+    resultType:\u8868\u793A\u8FD4\u56DE\u503C\u7684\u7C7B\u578B\uFF0C\u67E5\u8BE2\u64CD\u4F5C\u5FC5\u987B\u8981\u5305\u542B\u8FD4\u56DE\u503C\u7684\u7C7B\u578B
+    #{\u5C5E\u6027\u540D}\uFF1A\u8868\u793A\u8981\u4F20\u9012\u7684\u53C2\u6570\u7684\u540D\u79F0
+    -->
+    <select id="findEmpByEmpno" resultType="cn.tulingxueyuan.bean.Emp">
+        select * from emp where empno = #{empno}
+    </select>
+    <!--\u589E\u5220\u6539\u67E5\u64CD\u4F5C\u4E0D\u9700\u8981\u8FD4\u56DE\u503C\uFF0C\u589E\u5220\u6539\u8FD4\u56DE\u7684\u662F\u5F71\u54CD\u7684\u884C\u6570\uFF0Cmybatis\u4F1A\u81EA\u52A8\u505A\u5224\u65AD-->
+    <insert id="insertEmp">
+        insert into emp(empno,ename) values(#{empno},#{ename})
+    </insert>
+    <update id="updateEmp">
+        update emp set ename=#{ename} where empno = #{empno}
+    </update>
+    <delete id="deleteEmp">
+        delete from emp where empno = #{empno}
+    </delete>
+</mapper>
+`,paraId:59,tocIndex:8},{value:"MyTest.java",paraId:60,tocIndex:8},{value:`package cn.tulingxueyuan.test;
+ 
+import cn.tulingxueyuan.bean.Emp;
+import cn.tulingxueyuan.dao.EmpDao;
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.Before;
+import org.junit.Test;
+ 
+import java.io.IOException;
+import java.io.InputStream;
+ 
+public class MyTest {
+    SqlSessionFactory sqlSessionFactory = null;
+    @Before
+    public void init(){
+        // \u6839\u636E\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u521B\u5EFA\u51FASqlSessionFactory
+        // SqlSessionFactory:\u8D1F\u8D23\u521B\u5EFASqlSession\u5BF9\u8C61\u7684\u5DE5\u5382
+        // SqlSession:\u8868\u793A\u8DDF\u6570\u636E\u5E93\u5EFA\u8BAE\u7684\u4E00\u6B21\u4F1A\u8BDD
+        String resource = "mybatis-config.xml";
+        InputStream inputStream = null;
+        try {
+            inputStream = Resources.getResourceAsStream(resource);
+            sqlSessionFactory= new SqlSessionFactoryBuilder().build(inputStream);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    @Test
+    public void test01() {
+ 
+        // \u83B7\u53D6\u6570\u636E\u5E93\u7684\u4F1A\u8BDD
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+        Emp empByEmpno = null;
+        try {
+            // \u83B7\u53D6\u8981\u8C03\u7528\u7684\u63A5\u53E3\u7C7B
+            EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+            // \u8C03\u7528\u65B9\u6CD5\u5F00\u59CB\u6267\u884C
+            empByEmpno = mapper.findEmpByEmpno(7369);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            sqlSession.close();
+        }
+        System.out.println(empByEmpno);
+    }
+ 
+    @Test
+    public void test02(){
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+        EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+        int zhangsan = mapper.insertEmp(new Emp(1111, "zhangsan"));
+        System.out.println(zhangsan);
+        sqlSession.commit();
+        sqlSession.close();
+    }
+ 
+    @Test
+    public void test03(){
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+        EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+        int zhangsan = mapper.updateEmp(new Emp(1111, "lisi"));
+        System.out.println(zhangsan);
+        sqlSession.commit();
+        sqlSession.close();
+    }
+ 
+    @Test
+    public void test04(){
+        SqlSession sqlSession = sqlSessionFactory.openSession();
+        EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+        int zhangsan = mapper.deleteEmp(1111);
+        System.out.println(zhangsan);
+        sqlSession.commit();
+        sqlSession.close();
+    }
+}
+`,paraId:61,tocIndex:8},{value:"EmpDaoAnnotation.java",paraId:62,tocIndex:8},{value:`package cn.tulingxueyuan.dao;
+ 
+import cn.tulingxueyuan.bean.Emp;
+import org.apache.ibatis.annotations.Delete;
+import org.apache.ibatis.annotations.Insert;
+import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.Update;
+ 
+public interface EmpDaoAnnotation {
+ 
+    @Select("select * from emp where id= #{id}")
+    public Emp findEmpByEmpno(Integer empno);
+ 
+    @Update("update emp set ename=#{ename} where id= #{id}")
+    public int updateEmp(Emp emp);
+ 
+    @Delete("delete from emp where id= #{id}")
+    public int deleteEmp(Integer empno);
+ 
+    @Insert("insert into emp(id,user_name) values(#{id},#{username})")
+    public int insertEmp(Emp emp);
+ 
+}
+`,paraId:63,tocIndex:8}]},93022:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u65E5\u5FD7\u6F14\u53D8\uFF1A",paraId:0},{value:"jdk1.4",paraId:1,tocIndex:2},{value:' \u4E4B\u524D\u6CA1\u6709\u4EFB\u4F55\u7684\u65E5\u5FD7\u6846\u67B6\uFF0C\u76F4\u63A5System.out.println("")',paraId:1,tocIndex:2},{value:"\u65E5\u5FD7\u6F14\u53D8\u8FC7\u7A0B",paraId:2,tocIndex:2},{value:"\u5C06\u65E5\u5FD7",paraId:3,tocIndex:2},{value:"\u6309\u7167\u7EA7\u522B\u8F93\u5165\uFF0C\u6309\u7167\u5305\u6216\u8005\u7C7B\u6765\u8F93\u5165",paraId:3,tocIndex:2},{value:"\u5C06\u65E5\u5FD7",paraId:3,tocIndex:2},{value:"\u8F93\u5165\u5230\u6587\u4EF6\u4E2D",paraId:3,tocIndex:2},{value:"\uFF0C",paraId:3,tocIndex:2},{value:"\u6309\u7167\u65E5\u671F\u6216\u8005\u6587\u4EF6\u5927\u5C0F\u6765\u8FDB\u884C\u5F52\u6863",paraId:3,tocIndex:2},{value:"\uFF0C\u8BB0\u5F55\u65E5\u5FD7\u540C\u65F6\u53D1\u9001\u90AE\u4EF6\u7ED9\u5F00\u53D1\u4EBA\u5458",paraId:3,tocIndex:2},{value:"\u81EA\u5B9A\u4E49\u683C\u5F0F\uFF0C\u8BA9\u65E5\u5FD7\u66F4\u7F8E\u89C2",paraId:3,tocIndex:2},{value:"\u6027\u80FD",paraId:3,tocIndex:2},{value:"\u5E02\u9762\u4E0A\u7684\u65E5\u5FD7\u6846\u67B6",paraId:0},{value:"log4j",paraId:4,tocIndex:3},{value:"Log4j \u662F\u4E00\u4E2A\u7528\u4E8E\u8BB0\u5F55\u65E5\u5FD7\u7684 Java \u5E93\uFF0C\u5B83\u63D0\u4F9B\u4E86\u7075\u6D3B\u7684\u65E5\u5FD7\u8BB0\u5F55\u6846\u67B6\uFF0C\u4F7F\u5F97\u5F00\u53D1\u8005\u53EF\u4EE5\u5728\u5E94\u7528\u7A0B\u5E8F\u4E2D\u8BB0\u5F55\u5404\u79CD\u7EA7\u522B\u7684\u65E5\u5FD7\u4FE1\u606F",paraId:5,tocIndex:3},{value:"\u3002Log4j \u7684\u8BBE\u8BA1\u65E8\u5728\u63D0\u4F9B\u9AD8\u6027\u80FD\u3001\u7075\u6D3B\u6027\u548C\u53EF\u9760\u6027\uFF0C\u4F7F\u5F97\u5B83\u6210\u4E3A\u4E86 Java \u5F00\u53D1\u4E2D\u6700\u6D41\u884C\u7684\u65E5\u5FD7\u8BB0\u5F55\u5E93\u4E4B\u4E00",paraId:5,tocIndex:3},{value:"\u57FA\u4E8E log4j \u5F00\u53D1\u51FA\u6765\u7684 logback",paraId:6,tocIndex:3},{value:"slf4j",paraId:7,tocIndex:3},{value:"\u662F\u4E00\u4E2A\u4E3A Java \u5E94\u7528\u7A0B\u5E8F\u63D0\u4F9B\u65E5\u5FD7\u62BD\u8C61\u7684\u7B80\u5355\u95E8\u9762\uFF0C\u5B83\u5141\u8BB8\u5F00\u53D1\u8005\u5728\u4EE3\u7801\u4E2D\u4F7F\u7528\u7EDF\u4E00\u7684 API \u6765\u8BB0\u5F55\u65E5\u5FD7\uFF0C\u800C\u65E0\u9700\u5173\u5FC3\u5177\u4F53\u7684\u65E5\u5FD7\u5B9E\u73B0\u3002",paraId:8,tocIndex:3},{value:"SLF4J \u4E0D\u662F\u4E00\u4E2A\u5177\u4F53\u7684\u65E5\u5FD7\u5B9E\u73B0\uFF0C\u800C\u662F\u4E3A\u5404\u79CD\u65E5\u5FD7\u6846\u67B6\uFF08\u5982 Log4j\u3001Logback\u3001java.util.logging \u7B49\uFF09\u63D0\u4F9B\u4E86\u4E00\u4E2A\u7EDF\u4E00\u7684\u63A5\u53E3",paraId:8,tocIndex:3},{value:"\uFF0C\u4F7F\u5F97\u5F00\u53D1\u8005\u53EF\u4EE5\u7075\u6D3B\u5730\u9009\u62E9\u548C\u5207\u6362\u65E5\u5FD7\u6846\u67B6\u800C\u65E0\u9700\u4FEE\u6539\u4EE3\u7801\u3002",paraId:8,tocIndex:3},{value:"Logback",paraId:9,tocIndex:3},{value:"**Logback \u662F\u4E00\u4E2A\u7075\u6D3B\u800C\u5F3A\u5927\u7684 Java \u65E5\u5FD7\u6846\u67B6\uFF0C\u5B83\u662F SLF4J \u65E5\u5FD7\u95E8\u9762\u7684\u9ED8\u8BA4\u5B9E\u73B0\u3002**Logback \u65E8\u5728\u6210\u4E3A Log4j \u7684\u540E\u7EE7\u8005\uFF0C\u63D0\u4F9B\u4E86\u66F4\u9AD8\u7684\u6027\u80FD\u548C\u66F4\u4E30\u5BCC\u7684\u529F\u80FD",paraId:10,tocIndex:3},{value:"JUL\u3001JCL\u3001Jboss-logging\u3001logback\u3001log4j\u3001log4j2\u3001slf4j....",paraId:11,tocIndex:3},{value:"\u65E5\u5FD7\u95E8\u9762 \uFF08\u65E5\u5FD7\u7684\u62BD\u8C61\u5C42\uFF09",paraId:12,tocIndex:3},{value:"\u65E5\u5FD7\u5B9E\u73B0",paraId:12,tocIndex:3},{value:"JCL\uFF08Jakarta Commons Logging\uFF09 SLF4j\uFF08Simple Logging Facade for Java\uFF09 ",paraId:12,tocIndex:3},{value:"jboss-logging",paraId:12,tocIndex:3},{value:"Log4j JUL\uFF08java.util.logging\uFF09 Log4j2 ",paraId:12,tocIndex:3},{value:"Logback",paraId:12,tocIndex:3},{value:"\u5DE6\u8FB9\u9009\u4E00\u4E2A\u95E8\u9762\uFF08\u62BD\u8C61\u5C42\uFF09\u3001\u53F3\u8FB9\u6765\u9009\u4E00\u4E2A\u5B9E\u73B0\uFF1B",paraId:13,tocIndex:3},{value:"\u65E5\u5FD7\u95E8\u9762\uFF1A  SLF4J\uFF1B \u5B98\u65B9\u6587\u6863\uFF1A",paraId:14,tocIndex:3},{value:"http://www.slf4j.org/",paraId:14,tocIndex:3},{value:"\uFEFF",paraId:14,tocIndex:3},{value:"\u65E5\u5FD7\u5B9E\u73B0\uFF1ALogback\uFF1B \u4E2D\u6587\u6587\u6863\uFF1A",paraId:15,tocIndex:3},{value:"http://www.logback.cn/",paraId:15,tocIndex:3},{value:`<dependency>
+	<groupId>org.slf4j</groupId>
+	<artifactId>slf4j-api</artifactId>
+	<version>1.7.30</version>
+</dependency>
+<dependency>
+	<groupId>ch.qos.logback</groupId>
+	<artifactId>logback-classic</artifactId>
+	<version>1.2.3</version>
+</dependency>
+`,paraId:16,tocIndex:4},{value:"\u6DFB\u52A0 logback \u914D\u7F6E\u6587\u4EF6",paraId:17,tocIndex:4},{value:`<configuration>
+    <!--appender \u8FFD\u52A0\u5668   \u65E5\u5FD7\u4EE5\u54EA\u79CD\u65B9\u5F0F\u8FDB\u884C\u8F93\u51FA
+            name \u53D6\u4E2A\u540D\u5B57
+            class \u4E0D\u540C\u5B9E\u73B0\u7C7B\u4F1A\u8F93\u51FA\u5230\u4E0D\u540C\u5730\u65B9
+                ch.qos.logback.core.ConsoleAppender \u8F93\u51FA\u5230\u63A7\u5236\u53F0
+    -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <!-- \u683C\u5F0F -->
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{100} - %msg%n</pattern>
+        </encoder>
+    </appender>
+<!--cn.tulingxueyuan.mapper-->
+<!--\u63A7\u5236\u8DDF\u7EC6\u7C92\u5EA6\u7684\u65E5\u5FD7\u7EA7\u522B  \u6839\u636E\u5305\\\u6839\u636E\u7C7B-->
+    <logger name="cn.tulingxueyuan.mapper" level="debug"></logger>
+    org.apache.ibatis.transaction
+    <!--\u63A7\u5236\u6240\u6709\u7684\u65E5\u5FD7\u7EA7\u522B-->
+    <root level="error">
+        <!-- \u5C06\u5F53\u524D\u65E5\u5FD7\u7EA7\u522B\u8F93\u51FA\u5230\u54EA\u4E2A\u8FFD\u52A0\u5668\u4E0A\u9762 -->
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>
+`,paraId:18,tocIndex:4},{value:"\u6D4B\u8BD5",paraId:19,tocIndex:4},{value:`Logger LOGGER= LoggerFactory.getLogger(this.getClass());
+/**
+ * \u65E5\u5FD7\u7EA7\u522B
+ * TRACE < DEBUG < INFO < WARN < ERROR\u3002
+ * 1        2       3      4       5
+ */
+@Test
+public  void test02(){
+    LOGGER.trace("\u8DDF\u8E2A\u7EA7\u522B");
+    LOGGER.debug("\u8C03\u8BD5\u7EA7\u522B");
+    LOGGER.info("\u4FE1\u606F\u7EA7\u522B");
+    LOGGER.warn("\u8B66\u544A\u7EA7\u522B");
+    LOGGER.error("\u5F02\u5E38\u7EA7\u522B");
+}
+`,paraId:20,tocIndex:4},{value:"\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u8BE6\u89E3",paraId:0},{value:"\u5728 mybatis \u7684\u9879\u76EE\u4E2D\uFF0C\u6211\u4EEC\u53D1\u73B0\u4E86\u6709\u4E00\u4E2A ",paraId:21,tocIndex:5},{value:"mybatis-config.xml ",paraId:21,tocIndex:5},{value:"\u7684\u914D\u7F6E\u6587\u4EF6\uFF0C",paraId:21,tocIndex:5},{value:"\u8FD9\u4E2A\u914D\u7F6E\u6587\u4EF6\u662F mybatis \u7684\u5168\u5C40\u914D\u7F6E\u6587\u4EF6",paraId:21,tocIndex:5},{value:"\uFF0C\u7528\u6765\u8FDB\u884C\u76F8\u5173\u7684\u5168\u5C40\u914D\u7F6E\uFF0C\u5728\u4EFB\u4F55\u64CD\u4F5C\u4E0B\u90FD\u751F\u6548\u7684\u914D\u7F6E\u3002",paraId:21,tocIndex:5},{value:"\u5B98\u65B9\u8BF4\u660E\uFF1A",paraId:22,tocIndex:5},{value:"MyBatis \u7684\u914D\u7F6E\u6587\u4EF6\u5305\u542B\u4E86\u4F1A\u6DF1\u6DF1\u5F71\u54CD MyBatis \u884C\u4E3A\u7684\u8BBE\u7F6E\u548C\u5C5E\u6027\u4FE1\u606F\u3002 \u914D\u7F6E\u6587\u6863\u7684\u9876\u5C42\u7ED3\u6784\u5982\u4E0B\uFF1A",paraId:23,tocIndex:5},{value:"configuration\uFF08\u914D\u7F6E\uFF09",paraId:24,tocIndex:5},{value:"\uFEFF",paraId:25,tocIndex:5},{value:"properties\uFF08\u5C5E\u6027\uFF09",paraId:25,tocIndex:5},{value:"\uFEFF",paraId:25,tocIndex:5},{value:"\uFEFF",paraId:26,tocIndex:5},{value:"settings\uFF08\u8BBE\u7F6E\uFF09",paraId:26,tocIndex:5},{value:"\uFEFF",paraId:26,tocIndex:5},{value:"\uFEFF",paraId:27,tocIndex:5},{value:"typeAliases\uFF08\u7C7B\u578B\u522B\u540D\uFF09",paraId:27,tocIndex:5},{value:"\uFEFF",paraId:27,tocIndex:5},{value:"\uFEFF",paraId:28,tocIndex:5},{value:"typeHandlers\uFF08\u7C7B\u578B\u5904\u7406\u5668\uFF09",paraId:28,tocIndex:5},{value:"\uFEFF",paraId:28,tocIndex:5},{value:"\uFEFF",paraId:29,tocIndex:5},{value:"objectFactory\uFF08\u5BF9\u8C61\u5DE5\u5382\uFF09",paraId:29,tocIndex:5},{value:"\uFEFF",paraId:29,tocIndex:5},{value:"\uFEFF",paraId:30,tocIndex:5},{value:"plugins\uFF08\u63D2\u4EF6\uFF09",paraId:30,tocIndex:5},{value:"\uFEFF",paraId:30,tocIndex:5},{value:"\uFEFF",paraId:31,tocIndex:5},{value:"environments\uFF08\u73AF\u5883\u914D\u7F6E\uFF09",paraId:31,tocIndex:5},{value:"\uFEFF",paraId:31,tocIndex:5},{value:"environment\uFF08\u73AF\u5883\u53D8\u91CF\uFF09",paraId:32,tocIndex:5},{value:"transactionManager\uFF08\u4E8B\u52A1\u7BA1\u7406\u5668\uFF09",paraId:33,tocIndex:5},{value:"dataSource\uFF08\u6570\u636E\u6E90\uFF09",paraId:34,tocIndex:5},{value:"\uFEFF",paraId:35,tocIndex:5},{value:"databaseIdProvider\uFF08\u6570\u636E\u5E93\u5382\u5546\u6807\u8BC6\uFF09",paraId:35,tocIndex:5},{value:"\uFEFF",paraId:35,tocIndex:5},{value:"\uFEFF",paraId:36,tocIndex:5},{value:"mappers\uFF08\u6620\u5C04\u5668\uFF09",paraId:36,tocIndex:5},{value:"\u4E3E\u4F8B",paraId:37,tocIndex:5},{value:"mybatis-config.xml",paraId:38,tocIndex:5},{value:`<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--\u5F15\u5165\u5916\u90E8\u914D\u7F6E\u6587\u4EF6\uFF0C\u7C7B\u4F3C\u4E8ESpring\u4E2D\u7684property-placeholder
+    resource:\u4ECE\u7C7B\u8DEF\u5F84\u5F15\u5165
+    url:\u4ECE\u78C1\u76D8\u8DEF\u5F84\u6216\u8005\u7F51\u7EDC\u8DEF\u5F84\u5F15\u5165
+    -->
+    <properties resource="db.properties"></properties>
+    <!--\u7528\u6765\u63A7\u5236mybatis\u8FD0\u884C\u65F6\u7684\u884C\u4E3A\uFF0C\u662Fmybatis\u4E2D\u7684\u91CD\u8981\u914D\u7F6E-->
+    <settings>
+        <!--\u8BBE\u7F6E\u5217\u540D\u6620\u5C04\u7684\u65F6\u5019\u662F\u5426\u662F\u9A7C\u5CF0\u6807\u8BC6-->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+    </settings>
+    <!--typeAliases\u8868\u793A\u4E3A\u6211\u4EEC\u5F15\u7528\u7684\u5B9E\u4F53\u7C7B\u8D77\u522B\u540D\uFF0C\u9ED8\u8BA4\u60C5\u51B5\u4E0B\u6211\u4EEC\u9700\u8981\u5199\u7C7B\u7684\u5B8C\u5168\u9650\u5B9A\u540D
+    \u5982\u679C\u5728\u6B64\u5904\u505A\u4E86\u914D\u7F6E\uFF0C\u90A3\u4E48\u53EF\u4EE5\u76F4\u63A5\u5199\u7C7B\u7684\u540D\u79F0,\u5728type\u4E2D\u914D\u7F6E\u4E0A\u7C7B\u7684\u5B8C\u5168\u9650\u5B9A\u540D\uFF0C\u5728\u4F7F\u7528\u7684\u65F6\u5019\u53EF\u4EE5\u5FFD\u7565\u5927\u5C0F\u5199
+    \u8FD8\u53EF\u4EE5\u901A\u8FC7alias\u5C5E\u6027\u6765\u8868\u793A\u7C7B\u7684\u522B\u540D
+    -->
+    <typeAliases>
+<!--        <typeAlias type="cn.tulingxueyuan.bean.Emp" alias="Emp"></typeAlias>-->
+        <!--\u5982\u679C\u9700\u8981\u5F15\u7528\u591A\u4E2A\u7C7B\uFF0C\u90A3\u4E48\u7ED9\u6BCF\u4E00\u4E2A\u7C7B\u8D77\u522B\u540D\u80AF\u5B9A\u4F1A\u5F88\u9EBB\u70E6\uFF0C\u56E0\u6B64\u53EF\u4EE5\u6307\u5B9A\u5BF9\u5E94\u7684\u5305\u540D\uFF0C\u90A3\u4E48\u9ED8\u8BA4\u7528\u7684\u662F\u7C7B\u540D-->
+        <package name="cn.tulingxueyuan.bean"/>
+    </typeAliases>
+    <!--
+    \u5728\u5B9E\u9645\u7684\u5F00\u53D1\u8FC7\u7A0B\u4E2D\uFF0C\u6211\u4EEC\u53EF\u80FD\u5206\u4E3A\u5F00\u53D1\u73AF\u5883\uFF0C\u751F\u4EA7\u73AF\u5883\uFF0C\u6D4B\u8BD5\u73AF\u5883\u7B49\u7B49\uFF0C\u6BCF\u4E2A\u73AF\u5883\u7684\u914D\u7F6E\u53EF\u4EE5\u662F\u4E0D\u4E00\u6837\u7684
+    environment\u5C31\u7528\u6765\u8868\u793A\u4E0D\u540C\u73AF\u5883\u7684\u7EC6\u8282\u914D\u7F6E\uFF0C\u6BCF\u4E00\u4E2A\u73AF\u5883\u4E2D\u90FD\u9700\u8981\u4E00\u4E2A\u4E8B\u52A1\u7BA1\u7406\u5668\u4EE5\u53CA\u6570\u636E\u6E90\u7684\u914D\u7F6E
+    \u6211\u4EEC\u5728\u540E\u7EED\u7684\u9879\u76EE\u5F00\u53D1\u4E2D\u51E0\u4E4E\u90FD\u662F\u4F7F\u7528spring\u4E2D\u914D\u7F6E\u7684\u6570\u636E\u6E90\u548C\u4E8B\u52A1\u7BA1\u7406\u5668\u6765\u914D\u7F6E\uFF0C\u6B64\u5904\u4E0D\u9700\u8981\u7814\u7A76
+    -->
+    <!--default:\u7528\u6765\u9009\u62E9\u9700\u8981\u7684\u73AF\u5883-->
+    <environments default="development">
+        <!--id:\u8868\u793A\u4E0D\u540C\u73AF\u5883\u7684\u540D\u79F0-->
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <!--\u914D\u7F6E\u6570\u636E\u5E93\u8FDE\u63A5-->
+            <dataSource type="POOLED">
+                <!--\u4F7F\u7528\${}\u6765\u5F15\u5165\u5916\u90E8\u53D8\u91CF-->
+                <property name="driver" value="\${driverClassname}"/>
+                <property name="url" value="\${url}"/>
+                <property name="username" value="\${username}"/>
+                <property name="password" value="\${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!--
+    \u5728\u4E0D\u540C\u7684\u6570\u636E\u5E93\u4E2D\uFF0C\u53EF\u80FDsql\u8BED\u53E5\u7684\u5199\u6CD5\u662F\u4E0D\u4E00\u6837\u7684\uFF0C\u4E3A\u4E86\u589E\u5F3A\u79FB\u690D\u6027\uFF0C\u53EF\u4EE5\u63D0\u4F9B\u4E0D\u540C\u6570\u636E\u5E93\u7684\u64CD\u4F5C\u5B9E\u73B0
+    \u5728\u7F16\u5199\u4E0D\u540C\u7684sql\u8BED\u53E5\u7684\u65F6\u5019\uFF0C\u53EF\u4EE5\u6307\u5B9AdatabaseId\u5C5E\u6027\u6765\u6807\u8BC6\u5F53\u524Dsql\u8BED\u53E5\u53EF\u4EE5\u8FD0\u884C\u5728\u54EA\u4E2A\u6570\u636E\u5E93\u4E2D
+    -->
+    <databaseIdProvider type="DB_VENDOR">
+        <property name="MySQL" value="mysql"/>
+        <property name="SQL Server" value="sqlserver"/>
+        <property name="Oracle" value="orcl"/>
+    </databaseIdProvider>
+    
+    <!--\u5C06sql\u7684\u6620\u5C04\u6587\u4EF6\u9002\u7528mappers\u8FDB\u884C\u6620\u5C04-->
+    <mappers>
+        <!--
+        \u6307\u5B9A\u5177\u4F53\u7684\u4E0D\u540C\u7684\u914D\u7F6E\u6587\u4EF6
+        class:\u76F4\u63A5\u5F15\u5165\u63A5\u53E3\u7684\u5168\u7C7B\u540D\uFF0C\u53EF\u4EE5\u5C06xml\u6587\u4EF6\u653E\u5728dao\u7684\u540C\u7EA7\u76EE\u5F55\u4E0B\uFF0C\u5E76\u4E14\u8BBE\u7F6E\u76F8\u540C\u7684\u6587\u4EF6\u540D\u79F0\uFF0C\u540C\u65F6\u53EF\u4EE5\u4F7F\u7528\u6CE8\u89E3\u7684\u65B9\u5F0F\u6765\u8FDB\u884C\u76F8\u5173\u7684\u914D\u7F6E
+        url:\u53EF\u4EE5\u4ECE\u78C1\u76D8\u6216\u8005\u7F51\u7EDC\u8DEF\u5F84\u67E5\u627Esql\u6620\u5C04\u6587\u4EF6
+        resource:\u5728\u7C7B\u8DEF\u5F84\u4E0B\u5BFB\u627Esql\u6620\u5C04\u6587\u4EF6
+        -->
+<!--        <mapper resource="EmpDao.xml"/>
+        <mapper resource="UserDao.xml"/>
+        <mapper class="cn.tulingxueyuan.dao.EmpDaoAnnotation"></mapper>-->
+        <!--
+        \u5F53\u5305\u542B\u591A\u4E2A\u914D\u7F6E\u6587\u4EF6\u6216\u8005\u914D\u7F6E\u7C7B\u7684\u65F6\u5019\uFF0C\u53EF\u4EE5\u4F7F\u7528\u6279\u91CF\u6CE8\u518C\u7684\u529F\u80FD\uFF0C\u4E5F\u5C31\u662F\u5F15\u5165\u5BF9\u5E94\u7684\u5305\uFF0C\u800C\u4E0D\u662F\u5177\u4F53\u7684\u914D\u7F6E\u6587\u4EF6\u6216\u8005\u7C7B
+        \u4F46\u662F\u9700\u8981\u6CE8\u610F\u7684\u662F\uFF0C
+        1\u3001\u5982\u679C\u4F7F\u7528\u7684\u914D\u7F6E\u6587\u4EF6\u7684\u5F62\u5F0F\uFF0C\u5FC5\u987B\u8981\u5C06\u914D\u7F6E\u6587\u4EF6\u8DDFdao\u7C7B\u653E\u5728\u4E00\u8D77\uFF0C\u8FD9\u6837\u624D\u80FD\u627E\u5230\u5BF9\u5E94\u7684\u914D\u7F6E\u6587\u4EF6.
+            \u5982\u679C\u662Fmaven\u7684\u9879\u76EE\u7684\u8BDD\uFF0C\u8FD8\u9700\u8981\u6DFB\u52A0\u4EE5\u4E0B\u914D\u7F6E\uFF0C\u539F\u56E0\u662Fmaven\u5728\u7F16\u8BD1\u7684\u6587\u4EF6\u7684\u65F6\u5019\u53EA\u4F1A\u7F16\u8BD1java\u6587\u4EF6
+                <build>
+                    <resources>
+                        <resource>
+                            <directory>src/main/java</directory>
+                        <includes>
+                            <include>**/*.xml</include>
+                        </includes>
+                    </resource>
+                    </resources>
+                </build>
+ 
+        2\u3001\u5C06\u914D\u7F6E\u6587\u4EF6\u5728resources\u8D44\u6E90\u8DEF\u5F84\u4E0B\u521B\u5EFA\u8DDFdao\u76F8\u540C\u7684\u5305\u540D
+        -->
+        <package name="cn.tulingxueyuan.dao"/>
+    </mappers>
+</configuration>
+`,paraId:39,tocIndex:5},{value:"MyBatis \u7684\u771F\u6B63\u5F3A\u5927\u5728\u4E8E\u5B83\u7684",paraId:40,tocIndex:6},{value:"\u8BED\u53E5\u6620\u5C04",paraId:40,tocIndex:6},{value:"\uFF0C\u8FD9\u662F\u5B83\u7684\u9B54\u529B\u6240\u5728",paraId:40,tocIndex:6},{value:"\u7531\u4E8E\u5B83\u7684\u5F02\u5E38\u5F3A\u5927\uFF0C\u6620\u5C04\u5668\u7684 XML \u6587\u4EF6\u5C31\u663E\u5F97\u76F8\u5BF9\u7B80\u5355\u3002\u5982\u679C\u62FF\u5B83\u8DDF\u5177\u6709\u76F8\u540C\u529F\u80FD\u7684 JDBC \u4EE3\u7801\u8FDB\u884C\u5BF9\u6BD4\uFF0C\u4F60\u4F1A\u7ACB\u5373\u53D1\u73B0\u7701\u6389\u4E86\u5C06\u8FD1 95% \u7684\u4EE3\u7801\u3002MyBatis \u81F4\u529B\u4E8E\u51CF\u5C11\u4F7F\u7528\u6210\u672C\uFF0C\u8BA9\u7528\u6237\u80FD\u66F4\u4E13\u6CE8\u4E8E SQL \u4EE3\u7801",paraId:41,tocIndex:6},{value:"SQL \u6620\u5C04\u6587\u4EF6\u53EA\u6709\u5F88\u5C11\u7684\u51E0\u4E2A\u9876\u7EA7\u5143\u7D20\uFF08\u6309\u7167\u5E94\u88AB\u5B9A\u4E49\u7684\u987A\u5E8F\u5217\u51FA\uFF09\uFF1A",paraId:42,tocIndex:6},{value:"cache \u2013 \u8BE5\u547D\u540D\u7A7A\u95F4\u7684\u7F13\u5B58\u914D\u7F6E",paraId:43,tocIndex:6},{value:"cache-ref \u2013 \u5F15\u7528\u5176\u5B83\u547D\u540D\u7A7A\u95F4\u7684\u7F13\u5B58\u914D\u7F6E",paraId:44,tocIndex:6},{value:"resultMap \u2013 \u63CF\u8FF0\u5982\u4F55\u4ECE\u6570\u636E\u5E93\u7ED3\u679C\u96C6\u4E2D\u52A0\u8F7D\u5BF9\u8C61\uFF0C\u662F\u6700\u590D\u6742\u4E5F\u662F\u6700\u5F3A\u5927\u7684\u5143\u7D20\u3002",paraId:45,tocIndex:6},{value:"parameterMap \u2013 \u8001\u5F0F\u98CE\u683C\u7684\u53C2\u6570\u6620\u5C04\u3002\u6B64\u5143\u7D20\u5DF2\u88AB\u5E9F\u5F03\uFF0C\u5E76\u53EF\u80FD\u5728\u5C06\u6765\u88AB\u79FB\u9664\uFF01\u8BF7\u4F7F\u7528\u884C\u5185\u53C2\u6570\u6620\u5C04\u3002\u6587\u6863\u4E2D\u4E0D\u4F1A\u4ECB\u7ECD\u6B64\u5143\u7D20\u3002",paraId:46,tocIndex:6},{value:"sql \u2013 \u53EF\u88AB\u5176\u5B83\u8BED\u53E5\u5F15\u7528\u7684\u53EF\u91CD\u7528\u8BED\u53E5\u5757\u3002",paraId:47,tocIndex:6},{value:"insert \u2013 \u6620\u5C04\u63D2\u5165\u8BED\u53E5\u3002",paraId:48,tocIndex:6},{value:"update \u2013 \u6620\u5C04\u66F4\u65B0\u8BED\u53E5\u3002",paraId:49,tocIndex:6},{value:"delete \u2013 \u6620\u5C04\u5220\u9664\u8BED\u53E5\u3002",paraId:50,tocIndex:6},{value:"select \u2013 \u6620\u5C04\u67E5\u8BE2\u8BED\u53E5\u3002",paraId:51,tocIndex:6},{value:"\u5728\u6BCF\u4E2A\u9876\u7EA7\u5143\u7D20\u6807\u7B7E\u4E2D\u53EF\u4EE5\u6DFB\u52A0\u5F88\u591A\u4E2A\u5C5E\u6027\uFF0C\u4E0B\u9762\u6211\u4EEC\u5F00\u59CB\u8BE6\u7EC6\u4E86\u89E3\u4E0B\u5177\u4F53\u7684\u914D\u7F6E\u3002",paraId:52,tocIndex:6},{value:"\u5C5E\u6027",paraId:53,tocIndex:7},{value:"\u63CF\u8FF0",paraId:53,tocIndex:7},{value:"id",paraId:53,tocIndex:7},{value:"\u5728\u547D\u540D\u7A7A\u95F4\u4E2D\u552F\u4E00\u7684\u6807\u8BC6\u7B26\uFF0C\u53EF\u4EE5\u88AB\u7528\u6765\u5F15\u7528\u8FD9\u6761\u8BED\u53E5\u3002",paraId:53,tocIndex:7},{value:"parameterType",paraId:53,tocIndex:7},{value:"\u5C06\u4F1A\u4F20\u5165\u8FD9\u6761\u8BED\u53E5\u7684\u53C2\u6570\u7684\u7C7B\u5168\u9650\u5B9A\u540D\u6216\u522B\u540D",paraId:53,tocIndex:7},{value:"\u3002\u8FD9\u4E2A\u5C5E\u6027\u662F\u53EF\u9009\u7684\uFF0C\u56E0\u4E3A MyBatis \u53EF\u4EE5\u901A\u8FC7\u7C7B\u578B\u5904\u7406\u5668\uFF08TypeHandler\uFF09\u63A8\u65AD\u51FA\u5177\u4F53\u4F20\u5165\u8BED\u53E5\u7684\u53C2\u6570\uFF0C\u9ED8\u8BA4\u503C\u4E3A\u672A\u8BBE\u7F6E\uFF08unset\uFF09\u3002",paraId:53,tocIndex:7},{value:"parameterMap",paraId:53,tocIndex:7},{value:"\u7528\u4E8E\u5F15\u7528\u5916\u90E8 parameterMap \u7684\u5C5E\u6027\uFF0C\u76EE\u524D\u5DF2\u88AB\u5E9F\u5F03\u3002\u8BF7\u4F7F\u7528\u884C\u5185\u53C2\u6570\u6620\u5C04\u548C parameterType \u5C5E\u6027\u3002",paraId:53,tocIndex:7},{value:"flushCache",paraId:53,tocIndex:7},{value:"\u5C06\u5176\u8BBE\u7F6E\u4E3A true \u540E\uFF0C\u53EA\u8981\u8BED\u53E5\u88AB\u8C03\u7528\uFF0C\u90FD\u4F1A\u5BFC\u81F4\u672C\u5730\u7F13\u5B58\u548C\u4E8C\u7EA7\u7F13\u5B58\u88AB\u6E05\u7A7A\uFF0C\u9ED8\u8BA4\u503C\uFF1A\uFF08\u5BF9 insert\u3001update \u548C delete \u8BED\u53E5\uFF09true\u3002",paraId:53,tocIndex:7},{value:"timeout",paraId:53,tocIndex:7},{value:"\u8FD9\u4E2A\u8BBE\u7F6E\u662F\u5728\u629B\u51FA\u5F02\u5E38\u4E4B\u524D\uFF0C\u9A71\u52A8\u7A0B\u5E8F\u7B49\u5F85\u6570\u636E\u5E93\u8FD4\u56DE\u8BF7\u6C42\u7ED3\u679C\u7684\u79D2\u6570\u3002\u9ED8\u8BA4\u503C\u4E3A\u672A\u8BBE\u7F6E\uFF08unset\uFF09\uFF08\u4F9D\u8D56\u6570\u636E\u5E93\u9A71\u52A8\uFF09\u3002",paraId:53,tocIndex:7},{value:"statementType",paraId:53,tocIndex:7},{value:"\u53EF\u9009 STATEMENT\uFF0CPREPARED \u6216 CALLABLE\u3002\u8FD9\u4F1A\u8BA9 MyBatis \u5206\u522B\u4F7F\u7528 Statement\uFF0CPreparedStatement \u6216 CallableStatement\uFF0C\u9ED8\u8BA4\u503C\uFF1APREPARED\u3002",paraId:53,tocIndex:7},{value:"useGeneratedKeys",paraId:53,tocIndex:7},{value:"\uFF08\u4EC5\u9002\u7528\u4E8E insert \u548C update\uFF09\u8FD9\u4F1A\u4EE4 MyBatis \u4F7F\u7528 JDBC \u7684 getGeneratedKeys \u65B9\u6CD5\u6765\u53D6\u51FA\u7531\u6570\u636E\u5E93\u5185\u90E8\u751F\u6210\u7684\u4E3B\u952E\uFF08\u6BD4\u5982\uFF1A\u50CF MySQL \u548C SQL Server \u8FD9\u6837\u7684\u5173\u7CFB\u578B\u6570\u636E\u5E93\u7BA1\u7406\u7CFB\u7EDF\u7684\u81EA\u52A8\u9012\u589E\u5B57\u6BB5\uFF09\uFF0C\u9ED8\u8BA4\u503C\uFF1Afalse\u3002",paraId:53,tocIndex:7},{value:"keyProperty",paraId:53,tocIndex:7},{value:"\uFF08\u4EC5\u9002\u7528\u4E8E insert \u548C update\uFF09\u6307\u5B9A\u80FD\u591F\u552F\u4E00\u8BC6\u522B\u5BF9\u8C61\u7684\u5C5E\u6027\uFF0CMyBatis \u4F1A\u4F7F\u7528 getGeneratedKeys \u7684\u8FD4\u56DE\u503C\u6216 insert \u8BED\u53E5\u7684 selectKey \u5B50\u5143\u7D20\u8BBE\u7F6E\u5B83\u7684\u503C\uFF0C\u9ED8\u8BA4\u503C\uFF1A\u672A\u8BBE\u7F6E\uFF08unset\uFF09\u3002\u5982\u679C\u751F\u6210\u5217\u4E0D\u6B62\u4E00\u4E2A\uFF0C\u53EF\u4EE5\u7528\u9017\u53F7\u5206\u9694\u591A\u4E2A\u5C5E\u6027\u540D\u79F0\u3002",paraId:53,tocIndex:7},{value:"keyColumn",paraId:53,tocIndex:7},{value:"\uFF08\u4EC5\u9002\u7528\u4E8E insert \u548C update\uFF09\u8BBE\u7F6E\u751F\u6210\u952E\u503C\u5728\u8868\u4E2D\u7684\u5217\u540D\uFF0C\u5728\u67D0\u4E9B\u6570\u636E\u5E93\uFF08\u50CF PostgreSQL\uFF09\u4E2D\uFF0C\u5F53\u4E3B\u952E\u5217\u4E0D\u662F\u8868\u4E2D\u7684\u7B2C\u4E00\u5217\u7684\u65F6\u5019\uFF0C\u662F\u5FC5\u987B\u8BBE\u7F6E\u7684\u3002\u5982\u679C\u751F\u6210\u5217\u4E0D\u6B62\u4E00\u4E2A\uFF0C\u53EF\u4EE5\u7528\u9017\u53F7\u5206\u9694\u591A\u4E2A\u5C5E\u6027\u540D\u79F0\u3002",paraId:53,tocIndex:7},{value:"databaseId",paraId:53,tocIndex:7},{value:"\u5982\u679C\u914D\u7F6E\u4E86\u6570\u636E\u5E93\u5382\u5546\u6807\u8BC6\uFF08databaseIdProvider\uFF09\uFF0CMyBatis \u4F1A\u52A0\u8F7D\u6240\u6709\u4E0D\u5E26 databaseId \u6216\u5339\u914D\u5F53\u524D databaseId \u7684\u8BED\u53E5\uFF1B\u5982\u679C\u5E26\u548C\u4E0D\u5E26\u7684\u8BED\u53E5\u90FD\u6709\uFF0C\u5219\u4E0D\u5E26\u7684\u4F1A\u88AB\u5FFD\u7565\u3002",paraId:53,tocIndex:7},{value:`<!--\u5982\u679C\u6570\u636E\u5E93\u652F\u6301\u81EA\u589E\u53EF\u4EE5\u4F7F\u7528\u8FD9\u6837\u7684\u65B9\u5F0F-->
+   <insert id="insertUser" useGeneratedKeys="true" keyProperty="id">
+      insert into user(user_name) values(#{userName})
+   </insert>
+   <!--\u5982\u679C\u6570\u636E\u5E93\u4E0D\u652F\u6301\u81EA\u589E\u7684\u8BDD\uFF0C\u90A3\u4E48\u53EF\u4EE5\u4F7F\u7528\u5982\u4E0B\u7684\u65B9\u5F0F\u8FDB\u884C\u8D4B\u503C\u67E5\u8BE2-->
+   <insert id="insertUser2" >
+       <selectKey order="BEFORE" keyProperty="id" resultType="integer">
+          select max(id)+1 from user
+       </selectKey>
+      insert into user(id,user_name) values(#{id},#{userName})
+   </insert>
+`,paraId:54,tocIndex:7}]},55893:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u53C2\u6570\u7684\u53D6\u503C\u65B9\u5F0F",paraId:0},{value:"\u5728 xml \u6587\u4EF6\u4E2D\u7F16\u5199 sql \u8BED\u53E5\u7684\u65F6\u5019\u6709\u4E24\u79CD\u53D6\u503C\u7684\u65B9\u5F0F\uFF0C\u5206\u522B\u662F",paraId:1,tocIndex:1},{value:" #{} \u548C ${}",paraId:1,tocIndex:1},{value:"\uFF0C\u4E0B\u9762\u6765\u770B\u4E00\u4E0B\u4ED6\u4EEC\u4E4B\u95F4\u7684\u533A\u522B\uFF1A",paraId:1,tocIndex:1},{value:'#{} ==> jdbc String sql=" SELECT id,user_name FROM EMP WHERE id=?"',paraId:2,tocIndex:1},{value:"\u4F1A\u7ECF\u8FC7JDBC\u5F53\u4E2DPreparedStatement\u7684\u9884\u7F16\u8BD1\uFF0C\u4F1A\u6839\u636E\u4E0D\u540C\u7684\u6570\u636E\u7C7B\u578B\u6765\u7F16\u8BD1\u6210\u5BF9\u5E94\u6570\u636E\u5E93\u6240\u5BF9\u5E94\u7684\u6570\u636E\u3002",paraId:3,tocIndex:1},{value:"\u80FD\u591F\u6709\u6548\u7684\u9632\u6B62SQL\u6CE8\u5165\u3002 \u63A8\u8350\u4F7F\u7528\uFF01",paraId:3,tocIndex:1},{value:"\u7279\u6B8A\u7528\u6CD5\uFF1A",paraId:3,tocIndex:1},{value:`
+\u81EA\u5E26\u5F88\u591A\u5185\u7F6E\u53C2\u6570\u7684\u5C5E\u6027\uFF1A\u901A\u5E38\u4E0D\u4F1A\u4F7F\u7528\u3002\u4E86\u89E3\u5373\u53EF`,paraId:3,tocIndex:1},{value:`
+javaType\u3001jdbcType\u3001mode\u3001numericScale\u3001resultMap\u3001typeHandler.`,paraId:3,tocIndex:1},{value:`
+\u6BD4\u5982 \u9700\u8981\u6539\u53D8\u9ED8\u8BA4\u7684NULL===>OTHER:#{id,javaType=NULL}\uFF0C\u60F3\u4FDD\u7559\u5C0F\u6570\u70B9\u540E\u4E24\u4F4D\uFF1A#{id,numericScale=2}`,paraId:3,tocIndex:1},{value:'${} ==> jdbc String sql=" SELECT id,user_name FROM EMP WHERE id="+id',paraId:4,tocIndex:1},{value:"\u4E0D\u4F1A\u8FDB\u884C\u9884\u7F16\u8BD1\uFF0C\u4F1A\u76F4\u63A5\u5C06\u8F93\u5165\u8FDB\u6765\u7684\u6570\u636E\u62FC\u63A5\u5728SQL\u4E2D\u3002",paraId:5,tocIndex:1},{value:"\u5B58\u5728SQL\u6CE8\u5165\u7684\u98CE\u9669\u3002\u4E0D\u63A8\u8350\u4F7F\u7528\u3002",paraId:5,tocIndex:1},{value:"\u7279\u6B8A\u7528\u6CD5\uFF1A",paraId:5,tocIndex:1},{value:`
+1.\u8C03\u8BD5\u60C5\u51B5\u4E0B\u53EF\u4EE5\u4E34\u65F6\u4F7F\u7528\u3002`,paraId:5,tocIndex:1},{value:`
+2.\u5B9E\u73B0\u4E00\u4E9B\u7279\u6B8A\u529F\u80FD:\u524D\u63D0\u4E00\u5B9A\u8981\u4FDD\u8BC1\u6570\u636E\u7684\u5B89\u5168\u6027\u3002`,paraId:5,tocIndex:1},{value:`
+\u6BD4\u5982\uFF1A\u52A8\u6001\u8868\u3001\u52A8\u6001\u5217. \u52A8\u6001SQL.`,paraId:5,tocIndex:1},{value:"\u53C2\u6570\u4F20\u9012\u7684\u5904\u7406\uFF1A",paraId:6,tocIndex:2},{value:"\u5355\u4E2A\u53C2\u6570:SelectEmp(Integer id);",paraId:7,tocIndex:2},{value:`
+mybatis \u4E0D\u4F1A\u505A\u4EFB\u4F55\u7279\u6B8A\u8981\u6C42`,paraId:7,tocIndex:2},{value:"\u83B7\u53D6\u65B9\u5F0F\uFF1A#:{\u8F93\u5165\u4EFB\u4F55\u5B57\u7B26\u83B7\u53D6\u53C2\u6570}",paraId:8,tocIndex:2},{value:"\u591A\u4E2A\u53C2\u6570:Emp SelectEmp(Integer id,String username);",paraId:9,tocIndex:2},{value:`
+mybatis \u4F1A\u8FDB\u884C\u5C01\u88C5`,paraId:9,tocIndex:2},{value:`
+\u4F1A\u5C06\u4F20\u8FDB\u6765\u7684\u53C2\u6570\u5C01\u88C5\u6210map:`,paraId:9,tocIndex:2},{value:`
+1\u4E2A\u503C\u5C31\u4F1A\u5BF9\u5E942\u4E2Amap\u9879 \uFF1A`,paraId:9,tocIndex:2},{value:"id=>  {key:arg0 ,value:id\u7684\u503C},{key:param1 ,value:id\u7684\u503C}\uFF0C username=>  {key:arg1 ,value:id\u7684\u503C},{key:param2 ,value:id\u7684\u503C}",paraId:10,tocIndex:2},{value:"\u83B7\u53D6\u65B9\u5F0F\uFF1A",paraId:11,tocIndex:2},{value:`
+\u6CA1\u4F7F\u7528@Param\uFF1A`,paraId:11,tocIndex:2},{value:`
+id==>  #{arg0} \u6216\u8005 #{param1}\uFF0Cusername==>  #{arg1} \u6216\u8005 #{param2}`,paraId:11,tocIndex:2},{value:`
+\u9664\u4E86\u4F7F\u7528\u8FD9\u79CD\u65B9\u5F0F\u8FD8\u6709\u522B\u7684\u65B9\u5F0F\uFF0C\u56E0\u4E3A\u8FD9\u79CD\u65B9\u5F0F\u53C2\u6570\u540D\u6CA1\u6709\u610F\u4E49`,paraId:11,tocIndex:2},{value:`
+\u8BBE\u7F6E\u53C2\u6570\u7684\u522B\u540D\uFF1A@Param("")\uFF1ASelectEmp(@Param("id") Integer id,@Param("username") String username);`,paraId:11,tocIndex:2},{value:`
+\u5F53\u4F7F\u7528\u4E86@Param:`,paraId:11,tocIndex:2},{value:`
+d=>  #{id} \u6216\u8005 #{param1}\uFF0Cusername=>  #{username} \u6216\u8005 #{param2}`,paraId:11,tocIndex:2},{value:"javaBean\u7684\u53C2\u6570:",paraId:12,tocIndex:2},{value:`
+\u5355\u4E2A\u53C2\u6570\uFF1AEmp SelectEmp(Emp emp);`,paraId:12,tocIndex:2},{value:"\u83B7\u53D6\u65B9\u5F0F\uFF1A\u53EF\u4EE5\u76F4\u63A5\u4F7F\u7528\u5C5E\u6027\u540D",paraId:13,tocIndex:2},{value:`
+emp.id=====>#{id}\uFF0Cemp.username=====>#{username}`,paraId:13,tocIndex:2},{value:`
+\u591A\u4E2A\u53C2\u6570\uFF1AEmp SelectEmp(Integer num,Emp emp);`,paraId:13,tocIndex:2},{value:`
+num===>    #{param1} \u6216\u8005 @Param`,paraId:13,tocIndex:2},{value:`
+emp===> `,paraId:13,tocIndex:2},{value:"\u5FC5\u987B\u52A0\u4E0A\u5BF9\u8C61\u522B\u540D",paraId:13,tocIndex:2},{value:'\uFF1A emp.id===> #{param2.id} \u6216\u8005  @Param("emp")Emp emp    ====>#{emp.id}',paraId:13,tocIndex:2},{value:`
+emp.username===> #{param2.username} \u6216\u8005  @Param("emp")Emp emp    ====>#{emp.username}`,paraId:13,tocIndex:2},{value:"\u96C6\u5408\u6216\u8005\u6570\u7EC4\u53C2\u6570\uFF1A",paraId:14,tocIndex:2},{value:`
+Emp SelectEmp(List`,paraId:14,tocIndex:2},{value:" usernames);",paraId:15,tocIndex:2},{value:`
+\u5982\u679C\u662Flist,MyBatis\u4F1A\u81EA\u52A8\u5C01\u88C5\u4E3Amap:{key:"list":value:usernames}`,paraId:15,tocIndex:2},{value:'\u6CA1\u7528@Param("")\u8981\u83B7\u5F97:usernames.get(0)  =====>  #{list[0]}\u6216\u8005usernames.get(0)  =====>  #{agr0[0]}',paraId:16,tocIndex:2},{value:`
+\u6709@Param("usernames")\u8981\u83B7\u5F97:usernames.get(0)  =====>  #{usernames[0]}\u6216\u8005usernames.get(0)  =====>  #{param1[0]}`,paraId:16,tocIndex:2},{value:`
+\u5982\u679C\u662F\u6570\u7EC4,MyBatis\u4F1A\u81EA\u52A8\u5C01\u88C5\u4E3Amap:`,paraId:16,tocIndex:2},{value:`
+{key:"array":value:usernames}`,paraId:16,tocIndex:2},{value:`
+\u6CA1\u7528@Param("")\u8981\u83B7\u5F97:usernames.get(0)  =====>  #{array[0]}\u6216\u8005usernames.get(0)  =====>  #{agr0[0]}`,paraId:16,tocIndex:2},{value:`
+\u6709@Param("usernames")\u8981\u83B7\u5F97:usernames.get(0)  =====>  #{usernames[0]}\u6216\u8005usernames.get(0)  =====>  #{param1[0]}`,paraId:16,tocIndex:2},{value:"map\u53C2\u6570",paraId:17,tocIndex:2},{value:"\u5E38\u7528",paraId:17,tocIndex:2},{value:`
+\u548CjavaBean\u7684\u53C2\u6570\u4F20\u9012\u662F\u4E00\u6837\u3002`,paraId:17,tocIndex:2},{value:`
+\u4E00\u822C\u60C5\u51B5\u4E0B\uFF1A`,paraId:17,tocIndex:2},{value:"\u8BF7\u6C42\u8FDB\u6765\u7684\u53C2\u6570 \u548Cpojo\u5BF9\u5E94\uFF0C\u5C31\u7528pojo",paraId:18,tocIndex:2},{value:"\u8BF7\u6C42\u8FDB\u6765\u7684\u53C2\u6570 \u6CA1\u6709\u548Cpojo\u5BF9\u5E94\uFF0C\u5C31\u7528map",paraId:18,tocIndex:2},{value:"\u8BF7\u6C42\u8FDB\u6765\u7684\u53C2\u6570 \u6CA1\u6709\u548Cpojo\u5BF9\u5E94\u4E0A\uFF0C\u4F46\u662F\u4F7F\u7528\u9891\u7387\u5F88\u9AD8\uFF0C\u5C31\u7528TO\u3001DTO\uFF08\u5C31\u662F\u5355\u72EC\u4E3A\u8FD9\u4E9B\u53C2\u6570\u521B\u5EFA\u4E00\u4E2A\u5BF9\u5E94\u7684javaBean\u51FA\u6765,\u4F7F\u6570\u4F20\u9012\u66F4\u89C4\u8303\u3001\u66F4\u91CD\u7528",paraId:18,tocIndex:2},{value:"EmpDao.xml",paraId:19,tocIndex:3},{value:`<!--\u5F53\u8FD4\u56DE\u503C\u7684\u7ED3\u679C\u662F\u96C6\u5408\u7684\u65F6\u5019\uFF0C\u8FD4\u56DE\u503C\u7684\u7C7B\u578B\u4F9D\u7136\u5199\u7684\u662F\u96C6\u5408\u4E2D\u5177\u4F53\u7684\u7C7B\u578B-->
+<select id="selectAllEmp" resultType="cn.xxx.bean.Emp">
+    select  * from emp
+</select>
+
+<!--\u5728\u67E5\u8BE2\u7684\u65F6\u5019\u53EF\u4EE5\u8BBE\u7F6E\u8FD4\u56DE\u503C\u7684\u7C7B\u578B\u4E3Amap\uFF0C\u5F53mybatis\u67E5\u8BE2\u5B8C\u6210\u4E4B\u540E\u4F1A\u628A\u5217\u7684\u540D\u79F0\u4F5C\u4E3Akey\u5217\u7684\u503C\u4F5C\u4E3Avalue\uFF0C\u8F6C\u6362\u5230map\u4E2D-->
+<select id="selectEmpByEmpReturnMap" resultType="map">
+    select * from emp where empno = #{empno}
+</select>
+ 
+<!--\u6CE8\u610F\uFF0C\u5F53\u8FD4\u56DE\u7684\u7ED3\u679C\u662F\u4E00\u4E2A\u96C6\u5408\u5BF9\u8C61\u7684\u65F6\u5019\uFF0C\u8FD4\u56DE\u503C\u7684\u7C7B\u578B\u4E00\u5B9A\u8981\u5199\u96C6\u5408\u5177\u4F53value\u7684\u7C7B\u578B\u540C\u65F6\u5728dao\u7684\u65B9\u6CD5\u4E0A\u8981\u6DFB\u52A0@MapKey\u7684\u6CE8\u89E3\uFF0C\u6765\u8BBE	\u7F6Ekey\u662F\u4EC0\u4E48\u7ED3\u679C
+	@MapKey("empno")
+    Map<Integer,Emp> getAllEmpReturnMap();-->
+<select id="getAllEmpReturnMap" resultType="cn.xxx.bean.Emp">
+    select * from emp
+</select>
+`,paraId:20,tocIndex:3},{value:"UserDao.java",paraId:21,tocIndex:3},{value:`public interface EmpDao {
+ 
+    public Emp findEmpByEmpno(Integer empno);
+ 
+    public int updateEmp(Emp emp);
+ 
+    public int deleteEmp(Integer empno);
+ 
+    public int insertEmp(Emp emp);
+ 
+    Emp selectEmpByNoAndName(@Param("empno") Integer empno, @Param("ename") String ename,@Param("t") String tablename);
+    
+    Emp selectEmpByNoAndName2(Map<String,Object> map);
+ 
+    List<Emp> selectAllEmp();
+ 
+    Map<String,Object> selectEmpByEmpReturnMap(Integer empno);
+ 
+    @MapKey("empno")
+    Map<Integer,Emp> getAllEmpReturnMap();
+}
+`,paraId:22,tocIndex:3},{value:`<!--1.\u58F0\u660EresultMap\u81EA\u5B9A\u4E49\u7ED3\u679C\u96C6   resultType \u548C resultMap \u53EA\u80FD\u4F7F\u7528\u4E00\u4E2A\u3002
+    id \u552F\u4E00\u6807\u8BC6\uFF0C \u9700\u8981\u548C<select \u4E0A\u7684resultMap \u8FDB\u884C\u5BF9\u5E94
+    type \u9700\u8981\u6620\u5C04\u7684pojo\u5BF9\u8C61\uFF0C \u53EF\u4EE5\u8BBE\u7F6E\u522B\u540D
+    autoMapping \u81EA\u52A8\u6620\u5C04\uFF0C\uFF08\u9ED8\u8BA4=true\uFF09 \u53EA\u8981\u5B57\u6BB5\u540D\u548C\u5C5E\u6027\u540D\u9075\u5FAA\u6620\u5C04\u89C4\u5219\u5C31\u53EF\u4EE5\u81EA\u52A8\u6620\u5C04\uFF0C\u4F46\u662F\u4E0D\u5EFA\u8BAE\uFF0C\u54EA\u6015\u5C5E\u6027\u540D\u548C\u5B57\u6BB5\u540D\u4E00\u4E00\u5BF9\u5E94\u4E0A\u4E86\u4E5F\u8981\u663E\u793A\u7684\u914D\u7F6E\u6620\u5C04
+    extends  \u5982\u679C\u591A\u4E2AresultMap\u6709\u91CD\u590D\u6620\u5C04\uFF0C\u53EF\u4EE5\u58F0\u660E\u7236resultMap,\u5C06\u516C\u5171\u7684\u6620\u5C04\u63D0\u53D6\u51FA\u6765\uFF0C \u53EF\u4EE5\u51CF\u5C11\u5B50resultMap\u7684\u6620\u5C04\u5197\u4F59
+-->
+<resultMap id="emp_map" type="emp" autoMapping="false" extends="common_map">
+    <result column="create_date" property="cjsj"></result>
+</resultMap>
+ 
+<resultMap id="common_map" type="emp" autoMapping="false" >
+    <!-- <id> \u4E3B\u952E\u5FC5\u987B\u4F7F\u7528  \u5BF9\u5E95\u5C42\u5B58\u50A8\u6709\u6027\u80FD\u4F5C\u7528
+                 column  \u9700\u8981\u6620\u5C04\u7684\u6570\u636E\u5E93\u5B57\u6BB5\u540D
+                 property \u9700\u8981\u6620\u5C04\u7684pojo\u5C5E\u6027\u540D
+     -->
+    <id column="id" property="id"></id>
+    <result column="user_name" property="username"></result>
+</resultMap>
+ 
+<!--2.\u4F7F\u7528resultMap \u5173\u8054 \u81EA\u5B9A\u4E49\u7ED3\u679C\u96C6\u7684id-->
+<select id="SelectEmp"  resultType="Emp"  resultMap="emp_map"  >
+    SELECT id,user_name,create_date FROM EMP where id=#{id}
+</select>
+`,paraId:23,tocIndex:4}]},68997:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"emp.java",paraId:0,tocIndex:1},{value:`@Data
+public class Emp {
+    private Integer id;
+    private String username;
+    private LocalDate createDate;
+    private deptId deptId;
+}
+`,paraId:1,tocIndex:1},{value:"EmpMapper.xml",paraId:2,tocIndex:1},{value:`<!-- \u5B9E\u73B0\u8868\u8054\u7ED3\u67E5\u8BE2\u7684\u65B9\u5F0F\uFF1A  \u53EF\u4EE5\u6620\u5C04: DTO -->
+<resultMap id="QueryEmp_Map" type="QueryEmpDTO">
+    <id column="e_id" property="id"></id>
+    <result column="user_name" property="username"></result>
+    <result column="d_id" property="deptId"></result>
+    <result column="dept_name" property="deptName"></result>
+</resultMap>
+ 
+<select id="QueryEmp"  resultMap="QueryEmp_Map">
+    select t1.id as e_id,t1.user_name,t2.id as d_id,t2.dept_name from emp t1
+    INNER JOIN dept t2 on t1.dept_id=t2.id
+    where t1.id=#{id}
+</select>
+ 
+<!-- \u5B9E\u73B0\u8868\u8054\u7ED3\u67E5\u8BE2\u7684\u65B9\u5F0F\uFF1A  \u53EF\u4EE5\u6620\u5C04map -->
+<resultMap id="QueryEmp_Map" type="map">
+    <id column="e_id" property="id"></id>
+    <result column="user_name" property="username"></result>
+    <result column="d_id" property="deptId"></result>
+    <result column="dept_name" property="deptName"></result>
+</resultMap>
+ 
+<select id="QueryEmp"  resultMap="QueryEmp_Map">
+    select t1.id as e_id,t1.user_name,t2.id as d_id,t2.dept_name from emp t1
+    INNER JOIN dept t2 on t1.dept_id=t2.id
+    where t1.id=#{id}
+</select>
+`,paraId:3,tocIndex:1},{value:"QueryEmpDTO",paraId:4,tocIndex:1},{value:`public class QueryEmpDTO {
+    private String deptName;
+    private Integer deptId;
+    private Integer id;
+    private String username;
+}
+`,paraId:5,tocIndex:1},{value:"Test",paraId:6,tocIndex:1},{value:`@Test
+public void test01() {
+    try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+        // Mybatis\u5728getMapper\u5C31\u4F1A\u7ED9\u6211\u4EEC\u521B\u5EFAjdk\u52A8\u6001\u4EE3\u7406
+        EmpMapper mapper = sqlSession.getMapper(EmpMapper.class);
+        QueryEmpDTO dto = mapper.QueryEmp(4);
+        System.out.println(dto);
+    }
+}
+`,paraId:7,tocIndex:1},{value:"EmpMapper.xml",paraId:8,tocIndex:3},{value:`<resultMap id="QueryEmp_Map2" type="Emp">
+    <id column="e_id" property="id"></id>
+    <result column="user_name" property="username"></result>
+    <!--association \u5B9E\u73B0\u591A\u5BF9\u4E00\u4E2D\u7684  \u201C\u4E00\u201D property \u6307\u5B9A\u5BF9\u8C61\u4E2D\u7684\u5D4C\u5957\u5BF9\u8C61\u5C5E\u6027-->
+    <association property="dept">
+        <id column="d_id" property="id"></id>
+        <id column="dept_name" property="deptName"></id>
+    </association>
+</resultMap>
+ 
+<select id="QueryEmp2"  resultMap="QueryEmp_Map2">
+    select 
+    t1.id as e_id,
+    t1.user_name,
+    t2.id as d_id,
+    t2.dept_name 
+    from emp t1
+    INNER JOIN dept t2 on t1.dept_id=t2.id
+    where t1.id=#{id}
+</select>
+`,paraId:9,tocIndex:3},{value:`<!-- \u5D4C\u5957\u7ED3\u679C\uFF1A \u4E00\u5BF9\u591A  \u67E5\u8BE2\u90E8\u95E8\u53CA\u6240\u6709\u5458\u5DE5 -->
+<resultMap id="SelectDeptAndEmpsMap" type="Dept">
+    <id column="d_id"  property="id"></id>
+    <id column="dept_name"  property="deptName"></id>
+    <!--
+    <collection  \u6620\u5C04\u4E00\u5BF9\u591A\u4E2D\u7684 \u201C\u591A\u201D
+        property \u6307\u5B9A\u9700\u8981\u6620\u5C04\u7684\u201C\u591A\u201D\u7684\u5C5E\u6027\uFF0C\u4E00\u822C\u58F0\u660E\u4E3AList
+        ofType  \u9700\u8981\u6307\u5B9Alist\u7684\u7C7B\u578B
+    -->
+    <collection property="emps" ofType="Emp" >
+        <id column="e_id" property="id"></id>
+        <result column="user_name" property="username"></result>
+        <result column="create_date" property="createDate"></result>
+    </collection>
+</resultMap>
+ 
+<select id="SelectDeptAndEmps" resultMap="SelectDeptAndEmpsMap">
+    select 
+    t1.id as d_id,
+    t1.dept_name,
+    t2.id e_id,
+    t2.user_name,
+    t2.create_date 
+    from dept t1
+    LEFT JOIN emp t2 on t1.id=t2.dept_id
+    where t1.id=#{id}
+</select>
+`,paraId:10,tocIndex:4},{value:"Emp.java",paraId:11,tocIndex:4},{value:`public class Emp {
+    private Integer id;
+    private String username;
+    private LocalDate createDate;
+    private Dept dept;
+}
+`,paraId:12,tocIndex:4},{value:"Dept.java:",paraId:13,tocIndex:4},{value:`public class Dept {
+    private Integer id;
+    private String deptName;
+    private List<Emp> emps;
+}
+`,paraId:14,tocIndex:4},{value:"EmpMapper.java:",paraId:15,tocIndex:4},{value:`public interface EmpMapper {
+ 
+    /*\u5B9E\u9645\u5F00\u53D1\u4E2D\u7684\u5B9E\u73B0\u65B9\u5F0F*/
+    QueryEmpDTO QueryEmp(Integer id);
+ 
+    /*\u5B9E\u7528\u5D4C\u5957\u7ED3\u679C\u5B9E\u73B0\u8054\u5408\u67E5\u8BE2  \u591A\u5BF9\u4E00 */
+    Emp QueryEmp2(Integer id);
+ 
+    /*\u5B9E\u7528\u5D4C\u5957\u67E5\u8BE2\u5B9E\u73B0\u8054\u5408\u67E5\u8BE2  \u591A\u5BF9\u4E00 */
+    Emp QueryEmp3(Integer id);
+}
+`,paraId:16,tocIndex:4},{value:"DeptMapper.java:",paraId:17,tocIndex:4},{value:`public interface DeptMapper {
+    //\u5D4C\u5957\u67E5\u8BE2\uFF1A \u4E00\u5BF9\u591A   \u4F7F\u7528\u90E8\u95E8id\u67E5\u8BE2\u5458\u5DE5
+   Dept SelectDeptAndEmps(Integer id);
+ 
+   // \u5D4C\u5957\u67E5\u8BE2\uFF08\u5F02\u6B65\u67E5\u8BE2\uFF09\uFF1A \u4E00\u5BF9\u591A  \u67E5\u8BE2\u90E8\u95E8\u53CA\u6240\u6709\u5458\u5DE5
+    Dept SelectDeptAndEmps2(Integer id);
+}
+`,paraId:18,tocIndex:4},{value:"\u5F53\u6211\u4EEC\u5728\u8FDB\u884C\u8868\u5173\u8054\u7684\u65F6\u5019\uFF0C\u6709\u53EF\u80FD\u5728\u67E5\u8BE2\u7ED3\u679C\u7684\u65F6\u5019\u4E0D\u9700\u8981\u5173\u8054\u5BF9\u8C61\u7684\u5C5E\u6027\u503C\uFF0C\u90A3\u4E48\u6B64\u65F6\u53EF\u4EE5\u901A\u8FC7\u5EF6\u8FDF\u52A0\u8F7D\u6765\u5B9E\u73B0\u529F\u80FD\u3002\u5728\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u4E2D\u6DFB\u52A0\u5982\u4E0B\u5C5E\u6027",paraId:19,tocIndex:5},{value:"mybatis-config.xml",paraId:19,tocIndex:5},{value:`<!-- \u5F00\u542F\u5EF6\u8FDF\u52A0\u8F7D\uFF0C\u6240\u6709\u5206\u6B65\u67E5\u8BE2\u90FD\u662F\u61D2\u52A0\u8F7D \uFF08\u9ED8\u8BA4\u662F\u7ACB\u5373\u52A0\u8F7D\uFF09-->
+<setting name="lazyLoadingEnabled" value="true"/>
+<!--\u5F53\u5F00\u542F\u5F0F\uFF0C \u4F7F\u7528pojo\u4E2D\u4EFB\u610F\u5C5E\u6027\u90FD\u4F1A\u52A0\u8F7D\u5EF6\u8FDF\u67E5\u8BE2 ,\u9ED8\u8BA4\u662Ffalse
+<setting name="aggressiveLazyLoading" value="false"/>-->
+<!--\u8BBE\u7F6E\u5BF9\u8C61\u7684\u54EA\u4E9B\u65B9\u6CD5\u8C03\u7528\u4F1A\u52A0\u8F7D\u5EF6\u8FDF\u67E5\u8BE2   \u9ED8\u8BA4\uFF1Aequals,clone,hashCode,toString-->
+<setting name="lazyLoadTriggerMethods" value=""/>
+`,paraId:20,tocIndex:5},{value:"\u5982\u679C\u8BBE\u7F6E\u4E86\u5168\u5C40\u52A0\u8F7D\uFF0C\u4F46\u662F\u5E0C\u671B\u5728\u67D0\u4E00\u4E2A sql \u8BED\u53E5\u67E5\u8BE2\u7684\u65F6\u5019\u4E0D\u4F7F\u7528\u5EF6\u65F6\u7B56\u7565\uFF0C\u53EF\u4EE5\u6DFB\u52A0 fetchType \u4E0B\u5C5E\u6027\uFF1A",paraId:21,tocIndex:5},{value:`<association property="dept" fetchType="eager"  column="dept_id" select="cn.xxx.mapper.DeptMapper.SelectDept">
+</association>
+`,paraId:22,tocIndex:5},{value:"\u4E09\u79CD\u5173\u8054 guan \u5173\u7CFB\u90FD\u6709\u4E24\u79CD\u5173\u8054\u67E5\u8BE2\u7684\u65B9\u5F0F\uFF0C\u5D4C\u5957\u67E5\u8BE2\uFF0C\u5D4C\u5957\u7ED3\u679C",paraId:23,tocIndex:6},{value:"*Mybatis \u7684 yanc \u5EF6\u8FDF\u52A0\u8F7D\u914D\u7F6E",paraId:24,tocIndex:6},{value:"\u5728\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u4E2D\u52A0\u5165\u4E0B\u9762\u4EE3\u7801",paraId:25,tocIndex:6},{value:`<settings>
+	<setting name=\u201DlazyLoadingEnabled\u201D value=\u201Dtrue\u201D />
+	<setting name=\u201DaggressiveLazyLoading\u201D value=\u201Dfalse\u201D/>
+</settings>
+`,paraId:26,tocIndex:6},{value:"\u5728\u6620\u5C04\u6587\u4EF6\u4E2D\uFF0C",paraId:27,tocIndex:6},{value:"<association>",paraId:27,tocIndex:6},{value:" \u5143\u7D20\u548C",paraId:27,tocIndex:6},{value:" < collection >",paraId:27,tocIndex:6},{value:" \u5143\u7D20\u4E2D\u90FD\u5DF2\u9ED8\u8BA4\u914D\u7F6E\u4E86\u5EF6\u8FDF\u52A0\u8F7D\u5C5E\u6027\uFF0C\u5373\u9ED8\u8BA4\u5C5E\u6027 ",paraId:27,tocIndex:6},{value:"fetchType=\u201Dlazy\u201D",paraId:27,tocIndex:6},{value:"\uFF08\u5C5E\u6027 ",paraId:27,tocIndex:6},{value:"fetchType=\u201Deager\u201D ",paraId:27,tocIndex:6},{value:"\u8868\u793A\u7ACB\u5373\u52A0\u8F7D\uFF09, \u6240\u4EE5\u5728\u914D\u7F6E\u6587\u4EF6\u4E2D\u5F00\u542F\u5EF6\u8FDF\u52A0\u8F7D\u540E\uFF0C\u65E0\u9700\u5728\u6620\u5C04\u6587\u4EF6\u4E2D\u518D\u505A\u914D\u7F6E",paraId:27,tocIndex:6},{value:"\u4F7F\u7528",paraId:28,tocIndex:7},{value:"<association>",paraId:28,tocIndex:7},{value:"\u5143\u7D20\u8FDB\u884C\u4E00\u5BF9\u4E00\u5173\u8054\u6620\u5C04\u975E\u5E38\u7B80\u5355\uFF0C\u53EA\u9700\u8981\u53C2\u8003\u5982\u4E0B\u4E24\u79CD\u793A\u4F8B\u914D\u7F6E\u5373\u53EF",paraId:28,tocIndex:7},{value:"<resultMap>",paraId:29,tocIndex:8},{value:" \u5143\u7D20\u4E2D\uFF0C\u5305\u542B\u4E86\u4E00\u4E2A",paraId:29,tocIndex:8},{value:" < collection >",paraId:29,tocIndex:8},{value:" \u5B50\u5143\u7D20\uFF0CMyBatis \u5C31\u662F\u901A\u8FC7\u8BE5\u5143\u7D20\u6765\u5904\u7406\u4E00\u5BF9\u591A\u5173\u8054\u5173\u7CFB\u7684",paraId:29,tocIndex:8},{value:"<collection> ",paraId:30,tocIndex:8},{value:"\u5B50\u5143\u7D20\u7684\u5C5E\u6027\u5927\u90E8\u5206\u4E0E",paraId:30,tocIndex:8},{value:"< association >",paraId:30,tocIndex:8},{value:"\u5143\u7D20\u76F8\u540C\uFF0C\u4F46\u5176\u8FD8\u5305\u542B\u4E00\u4E2A\u7279\u6B8A\u5C5E\u6027\u2013ofType",paraId:30,tocIndex:8},{value:"ofType ",paraId:31,tocIndex:8},{value:"\u5C5E\u6027\u4E0E",paraId:31,tocIndex:8},{value:"javaType",paraId:31,tocIndex:8},{value:"\u5C5E\u6027\u5BF9\u5E94\uFF0C\u5B83\u7528\u4E8E\u6307\u5B9A\u5B9E\u4F53\u5BF9\u8C61\u4E2D\u96C6\u5408\u7C7B\u5C5E\u6027\u6240\u5305\u542B\u7684\u5143\u7D20\u7C7B\u578B\u3002",paraId:31,tocIndex:8},{value:"<collection> ",paraId:32,tocIndex:8},{value:"\u5143\u7D20\u7684\u4F7F\u7528\u4E5F\u975E\u5E38\u7B80\u5355\uFF0C\u540C\u6837\u53EF\u4EE5\u53C2\u8003\u5982\u4E0B\u4E24\u79CD\u793A\u4F8B\u8FDB\u884C\u914D\u7F6E\uFF0C\u5177\u4F53\u4EE3\u7801\u5982\u4E0B:",paraId:32,tocIndex:8},{value:"\u591A\u5BF9\u591A\u7684\u5173\u8054\u5173\u7CFB\u67E5\u8BE2\uFF0C\u540C\u6837\u53EF\u4EE5\u4F7F\u7528\u524D\u9762\u4ECB\u7ECD\u7684 ",paraId:33,tocIndex:9},{value:"<collection>",paraId:33,tocIndex:9},{value:" \u5143\u7D20\u8FDB\u884C\u5904\u7406\uFF08\u5176\u7528\u6CD5\u548C\u4E00\u5BF9\u591A\u5173\u8054\u5173\u7CFB\u67E5\u8BE2\u8BED\u53E5\u7528\u6CD5\u57FA\u672C\u76F8\u540C\uFF09",paraId:33,tocIndex:9}]},49840:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u52A8\u6001 SQL \u662F MyBatis \u7684\u5F3A\u5927\u7279\u6027\u4E4B\u4E00",paraId:0,tocIndex:1},{value:"\u5982\u679C\u4F60\u4F7F\u7528\u8FC7 JDBC \u6216\u5176\u5B83\u7C7B\u4F3C\u7684\u6846\u67B6\uFF0C\u4F60\u5E94\u8BE5\u80FD\u7406\u89E3\u6839\u636E\u4E0D\u540C\u6761\u4EF6\u62FC\u63A5 SQL \u8BED\u53E5\u6709\u591A\u75DB\u82E6\uFF0C\u4F8B\u5982\u62FC\u63A5\u65F6\u8981\u786E\u4FDD\u4E0D\u80FD\u5FD8\u8BB0\u6DFB\u52A0\u5FC5\u8981\u7684\u7A7A\u683C\uFF0C\u8FD8\u8981\u6CE8\u610F\u53BB\u6389\u5217\u8868\u6700\u540E\u4E00\u4E2A\u5217\u540D\u7684\u9017\u53F7\u3002\u5229\u7528\u52A8\u6001 SQL\uFF0C\u53EF\u4EE5\u5F7B\u5E95\u6446\u8131\u8FD9\u79CD\u75DB\u82E6\u3002",paraId:1,tocIndex:1},{value:"\u4F7F\u7528\u52A8\u6001 SQL \u5E76\u975E\u4E00\u4EF6\u6613\u4E8B\uFF0C",paraId:2,tocIndex:1},{value:"\u4F46\u501F\u52A9\u53EF\u7528\u4E8E\u4EFB\u4F55 SQL \u6620\u5C04\u8BED\u53E5\u4E2D\u7684\u5F3A\u5927\u7684\u52A8\u6001 SQL \u8BED\u8A00\uFF0CMyBatis \u663E\u8457\u5730\u63D0\u5347\u4E86\u8FD9\u4E00\u7279\u6027\u7684\u6613\u7528\u6027",paraId:2,tocIndex:1},{value:"if",paraId:3,tocIndex:1},{value:"choose (when, otherwise)",paraId:4,tocIndex:1},{value:"trim (where, set)",paraId:5,tocIndex:1},{value:"foreach",paraId:6,tocIndex:1},{value:"bind",paraId:7,tocIndex:1},{value:"sql \u7247\u6BB5",paraId:8,tocIndex:1},{value:"EmpDao.xml",paraId:9,tocIndex:2},{value:`<select id="getEmpByCondition" resultType="cn.tulingxueyuan.bean.Emp">
+    select * from emp where 
+    <if test="empno!=null">
+        empno > #{empno} and
+    </if>
+    <if test="ename!=null">
+        ename like #{ename} and
+    </if>
+    <if test="sal!=null">
+        sal > #{sal}
+    </if>
+</select>
+`,paraId:10,tocIndex:2},{value:"EmpDao.java",paraId:11,tocIndex:2},{value:`public List<Emp> getEmpByCondition(Emp emp);
+`,paraId:12,tocIndex:2},{value:"Test.java",paraId:13,tocIndex:2},{value:"@Test",paraId:14,tocIndex:2},{value:`public void test10() {
+	SqlSession sqlSession = sqlSessionFactory.openSession();
+       try {
+           EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+           Emp emp = new Emp();
+           emp.setEmpno(6500);
+           emp.setEname("%E%");
+           emp.setSal(500.0);
+           List<Emp> empByCondition = mapper.getEmpByCondition(emp);
+           for (Emp emp1 : empByCondition) {
+               System.out.println(emp1);
+          }
+      } catch (Exception e) {
+           e.printStackTrace();
+      } finally {
+           sqlSession.close();
+      }
+  }
+`,paraId:15,tocIndex:2},{value:"\u770B\u8D77\u6765\u6D4B\u8BD5\u662F\u6BD4\u8F83\u6B63\u5E38\u7684\uFF0C\u4F46\u662F\u9700\u8981\u6CE8\u610F\u7684\u662F\u5982\u679C\u6211\u4EEC\u4F20\u5165\u7684\u53C2\u6570\u503C\u6709\u7F3A\u5931\u4F1A\u600E\u4E48\u5462\uFF1F",paraId:16,tocIndex:2},{value:"\u8FD9\u4E2A\u65F6\u5019\u62FC\u63A5\u7684 sql \u8BED\u53E5\u5C31\u4F1A\u53D8\u5F97\u6709\u95EE\u9898\uFF0C\u4F8B\u5982\u4E0D\u4F20\u53C2\u6570\u6216\u8005\u4E22\u5931\u6700\u540E\u4E00\u4E2A\u53C2\u6570\uFF0C\u90A3\u4E48\u8BED\u53E5\u4E2D\u5C31\u4F1A\u591A\u4E00\u4E2A where \u6216\u8005 and \u7684\u5173\u952E\u5B57\uFF0C\u56E0\u6B64\u5728 mybatis \u4E2D\u4E5F\u7ED9\u51FA\u4E86\u5177\u4F53\u7684\u89E3\u51B3\u65B9\u6848\uFF1A",paraId:17,tocIndex:2},{value:"where",paraId:18,tocIndex:3},{value:" \u5143\u7D20\u53EA\u4F1A\u5728\u5B50\u5143\u7D20\u8FD4\u56DE\u4EFB\u4F55\u5185\u5BB9\u7684\u60C5\u51B5\u4E0B\u624D\u63D2\u5165 \u201CWHERE\u201D \u5B50\u53E5\u3002\u800C\u4E14\uFF0C\u82E5\u5B50\u53E5\u7684\u5F00\u5934\u4E3A ",paraId:18,tocIndex:3},{value:"\u201CAND\u201D \u6216 \u201COR\u201D",paraId:18,tocIndex:3},{value:"\uFF0C",paraId:18,tocIndex:3},{value:"where",paraId:18,tocIndex:3},{value:" \u5143\u7D20\u4E5F\u4F1A\u5C06\u5B83\u4EEC\u53BB\u9664\u3002",paraId:18,tocIndex:3},{value:`<select id="getEmpByCondition" resultType="cn.tulingxueyuan.bean.Emp">
+        select * from emp
+        <where>
+            <if test="empno!=null">
+                empno > #{empno}
+            </if>
+            <if test="ename!=null">
+                and ename like #{ename}
+            </if>
+            <if test="sal!=null">
+                and sal > #{sal}
+            </if>
+        </where>
+</select>
+`,paraId:19,tocIndex:3},{value:"\u73B0\u5728\u770B\u8D77\u6765\u6CA1\u6709\u4EC0\u4E48\u95EE\u9898\u4E86\uFF0C\u4F46\u662F\u6211\u4EEC\u7684\u6761\u4EF6\u6DFB\u52A0\u5230\u4E86\u62FC\u63A5 sql \u8BED\u53E5\u7684\u524D\u540E\uFF0C\u90A3\u4E48\u6211\u4EEC\u8BE5\u5982\u4F55\u5904\u7406\u5462\uFF1F",paraId:20,tocIndex:3},{value:` <!--
+    trim\u622A\u53D6\u5B57\u7B26\u4E32\uFF1A
+    prefix\uFF1A\u524D\u7F00\uFF0C\u4E3Asql\u6574\u4F53\u6DFB\u52A0\u4E00\u4E2A\u524D\u7F00
+    prefixOverrides:\u53BB\u9664\u6574\u4F53\u5B57\u7B26\u4E32\u524D\u9762\u591A\u4F59\u7684\u5B57\u7B26
+    suffixOverrides:\u53BB\u9664\u540E\u9762\u591A\u4F59\u7684\u5B57\u7B26\u4E32
+    -->
+<select id="getEmpByCondition" resultType="cn.tulingxueyuan.bean.Emp">
+    select * from emp
+    <trim prefix="where" prefixOverrides="and" suffixOverrides="and">
+        <if test="empno!=null">
+            empno > #{empno} and
+        </if>
+        <if test="ename!=null">
+            ename like #{ename} and
+        </if>
+        <if test="sal!=null">
+            sal > #{sal} and
+        </if>
+    </trim>
+</select>
+`,paraId:21,tocIndex:4},{value:"\u200B	\u52A8\u6001 SQL \u7684\u53E6\u4E00\u4E2A\u5E38\u89C1\u4F7F\u7528\u573A\u666F\u662F\u5BF9\u96C6\u5408\u8FDB\u884C\u904D\u5386\uFF08\u5C24\u5176\u662F\u5728\u6784\u5EFA IN \u6761\u4EF6\u8BED\u53E5\u7684\u65F6\u5019\uFF09\u3002",paraId:22,tocIndex:5},{value:`<!--foreach\u662F\u5BF9\u96C6\u5408\u8FDB\u884C\u904D\u5386
+   collection="deptnos" \u6307\u5B9A\u8981\u904D\u5386\u7684\u96C6\u5408
+   close="" \u8868\u793A\u4EE5\u4EC0\u4E48\u7ED3\u675F
+   index="" \u7ED9\u5B9A\u4E00\u4E2A\u7D22\u5F15\u503C
+   item="" \u904D\u5386\u7684\u6BCF\u4E00\u4E2A\u5143\u7D20\u7684\u503C
+   open="" \u8868\u793A\u4EE5\u4EC0\u4E48\u5F00\u59CB
+   separator="" \u8868\u793A\u591A\u4E2A\u5143\u7D20\u7684\u5206\u9694\u7B26
+   -->
+<select id="getEmpByDeptnos" resultType="Emp">
+    select * from emp where deptno in
+    <foreach collection="deptnos" close=")" index="idx" item="deptno" open="(" separator=",">
+        #{deptno}
+    </foreach>
+</select>
+`,paraId:23,tocIndex:5},{value:"\u6709\u65F6\u5019\uFF0C\u6211\u4EEC\u4E0D\u60F3\u4F7F\u7528\u6240\u6709\u7684\u6761\u4EF6\uFF0C\u800C\u53EA\u662F\u60F3\u4ECE\u591A\u4E2A\u6761\u4EF6\u4E2D\u9009\u62E9\u4E00\u4E2A\u4F7F\u7528\u3002",paraId:24,tocIndex:6},{value:"\u9488\u5BF9\u8FD9\u79CD\u60C5\u51B5\uFF0CMyBatis \u63D0\u4F9B\u4E86 choose \u5143\u7D20\uFF0C\u5B83\u6709\u70B9\u50CF Java \u4E2D\u7684 switch \u8BED\u53E5\u3002",paraId:25,tocIndex:6},{value:`<select id="getEmpByConditionChoose" resultType="cn.tulingxueyuan.bean.Emp">
+        select * from emp
+        <where>
+            <choose>
+                <when test="empno!=null">
+                    empno > #{empno}
+                </when>
+                <when test="ename!=null">
+                    ename like #{ename}
+                </when>
+                <when test="sal!=null">
+                    sal > #{sal}
+                </when>
+                <otherwise>
+                    1=1
+                </otherwise>
+            </choose>
+        </where>
+    </select>
+`,paraId:26,tocIndex:6},{value:"\u7528\u4E8E\u52A8\u6001\u66F4\u65B0\u8BED\u53E5\u7684\u7C7B\u4F3C\u89E3\u51B3\u65B9\u6848\u53EB\u505A ",paraId:27,tocIndex:7},{value:"set",paraId:27,tocIndex:7},{value:"\u3002",paraId:27,tocIndex:7},{value:"set",paraId:27,tocIndex:7},{value:" \u5143\u7D20\u53EF\u4EE5\u7528\u4E8E\u52A8\u6001\u5305\u542B\u9700\u8981\u66F4\u65B0\u7684\u5217\uFF0C\u5FFD\u7565\u5176\u5B83\u4E0D\u66F4\u65B0\u7684\u5217\u3002",paraId:27,tocIndex:7},{value:`<update id="updateEmpByEmpno">
+  update emp
+   <set>
+       <if test="empno!=null">
+          empno=#{empno},
+       </if>
+       <if test="ename!=null">
+          ename = #{ename},
+       </if>
+       <if test="sal!=null">
+          sal = #{sal}
+       </if>
+   </set>
+   <where>
+      empno = #{empno}
+   </where>
+</update>
+`,paraId:28,tocIndex:7},{value:"bind \u5143\u7D20\u5141\u8BB8\u4F60\u5728 OGNL \u8868\u8FBE\u5F0F\u4EE5\u5916\u521B\u5EFA\u4E00\u4E2A\u53D8\u91CF\uFF0C\u5E76\u5C06\u5176\u7ED1\u5B9A\u5230\u5F53\u524D\u7684\u4E0A\u4E0B\u6587\u3002\u6BD4\u5982\uFF1A",paraId:29,tocIndex:8},{value:`<select id="selectBlogsLike" resultType="Blog">
+  <bind name="pattern" value="'%' + _parameter.getTitle() + '%'" />
+  SELECT * FROM BLOG
+  WHERE title LIKE #{pattern}
+</select>
+`,paraId:30,tocIndex:8},{value:"MyBatis \u5E38\u7528 OGNL \u8868\u8FBE\u5F0F",paraId:31,tocIndex:8},{value:`e1 or e2
+e1 and e2
+e1 == e2,e1 eq e2
+e1 != e2,e1 neq e2
+e1 lt e2\uFF1A\u5C0F\u4E8E 
+e1 lte e2\uFF1A\u5C0F\u4E8E\u7B49\u4E8E\uFF0C\u5176\u4ED6gt\uFF08\u5927\u4E8E\uFF09,gte\uFF08\u5927\u4E8E\u7B49\u4E8E\uFF09
+e1 in e2
+e1 not in e2
+e1 + e2,e1 * e2,e1/e2,e1 - e2,e1%e2
+!e,not e\uFF1A\u975E\uFF0C\u6C42\u53CD
+e.method(args)\u8C03\u7528\u5BF9\u8C61\u65B9\u6CD5
+e.property\u5BF9\u8C61\u5C5E\u6027\u503C
+e1[ e2 ]\u6309\u7D22\u5F15\u53D6\u503C\uFF0CList,\u6570\u7EC4\u548CMap
+@class@method(args)\u8C03\u7528\u7C7B\u7684\u9759\u6001\u65B9\u6CD5
+@class@field\u8C03\u7528\u7C7B\u7684\u9759\u6001\u5B57\u6BB5\u503C 
+`,paraId:32,tocIndex:8},{value:"\u8FD9\u4E2A\u5143\u7D20\u53EF\u4EE5\u7528\u6765\u5B9A\u4E49\u53EF\u91CD\u7528\u7684 SQL \u4EE3\u7801\u7247\u6BB5\uFF0C\u4EE5\u4FBF\u5728\u5176\u5B83\u8BED\u53E5\u4E2D\u4F7F\u7528\u3002 \u53C2\u6570\u53EF\u4EE5\u9759\u6001\u5730\uFF08\u5728\u52A0\u8F7D\u7684\u65F6\u5019\uFF09\u786E\u5B9A\u4E0B\u6765\uFF0C\u5E76\u4E14\u53EF\u4EE5\u5728\u4E0D\u540C\u7684 include \u5143\u7D20\u4E2D\u5B9A\u4E49\u4E0D\u540C\u7684\u53C2\u6570\u503C\u3002\u6BD4\u5982\uFF1A",paraId:33,tocIndex:9},{value:'<sql id="userColumns"> ${alias}.id,${alias}.username,${alias}.password </sql>\n',paraId:34,tocIndex:9},{value:"\u8FD9\u4E2A SQL \u7247\u6BB5\u53EF\u4EE5\u5728\u5176\u5B83\u8BED\u53E5\u4E2D\u4F7F\u7528\uFF0C\u4F8B\u5982\uFF1A",paraId:35,tocIndex:9},{value:`<select id="selectUsers" resultType="map">
+  select
+    <include refid="userColumns"><property name="alias" value="t1"/></include>,
+    <include refid="userColumns"><property name="alias" value="t2"/></include>
+  from some_table t1
+    cross join some_table t2
+</select>
+`,paraId:36,tocIndex:9}]},42782:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u5B89\u5168\uFF0C\u6027\u80FD\u9AD8\uFF0C\u5185\u7F6E\u5404\u7C7B\u5DE5\u5177\u964D\u4F4E\u7F16\u5199\u4EE3\u7801\u96BE\u5EA6\u3002\u6027\u80FD\u5206\u6790\uFF0C\u5168\u5C40\u62E6\u622A",paraId:0,tocIndex:0},{value:"MyBatis-Plus\uFF08\u7B80\u79F0 MP\uFF09\u662F\u4E00\u4E2A MyBatis \u7684\u589E\u5F3A\u5DE5\u5177\uFF0C\u5728 MyBatis \u7684\u57FA\u7840\u4E0A\u53EA\u505A\u589E\u5F3A\u4E0D\u505A\u6539\u53D8\uFF0C\u4E3A\u7B80\u5316\u5F00\u53D1\u3001\u63D0\u9AD8\u6548\u7387\u800C\u751F\u3002",paraId:1,tocIndex:0},{value:"\u65E0\u4FB5\u5165\uFF1A\u53EA\u505A\u589E\u5F3A\u4E0D\u505A\u6539\u53D8\uFF0C\u5F15\u5165\u5B83\u4E0D\u4F1A\u5BF9\u73B0\u6709\u5DE5\u7A0B\u4EA7\u751F\u5F71\u54CD\uFF0C\u5982\u4E1D\u822C\u987A\u6ED1",paraId:2,tocIndex:0},{value:"\u635F\u8017\u5C0F\uFF1A\u542F\u52A8\u5373\u4F1A\u81EA\u52A8\u6CE8\u5165\u57FA\u672C CURD\uFF0C\u6027\u80FD\u57FA\u672C\u65E0\u635F\u8017\uFF0C\u76F4\u63A5\u9762\u5411\u5BF9\u8C61\u64CD\u4F5C",paraId:3,tocIndex:0},{value:"\u5F3A\u5927\u7684 CRUD \u64CD\u4F5C",paraId:4,tocIndex:0},{value:"\uFF1A\u5185\u7F6E\u901A\u7528 Mapper\u3001\u901A\u7528 Service\uFF0C\u4EC5\u4EC5\u901A\u8FC7\u5C11\u91CF\u914D\u7F6E\u5373\u53EF\u5B9E\u73B0\u5355\u8868\u5927\u90E8\u5206 CRUD \u64CD\u4F5C\uFF0C\u66F4\u6709\u5F3A\u5927\u7684\u6761\u4EF6\u6784\u9020\u5668\uFF0C\u6EE1\u8DB3\u5404\u7C7B\u4F7F\u7528\u9700\u6C42",paraId:4,tocIndex:0},{value:"\u652F\u6301 Lambda \u5F62\u5F0F\u8C03\u7528",paraId:5,tocIndex:0},{value:"\uFF1A\u901A\u8FC7 Lambda \u8868\u8FBE\u5F0F\uFF0C\u65B9\u4FBF\u7684\u7F16\u5199\u5404\u7C7B\u67E5\u8BE2\u6761\u4EF6\uFF0C\u65E0\u9700\u518D\u62C5\u5FC3\u5B57\u6BB5\u5199\u9519",paraId:5,tocIndex:0},{value:"\u652F\u6301\u4E3B\u952E\u81EA\u52A8\u751F\u6210",paraId:6,tocIndex:0},{value:"\uFF1A\u652F\u6301\u591A\u8FBE 4 \u79CD\u4E3B\u952E\u7B56\u7565",paraId:6,tocIndex:0},{value:"\uFF08\u5185\u542B\u5206\u5E03\u5F0F\u552F\u4E00 ID \u751F\u6210\u5668 - Sequence\uFF09",paraId:6,tocIndex:0},{value:"\uFF0C\u53EF\u81EA\u7531\u914D\u7F6E\uFF0C\u5B8C\u7F8E\u89E3\u51B3\u4E3B\u952E\u95EE\u9898",paraId:6,tocIndex:0},{value:"\u652F\u6301 ActiveRecord \u6A21\u5F0F",paraId:7,tocIndex:0},{value:"\uFF1A\u652F\u6301 ActiveRecord \u5F62\u5F0F\u8C03\u7528\uFF0C\u5B9E\u4F53\u7C7B\u53EA\u9700\u7EE7\u627F Model \u7C7B\u5373\u53EF\u8FDB\u884C\u5F3A\u5927\u7684 CRUD \u64CD\u4F5C",paraId:7,tocIndex:0},{value:"\u652F\u6301\u81EA\u5B9A\u4E49\u5168\u5C40\u901A\u7528\u64CD\u4F5C",paraId:8,tocIndex:0},{value:"\uFF1A\u652F\u6301\u5168\u5C40\u901A\u7528\u65B9\u6CD5\u6CE8\u5165",paraId:8,tocIndex:0},{value:"\uFF08 Write once, use anywhere \uFF09",paraId:8,tocIndex:0},{value:"\u5185\u7F6E\u4EE3\u7801\u751F\u6210\u5668",paraId:9,tocIndex:0},{value:"\uFF1A\u91C7\u7528\u4EE3\u7801\u6216\u8005 Maven \u63D2\u4EF6\u53EF\u5FEB\u901F\u751F\u6210 Mapper \u3001 Model \u3001 Service \u3001 Controller \u5C42\u4EE3\u7801\uFF0C\u652F\u6301\u6A21\u677F\u5F15\u64CE\uFF0C\u66F4\u6709\u8D85\u591A\u81EA\u5B9A\u4E49\u914D\u7F6E\u7B49\u60A8\u6765\u4F7F\u7528",paraId:9,tocIndex:0},{value:"\u5185\u7F6E\u5206\u9875\u63D2\u4EF6",paraId:10,tocIndex:0},{value:"\uFF1A\u57FA\u4E8E MyBatis \u7269\u7406\u5206\u9875\uFF0C\u5F00\u53D1\u8005\u65E0\u9700\u5173\u5FC3\u5177\u4F53\u64CD\u4F5C\uFF0C\u914D\u7F6E\u597D\u63D2\u4EF6\u4E4B\u540E\uFF0C\u5199\u5206\u9875\u7B49\u540C\u4E8E\u666E\u901A List \u67E5\u8BE2",paraId:10,tocIndex:0},{value:"\u5206\u9875\u63D2\u4EF6\u652F\u6301\u591A\u79CD\u6570\u636E\u5E93",paraId:11,tocIndex:0},{value:"\uFF1A\u652F\u6301 MySQL\u3001MariaDB\u3001Oracle\u3001DB2\u3001H2\u3001HSQL\u3001SQLite\u3001Postgre\u3001SQLServer \u7B49\u591A\u79CD\u6570\u636E\u5E93",paraId:11,tocIndex:0},{value:"\u5185\u7F6E\u6027\u80FD\u5206\u6790\u63D2\u4EF6",paraId:12,tocIndex:0},{value:"\uFF1A\u53EF\u8F93\u51FA Sql \u8BED\u53E5\u4EE5\u53CA\u5176\u6267\u884C\u65F6\u95F4\uFF0C\u5EFA\u8BAE\u5F00\u53D1\u6D4B\u8BD5\u65F6\u542F\u7528\u8BE5\u529F\u80FD\uFF0C\u80FD\u5FEB\u901F\u63EA\u51FA\u6162\u67E5\u8BE2",paraId:12,tocIndex:0},{value:"\u5185\u7F6E\u5168\u5C40\u62E6\u622A\u63D2\u4EF6",paraId:13,tocIndex:0},{value:"\uFF1A\u63D0\u4F9B\u5168\u8868 delete \u3001 update \u64CD\u4F5C\u667A\u80FD\u5206\u6790\u963B\u65AD\uFF0C\u4E5F\u53EF\u81EA\u5B9A\u4E49\u62E6\u622A\u89C4\u5219\uFF0C\u9884\u9632\u8BEF\u64CD\u4F5C",paraId:13,tocIndex:0},{value:"Emp.java",paraId:14,tocIndex:1},{value:`//TODO \u8FD8\u8981\u52A0\u4E2A\u6CE8\u89E3
+public class Emp {
+    private Integer empno;
+    private String eName;
+    private String job;
+    private Integer mgr;
+    private Date hiredate;
+    private Double sal;
+    private Double comm;
+    private Integer deptno;
+}
+`,paraId:15,tocIndex:1},{value:"\u6570\u636E\u5E93\u8868 sql \u8BED\u53E5",paraId:16,tocIndex:1},{value:"CREATE TABLE `tbl_emp` (\n`EMPNO` int(4) NOT NULL AUTO_INCREMENT,\n`E_NAME` varchar(10) DEFAULT NULL,\n`JOB` varchar(9) DEFAULT NULL,\n`MGR` int(4) DEFAULT NULL,\n`HIREDATE` date DEFAULT NULL,\n`SAL` double(7,2) DEFAULT NULL,\n`COMM` double(7,2) DEFAULT NULL,\n`DEPTNO` int(4) DEFAULT NULL,\nPRIMARY KEY (`EMPNO`)\n) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n",paraId:17,tocIndex:1},{value:"xml",paraId:18,tocIndex:1},{value:`    <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.baomidou/mybatis-plus -->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus</artifactId>
+            <version>3.3.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.1.21</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.19</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.2.3.RELEASE</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-orm -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-orm</artifactId>
+            <version>5.2.3.RELEASE</version>
+        </dependency>
+    </dependencies>
+`,paraId:19,tocIndex:1},{value:"mybatis-config.xml",paraId:20,tocIndex:1},{value:`<configuration>
+  <settings>
+       <setting name="logImpl" value="LOG4J"/>
+   </settings>
+</configuration>
+`,paraId:21,tocIndex:1},{value:"log4j.properties",paraId:22,tocIndex:1},{value:`# \u5168\u5C40\u65E5\u5FD7\u914D\u7F6E
+log4j.rootLogger=INFO, stdout
+# MyBatis \u65E5\u5FD7\u914D\u7F6E
+log4j.logger.cn.tulingxueyuan=truce
+# \u63A7\u5236\u53F0\u8F93\u51FA
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%5p [%t] - %m%n
+`,paraId:23,tocIndex:1},{value:"db.properties",paraId:24,tocIndex:1},{value:`driverClassname=com.mysql.jdbc.Driver
+username=root
+password=123456
+url=jdbc:mysql://localhost:3306/demo
+`,paraId:25,tocIndex:1},{value:"spring.xml",paraId:26,tocIndex:1},{value:`<context:property-placeholder location="classpath:db.properties"></context:property-placeholder>
+<bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+    <property name="driverClassName" value="\${driverClassname}"></property>
+    <property name="url" value="\${url}"></property>
+    <property name="username" value="\${username}"></property>
+    <property name="password" value="\${password}"></property>
+</bean>
+<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+    <property name="dataSource" ref="dataSource"></property>
+</bean>
+
+<tx:annotation-driven transaction-manager="transactionManager"></tx:annotation-driven>
+<bean id="sqlSessionFactoryBean" class="org.mybatis.spring.SqlSessionFactoryBean">
+    <property name="dataSource" ref="dataSource"></property>
+    <property name="configLocation" value="classpath:mybatis-config.xml"></property>
+</bean>
+<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+    <property name="basePackage" value="cn.xxx.dao"></property>
+</bean>
+`,paraId:27,tocIndex:1},{value:"MyTest.java",paraId:28,tocIndex:1},{value:`public class MyTest {
+ 
+    ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+ 
+    @Test
+    public void test01() throws SQLException {
+        DruidDataSource dataSource = context.getBean("dataSource", DruidDataSource.class);
+        System.out.println(dataSource.getConnection());
+    }
+}
+`,paraId:29,tocIndex:1},{value:"\u5728\u96C6\u6210 mybatis-plus \u7684\u65F6\u5019\u975E\u5E38\u7B80\u5355\uFF0C\u53EA\u9700\u8981\u66FF\u6362 mybatis \u81EA\u5DF1\u7684 sqlSessionFactoryBean \u5BF9\u8C61\u5373\u53EF",paraId:30,tocIndex:1},{value:"spring.xml",paraId:30,tocIndex:1},{value:`<bean id="sqlSessionFactoryBean" class="com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean">
+    <property name="dataSource" ref="dataSource"></property>
+    <property name="configLocation" value="classpath:mybatis-config.xml"></property>
+    <property name="typeAliasesPackage" value="cn.tulingxueyuan.bean"></property>
+</bean>
+`,paraId:31,tocIndex:1},{value:"\u7B80\u5355\u7684 CRUD \u64CD\u4F5C",paraId:32},{value:"\u5728 Mybatis \u4E2D\uFF0C\u6211\u4EEC\u9700\u8981\u7F16\u5199\u5BF9\u5E94\u7684 Dao \u63A5\u53E3\uFF0C\u5E76\u5728\u63A5\u53E3\u4E2D\u5B9A\u4E49\u76F8\u5173\u7684\u65B9\u6CD5\uFF0C\u7136\u540E\u63D0\u4F9B\u4E0E\u8BE5\u63A5\u53E3\u76F8\u540C\u540D\u79F0\u7684 Dao.xml \u6587\u4EF6\uFF0C\u5728\u6587\u4EF6\u4E2D\u586B\u5199\u5BF9\u5E94\u7684 sql \u8BED\u53E5\uFF0C\u624D\u80FD\u5B8C\u6210\u5BF9\u5E94\u7684\u64CD\u4F5C",paraId:33,tocIndex:2},{value:"\u5728 Mybatis-plus \u4E2D\uFF0C\u6211\u4EEC\u53EA\u9700\u8981\u5B9A\u4E49\u63A5\u53E3\uFF0C\u7136\u540E\u7EE7\u627F ",paraId:34,tocIndex:2},{value:"BaseMapper<T> ",paraId:34,tocIndex:2},{value:"\u7C7B\u5373\u53EF\uFF0C\u6B64\u524D\u505A\u7684\u6240\u6709\u64CD\u4F5C\u90FD\u662F\u7531 ",paraId:34,tocIndex:2},{value:"Mybatis-plus",paraId:34,tocIndex:2},{value:" \u6765\u5E2E\u6211\u4EEC\u5B8C\u6210\uFF0C\u4E0D\u9700\u8981\u521B\u5EFA sql \u6620\u5C04\u6587\u4EF6",paraId:34,tocIndex:2},{value:"EmpDao.java",paraId:35,tocIndex:2},{value:`/**
+ * \u5728mybatis\u64CD\u4F5C\u7684\u65F6\u5019\uFF0C\u6211\u4EEC\u9700\u8981\u81EA\u5DF1\u5B9A\u4E49\u63A5\u53E3\u4E2D\u5B9E\u73B0\u7684\u65B9\u6CD5\uFF0C\u5E76\u6DFB\u52A0\u4E0E\u4E4B\u5BF9\u5E94\u7684EmpDao.xml\u6587\u4EF6\uFF0C\u7F16\u5199\u5BF9\u5E94\u7684sql\u8BED\u53E5
+ * \u5728mybatis-plus\u64CD\u4F5C\u7684\u65F6\u5019\uFF0C\u6211\u4EEC\u53EA\u9700\u8981\u7EE7\u627FBaseMapper\u63A5\u53E3\u5373\u53EF\uFF0C\u5176\u4E2D\u7684\u6CDB\u578BT\u8868\u793A\u6211\u4EEC\u8981\u5B9E\u9645\u64CD\u4F5C\u7684\u5B9E\u4F53\u7C7B\u5BF9\u8C61
+ */
+public interface EmpDao extends BaseMapper<Emp> {
+}
+`,paraId:36,tocIndex:2},{value:"\u63D2\u5165\u64CD\u4F5C",paraId:32},{value:"MyTest.java",paraId:37,tocIndex:3},{value:`public class MyTest {
+ 
+    ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+ 
+    private EmpDao empDao = context.getBean("empDao",EmpDao.class);
+ 
+	@Test
+    public void testInsert(){
+        Emp emp = new Emp();
+        emp.seteName("zhangsan");
+        emp.setJob("Teacher");
+        emp.setMgr(100);
+        emp.setSal(1000.0);
+        emp.setComm(500.0);
+        emp.setHiredate(new Date());
+        emp.setDeptno(10);
+        int insert = empDao.insert(emp);
+        System.out.println(insert);
+    }
+}
+`,paraId:38,tocIndex:3},{value:"\u5F53\u8FD0\u884C\u4E0A\u8FF0\u4EE3\u7801\u7684\u65F6\u5019\uFF0C\u62A5\u9519\u4E86\uFF0C\u539F\u56E0\u5728\u4E8E\u4F60\u5199\u7684\u5B9E\u4F53\u7C7B\u7684\u540D\u79F0\u8DDF\u8868\u7684\u540D\u79F0\u4E0D\u5339\u914D\uFF0C\u56E0\u6B64\u5728\u5B9E\u73B0\u7684\u662F\u9700\u8981\u6DFB\u52A0 ",paraId:39,tocIndex:3},{value:"@TableName",paraId:39,tocIndex:3},{value:" \u6CE8\u89E3\uFF0C\u6307\u5B9A\u5177\u4F53\u7684\u8868\u7684\u540D\u79F0",paraId:39,tocIndex:3},{value:`@TableName("emp")
+public class Emp {//\u7701\u7565\u5185\u5BB9}
+`,paraId:40,tocIndex:3},{value:"\u4E0A\u8FF0\u4EE3\u7801\u8FD0\u884C\u901A\u8FC7\u4E4B\u540E\uFF0C\u5927\u5BB6\u4F1A\u53D1\u73B0\u7ED3\u679C\u80FD\u591F\u6B63\u5E38\u7684\u8FDB\u884C\u63D2\u5165\uFF0C\u4F46\u662F\u5728\u63A7\u5236\u53F0\u4F1A\u6253\u5370\u4E00\u4E2A\u8B66\u544A\u4FE1\u606F\uFF0C\u8BF4\u6CA1\u6709 ",paraId:41,tocIndex:3},{value:"@TableId ",paraId:41,tocIndex:3},{value:"\u7684\u6CE8\u89E3\uFF0C\u539F\u56E0\u5C31\u5728\u4E8E\u5B9A\u4E49\u5B9E\u4F53\u7C7B\u7684\u65F6\u5019\u5E76\u6CA1\u6709\u58F0\u660E\u5176\u4E2D\u7684\u4E3B\u952E\u662F\u54EA\u4E2A\u5217\uFF0C\u4EE5\u53CA\u4F7F\u7528\u4EC0\u4E48\u6837\u7684\u4E3B\u952E\u751F\u6210\u7B56\u7565\uFF0C\u56E0\u6B64\uFF0C\u53EF\u4EE5\u5728\u7C7B\u7684\u5C5E\u6027\u4E0A\u6DFB\u52A0\u5982\u4E0B\u6CE8\u89E3\uFF0C\u6765\u6D88\u9664\u6B64\u8B66\u544A",paraId:41,tocIndex:3},{value:`@Data
+@TableName("emp")
+public class Emp {
+    
+    @TableId(value = "empno",type = IdType.AUTO)
+    private Integer empno;
+    private String eName;
+    private String job;
+    private Integer mgr;
+    private Date hiredate;
+    private Double sal;
+    private Double comm;
+    private Integer deptno;
+}
+`,paraId:42,tocIndex:3},{value:"\u4F46\u662F\u5927\u5BB6\u4F1A\u53D1\u73B0\uFF0C\u6211\u4EEC\u5728\u5199\u5C5E\u6027\u7684\u65F6\u5019\uFF0C\u5B9E\u4F53\u7C7B\u5C5E\u6027\u540D\u79F0\u8DDF\u8868\u7684\u5C5E\u6027\u540D\u79F0\u5E76\u6CA1\u6709\u4E00\u4E00\u5BF9\u5E94\u4E0A\uFF0C\u90A3\u4E48\u4E3A\u4EC0\u4E48\u4F1A\u5B8C\u6210\u5BF9\u5E94\u7684\u64CD\u4F5C\u5462\uFF1F",paraId:43,tocIndex:3},{value:"\u5176\u5B9E\u539F\u56E0\u5C31\u5728\u4E8E ",paraId:44,tocIndex:3},{value:"mybatis-plus",paraId:44,tocIndex:3},{value:" \u7684\u5168\u5C40\u914D\u7F6E",paraId:44,tocIndex:3},{value:"\u5728\u8FDB\u884C\u6570\u636E\u63D2\u5165\u7684\u662F\uFF0C\u5982\u679C\u8F93\u5165\u7684\u65F6\u5019\u7528\u7684\u662F\u5168\u5B57\u6BB5\uFF0C\u90A3\u4E48 sql \u8BED\u53E5\u4E2D\u5C31\u4F1A\u6267\u884C\u5982\u4E0B sql \u8BED\u53E5\uFF1A",paraId:45,tocIndex:3},{value:`INSERT INTO tbl_emp ( e_name, job, mgr, hiredate, sal, comm, deptno ) VALUES ( ?, ?, ?, ?, ?, ?, ? )
+`,paraId:46,tocIndex:3},{value:"\u4F46\u662F\u5982\u679C\u5728\u63D2\u5165\u7684\u65F6\u5019\uFF0C\u5C06\u5BF9\u8C61\u4E2D\u7684\u67D0\u4E9B\u5C5E\u6027\u503C\u8BBE\u7F6E\u4E3A\u7A7A\uFF0C\u90A3\u4E48\u4F1A\u662F\u4EC0\u4E48\u6548\u679C\u5462\uFF1F",paraId:47,tocIndex:3},{value:`@Test
+public void testInsert(){
+    Emp emp = new Emp();
+    emp.seteName("zhangsan");
+    emp.setJob("Teacher");
+    emp.setMgr(100);
+    //        emp.setSal(1000.0);
+    //        emp.setComm(500.0);
+    //        emp.setHiredate(new Date());
+    //        emp.setDeptno(10);
+    int insert = empDao.insert(emp);
+    System.out.println(insert);
+    System.out.println(emp.getEmpno());
+}
+`,paraId:48,tocIndex:3},{value:`INSERT INTO tbl_emp ( e_name, job, mgr ) VALUES ( ?, ?, ? ) 
+`,paraId:49,tocIndex:3},{value:"\u5927\u5BB6\u5176\u5B9E\u53EF\u4EE5\u770B\u5230\u6211\u4EEC\u5728\u63D2\u5165\u7684\u65F6\u5019\uFF0Cmybatis-plus \u4F1A\u6839\u636E\u6211\u4F1A\u8F93\u5165\u7684\u5BF9\u8C61\u7684\u5B57\u6BB5\u7684\u4E2A\u6570\u6765\u52A8\u6001\u7684\u8C03\u6574\u6211\u4EEC\u7684 sql \u8BED\u53E5\u63D2\u5165\u7684\u5B57\u6BB5\uFF0C\u8FD9\u662F\u5927\u5BB6\u9700\u8981\u6CE8\u610F\u7684 mybatis-plus \u6BD4\u8F83\u7075\u6D3B\u7684\u5730\u65B9\u3002",paraId:50,tocIndex:3},{value:"\u66F4\u65B0\u64CD\u4F5C",paraId:32},{value:"dao.updateById(enity)",paraId:51,tocIndex:4},{value:` @Test
+    public void testUpdate(){
+        Emp emp = new Emp();
+        emp.setEmpno(1);
+        emp.seteName("lisi");
+        emp.setJob("student");
+        emp.setMgr(100);
+        emp.setSal(1000.0);
+        emp.setComm(500.0);
+        emp.setHiredate(new Date());
+        emp.setDeptno(10);
+        int update = empDao.updateById(emp);
+        System.out.println(update);
+    }
+`,paraId:52,tocIndex:4},{value:"\u6839\u636Eid\uFF1AdeleteById(id) ,\u6839\u636E\u6761\u4EF6\uFF1Adelete(QueryWrapper)\uFF0C\u6839\u636Emap\uFF1AdeleteByMap(map)",paraId:53,tocIndex:5},{value:`@Test
+public void testDelete(){
+    // 1\u3001\u6839\u636Eid\u5220\u9664\u6570\u636E
+    // int i = empDao.deleteById(1);
+    // System.out.println(i);
+
+    // 2\u3001\u6839\u636E\u4E00\u7EC4id\u5220\u9664\u6570\u636E
+    // int i = empDao.deleteBatchIds(Arrays.asList(2, 3, 4));
+    // System.out.println(i);
+
+    // 3\u3001\u6839\u636E\u6761\u4EF6\u5220\u9664\u6570\u636E
+    // QueryWrapper queryWrapper = new QueryWrapper();
+    // queryWrapper.in("empno",Arrays.asList(5,6,7));
+    // int delete = empDao.delete(queryWrapper);
+    // System.out.println(delete);
+
+    // 4\u3001\u6761\u4EF6\u5C01\u88C5map\u5220\u9664\u6570\u636E
+    Map<String,Object> map = new HashMap<>();
+    map.put("empno",9);
+    int i = empDao.deleteByMap(map);
+    System.out.println(i);
+}
+`,paraId:54,tocIndex:5},{value:"1\u3001\u6839\u636Eid\u67E5\u8BE2\u5BF9\u8C61",paraId:55,tocIndex:6},{value:`Emp emp = empDao.selectById(1);
+System.out.println(emp);
+`,paraId:56,tocIndex:6},{value:"2\u3001\u6839\u636E\u5B9E\u4F53\u5305\u88C5\u7C7B\u67E5\u8BE2\u5355\u4E2A\u5BF9\u8C61\uFF0C\u8FD4\u56DE\u7684\u7ED3\u679C\u96C6\u6709\u4E14\u4EC5\u80FD\u6709\u4E00\u4E2A\u5BF9\u8C61",paraId:57,tocIndex:6},{value:"dap.selectOne(QueryWrapper<Emp>)",paraId:58,tocIndex:6},{value:`QueryWrapper<Emp> emp = new QueryWrapper<Emp>();
+emp.eq("empno",2).eq("e_name","zhangsan");
+Emp emp1 = empDao.selectOne(emp);
+System.out.println(emp1);
+`,paraId:59,tocIndex:6},{value:"3\u3001\u901A\u8FC7\u591A\u4E2Aid\u503C\u8FDB\u884C\u67E5\u8BE2",paraId:60,tocIndex:6},{value:`List<Emp> list = empDao.selectBatchIds(Arrays.asList(1, 2, 3));
+for (Emp emp : list) {
+    System.out.println(emp);
+}
+`,paraId:61,tocIndex:6},{value:"4\u3001\u901A\u8FC7map\u5C01\u88C5\u8FDB\u884C\u6761\u4EF6\u67E5\u8BE2 ",paraId:62,tocIndex:6},{value:"\u5E38\u7528",paraId:62,tocIndex:6},{value:`Map<String,Object> map = new HashMap<String, Object>();
+map.put("e_name","zhangsan");
+map.put("sal",1000.0);
+List<Emp> list = empDao.selectByMap(map);
+for (Emp emp : list) {
+	System.out.println(emp);
+}
+`,paraId:63,tocIndex:6},{value:"5\u3001\u5206\u9875\u67E5\u8BE2,\u9700\u8981\u6DFB\u52A0\u5206\u9875\u63D2\u4EF6",paraId:64,tocIndex:6},{value:`<property name="plugins">
+	<array>
+		<bean class="com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor"></bean>
+	</array>
+</property>
+`,paraId:65,tocIndex:6},{value:`Page<Emp> empPage = empDao.selectPage(new Page<>(2, 5), null);
+List<Emp> records = empPage.getRecords();
+System.out.println(records);
+`,paraId:66,tocIndex:6},{value:"6\u3001\u6839\u636E\u6761\u4EF6\u8FD4\u56DE\u67E5\u8BE2\u7ED3\u679C\u603B\u6570",paraId:67,tocIndex:6},{value:`QueryWrapper<Emp> queryWrapper = new QueryWrapper<>();
+queryWrapper.eq("e_name","zhangsan");
+Integer integer = empDao.selectCount(queryWrapper);
+System.out.println(integer);
+`,paraId:68,tocIndex:6},{value:"7\u3001\u6839\u636E\u6761\u4EF6\u67E5\u8BE2\u6240\u6709\u7ED3\u679C\u8FD4\u56DElist\u96C6\u5408",paraId:69,tocIndex:6},{value:"\u540C\u4E0A",paraId:69,tocIndex:6},{value:`List<Emp> list = empDao.selectList(null);
+for (Emp emp : list) {
+	System.out.println(emp);
+}
+`,paraId:70,tocIndex:6},{value:"8\u3001\u6839\u636E\u6761\u4EF6\u67E5\u8BE2\u7ED3\u679C\u5C01\u88C5\u6210map\u7684list\u7ED3\u6784",paraId:71,tocIndex:6},{value:"\u7ED3\u679C\u8F6C\u5316\u4E3AList<Map>",paraId:71,tocIndex:6},{value:`List<Map<String, Object>> maps = empDao.selectMaps(null);
+System.out.println(maps);
+`,paraId:72,tocIndex:6},{value:"\u5728 mybatis \u4E2D\u6211\u4EEC\u53EF\u4EE5\u5728 mybatis-config \u914D\u7F6E\u6587\u4EF6\u4E2D\u53EF\u4EE5\u6DFB\u52A0 ",paraId:73,tocIndex:7},{value:"<settings> ",paraId:73,tocIndex:7},{value:"\u6807\u7B7E\uFF0C\u8BBE\u7F6E\u5168\u5C40\u7684\u9ED8\u8BA4\u7B56\u7565\uFF0C\u5728 MP \u4E2D\u4E5F\u5177\u5907\u76F8\u540C\u7684\u529F\u80FD\uFF0C\u53EA\u4E0D\u8FC7\u914D\u7F6E\u65B9\u5F0F\u6709\u6240\u4E0D\u540C\uFF0C\u6211\u4EEC\u53EF\u4EE5\u5728 spring.xml \u6587\u4EF6\u4E2D\u6DFB\u52A0\u914D\u7F6E\u3002\uFEFF",paraId:73,tocIndex:7},{value:"\u5728\u6B64\u94FE\u63A5\u4E2D\u5305\u542B\u4E86\u975E\u5E38\u591A\u7684\u914D\u7F6E\u9879\uFF0C\u7528\u6237\u53EF\u4EE5\u6309\u7167\u81EA\u5DF1\u7684\u9700\u6C42\u6DFB\u52A0\u9700\u8981\u7684\u914D\u7F6E\uFF0C\u914D\u7F6E\u65B9\u5F0F\u5982\u4E0B\uFF1A",paraId:74,tocIndex:7},{value:"spring.xml",paraId:75,tocIndex:7},{value:`<bean id="sqlSessionFactory" class="com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean">
+    <property name="configuration" ref="configuration"/> <!--  \u975E\u5FC5\u987B  -->
+    <property name="globalConfig" ref="globalConfig"/> <!--  \u975E\u5FC5\u987B  -->
+    ......
+</bean>
+ 
+<bean id="configuration" class="com.baomidou.mybatisplus.core.MybatisConfiguration">
+    ......
+</bean>
+ 
+<bean id="globalConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig">
+    <property name="dbConfig" ref="dbConfig"/> <!--  \u975E\u5FC5\u987B  -->
+    ......
+</bean>
+ 
+<bean id="dbConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig.DbConfig">
+    ......
+</bean>
+`,paraId:76,tocIndex:7},{value:"\u901A\u8FC7\u8FD9\u4E2A\u914D\u7F6E\u6587\u4EF6\u7684\u914D\u7F6E\uFF0C\u5927\u5BB6\u53EF\u4EE5\u8FDB\u884C\u56DE\u60F3\u4E0A\u8FF0\u95EE\u9898\u7684\u51FA\u73B0\uFF0Cmybatis-plus \u662F\u5982\u4F55\u89E3\u51B3\u8FD9\u4E2A\u95EE\u9898\u7684\u5462\uFF1F",paraId:77,tocIndex:7},{value:"\u5728 mybatis-plus \u4E2D\u4F1A\u5F15\u5165\u5199\u9ED8\u8BA4\u7684\u914D\u7F6E\uFF0C\u8FD9\u4E2A\u9009\u9879\u7684\u9ED8\u8BA4\u914D\u7F6E\u4E3A true\uFF0C\u56E0\u6B64\u53EF\u4EE5\u5B8C\u6210\u5BF9\u5E94\u7684\u5B9E\u73B0\u3002",paraId:78,tocIndex:7},{value:"\u6211\u4EEC\u53EF\u4EE5\u901A\u8FC7\u5982\u4E0B\u914D\u7F6E\u6765\u7981\u7528\u9A7C\u5CF0\u6807\u8BC6\u7684\u64CD\u4F5C\uFF0C\u5982\u4E0B\u6240\u793A\uFF1A",paraId:79,tocIndex:7},{value:`<context:property-placeholder location="classpath:db.properties"></context:property-placeholder>
+<bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+    <property name="driverClassName" value="\${driverClassname}"></property>
+    <property name="url" value="\${url}"></property>
+    <property name="username" value="\${username}"></property>
+    <property name="password" value="\${password}"></property>
+</bean>
+<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+    <property name="dataSource" ref="dataSource"></property>
+</bean>
+
+<tx:annotation-driven transaction-manager="transactionManager"></tx:annotation-driven>
+<bean id="sqlSessionFactoryBean" class="com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean">
+    <property name="configLocation" value="classpath:mybatis-config.xml"></property>
+    <property name="dataSource" ref="dataSource"></property>
+    <property name="typeAliasesPackage" value="cn.tulingxueyuan.bean"></property>
+    <property name="globalConfig" ref="globalConfig"></property>
+    <property name="configuration" ref="configuration"></property>
+</bean>
+
+<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+    <property name="basePackage" value="cn.tulingxueyuan.dao"></property>
+</bean>
+
+<bean id="configuration" class="com.baomidou.mybatisplus.core.MybatisConfiguration">
+    <property name="mapUnderscoreToCamelCase" value="false"></property>
+</bean>
+
+<bean id="globalConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig">
+    <property name="dbConfig" ref="dbConfig"></property>
+</bean>
+
+<bean id="dbConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig.DbConfig">
+</bean>
+`,paraId:80,tocIndex:7},{value:"\u5F53\u6DFB\u52A0\u4E0A\u8FF0\u914D\u7F6E\u4E4B\u540E\uFF0C\u53D1\u73B0\u8FD0\u884C\u8FC7\u7A0B\u4E2D\u62A5\u9519\uFF0C",paraId:81,tocIndex:7},{value:"Property 'configuration' and 'configLocation' can not specified with together",paraId:82,tocIndex:7},{value:"\u8868\u793A\u8FD9\u4E24\u4E2A\u6807\u7B7E\u65E0\u6CD5\u540C\u65F6\u4F7F\u7528\uFF0C\u56E0\u6B64\u6211\u4EEC\u53EF\u4EE5\u9009\u62E9\u5C06 configLocation \u7ED9\u7981\u7528\u6389\uFF0C\u5C31\u662F\u4E0D\u4F7F\u7528 mybatis \u7684\u914D\u7F6E\uFF0C\u6B64\u65F6\u5C31\u80FD\u591F\u6B63\u5E38\u4F7F\u7528\u4E86\uFF0C\u4F46\u662F\u653E\u7F6E\u5C5E\u6027\u7684\u65F6\u5019\u53C8\u62A5\u9519\u4E86\uFF0C\u539F\u56E0\u5C31\u5728\u4E8E\u6211\u4EEC\u628A\u9A7C\u5CF0\u6807\u8BC6\u7ED9\u7981\u7528\u4E86\uFF0C\u91CD\u65B0\u5F00\u542F\u5373\u53EF\u3002\u9664\u6B64\u4E4B\u5916\uFF0C\u6211\u4EEC\u8FD8\u53EF\u4EE5\u5728\u5C5E\u6027\u7684\u4E0A\u9762\u6DFB\u52A0 @TableField \u5C5E\u6027",paraId:83,tocIndex:7},{value:`@TableField(value = "e_name")
+private String eName;
+`,paraId:84,tocIndex:7},{value:"\u6B64\u65F6\u53D1\u73B0\u65E5\u5FD7\u529F\u80FD\u53C8\u65E0\u6CD5\u4F7F\u7528\u4E86\uFF0C\u53EA\u9700\u8981\u6DFB\u52A0\u5982\u4E0B\u914D\u7F6E\u5373\u53EF",paraId:85,tocIndex:7},{value:`<bean id="configuration" class="com.baomidou.mybatisplus.core.MybatisConfiguration">
+    <property name="mapUnderscoreToCamelCase" value="true"></property>
+    <property name="logImpl" value="org.apache.ibatis.logging.log4j.Log4jImpl"></property>
+</bean>
+`,paraId:86,tocIndex:7},{value:"\u521A\u521A\u63D2\u5165\u6570\u636E\u7684\u65F6\u5019\u53D1\u73B0\u6BCF\u4E2A\u7C7B\u53EF\u80FD\u90FD\u9700\u8981\u5199\u4E3B\u952E\u751F\u6210\u7B56\u7565\uFF0C\u8FD9\u662F\u6BD4\u8F83\u9EBB\u70E6\u7684\uFF0C\u56E0\u6B64\u53EF\u4EE5\u9009\u62E9\u5C06\u4E3B\u952E\u914D\u7F6E\u7B56\u7565\u8BBE\u7F6E\u5230\u5168\u5C40\u914D\u7F6E\u4E2D\u3002",paraId:87,tocIndex:7},{value:`<bean id="dbConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig.DbConfig">
+        <property name="idType" ref="idType"></property>
+    </bean>
+    <util:constant id="idType" static-field="com.baomidou.mybatisplus.annotation.IdType.AUTO"></util:constant>
+`,paraId:88,tocIndex:7},{value:"\u5982\u679C\u8868\u7684\u540D\u5B57\u90FD\u5177\u5907\u76F8\u540C\u7684\u524D\u7F00\uFF0C\u90A3\u4E48\u53EF\u4EE5\u8BBE\u7F6E\u9ED8\u8BA4\u7684\u524D\u7F00\u914D\u7F6E\u7B56\u7565\uFF0C\u6B64\u65F6\u7684\u8BDD\u53EF\u4EE5\u5C06\u5B9E\u4F53\u7C7B\u4E0A\u7684 @TableName \u6807\u7B7E\u7701\u7565\u4E0D\u5199",paraId:89,tocIndex:7},{value:`<bean id="dbConfig" class="com.baomidou.mybatisplus.core.config.GlobalConfig.DbConfig">
+        <property name="idType" ref="idType"></property>
+        <property name="tablePrefix" value="tbl_"></property>
+    </bean>
+    <util:constant id="idType" static-field="com.baomidou.mybatisplus.annotation.IdType.AUTO"></util:constant>
+`,paraId:90,tocIndex:7},{value:"\u5728 mybatis-plus \u4E2D\u5982\u679C\u9700\u8981\u83B7\u53D6\u63D2\u5165\u7684\u6570\u636E\u7684\u4E3B\u952E\u7684\u503C\uFF0C\u90A3\u4E48\u76F4\u63A5\u83B7\u53D6\u5373\u53EF\uFF0C\u539F\u56E0\u5C31\u5728\u4E8E\u914D\u7F6E\u6587\u4EF6\u4E2D\u6307\u5B9A\u4E86\u9ED8\u8BA4\u7684\u5C5E\u6027\u4E3A true",paraId:91,tocIndex:7},{value:"AutoGenerator \u662F MyBatis-Plus \u7684\u4EE3\u7801\u751F\u6210\u5668\uFF0C\u901A\u8FC7 AutoGenerator \u53EF\u4EE5\u5FEB\u901F\u751F\u6210 Entity\u3001Mapper\u3001Mapper XML\u3001Service\u3001Controller \u7B49\u5404\u4E2A\u6A21\u5757\u7684\u4EE3\u7801\uFF0C\u6781\u5927\u7684\u63D0\u5347\u4E86\u5F00\u53D1\u6548\u7387\u3002",paraId:92,tocIndex:8},{value:"\u5176\u5B9E\u5728\u5B66\u4E60 mybatis \u7684\u65F6\u5019\u6211\u4EEC\u5C31\u4F7F\u7528\u8FC7\u9006\u5411\u5DE5\u7A0B\uFF0C\u6839\u636E\u6211\u4EEC\u7684\u6570\u636E\u8868\u6765\u751F\u6210\u7684\u5BF9\u5E94\u7684\u5B9E\u4F53\u7C7B\uFF0CDAO \u63A5\u53E3\u548C Mapper \u6620\u5C04\u6587\u4EF6\uFF0C\u800C MyBatis-plus \u63D0\u4F9B\u4E86\u66F4\u52A0\u5B8C\u5584\u7684\u529F\u80FD\uFF0C\u4E0B\u9762\u6765\u9488\u5BF9\u4E24\u79CD\u65B9\u5F0F\u505A\u4E00\u4E2A\u57FA\u672C\u7684\u5BF9\u6BD4",paraId:93,tocIndex:8},{value:"MyBatis-plus \u662F\u6839\u636E java \u4EE3\u7801\u5F00\u751F\u6210\u4EE3\u7801\u7684\uFF0C\u800C Mybatis \u662F\u6839\u636E XML \u6587\u4EF6\u7684\u914D\u7F6E\u6765\u751F\u6210\u7684",paraId:94,tocIndex:8},{value:"MyBatis-plus \u80FD\u591F\u751F\u6210\u5B9E\u4F53\u7C7B\u3001Mapper \u63A5\u53E3\u3001Mapper \u6620\u5C04\u6587\u4EF6\uFF0CService \u5C42\uFF0CController \u5C42\uFF0C\u800C Mybatis \u53EA\u80FD\u751F\u6210\u5B9E\u4F53\u7C7B\uFF0CMapper \u63A5\u53E3\uFF0CMapper \u6620\u5C04\u6587\u4EF6",paraId:94,tocIndex:8},{value:"\u64CD\u4F5C\u6B65\u9AA4\uFF1A",paraId:32},{value:"1\u3001\u6DFB\u52A0\u4F9D\u8D56",paraId:95,tocIndex:9},{value:"\u6DFB\u52A0\u4EE3\u7801\u751F\u6210\u5668\u4F9D\u8D56",paraId:96,tocIndex:9},{value:`<dependency>
+    <groupId>com.baomidou</groupId>
+    <artifactId>mybatis-plus-generator</artifactId>
+    <version>3.3.1.tmp</version>
+</dependency>
+`,paraId:97,tocIndex:9},{value:"\u6DFB\u52A0 \u6A21\u677F\u5F15\u64CE \u4F9D\u8D56",paraId:98,tocIndex:9},{value:"MyBatis-Plus \u652F\u6301 Velocity\uFF08\u9ED8\u8BA4\uFF09\u3001Freemarker\u3001Beetl\uFF0C\u7528\u6237\u53EF\u4EE5\u9009\u62E9\u81EA\u5DF1\u719F\u6089\u7684\u6A21\u677F\u5F15\u64CE\uFF0C\u5982\u679C\u90FD\u4E0D\u6EE1\u8DB3\u60A8\u7684\u8981\u6C42\uFF0C\u53EF\u4EE5\u91C7\u7528\u81EA\u5B9A\u4E49\u6A21\u677F\u5F15\u64CE\u3002",paraId:99,tocIndex:9},{value:`<dependency>
+    <groupId>org.apache.velocity</groupId>
+    <artifactId>velocity-engine-core</artifactId>
+    <version>2.2</version>
+</dependency>
+<dependency>
+    <groupId>org.freemarker</groupId>
+    <artifactId>freemarker</artifactId>
+    <version>2.3.30</version>
+</dependency>
+<dependency>
+    <groupId>com.ibeetl</groupId>
+    <artifactId>beetl</artifactId>
+    <version>3.1.1.RELEASE</version>
+</dependency>
+`,paraId:100,tocIndex:9},{value:"\u7F16\u5199\u751F\u6210\u7C7B",paraId:101,tocIndex:9},{value:`public class MyTest {
+
+    @Test
+    public void testGenerator(){
+        //\u6B64\u5904\u9ED8\u8BA4\u6709\u4E24\u4E2A\u5BF9\u5E94\u7684\u5B9E\u73B0\u7C7B\uFF0C\u5927\u5BB6\u4E0D\u8981\u5BFC\u9519\u5305
+        GlobalConfig globalConfig = new GlobalConfig();
+        //\u8BBE\u7F6E\u5168\u5C40\u7684\u914D\u7F6E
+        globalConfig.setActiveRecord(true)//\u662F\u5426\u652F\u6301AR\u6A21\u5F0F
+                .setAuthor("lian")//\u8BBE\u7F6E\u4F5C\u8005
+                .setOutputDir("e:\\\\self_project\\\\mybatisplus_generatorcode\\\\src\\\\main\\\\java")//\u8BBE\u7F6E\u751F\u6210\u8DEF\u5F84
+                .setFileOverride(true)//\u8BBE\u7F6E\u6587\u4EF6\u8986\u76D6
+                .setIdType(IdType.AUTO) //\u8BBE\u7F6E\u4E3B\u952E\u751F\u6210\u7B56\u7565
+                .setServiceName("%sService")//\u8BBE\u7F6E\u751F\u6210\u7684serivce\u63A5\u53E3\u7684\u540D\u5B57
+                .setBaseResultMap(true) //\u8BBE\u7F6E\u57FA\u672C\u7684\u7ED3\u679C\u96C6\u6620\u5C04
+                .setBaseColumnList(true);//\u8BBE\u7F6E\u57FA\u672C\u7684\u5217\u96C6\u5408
+ 
+        //\u8BBE\u7F6E\u6570\u636E\u6E90\u7684\u914D\u7F6E
+        DataSourceConfig dataSourceConfig = new DataSourceConfig();
+        dataSourceConfig.setDriverName("com.mysql.cj.jdbc.Driver")
+                .setUrl("jdbc:mysql://192.168.85.111:3306/mp?serverTimezone=UTC")
+                .setUsername("root").setPassword("123456");
+ 
+        // \u8FDB\u884C\u7B56\u7565\u914D\u7F6E
+        StrategyConfig strategyConfig = new StrategyConfig();
+        strategyConfig.setCapitalMode(true)//\u8BBE\u7F6E\u5168\u5C40\u5927\u5199\u547D\u540D
+                .setNaming(NamingStrategy.underline_to_camel)//\u6570\u636E\u5E93\u8868\u6620\u5C04\u5230\u5B9E\u4F53\u7684\u547D\u540D\u7B56\u7565
+                .setTablePrefix("tbl_")//\u8BBE\u7F6E\u8868\u540D\u524D\u7F00
+                .setInclude("tbl_emp");//\u751F\u6210\u7684\u8868
+ 
+        // \u8FDB\u884C\u5305\u540D\u7684\u7B56\u7565\u914D\u7F6E
+        PackageConfig packageConfig = new PackageConfig();
+        packageConfig.setParent("cn.tulingxueyuan")
+                .setMapper("mapper")
+                .setService("service")
+                .setController("controller")
+                .setEntity("bean")
+                .setXml("mapper");
+ 
+        //\u6574\u5408\u914D\u7F6E
+        AutoGenerator autoGenerator = new AutoGenerator();
+        autoGenerator.setGlobalConfig(globalConfig).setDataSource(dataSourceConfig).setStrategy(strategyConfig)
+                .setPackageInfo(packageConfig);
+ 
+        autoGenerator.execute();
+    }
+}
+`,paraId:102,tocIndex:9},{value:"\u6CE8\u610F\uFF0C\u5F53\u901A\u8FC7\u4E0A\u8FF0\u4EE3\u7801\u5B9E\u73B0\u4E4B\u540E\uFF0C\u5927\u5BB6\u53D1\u73B0\u53EF\u4EE5\u5728 Controller \u5C42\u53EF\u4EE5\u76F4\u63A5\u5B9E\u73B0\u8C03\u7528\uFF0C\u8FD9\u4E9B\u8C03\u7528\u7684\u5B9E\u73B0\u6700\u6838\u5FC3\u7684\u529F\u80FD\u5C31\u5728\u4E8E ServiceImpl \u7C7B\uFF0C\u8FD9\u4E2A\u7C7B\u4E2D\u81EA\u52A8\u5B8C\u6210 mapper \u7684\u6CE8\u5165\uFF0C\u540C\u65F6\u63D0\u4F9B\u4E86\u4E00\u7CFB\u5217 CRUD \u7684\u65B9\u6CD5\u3002",paraId:103,tocIndex:9},{value:"MyBatis \u5141\u8BB8\u4F60\u5728\u6620\u5C04\u8BED\u53E5\u6267\u884C\u8FC7\u7A0B\u4E2D\u7684\u67D0\u4E00\u70B9\u8FDB\u884C\u62E6\u622A\u8C03\u7528\u3002\u9ED8\u8BA4\u60C5\u51B5\u4E0B\uFF0CMyBatis \u5141\u8BB8\u4F7F\u7528\u63D2\u4EF6\u6765\u62E6\u622A\u7684\u65B9\u6CD5\u8C03\u7528\u5305\u62EC\uFF1A",paraId:104,tocIndex:10},{value:"Executor (update, query, flushStatements, commit, rollback, getTransaction, close, isClosed)",paraId:105,tocIndex:10},{value:"ParameterHandler (getParameterObject, setParameters)",paraId:106,tocIndex:10},{value:"ResultSetHandler (handleResultSets, handleOutputParameters)",paraId:107,tocIndex:10},{value:"StatementHandler (prepare, parameterize, batch, update, query)",paraId:108,tocIndex:10},{value:"1\u3001\u5206\u9875\u63D2\u4EF6",paraId:109,tocIndex:10},{value:"\u5728 spring.xml \u6587\u4EF6\u4E2D\u6DFB\u52A0\u5982\u4E0B\u914D\u7F6E\u5F15\u5165\u63D2\u4EF6",paraId:110,tocIndex:10},{value:`<property name="plugins">
+	<array>
+		<bean class="com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor"></bean>
+	</array>
+</property>
+`,paraId:111,tocIndex:10},{value:"\u7F16\u5199\u6D4B\u8BD5\u7C7B",paraId:112,tocIndex:10},{value:`@Test
+public void TestPage(){
+    Page page = new Page(2,2);
+    Page page1 = empDao.selectPage(page, null);
+    List records = page1.getRecords();
+    for (Object record : records) {
+        System.out.println(record);
+    }
+    System.out.println("==============");
+    System.out.println("\u83B7\u53D6\u603B\u6761\u6570\uFF1A"+page.getTotal());
+    System.out.println("\u5F53\u524D\u9875\u7801\uFF1A"+page.getCurrent());
+    System.out.println("\u603B\u9875\u7801\uFF1A"+page.getPages());
+    System.out.println("\u6BCF\u9875\u663E\u793A\u7684\u6761\u6570\uFF1A"+page.getSize());
+    System.out.println("\u662F\u5426\u6709\u4E0A\u4E00\u9875\uFF1A"+page.hasPrevious());
+    System.out.println("\u662F\u5426\u6709\u4E0B\u4E00\u9875\uFF1A"+page.hasNext());
+}
+`,paraId:113,tocIndex:10},{value:"2\u3001\u4E50\u89C2\u9501\u63D2\u4EF6",paraId:114,tocIndex:10},{value:"\u5F53\u8981\u66F4\u65B0\u4E00\u6761\u8BB0\u5F55\u7684\u65F6\u5019\uFF0C\u5E0C\u671B\u8FD9\u6761\u8BB0\u5F55\u6CA1\u6709\u88AB\u522B\u4EBA\u66F4\u65B0",paraId:115,tocIndex:10},{value:"\u4E50\u89C2\u9501\u5B9E\u73B0\u65B9\u5F0F\uFF1A",paraId:116,tocIndex:10},{value:"\u53D6\u51FA\u8BB0\u5F55\u65F6\uFF0C\u83B7\u53D6\u5F53\u524D version \u66F4\u65B0\u65F6\uFF0C\u5E26\u4E0A\u8FD9\u4E2A version \u6267\u884C\u66F4\u65B0\u65F6\uFF0C set version = newVersion where version = oldVersion \u5982\u679C version \u4E0D\u5BF9\uFF0C\u5C31\u66F4\u65B0\u5931\u8D25",paraId:117,tocIndex:10},{value:"\u6DFB\u52A0\u914D\u7F6E\uFF1A",paraId:118,tocIndex:10},{value:`<bean class="com.baomidou.mybatisplus.extension.plugins.OptimisticLockerInterceptor"></bean>
+`,paraId:119,tocIndex:10},{value:"\u4FEE\u6539\u5B9E\u4F53\u7C7B\u6DFB\u52A0 version \u5B57\u6BB5\u5E76\u5728\u8868\u4E2D\u6DFB\u52A0 version \u5B57\u6BB5",paraId:120,tocIndex:10},{value:"\u7F16\u5199\u6D4B\u8BD5\u7C7B",paraId:121,tocIndex:10},{value:`@Test
+public void testOptimisticLocker(){
+    Emp emp = new Emp();
+    emp.setEmpno(22);
+    emp.seteName("zhang");
+    emp.setSal(10000.0);
+    emp.setComm(1000.0);
+    emp.setVersion(2);
+    empDao.updateById(emp);
+}
+`,paraId:122,tocIndex:10},{value:"3\u3001SQL \u6267\u884C\u5206\u6790\u63D2\u4EF6\uFF0C\u907F\u514D\u51FA\u73B0\u5168\u8868\u66F4\u65B0\u548C\u5220\u9664",paraId:123,tocIndex:10},{value:`<bean class="com.baomidou.mybatisplus.extension.plugins.SqlExplainInterceptor">
+	<property name="sqlParserList">
+		<list>
+			<bean class="com.baomidou.mybatisplus.extension.parsers.BlockAttackSqlParser"></bean>
+		</list>
+	</property>
+</bean>
+`,paraId:124,tocIndex:10},{value:`@Test
+public void testSqlExplain(){
+    int delete = empDao.delete(null);
+    System.out.println(delete);
+}
+`,paraId:125,tocIndex:10},{value:"4\u3001\u975E\u6CD5 sql \u68C0\u67E5\u63D2\u4EF6",paraId:126,tocIndex:10},{value:`<bean class="com.baomidou.mybatisplus.extension.plugins.IllegalSQLInterceptor">
+</bean>
+`,paraId:127,tocIndex:10},{value:`@Test
+public void testSqlIllegal(){
+    QueryWrapper<Emp> queryWrapper = new QueryWrapper<>();
+    queryWrapper.or();
+    List<Emp> list = empDao.selectList(queryWrapper);
+    for (Emp emp : list) {
+        System.out.println(emp);
+    }
+}
+`,paraId:128,tocIndex:10},{value:"\u7565",paraId:32}]},28396:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u5206\u9875\u529F\u80FD",paraId:0,tocIndex:1},{value:"mybatis \u7684\u5206\u9875\u9ED8\u8BA4\u662F\u57FA\u4E8E\u5185\u5B58\u5206\u9875\u7684\uFF08\u67E5\u51FA\u6240\u6709\uFF0C\u518D\u622A\u53D6\uFF09\uFF0C\u6570\u636E\u91CF\u5927\u7684\u60C5\u51B5\u4E0B\u6548\u7387\u8F83\u4F4E\uFF0C\u4E0D\u8FC7\u4F7F\u7528 mybatis \u63D2\u4EF6\u53EF\u4EE5\u6539\u53D8\u8BE5\u884C\u4E3A\uFF0C\u53EA\u9700\u8981\u62E6\u622A StatementHandler \u7C7B\u7684 prepare \u65B9\u6CD5\uFF0C\u6539\u53D8\u8981\u6267\u884C\u7684 SQL \u8BED\u53E5\u4E3A\u5206\u9875\u8BED\u53E5\u5373\u53EF\uFF1B",paraId:1,tocIndex:1},{value:"\u516C\u5171\u5B57\u6BB5\u7EDF\u4E00\u8D4B\u503C",paraId:2,tocIndex:1},{value:"\u4E00\u822C\u4E1A\u52A1\u7CFB\u7EDF\u90FD\u4F1A\u6709\u521B\u5EFA\u8005\uFF0C\u521B\u5EFA\u65F6\u95F4\uFF0C\u4FEE\u6539\u8005\uFF0C\u4FEE\u6539\u65F6\u95F4\u56DB\u4E2A\u5B57\u6BB5\uFF0C\u5BF9\u4E8E\u8FD9\u56DB\u4E2A\u5B57\u6BB5\u7684\u8D4B\u503C\uFF0C\u5B9E\u9645\u4E0A\u53EF\u4EE5\u5728 DAO \u5C42\u7EDF\u4E00\u62E6\u622A\u5904\u7406\uFF0C\u53EF\u4EE5\u7528 mybatis \u63D2\u4EF6\u62E6\u622A Executor \u7C7B\u7684 update \u65B9\u6CD5\uFF0C\u5BF9\u76F8\u5173\u53C2\u6570\u8FDB\u884C\u7EDF\u4E00\u8D4B\u503C\u5373\u53EF\uFF1B",paraId:3,tocIndex:1},{value:"\u6027\u80FD\u76D1\u63A7",paraId:4,tocIndex:1},{value:"\u5BF9\u4E8E SQL \u8BED\u53E5\u6267\u884C\u7684\u6027\u80FD\u76D1\u63A7\uFF0C\u53EF\u4EE5\u901A\u8FC7\u62E6\u622A Executor \u7C7B\u7684 update, query \u7B49\u65B9\u6CD5\uFF0C\u7528\u65E5\u5FD7\u8BB0\u5F55\u6BCF\u4E2A\u65B9\u6CD5\u6267\u884C\u7684\u65F6\u95F4\uFF1B",paraId:5,tocIndex:1},{value:"\u5176\u5B83",paraId:6,tocIndex:1},{value:"\u5176\u5B9E mybatis \u6269\u5C55\u6027\u8FD8\u662F\u5F88\u5F3A\u7684\uFF0C\u57FA\u4E8E\u63D2\u4EF6\u673A\u5236\uFF0C\u57FA\u672C\u4E0A\u53EF\u4EE5\u63A7\u5236 SQL \u6267\u884C\u7684\u5404\u4E2A\u9636\u6BB5\uFF0C\u5982\u6267\u884C\u9636\u6BB5\uFF0C\u53C2\u6570\u5904\u7406\u9636\u6BB5\uFF0C\u8BED\u6CD5\u6784\u5EFA\u9636\u6BB5\uFF0C\u7ED3\u679C\u96C6\u5904\u7406\u9636\u6BB5\uFF0C\u5177\u4F53\u53EF\u4EE5\u6839\u636E\u9879\u76EE\u4E1A\u52A1\u6765\u5B9E\u73B0\u5BF9\u5E94\u4E1A\u52A1\u903B\u8F91\u3002",paraId:7,tocIndex:1},{value:"\u5206\u9875\u63D2\u4EF6",paraId:8},{value:"MyBatis \u901A\u8FC7\u63D0\u4F9B\u63D2\u4EF6\u673A\u5236\uFF0C\u8BA9\u6211\u4EEC\u53EF\u4EE5\u6839\u636E\u81EA\u5DF1\u7684\u9700\u8981\u53BB\u589E\u5F3A MyBatis \u7684\u529F\u80FD\u3002",paraId:9,tocIndex:2},{value:"\u9700\u8981\u6CE8\u610F\u7684\u662F\uFF0C\u5982\u679C\u6CA1\u6709\u5B8C\u5168\u7406\u89E3 MyBatis \u7684\u8FD0\u884C\u539F\u7406\u548C\u63D2\u4EF6\u7684\u5DE5\u4F5C\u65B9\u5F0F\uFF0C\u6700\u597D\u4E0D\u8981\u4F7F\u7528\u63D2\u4EF6\uFF0C\u56E0\u4E3A\u5B83\u4F1A\u6539\u53D8\u7CFB\u5E95\u5C42\u7684\u5DE5\u4F5C\u903B\u8F91\uFF0C\u7ED9\u7CFB\u7EDF\u5E26\u6765\u5F88\u5927\u7684\u5F71\u54CD\u3002",paraId:10,tocIndex:2},{value:"MyBatis \u7684\u63D2\u4EF6\u53EF\u4EE5\u5728\u4E0D\u4FEE\u6539\u539F\u6765\u7684\u4EE3\u7801\u7684\u60C5\u51B5\u4E0B\uFF0C\u901A\u8FC7\u62E6\u622A\u7684\u65B9\u5F0F\uFF0C\u6539\u53D8\u56DB\u5927\u6838\u5FC3\u5BF9\u8C61\u7684\u884C\u4E3A\uFF0C\u6BD4\u5982\u5904\u7406\u53C2\u6570\uFF0C\u5904\u7406 SQL\uFF0C\u5904\u7406\u7ED3\u679C",paraId:11,tocIndex:2},{value:"\u5B9E\u73B0\u601D\u8003\uFF1A",paraId:12,tocIndex:2},{value:"\u7B2C\u4E00\u4E2A\u95EE\u9898\uFF1A",paraId:13,tocIndex:2},{value:"\u4E0D\u4FEE\u6539\u5BF9\u8C61\u7684\u4EE3\u7801\uFF0C\u600E\u4E48\u5BF9\u5BF9\u8C61\u7684\u884C\u4E3A\u8FDB\u884C\u4FEE\u6539\uFF0C\u6BD4\u5982\u8BF4\u5728\u539F\u6765\u7684\u65B9\u6CD5\u524D\u9762\u505A\u4E00\u70B9\u4E8B\u60C5\uFF0C\u5728\u539F\u6765\u7684\u65B9\u6CD5\u540E\u9762\u505A\u4E00\u70B9\u4E8B\u60C5\uFF1F",paraId:14,tocIndex:2},{value:"\u7B54\u6848\uFF1A\u5927\u5BB6\u5F88\u5BB9\u6613\u80FD\u60F3\u5230\u7528",paraId:15,tocIndex:2},{value:"\u4EE3\u7406\u6A21\u5F0F",paraId:15,tocIndex:2},{value:"\uFF0C\u8FD9\u4E2A\u4E5F\u786E\u5B9E\u662F MyBatis \u63D2\u4EF6\u7684\u539F\u7406\u3002",paraId:15,tocIndex:2},{value:"\u7B2C\u4E8C\u4E2A\u95EE\u9898\uFF1A",paraId:16,tocIndex:2},{value:"\u6211\u4EEC\u53EF\u4EE5\u5B9A\u4E49\u5F88\u591A\u7684\u63D2\u4EF6\uFF0C\u90A3\u4E48\u8FD9\u79CD\u6240\u6709\u7684\u63D2\u4EF6\u4F1A\u5F62\u6210\u4E00\u4E2A\u94FE\u8DEF\uFF0C\u6BD4\u5982\u6211\u4EEC\u63D0\u4EA4\u4E00\u4E2A\u4F11\u5047\u7533\u8BF7\uFF0C\u5148\u662F\u9879\u76EE\u7ECF\u7406\u5BA1\u6279\uFF0C\u7136\u540E\u662F\u90E8\u95E8\u7ECF\u7406\u5BA1\u6279\uFF0C\u518D\u662F HR \u5BA1\u6279\uFF0C\u518D\u5230\u603B\u7ECF\u7406\u5BA1\u6279\uFF0C",paraId:17,tocIndex:2},{value:"\u600E\u4E48\u5B9E\u73B0\u5C42\u5C42\u7684\u62E6\u622A\uFF1F",paraId:17,tocIndex:2},{value:"\u7B54\u6848\uFF1A\u63D2\u4EF6\u662F\u5C42\u5C42\u62E6\u622A\u7684\uFF0C\u6211\u4EEC\u53C8\u9700\u8981\u7528\u5230\u53E6\u4E00\u79CD\u8BBE\u8BA1\u6A21\u5F0F \u2014\u2014 ",paraId:18,tocIndex:2},{value:"\u8D23\u4EFB\u94FE\u6A21\u5F0F",paraId:18,tocIndex:2},{value:"\u5728\u4E4B\u524D\u7684\u6E90\u7801\u4E2D\u6211\u4EEC\u4E5F\u53D1\u73B0\u4E86\uFF0Cmybatis \u5185\u90E8\u5BF9\u4E8E\u63D2\u4EF6\u7684\u5904\u7406\u786E\u5B9E\u4F7F\u7528\u7684\u4EE3\u7406\u6A21\u5F0F\uFF0C\u65E2\u7136\u662F\u4EE3\u7406\u6A21\u5F0F\uFF0C\u6211\u4EEC\u5E94\u8BE5\u4E86\u89E3 MyBatis \u5141\u8BB8\u54EA\u4E9B\u5BF9\u8C61\u7684\u54EA\u4E9B\u65B9\u6CD5\u5141\u8BB8\u88AB\u62E6\u622A\uFF0C\u5E76\u4E0D\u662F\u6BCF\u4E00\u4E2A\u8FD0\u884C\u7684\u8282\u70B9\u90FD\u662F\u53EF\u4EE5\u88AB\u4FEE\u6539\u7684\u3002",paraId:19,tocIndex:2},{value:"\u53EA\u6709\u6E05\u695A\u4E86\u8FD9\u4E9B\u5BF9\u8C61\u7684\u65B9\u6CD5\u7684\u4F5C\u7528\uFF0C\u5F53\u6211\u4EEC\u81EA\u5DF1\u7F16\u5199\u63D2\u4EF6\u7684\u65F6\u5019\u624D\u77E5\u9053\u4ECE\u54EA\u91CC\u53BB\u62E6\u622A\u3002",paraId:20,tocIndex:2},{value:"Executor \u4F1A\u62E6\u622A\u5230 CachingExcecutor \u6216\u8005 BaseExecutor\u3002",paraId:21,tocIndex:2},{value:"\u56E0\u4E3A\u521B\u5EFA Executor \u65F6\u662F\u5148\u521B\u5EFA CachingExcecutor\uFF0C\u518D\u5305\u88C5\u62E6\u622A\u3002\u4ECE\u4EE3\u7801\u987A\u5E8F\u4E0A\u80FD\u770B\u5230\u3002\u6211\u4EEC\u53EF\u4EE5\u901A\u8FC7 mybatis \u7684\u5206\u9875\u63D2\u4EF6\u6765\u770B\u770B\u6574\u4E2A\u63D2\u4EF6\u4ECE\u5305\u88C5\u62E6\u622A\u5668\u94FE\u5230\u6267\u884C\u62E6\u622A\u5668\u94FE\u7684\u8FC7\u7A0B\u3002",paraId:22,tocIndex:2},{value:"\u5728\u67E5\u770B\u63D2\u4EF6\u539F\u7406\u7684\u524D\u63D0\u4E0A\uFF0C\u6211\u4EEC\u9700\u8981\u6765\u770B\u770B\u5B98\u7F51\u5BF9\u4E8E\u81EA\u5B9A\u4E49\u63D2\u4EF6\u662F\u600E\u4E48\u6765\u505A\u7684\uFF0C\u5B98\u7F51\u4E0A\u6709\u4ECB\u7ECD\uFF1A\u901A\u8FC7 MyBatis \u63D0\u4F9B\u7684\u5F3A\u5927\u673A\u5236\uFF0C\u4F7F\u7528\u63D2\u4EF6\u662F\u975E\u5E38\u7B80\u5355\u7684\uFF0C",paraId:23,tocIndex:2},{value:"\u53EA\u9700\u5B9E\u73B0 Interceptor \u63A5\u53E3\uFF0C\u5E76\u6307\u5B9A\u60F3\u8981\u62E6\u622A\u7684\u65B9\u6CD5\u7B7E\u540D\u5373\u53EF",paraId:23,tocIndex:2},{value:"\u3002",paraId:23,tocIndex:2},{value:"\u5728 Springboot \u4E2D\u96C6\u6210\uFF0C\u540C\u65F6\u5F15\u5165\u4E86 pagehelper-spring-boot-starter \u5BFC\u81F4 RowBounds \u53C2\u6570\u7684\u503C\u88AB\u5237\u6389\u4E86\uFF0C\u4E5F\u5C31\u662F\u8D70\u5230\u4E86\u6211\u7684\u62E6\u622A\u5176\u4E2D\u6CA1\u6709\u88AB\u8BBE\u7F6E\u503C\uFF0C\u8FD9\u91CC\u9700\u8981\u6CE8\u610F\uFF0C\u62E6\u622A\u5668\u51FA\u4E86\u95EE\u9898\uFF0C\u53EF\u4EE5 Debug \u770B\u4E00\u4E0B Configuration \u914D\u7F6E\u7C7B\u4E2D\u62E6\u622A\u5668\u94FE\u7684\u5305\u88C5\u60C5\u51B5\u3002",paraId:24,tocIndex:2},{value:"\u81EA\u5B9A\u4E49\u5206\u9875\u63D2\u4EF6",paraId:8},{value:`@Intercepts({
+        @Signature(type = Executor.class,method = "query" ,args ={MappedStatement.class, Object.class, RowBounds.class, ResultHandler.class} ), // \u9700\u8981\u4EE3\u7406\u7684\u5BF9\u8C61\u548C\u65B9\u6CD5
+        @Signature(type = Executor.class,method = "query" ,args ={MappedStatement.class, Object.class, RowBounds.class, ResultHandler.class, CacheKey.class, BoundSql.class} ) // \u9700\u8981\u4EE3\u7406\u7684\u5BF9\u8C61\u548C\u65B9\u6CD5
+})
+public class MyPageInterceptor implements Interceptor {
+ 
+    @Override
+    public Object intercept(Invocation invocation) throws Throwable {
+        System.out.println("\u7B80\u6613\u7248\u7684\u5206\u9875\u63D2\u4EF6\uFF1A\u903B\u8F91\u5206\u9875\u6539\u6210\u7269\u7406\u5206\u9875");
+ 
+        // \u4FEE\u6539sql \u62FC\u63A5Limit 0,10
+        Object[] args = invocation.getArgs();
+        // MappedStatement \u5BF9mapper\u6620\u5C04\u6587\u4EF6\u91CC\u9762\u5143\u7D20\u7684\u5C01\u88C5
+        MappedStatement ms= (MappedStatement) args[0];
+        // BoundSql \u5BF9sql\u548C\u53C2\u6570\u7684\u5C01\u88C5
+        Object parameterObject=args[1];
+        BoundSql boundSql = ms.getBoundSql(parameterObject);
+        // RowBounds \u5C01\u88C5\u4E86\u903B\u8F91\u5206\u9875\u7684\u53C2\u6570 \uFF1A\u5F53\u524D\u9875offset\uFF0C\u4E00\u9875\u6570limit
+        RowBounds rowBounds= (RowBounds) args[2];
+ 
+        // \u62FF\u5230\u539F\u6765\u7684sql\u8BED\u53E5
+        String sql = boundSql.getSql();
+        String limitSql=sql+ " limit "+rowBounds.getOffset()+","+ rowBounds.getLimit();
+ 
+        //\u5C06\u5206\u9875sql\u91CD\u65B0\u5C01\u88C5\u4E00\u4E2ABoundSql \u8FDB\u884C\u540E\u7EED\u6267\u884C
+        BoundSql pageBoundSql = new BoundSql(ms.getConfiguration(), limitSql, boundSql.getParameterMappings(), parameterObject);
+ 
+        // \u88AB\u4EE3\u7406\u7684\u5BF9\u8C61
+        Executor executor= (Executor) invocation.getTarget();
+        CacheKey cacheKey = executor.createCacheKey(ms, parameterObject, rowBounds, pageBoundSql);
+        // \u8C03\u7528\u4FEE\u6539\u8FC7\u540E\u7684sql\u7EE7\u7EED\u6267\u884C\u67E5\u8BE2
+        return  executor.query(ms,parameterObject,rowBounds, (ResultHandler) args[3],cacheKey,pageBoundSql);
+    }
+}
+`,paraId:25,tocIndex:3},{value:"\u62E6\u622A\u7B7E\u540D\u8DDF\u53C2\u6570\u7684\u987A\u5E8F\u6709\u4E25\u683C\u8981\u6C42\uFF0C\u5982\u679C\u6309\u7167\u987A\u5E8F\u627E\u4E0D\u5230\u5BF9\u5E94\u65B9\u6CD5\u4F1A\u629B\u51FA\u5F02\u5E38\uFF1A",paraId:26,tocIndex:3},{value:`org.apache.ibatis.exceptions.PersistenceException:
+### Error opening session.  Cause: org.apache.ibatis.plugin.PluginException: 
+Could not find method on interface org.apache.ibatis.executor.Executor named query
+`,paraId:27,tocIndex:3},{value:"MyBatis \u542F\u52A8\u65F6\u626B\u63CF ",paraId:28,tocIndex:3},{value:"<plugins>",paraId:28,tocIndex:3},{value:" \u6807\u7B7E\uFF0C \u6CE8\u518C\u5230 Configuration \u5BF9\u8C61\u7684 InterceptorChain \u4E2D\u3002property \u91CC\u9762\u7684\u53C2\u6570\uFF0C\u4F1A\u8C03\u7528 ",paraId:28,tocIndex:3},{value:"setProperties () ",paraId:28,tocIndex:3},{value:"\u65B9\u6CD5\u5904\u7406\u3002",paraId:28,tocIndex:3},{value:"\u6DFB\u52A0 pom \u4F9D\u8D56\uFF1A",paraId:29,tocIndex:4},{value:`<dependency>
+	<groupId>com.github.pagehelper</groupId>
+	<artifactId>pagehelper</artifactId>
+	<version>1.2.15</version>
+</dependency>
+`,paraId:30,tocIndex:4},{value:"\u63D2\u4EF6\u6CE8\u518C\uFF0C\u5728 mybatis-config.xml \u4E2D\u6CE8\u518C\u63D2\u4EF6:",paraId:31,tocIndex:4},{value:`<configuration>
+	<plugins>
+		<!-- com.github.pagehelper\u4E3APageHelper\u7C7B\u6240\u5728\u5305\u540D -->
+		<plugin interceptor="com.github.pagehelper.PageHelper">
+			<property name="helperDialect" value="mysql" />
+			<!-- \u8BE5\u53C2\u6570\u9ED8\u8BA4\u4E3Afalse -->
+			<!-- \u8BBE\u7F6E\u4E3Atrue\u65F6\uFF0C\u4F1A\u5C06RowBounds\u7B2C\u4E00\u4E2A\u53C2\u6570offset\u5F53\u6210pageNum\u9875\u7801\u4F7F\u7528 -->
+			<!-- \u548CstartPage\u4E2D\u7684pageNum\u6548\u679C\u4E00\u6837 -->
+			<property name="offsetAsPageNum" value="true" />
+			<!-- \u8BE5\u53C2\u6570\u9ED8\u8BA4\u4E3Afalse -->
+			<!-- \u8BBE\u7F6E\u4E3Atrue\u65F6\uFF0C\u4F7F\u7528RowBounds\u5206\u9875\u4F1A\u8FDB\u884Ccount\u67E5\u8BE2 -->
+			<property name="rowBoundsWithCount" value="true" />
+			<!-- \u8BBE\u7F6E\u4E3Atrue\u65F6\uFF0C\u5982\u679CpageSize=0\u6216\u8005RowBounds.limit = 0\u5C31\u4F1A\u67E5\u8BE2\u51FA\u5168\u90E8\u7684\u7ED3\u679C -->
+			<!-- \uFF08\u76F8\u5F53\u4E8E\u6CA1\u6709\u6267\u884C\u5206\u9875\u67E5\u8BE2\uFF0C\u4F46\u662F\u8FD4\u56DE\u7ED3\u679C\u4ECD\u7136\u662FPage\u7C7B\u578B\uFF09 -->
+			<property name="pageSizeZero" value="true" />
+			<!-- 3.3.0\u7248\u672C\u53EF\u7528 - \u5206\u9875\u53C2\u6570\u5408\u7406\u5316\uFF0C\u9ED8\u8BA4false\u7981\u7528 -->
+			<!-- \u542F\u7528\u5408\u7406\u5316\u65F6\uFF0C\u5982\u679CpageNum<1\u4F1A\u67E5\u8BE2\u7B2C\u4E00\u9875\uFF0C\u5982\u679CpageNum>pages\u4F1A\u67E5\u8BE2\u6700\u540E\u4E00\u9875 -->
+			<!-- \u7981\u7528\u5408\u7406\u5316\u65F6\uFF0C\u5982\u679CpageNum<1\u6216pageNum>pages\u4F1A\u8FD4\u56DE\u7A7A\u6570\u636E -->
+			<property name="reasonable" value="true" />
+			<!-- 3.5.0\u7248\u672C\u53EF\u7528 - \u4E3A\u4E86\u652F\u6301startPage(Object params)\u65B9\u6CD5 -->
+			<!-- \u589E\u52A0\u4E86\u4E00\u4E2A\`params\`\u53C2\u6570\u6765\u914D\u7F6E\u53C2\u6570\u6620\u5C04\uFF0C\u7528\u4E8E\u4ECEMap\u6216ServletRequest\u4E2D\u53D6\u503C -->
+			<!-- \u53EF\u4EE5\u914D\u7F6EpageNum,pageSize,count,pageSizeZero,reasonable,\u4E0D\u914D\u7F6E\u6620\u5C04\u7684\u7528\u9ED8\u8BA4\u503C -->
+			<!-- \u4E0D\u7406\u89E3\u8BE5\u542B\u4E49\u7684\u524D\u63D0\u4E0B\uFF0C\u4E0D\u8981\u968F\u4FBF\u590D\u5236\u8BE5\u914D\u7F6E -->
+			<property name="params" value="pageNum=start;pageSize=limit;" />
+		</plugin>
+	</plugins>
+</configuration>
+`,paraId:32,tocIndex:4},{value:"\u8C03\u7528",paraId:33,tocIndex:4},{value:`// \u83B7\u53D6\u914D\u7F6E\u6587\u4EF6
+InputStream inputStream = Resources.getResourceAsStream("mybatis/mybatis-config.xml");
+// \u901A\u8FC7\u52A0\u8F7D\u914D\u7F6E\u6587\u4EF6\u83B7\u53D6SqlSessionFactory\u5BF9\u8C61
+SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(inputStream);
+try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
+    // Mybatis\u5728getMapper\u5C31\u4F1A\u7ED9\u6211\u4EEC\u521B\u5EFAjdk\u52A8\u6001\u4EE3\u7406
+    EmpMapper mapper = sqlSession.getMapper(EmpMapper.class);
+    PageHelper.startPage(1, 5);
+    List<Emp> list=mapper.selectAll(); 
+    PageInfo<ServiceStation> info = new PageInfo<ServiceStation>(list, 3);                   
+          System.out.println("\u5F53\u524D\u9875\u7801\uFF1A"+info.getPageNum());
+          System.out.println("\u6BCF\u9875\u7684\u8BB0\u5F55\u6570\uFF1A"+info.getPageSize());
+          System.out.println("\u603B\u8BB0\u5F55\u6570\uFF1A"+info.getTotal());
+          System.out.println("\u603B\u9875\u7801\uFF1A"+info.getPages());
+          System.out.println("\u662F\u5426\u7B2C\u4E00\u9875\uFF1A"+info.isIsFirstPage());
+          System.out.println("\u8FDE\u7EED\u663E\u793A\u7684\u9875\u7801\uFF1A");
+          int[] nums = info.getNavigatepageNums();
+          for (int i = 0; i < nums.length; i++) {
+               System.out.println(nums[i]);
+          }     
+}  
+`,paraId:34,tocIndex:4},{value:"\u4E0A\u9762\u63D0\u5230\u7684\u53EF\u4EE5\u88AB\u4EE3\u7406\u7684\u56DB\u5927\u5BF9\u8C61\u90FD\u662F\u4EC0\u4E48\u65F6\u5019\u88AB\u4EE3\u7406\u7684\u5462\uFF1F",paraId:35,tocIndex:5},{value:"Executor \u662F openSession () \u7684\u65F6\u5019\u521B\u5EFA\u7684",paraId:36,tocIndex:5},{value:"StatementHandler \u662F SimpleExecutor.doQuery () \u521B\u5EFA\u7684",paraId:36,tocIndex:5},{value:"\u91CC\u9762\u5305\u542B\u4E86\u5904\u7406\u53C2\u6570\u7684 ParameterHandler \u548C\u5904\u7406\u7ED3\u679C\u96C6\u7684 ResultSetHandler \u7684\u521B\u5EFA\uFF0C\u521B\u5EFA\u4E4B\u540E\u5373\u8C03\u7528 InterceptorChain.pluginAll ()\uFF0C\u8FD4\u56DE\u5C42\u5C42\u4EE3\u7406\u540E\u7684\u5BF9\u8C61\u4EE3\u7406\u662F\u7531 Plugin \u7C7B\u521B\u5EFA\u3002\u5728\u6211\u4EEC\u91CD\u5199\u7684 plugin () \u65B9\u6CD5\u91CC\u9762\u53EF\u4EE5\u76F4\u63A5\u8C03\u7528 returnPlugin.wrap (target, this); \u8FD4\u56DE\u4EE3\u7406\u5BF9\u8C61\u3002",paraId:36,tocIndex:5},{value:"\u5355\u4E2A\u63D2\u4EF6\u7684\u60C5\u51B5\u4E0B\uFF0C\u4EE3\u7406\u80FD\u4E0D\u80FD\u88AB\u4EE3\u7406\uFF1F\u4EE3\u7406\u987A\u5E8F\u548C\u8C03\u7528\u987A\u5E8F\u7684\u5173\u7CFB\uFF1F \u53EF\u4EE5\u88AB\u4EE3\u7406\u3002",paraId:37,tocIndex:5},{value:"\u56E0\u4E3A\u4EE3\u7406\u7C7B\u662F Plugin\uFF0C\u6240\u4EE5\u6700\u540E\u8C03\u7528\u7684\u662F Plugin \u7684 invoke () \u65B9\u6CD5\u3002\u5B83\u5148\u8C03\u7528\u4E86\u5B9A\u4E49\u7684\u62E6\u622A\u5668\u7684 intercept () \u65B9\u6CD5\u3002\u53EF\u4EE5\u901A\u8FC7 invocation.proceed () \u8C03\u7528\u5230\u88AB\u4EE3\u7406\u5BF9\u8C61\u88AB\u62E6\u622A\u7684\u65B9\u6CD5\u3002",paraId:38,tocIndex:5},{value:"\u8C03\u7528\u6D41\u7A0B\u65F6\u5E8F\u56FE\uFF1A",paraId:39,tocIndex:5},{value:"PageHelper \u539F\u7406",paraId:8},{value:"\u5148\u6765\u770B\u4E00\u4E0B\u5206\u9875\u63D2\u4EF6\u7684\u7B80\u5355\u7528\u6CD5\uFF1A",paraId:40,tocIndex:6},{value:`PageHelper.startPage(1, 3);
+List<Blog> blogs = blogMapper.selectBlogById2(blog);
+PageInfo page = new PageInfo(blogs, 3);
+`,paraId:41,tocIndex:6},{value:"\u5BF9\u4E8E\u63D2\u4EF6\u673A\u5236\u6211\u4EEC\u4E0A\u9762\u5DF2\u7ECF\u4ECB\u7ECD\u8FC7\u4E86\uFF0C\u5728\u8FD9\u91CC\u6211\u4EEC\u81EA\u7136\u7684\u4F1A\u60F3\u5230\u5176\u6240\u6D89\u53CA\u7684\u6838\u5FC3\u7C7B \uFF1A",paraId:42,tocIndex:6},{value:"PageInterceptor",paraId:42,tocIndex:6},{value:"\u62E6\u622A\u7684\u662F Executor \u7684\u4E24\u4E2A query () \u65B9\u6CD5\uFF0C\u8981\u5B9E\u73B0\u5206\u9875\u63D2\u4EF6\u7684\u529F\u80FD\uFF0C\u80AF\u5B9A\u662F\u8981\u5BF9\u6211\u4EEC\u5199\u7684 sql \u8FDB\u884C\u6539\u5199\uFF0C\u90A3\u4E48\u4E00\u5B9A\u662F\u5728 intercept \u65B9\u6CD5\u4E2D\u8FDB\u884C\u64CD\u4F5C\u7684\uFF0C\u6211\u4EEC\u4F1A\u53D1\u73B0\u8FD9\u4E48\u4E00\u884C\u4EE3\u7801\uFF1A",paraId:43,tocIndex:6},{value:`String pageSql = this.dialect.getPageSql(ms, boundSql, parameter, rowBounds, cacheKey);
+`,paraId:44,tocIndex:6},{value:"\u8C03\u7528\u5230 AbstractHelperDialect \u4E2D\u7684 getPageSql \u65B9\u6CD5\uFF1A",paraId:45,tocIndex:6},{value:`public String getPageSql(MappedStatement ms, BoundSql boundSql, Object parameterObject, RowBounds rowBounds, CacheKey pageKey) {
+	// \u83B7\u53D6sql
+	String sql = boundSql.getSql();
+	//\u83B7\u53D6\u5206\u9875\u53C2\u6570\u5BF9\u8C61
+	Page page = this.getLocalPage();
+	return this.getPageSql(sql, page, pageKey);
+}
+`,paraId:46,tocIndex:6},{value:"\u8FD9\u91CC\u53EF\u4EE5\u770B\u5230\u4F1A\u53BB\u8C03\u7528 this.getLocalPage ()\uFF0C\u6211\u4EEC\u6765\u770B\u770B\u8FD9\u4E2A\u65B9\u6CD5\uFF1A",paraId:47,tocIndex:6},{value:`public <T> Page<T> getLocalPage() {
+\u3000\u3000return PageHelper.getLocalPage();
+}
+//\u7EBF\u7A0B\u72EC\u4EAB
+protected static final ThreadLocal<Page> LOCAL_PAGE = new ThreadLocal();
+public static <T> Page<T> getLocalPage() {
+\u3000\u3000return (Page)LOCAL_PAGE.get();
+}
+`,paraId:48,tocIndex:6},{value:"\u53EF\u4EE5\u53D1\u73B0\u8FD9\u91CC\u662F\u8C03\u7528\u7684\u662F PageHelper \u7684\u4E00\u4E2A\u672C\u5730\u7EBF\u7A0B\u53D8\u91CF\u4E2D\u7684\u4E00\u4E2A Page \u5BF9\u8C61\uFF0C\u4ECE\u5176\u4E2D\u83B7\u53D6\u6211\u4EEC\u6240\u8BBE\u7F6E\u7684 PageSize \u4E0E PageNum\uFF0C\u90A3\u4E48\u4ED6\u662F\u600E\u4E48\u8BBE\u7F6E\u503C\u7684\u5462\uFF1F\u8BF7\u770B\uFF1A",paraId:49,tocIndex:6},{value:`PageHelper.startPage(1, 3);
+ 
+public static <E> Page<E> startPage(int pageNum, int pageSize) {
+    return startPage(pageNum, pageSize, true);
+}
+
+public static <E> Page<E> startPage(int pageNum, int pageSize, boolean count, Boolean reasonable, Boolean pageSizeZero) {
+    Page<E> page = new Page(pageNum, pageSize, count);
+    page.setReasonable(reasonable);
+    page.setPageSizeZero(pageSizeZero);
+    Page<E> oldPage = getLocalPage();
+    if (oldPage != null && oldPage.isOrderByOnly()) {
+        page.setOrderBy(oldPage.getOrderBy());
+    }
+    //\u8BBE\u7F6E\u9875\u6570\uFF0C\u884C\u6570\u4FE1\u606F
+    setLocalPage(page);
+    return page;
+}
+
+protected static void setLocalPage(Page page) {
+    //\u8BBE\u7F6E\u503C
+    LOCAL_PAGE.set(page);
+}
+`,paraId:50,tocIndex:6},{value:"\u5728\u6211\u4EEC\u8C03\u7528 PageHelper.startPage (1, 3); \u7684\u65F6\u5019\uFF0C\u7CFB\u7EDF\u4F1A\u8C03\u7528",paraId:51,tocIndex:6},{value:"LOCAL_PAGE.set (page)",paraId:51,tocIndex:6},{value:"\u8FDB\u884C\u8BBE\u7F6E\uFF0C\u4ECE\u800C\u5728\u5206\u9875\u63D2\u4EF6\u4E2D\u53EF\u4EE5\u83B7\u53D6\u5230\u8FD9\u4E2A\u672C\u5730\u53D8\u91CF\u5BF9\u8C61\u4E2D\u7684\u53C2\u6570\u8FDB\u884C SQL \u7684\u6539\u5199\uFF0C\u7531\u4E8E\u6539\u5199\u6709\u5F88\u591A\u5B9E\u73B0\uFF0C\u6211\u4EEC\u8FD9\u91CC\u7528\u7684 Mysql \u7684\u5B9E\u73B0\uFF1A",paraId:51,tocIndex:6},{value:"\u5728\u8FD9\u91CC\u6211\u4EEC\u4F1A\u53D1\u73B0\u5206\u9875\u63D2\u4EF6\u6539\u5199 SQL \u7684\u6838\u5FC3\u4EE3\u7801\uFF1A",paraId:52,tocIndex:6},{value:`public String getPageSql(String sql, Page page, CacheKey pageKey) {
+    StringBuilder sqlBuilder = new StringBuilder(sql.length() + 14);
+    sqlBuilder.append(sql);
+    if (page.getStartRow() == 0) {
+        sqlBuilder.append(" LIMIT ");
+        sqlBuilder.append(page.getPageSize());
+    } else {
+        sqlBuilder.append(" LIMIT ");
+        sqlBuilder.append(page.getStartRow());
+        sqlBuilder.append(",");
+        sqlBuilder.append(page.getPageSize());
+        pageKey.update(page.getStartRow());
+    }
+    pageKey.update(page.getPageSize());
+    return sqlBuilder.toString();
+}
+`,paraId:53,tocIndex:6},{value:"PageHelper \u5C31\u662F\u8FD9\u4E48\u4E00\u6B65\u4E00\u6B65\u7684\u6539\u5199\u4E86\u6211\u4EEC\u7684 SQL \u4ECE\u800C\u8FBE\u5230\u4E00\u4E2A\u5206\u9875\u7684\u6548\u679C\u3002",paraId:54,tocIndex:6},{value:"\u5173\u952E\u7C7B\u603B\u7ED3\uFF1A",paraId:55,tocIndex:6},{value:"MyBatis \u9006\u5411\u5DE5\u7A0B",paraId:8},{value:"\u5F15\u5165 pom \u4F9D\u8D56",paraId:56,tocIndex:7},{value:`<dependency>
+    <groupId>org.mybatis.generator</groupId>
+    <artifactId>mybatis-generator-core</artifactId>
+    <version>1.4.0</version>
+</dependency>
+`,paraId:57,tocIndex:7},{value:"\u7F16\u5199\u914D\u7F6E\u6587\u4EF6\uFF1A",paraId:58,tocIndex:7},{value:`<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+  PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+  "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+ 
+<generatorConfiguration>
+<!-- \u6307\u5B9A\u6570\u636E\u5E93\u9A71\u52A8
+	\u7528java\u4EE3\u7801\u7684\u65B9\u5F0F\u751F\u6210\u53EF\u4EE5\u4E0D\u6307\u5B9A\uFF08\u53EA\u9700\u8981\u5427mybatis-generator\u548C\u6570\u636E\u5E93\u9A71\u52A8\u4F9D\u8D56\u5230\u9879\u76EE\uFF09
+ 
+  <classPathEntry location ="F:/java/jar/mysql-connector-java-5.1.22-bin.jar" /> -->
+  
+  <!-- targetRuntime
+  	MyBatis3  \u53EF\u4EE5\u751F\u6210\u901A\u7528\u67E5\u8BE2\uFF0C\u53EF\u4EE5\u6307\u5B9A\u52A8\u6001where\u6761\u4EF6
+    MyBatis3Simple \u53EA\u751F\u6210CURD
+   -->
+  <context id="DB2Tables" targetRuntime="MyBatis3">
+  
+  <!-- \u5173\u4E8E\u6CE8\u91CA\u7684\u751F\u6210\u89C4\u5219 -->
+	<commentGenerator>
+	<!-- \u8BBE\u7F6E\u4E0D\u751F\u6210\u6CE8\u91CA -->
+		<property name="suppressAllComments" value="true"/>
+	</commentGenerator>
+	
+  <!-- \u6570\u636E\u5E93\u7684\u8FDE\u63A5\u4FE1\u606F -->
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+        connectionURL="jdbc:mysql://localhost:3306/bookstore"
+        userId="root"
+        password="root">
+    </jdbcConnection>
+ 
+<!-- java\u7C7B\u578B\u751F\u6210\u65B9\u5F0F -->
+    <javaTypeResolver >
+    <!-- forceBigDecimals 
+	    	true \u5F53\u6570\u636E\u5E93\u7C7B\u578B\u4E3Adecimal \u6216number \u751F\u6210\u5BF9\u5E94\u7684java\u7684BigDecimal
+	    	false \u4F1A\u6839\u636E\u53EF\u6570\u636E\u7684\u6570\u503C\u957F\u5EA6\u751F\u6210\u4E0D\u540C\u7684\u5BF9\u5E94java\u7C7B\u578B
+	    useJSR310Types
+	        false \u6240\u6709\u6570\u636E\u5E93\u7684\u65E5\u671F\u7C7B\u578B\u90FD\u4F1A\u751F\u6210java\u7684 Date\u7C7B\u578B	
+	        true  \u4F1A\u5C06\u6570\u636E\u5E93\u7684\u65E5\u671F\u7C7B\u578B\u751F\u6210\u5BF9\u5E94\u7684JSR310\u7684\u65E5\u671F\u7C7B\u578B
+	        		\u6BD4\u5982 mysql\u7684\u6570\u636E\u5E93\u7C7B\u578B\u662Fdate===>LocalDate
+	        		\u5FC5\u987Bjdk\u662F1.8\u4EE5\u4E0A
+    -->
+      <property name="forceBigDecimals" value="false" />
+    </javaTypeResolver>
+ 
+	<!-- pojo\u7684\u751F\u6210\u89C4\u5219 -->
+    <javaModelGenerator  
+    	targetPackage="cn.tuling.pojo" targetProject="./src/main/java">
+      <property name="enableSubPackages" value="true" />
+      <property name="trimStrings" value="true" />
+    </javaModelGenerator>
+ 
+	<!-- sql\u6620\u5C04\u6587\u4EF6\u7684\u751F\u6210\u89C4\u5219 -->
+    <sqlMapGenerator targetPackage="cn.tuling.mapper"  targetProject="./src/main/resources">
+      <property name="enableSubPackages" value="true" />
+    </sqlMapGenerator>
+ 
+	<!-- dao\u7684\u63A5\u53E3\u751F\u6210\u89C4\u5219 UserMapper-->
+    <javaClientGenerator type="XMLMAPPER" targetPackage="cn.tuling.mapper"  targetProject="./src/main/java">
+      <property name="enableSubPackages" value="true" />
+    </javaClientGenerator>
+ 
+    <table tableName="emp" domainObjectName="Emp" mapperName="EmpMapper" ></table>
+ 	<table tableName="dept" domainObjectName="Dept" mapperName="DeptMapper" ></table>
+ 
+  </context>
+</generatorConfiguration>
+`,paraId:59,tocIndex:7},{value:"\u7F16\u5199\u6D4B\u8BD5\u7C7B",paraId:60,tocIndex:7},{value:`public class MBGTest {
+    @Test
+    public void test01() throws Exception {
+        List<String> warnings = new ArrayList<String>();
+        boolean overwrite = true;
+        File configFile = new File("generatorConfig.xml");
+        ConfigurationParser cp = new ConfigurationParser(warnings);
+        Configuration config = cp.parseConfiguration(configFile);
+        DefaultShellCallback callback = new DefaultShellCallback(overwrite);
+        MyBatisGenerator myBatisGenerator = new MyBatisGenerator(config, callback, warnings);
+        myBatisGenerator.generate(null);
+    }
+}
+`,paraId:61,tocIndex:7},{value:"\u8C03\u7528",paraId:62,tocIndex:7},{value:`/**
+ * Mybatis3Simple\u751F\u6210\u8C03\u7528
+ */
+@Test
+public void test01() {
+    try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
+        // Mybatis\u5728getMapper\u5C31\u4F1A\u7ED9\u6211\u4EEC\u521B\u5EFAjdk\u52A8\u6001\u4EE3\u7406
+        EmpMapper mapper = sqlSession.getMapper(EmpMapper.class);
+        Emp emp = mapper.selectByPrimaryKey(4);
+        System.out.println(emp);
+    }
+}
+ 
+/**
+ * Mybatis3\u751F\u6210\u8C03\u7528\u65B9\u5F0F
+ */
+@Test
+public void test02() {
+    try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
+        // Mybatis\u5728getMapper\u5C31\u4F1A\u7ED9\u6211\u4EEC\u521B\u5EFAjdk\u52A8\u6001\u4EE3\u7406
+        EmpMapper mapper = sqlSession.getMapper(EmpMapper.class);
+ 
+        // \u4F7F\u7528Example\u5B9E\u73B0\u52A8\u6001\u6761\u4EF6\u8BED\u53E5
+        EmpExample empExample=new EmpExample();
+        EmpExample.Criteria criteria = empExample.createCriteria();
+        criteria.andUserNameLike("%\u5E05%")
+                .andIdEqualTo(4);
+ 
+        List<Emp> emps = mapper.selectByExample(empExample);
+        System.out.println(emps);
+    }
+}
+`,paraId:63,tocIndex:7}]},33053:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4ECB\u7ECD",paraId:0},{value:"MyBatis \u5185\u7F6E\u4E86\u4E00\u4E2A\u5F3A\u5927\u7684\u4E8B\u52A1\u6027\u67E5\u8BE2\u7F13\u5B58\u673A\u5236\uFF0C\u5B83\u53EF\u4EE5\u975E\u5E38\u65B9\u4FBF\u5730\u914D\u7F6E\u548C\u5B9A\u5236\u3002 \u4E3A\u4E86\u4F7F\u5B83\u66F4\u52A0\u5F3A\u5927\u800C\u4E14\u6613\u4E8E\u914D\u7F6E\uFF0C\u6211\u4EEC\u5BF9 MyBatis 3 \u4E2D\u7684\u7F13\u5B58\u5B9E\u73B0\u8FDB\u884C\u4E86\u8BB8\u591A\u6539\u8FDB\u3002",paraId:1,tocIndex:1},{value:"\u9ED8\u8BA4\u60C5\u51B5\u4E0B\uFF0C\u53EA\u542F\u7528\u4E86\u672C\u5730\u7684\u4F1A\u8BDD\u7F13\u5B58\uFF0C\u5B83\u4EC5\u4EC5\u5BF9\u4E00\u4E2A\u4F1A\u8BDD\u4E2D\u7684\u6570\u636E\u8FDB\u884C\u7F13\u5B58",paraId:2,tocIndex:1},{value:"\u8981\u542F\u7528\u5168\u5C40\u7684\u4E8C\u7EA7\u7F13\u5B58\uFF0C\u53EA\u9700\u8981\u5728\u4F60\u7684 SQL \u6620\u5C04\u6587\u4EF6\u4E2D\u6DFB\u52A0\u4E00\u884C\uFF1A",paraId:3,tocIndex:1},{value:`<cache/>
+`,paraId:4,tocIndex:1},{value:"\u5F53\u6DFB\u52A0\u4E0A\u8BE5\u6807\u7B7E\u4E4B\u540E\uFF0C\u4F1A\u6709\u5982\u4E0B\u6548\u679C\uFF1A",paraId:5,tocIndex:1},{value:"\u6620\u5C04\u8BED\u53E5\u6587\u4EF6\u4E2D\u7684\u6240\u6709 select \u8BED\u53E5\u7684\u7ED3\u679C\u5C06\u4F1A\u88AB\u7F13\u5B58\u3002",paraId:6,tocIndex:1},{value:"\u6620\u5C04\u8BED\u53E5\u6587\u4EF6\u4E2D\u7684\u6240\u6709 insert\u3001update \u548C delete \u8BED\u53E5\u4F1A\u5237\u65B0\u7F13\u5B58\u3002",paraId:7,tocIndex:1},{value:"\u7F13\u5B58\u4F1A\u4F7F\u7528\u6700\u8FD1\u6700\u5C11\u4F7F\u7528\u7B97\u6CD5\uFF08",paraId:8,tocIndex:1},{value:"LRU",paraId:8,tocIndex:1},{value:", Least Recently Used\uFF09\u7B97\u6CD5\u6765\u6E05\u9664\u4E0D\u9700\u8981\u7684\u7F13\u5B58\u3002",paraId:8,tocIndex:1},{value:"\u7F13\u5B58\u4E0D\u4F1A\u5B9A\u65F6\u8FDB\u884C\u5237\u65B0\uFF08\u4E5F\u5C31\u662F\u8BF4\uFF0C\u6CA1\u6709\u5237\u65B0\u95F4\u9694\uFF09\u3002",paraId:9,tocIndex:1},{value:"\u7F13\u5B58\u4F1A\u4FDD\u5B58\u5217\u8868\u6216\u5BF9\u8C61\uFF08\u65E0\u8BBA\u67E5\u8BE2\u65B9\u6CD5\u8FD4\u56DE\u54EA\u79CD\uFF09\u7684 1024 \u4E2A\u5F15\u7528\u3002",paraId:10,tocIndex:1},{value:"\u7F13\u5B58\u4F1A\u88AB\u89C6\u4E3A\u8BFB / \u5199\u7F13\u5B58\uFF0C\u8FD9\u610F\u5473\u7740\u83B7\u53D6\u5230\u7684\u5BF9\u8C61\u5E76\u4E0D\u662F\u5171\u4EAB\u7684\uFF0C\u53EF\u4EE5\u5B89\u5168\u5730\u88AB\u8C03\u7528\u8005\u4FEE\u6539\uFF0C\u800C\u4E0D\u5E72\u6270\u5176\u4ED6\u8C03\u7528\u8005\u6216\u7EBF\u7A0B\u6240\u505A\u7684\u6F5C\u5728\u4FEE\u6539\u3002",paraId:11,tocIndex:1},{value:" ",paraId:11,tocIndex:1},{value:"\u8BFB\u5199\u5206\u79BB\uFF0C\u5B89\u5168",paraId:11,tocIndex:1},{value:"\u5728\u8FDB\u884C\u914D\u7F6E\u7684\u65F6\u5019\u8FD8\u4F1A\u5206\u4E3A\u4E00\u7EA7\u7F13\u5B58\u548C\u4E8C\u7EA7\u7F13\u5B58\uFF1A",paraId:12,tocIndex:1},{value:"\u4E00\u7EA7\u7F13\u5B58\uFF1A",paraId:13,tocIndex:1},{value:"\u7EBF\u7A0B\u7EA7\u522B\u7684\u7F13\u5B58",paraId:13,tocIndex:1},{value:"\uFF0C\u662F\u672C\u5730\u7F13\u5B58\uFF0CsqlSession \u7EA7\u522B\u7684\u7F13\u5B58",paraId:13,tocIndex:1},{value:"\u4E8C\u7EA7\u7F13\u5B58\uFF1A",paraId:14,tocIndex:1},{value:"\u5168\u5C40\u8303\u56F4\u7684\u7F13\u5B58",paraId:14,tocIndex:1},{value:"\uFF0C\u4E0D\u6B62\u5C40\u9650\u4E8E\u5F53\u524D\u4F1A\u8BDD",paraId:14,tocIndex:1},{value:"\u4E00\u7EA7\u7F13\u5B58\u7684\u4F7F\u7528",paraId:0},{value:"\u4E00\u7EA7\u7F13\u5B58\u662F sqlsession \u7EA7\u522B\u7684\u7F13\u5B58\uFF0C\u9ED8\u8BA4\u662F\u5B58\u5728\u7684\u3002",paraId:15,tocIndex:2},{value:"\u5728\u4E0B\u9762\u7684\u6848\u4F8B\u4E2D\uFF0C\u5927\u5BB6\u53D1\u73B0\u6211\u53D1\u9001\u4E86\u4E24\u4E2A\u76F8\u540C\u7684\u8BF7\u6C42\uFF0C\u4F46\u662F sql \u8BED\u53E5\u4EC5\u4EC5\u6267\u884C\u4E86\u4E00\u6B21\uFF0C\u90A3\u4E48\u5C31\u610F\u5473\u7740\u7B2C\u4E00\u6B21\u67E5\u8BE2\u7684\u65F6\u5019\u5DF2\u7ECF\u5C06\u7ED3\u679C\u8FDB\u884C\u4E86\u7F13\u5B58\u3002",paraId:16,tocIndex:2},{value:`@Test
+public void test01() {
+    SqlSession sqlSession = sqlSessionFactory.openSession();
+    try {
+        EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+        List<Emp> list = mapper.selectAllEmp();
+        for (Emp emp : list) {
+            System.out.println(emp);
+        }
+        System.out.println("--------------------------------");
+        List<Emp> list2 = mapper.selectAllEmp();
+        for (Emp emp : list2) {
+            System.out.println(emp);
+        }
+    } catch (Exception e) {
+        e.printStackTrace();
+    } finally {
+        sqlSession.close();
+    }
+}
+`,paraId:17,tocIndex:2},{value:"\u5728\u5927\u90E8\u5206\u7684\u60C5\u51B5\u4E0B\u4E00\u7EA7\u7F13\u5B58\u662F\u53EF\u4EE5\u7684\uFF0C\u4F46\u662F\u6709\u51E0\u79CD\u7279\u6B8A\u7684\u60C5\u51B5\u4F1A\u9020\u6210",paraId:18,tocIndex:2},{value:"\u4E00\u7EA7\u7F13\u5B58\u5931\u6548\uFF1A",paraId:18,tocIndex:2},{value:"\u4E00\u7EA7\u7F13\u5B58\u662F sqlSession \u7EA7\u522B\u7684\u7F13\u5B58\uFF0C\u5982\u679C\u5728\u5E94\u7528\u7A0B\u5E8F\u4E2D\u53EA\u6709\u5F00\u542F\u4E86\u591A\u4E2A sqlsession\uFF0C\u90A3\u4E48\u4F1A\u9020\u6210\u7F13\u5B58\u5931\u6548",paraId:19,tocIndex:2},{value:`@Test
+public void test02(){
+    SqlSession sqlSession = sqlSessionFactory.openSession();
+    EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+    List<Emp> list = mapper.selectAllEmp();
+    for (Emp emp : list) {
+        System.out.println(emp);
+    }
+    System.out.println("================================");
+    SqlSession sqlSession2 = sqlSessionFactory.openSession();
+    EmpDao mapper2 = sqlSession2.getMapper(EmpDao.class);
+    List<Emp> list2 = mapper2.selectAllEmp();
+    for (Emp emp : list2) {
+        System.out.println(emp);
+    }
+    sqlSession.close();
+    sqlSession2.close();
+}
+`,paraId:20,tocIndex:2},{value:"\u5728\u7F16\u5199\u67E5\u8BE2\u7684 sql \u8BED\u53E5\u7684\u65F6\u5019\uFF0C\u4E00\u5B9A\u8981\u6CE8\u610F\u4F20\u9012\u7684\u53C2\u6570\uFF0C",paraId:21,tocIndex:2},{value:"\u5982\u679C\u53C2\u6570\u4E0D\u4E00\u81F4\uFF0C\u90A3\u4E48\u4E5F\u4E0D\u4F1A\u7F13\u5B58\u7ED3\u679C",paraId:21,tocIndex:2},{value:"\u5982\u679C\u5728\u53D1\u9001\u8FC7\u7A0B\u4E2D\u53D1\u751F\u4E86\u6570\u636E\u7684\u4FEE\u6539\uFF0C\u90A3\u4E48\u7ED3\u679C\u5C31\u4E0D\u4F1A\u7F13\u5B58",paraId:22,tocIndex:2},{value:"\u5728\u4E24\u6B21\u67E5\u8BE2\u671F\u95F4\uFF0C",paraId:23,tocIndex:2},{value:"\u624B\u52A8\u53BB\u6E05\u7A7A\u7F13\u5B58\uFF0C\u4E5F\u4F1A\u8BA9\u7F13\u5B58\u5931\u6548",paraId:23,tocIndex:2},{value:"\u7279\u6027",paraId:0},{value:"\u4E00\u7EA7\u7F13\u5B58\u7279",paraId:24,tocIndex:3},{value:"\u9ED8\u8BA4\u5C31\u5F00\u542F\u4E86\uFF0C\u4E5F\u53EF\u4EE5\u5173\u95ED\u4E00\u7EA7\u7F13\u5B58 localCacheScope=STATEMENT",paraId:25,tocIndex:3},{value:"\u4F5C\u7528\u57DF\uFF1A\u662F\u57FA\u4E8EsqlSession\uFF08\u9ED8\u8BA4\uFF09\uFF0C\u4E00\u6B21\u6570\u636E\u5E93\u64CD\u4F5C\u4F1A\u8BDD\u3002",paraId:25,tocIndex:3},{value:"\u7F13\u5B58\u9ED8\u8BA4\u5B9E\u73B0\u7C7BPerpetualCache ,\u4F7F\u7528map\u8FDB\u884C\u5B58\u50A8\u7684",paraId:25,tocIndex:3},{value:"\u67E5\u8BE2\u5B8C\u5C31\u4F1A\u8FDB\u884C\u5B58\u50A8",paraId:25,tocIndex:3},{value:"\u5148\u4ECE\u4E8C\u7EA7\u7F13\u5B58\u4E2D\u83B7\u53D6\uFF0C\u518D\u4ECE\u4E00\u7EA7\u7F13\u5B58\u4E2D\u83B7\u53D6",paraId:25,tocIndex:3},{value:"\u5931\u6548\u60C5\u51B5\uFF1A",paraId:26,tocIndex:3},{value:"\u4E0D\u540C\u7684sqlSession\u4F1A\u4F7F\u4E00\u7EA7\u7F13\u5B58\u5931\u6548",paraId:27,tocIndex:3},{value:"\u540C\u4E00\u4E2ASqlSession\uFF0C\u4F46\u662F\u67E5\u8BE2\u8BED\u53E5\u4E0D\u4E00\u6837",paraId:27,tocIndex:3},{value:"\u540C\u4E00\u4E2ASqlSession\uFF0C\u67E5\u8BE2\u8BED\u53E5\u4E00\u6837\uFF0C\u671F\u95F4\u6267\u884C\u589E\u5220\u6539\u64CD\u4F5C",paraId:27,tocIndex:3},{value:"\u540C\u4E00\u4E2ASqlSession\uFF0C\u67E5\u8BE2\u8BED\u53E5\u4E00\u6837\uFF0C\u6267\u884C\u624B\u52A8\u6E05\u9664\u7F13\u5B58",paraId:27,tocIndex:3},{value:"\u4E8C\u7EA7\u7F13\u5B58\u662F\u5168\u5C40\u4F5C\u7528\u57DF\u7F13\u5B58\uFF0C\u9ED8\u8BA4\u662F\u4E0D\u5F00\u542F\u7684\uFF0C\u9700\u8981\u624B\u52A8\u8FDB\u884C\u914D\u7F6E\u3002",paraId:28,tocIndex:4},{value:"Mybatis \u63D0\u4F9B\u4E8C\u7EA7\u7F13\u5B58\u7684\u63A5\u53E3\u4EE5\u53CA\u5B9E\u73B0\uFF0C\u7F13\u5B58\u5B9E\u73B0\u7684\u65F6\u5019\u8981\u6C42\u5B9E\u4F53\u7C7B\u5B9E\u73B0 Serializable \u63A5\u53E3\uFF0C\u4E8C\u7EA7\u7F13\u5B58\u5728 sqlSession \u5173\u95ED\u6216\u63D0\u4EA4\u4E4B\u540E\u624D\u4F1A\u751F\u6548\u3002",paraId:29,tocIndex:4},{value:"\u6B65\u9AA4\uFF1A",paraId:30,tocIndex:5},{value:"\u5168\u5C40\u914D\u7F6E\u6587\u4EF6\u4E2D\u6DFB\u52A0\u5982\u4E0B\u914D\u7F6E\uFF1A",paraId:31,tocIndex:5},{value:`<setting name="cacheEnabled" value="true"/>
+`,paraId:32,tocIndex:5},{value:"\u9700\u8981\u5728\u4F7F\u7528\u4E8C\u7EA7\u7F13\u5B58\u7684\u6620\u5C04\u6587\u4EF6\u51FA\u4F7F\u7528",paraId:33,tocIndex:5},{value:"<cache/>",paraId:33,tocIndex:5},{value:"\u6807\u7B7E\u6807\u6CE8",paraId:33,tocIndex:5},{value:"\u5B9E\u4F53\u7C7B\u5FC5\u987B\u8981\u5B9E\u73B0 Serializable \u63A5\u53E3",paraId:34,tocIndex:5},{value:`@Test
+   public void test04(){
+       SqlSession sqlSession = sqlSessionFactory.openSession();
+       SqlSession sqlSession2 = sqlSessionFactory.openSession();
+       EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+       EmpDao mapper2 = sqlSession2.getMapper(EmpDao.class);
+       Emp empByEmpno = mapper.findEmpByEmpno(1111);
+       System.out.println(empByEmpno);
+       sqlSession.close();
+
+       Emp empByEmpno1 = mapper2.findEmpByEmpno(1111);
+       System.out.println(empByEmpno1);
+       sqlSession2.close();
+  }
+`,paraId:35,tocIndex:5},{value:"eviction: \u8868\u793A\u7F13\u5B58\u56DE\u6536\u7B56\u7565\uFF0C\u9ED8\u8BA4\u662F LRU",paraId:36,tocIndex:6},{value:"LRU\uFF1A\u6700\u8FD1\u6700\u5C11\u4F7F\u7528\u7684\uFF0C\u79FB\u9664\u6700\u957F\u65F6\u95F4\u4E0D\u88AB\u4F7F\u7528\u7684\u5BF9\u8C61",paraId:37,tocIndex:6},{value:"FIFO\uFF1A\u5148\u8FDB\u5148\u51FA\uFF0C\u6309\u7167\u5BF9\u8C61\u8FDB\u5165\u7F13\u5B58\u7684\u987A\u5E8F\u6765\u79FB\u9664",paraId:37,tocIndex:6},{value:"SOFT\uFF1A\u8F6F\u5F15\u7528\uFF0C\u79FB\u9664\u57FA\u4E8E\u5783\u573E\u56DE\u6536\u5668\u72B6\u6001\u548C\u8F6F\u5F15\u7528\u89C4\u5219\u7684\u5BF9\u8C61",paraId:37,tocIndex:6},{value:"WEAK\uFF1A\u5F31\u5F15\u7528\uFF0C\u66F4\u79EF\u6781\u5730\u79FB\u9664\u57FA\u4E8E\u5783\u573E\u6536\u96C6\u5668\u72B6\u6001\u548C\u5F31\u5F15\u7528\u89C4\u5219\u7684\u5BF9\u8C61",paraId:37,tocIndex:6},{value:"flushInternal: \u5237\u65B0\u95F4\u9694\uFF0C\u5355\u4F4D\u6BEB\u79D2",paraId:38,tocIndex:6},{value:"\u9ED8\u8BA4\u60C5\u51B5\u662F\u4E0D\u8BBE\u7F6E\uFF0C\u4E5F\u5C31\u662F\u6CA1\u6709\u5237\u65B0\u95F4\u9694\uFF0C\u7F13\u5B58\u4EC5\u4EC5\u8C03\u7528\u8BED\u53E5\u65F6\u5237\u65B0",paraId:39,tocIndex:6},{value:"size\uFF1A\u5F15\u7528\u6570\u76EE\uFF0C\u6B63\u6574\u6570",paraId:40,tocIndex:6},{value:"\u4EE3\u8868\u7F13\u5B58\u6700\u591A\u53EF\u4EE5\u5B58\u50A8\u591A\u5C11\u4E2A\u5BF9\u8C61\uFF0C\u592A\u5927\u5BB9\u6613\u5BFC\u81F4\u5185\u5B58\u6EA2\u51FA",paraId:41,tocIndex:6},{value:"readonly\uFF1A\u53EA\u8BFB\uFF0Ctrue/false",paraId:42,tocIndex:6},{value:"true\uFF1A\u53EA\u8BFB\u7F13\u5B58\uFF0C\u4F1A\u7ED9\u6240\u6709\u8C03\u7528\u8FD9\u8FD4\u56DE\u7F13\u5B58\u5BF9\u8C61\u7684\u76F8\u540C\u5B9E\u4F8B\uFF0C\u56E0\u6B64\u8FD9\u4E9B\u5BF9\u8C61\u4E0D\u80FD\u88AB\u4FEE\u6539\u3002",paraId:43,tocIndex:6},{value:"false\uFF1A\u8BFB\u5199\u7F13\u5B58\uFF0C\u4F1A\u8FD4\u56DE\u7F13\u5B58\u5BF9\u8C61\u7684\u62F7\u8D1D\uFF08\u5E8F\u5217\u5316\u5B9E\u73B0\uFF09\uFF0C\u8FD9\u79CD\u65B9\u5F0F\u6BD4\u8F83\u5B89\u5168\uFF0C\u9ED8\u8BA4\u503C",paraId:43,tocIndex:6},{value:`@Test
+public void test05(){
+    SqlSession sqlSession = sqlSessionFactory.openSession();
+    EmpDao mapper = sqlSession.getMapper(EmpDao.class);
+    Emp empByEmpno = mapper.findEmpByEmpno(1111);
+    System.out.println(empByEmpno);
+    sqlSession.close();
+
+    SqlSession sqlSession2 = sqlSessionFactory.openSession();
+    EmpDao mapper2 = sqlSession2.getMapper(EmpDao.class);
+    Emp empByEmpno2 = mapper2.findEmpByEmpno(1111);
+    System.out.println(empByEmpno2);
+    Emp empByEmpno3 = mapper2.findEmpByEmpno(1111);
+    System.out.println(empByEmpno3);
+    sqlSession2.close();
+}
+`,paraId:44,tocIndex:6},{value:"\u7F13\u5B58\u67E5\u8BE2\u7684\u987A\u5E8F\u662F\u5148\u67E5\u8BE2\u4E8C\u7EA7\u7F13\u5B58\u518D\u67E5\u8BE2\u4E00\u7EA7\u7F13\u5B58",paraId:45,tocIndex:6},{value:"\u5982\u679C\u8BBE\u7F6E\u4E86\u5168\u5C40\u7684\u4E8C\u7EA7\u7F13\u5B58\u914D\u7F6E\uFF0C\u90A3\u4E48\u5728\u4F7F\u7528\u7684\u65F6\u5019\u9700\u8981\u6CE8\u610F\uFF0C\u5728\u6BCF\u4E00\u4E2A\u5355\u72EC\u7684 select \u8BED\u53E5\u4E2D\uFF0C\u53EF\u4EE5\u8BBE\u7F6E\u5C06\u67E5\u8BE2\u7F13\u5B58\u5173\u95ED\uFF0C\u4EE5\u5B8C\u6210\u7279\u6B8A\u7684\u8BBE\u7F6E",paraId:46,tocIndex:7},{value:"\u5728 setting \u4E2D\u8BBE\u7F6E\uFF0C\u662F\u914D\u7F6E\u4E8C\u7EA7\u7F13\u5B58\u5F00\u542F\uFF0C\u4E00\u7EA7\u7F13\u5B58\u9ED8\u8BA4\u4E00\u76F4\u5F00\u542F",paraId:47,tocIndex:7},{value:`<setting name="cacheEnabled" value="true"/>
+`,paraId:48,tocIndex:7},{value:"select \u6807\u7B7E\u7684 ",paraId:49,tocIndex:7},{value:"useCache",paraId:49,tocIndex:7},{value:" \u5C5E\u6027\uFF1A",paraId:49,tocIndex:7},{value:"\u5728\u6BCF\u4E00\u4E2A select \u7684\u67E5\u8BE2\u4E2D\u53EF\u4EE5\u8BBE\u7F6E\u5F53\u524D\u67E5\u8BE2\u662F\u5426\u8981\u4F7F\u7528\u4E8C\u7EA7\u7F13\u5B58\uFF0C\u53EA\u5BF9\u4E8C\u7EA7\u7F13\u5B58\u6709\u6548",paraId:50,tocIndex:7},{value:"sql \u6807\u7B7E\u7684",paraId:51,tocIndex:7},{value:" flushCache",paraId:51,tocIndex:7},{value:" \u5C5E\u6027",paraId:51,tocIndex:7},{value:"\u589E\u5220\u6539\u64CD\u4F5C\u9ED8\u8BA4\u503C\u4E3A true\uFF0Csql \u6267\u884C\u4E4B\u540E\u4F1A\u6E05\u7A7A\u4E00\u7EA7\u7F13\u5B58\u548C\u4E8C\u7EA7\u7F13\u5B58\uFF0C\u800C\u67E5\u8BE2\u64CD\u4F5C\u9ED8\u8BA4\u662F false",paraId:52,tocIndex:7},{value:"sqlSession.clearCache()",paraId:53,tocIndex:7},{value:"\u53EA\u662F\u7528\u6765\u6E05\u9664\u4E00\u7EA7\u7F13\u5B58",paraId:54,tocIndex:7},{value:"\u4E8C\u7EA7\u7F13\u5B58\uFF1A\u7279\u6027\uFF1A",paraId:55,tocIndex:7},{value:"\u9ED8\u8BA4\u5F00\u542F\u4E86\uFF0C\u6CA1\u6709\u5B9E\u73B0",paraId:56,tocIndex:7},{value:"\u4F5C\u7528\u57DF\uFF1A\u57FA\u4E8E\u5168\u5C40\u8303\u56F4\uFF0C\u5E94\u7528\u7EA7\u522B\u3002",paraId:56,tocIndex:7},{value:"\u7F13\u5B58\u9ED8\u8BA4\u5B9E\u73B0\u7C7BPerpetualCache ,\u4F7F\u7528map\u8FDB\u884C\u5B58\u50A8\u7684\u4F46\u662F\u4E8C\u7EA7\u7F13\u5B58\u6839\u636E\u4E0D\u540C\u7684mapper\u547D\u540D\u7A7A\u95F4\u591A\u5305\u4E86\u4E00\u5C42map",paraId:56,tocIndex:7},{value:"\u4E8B\u52A1\u63D0\u4EA4\u7684\u65F6\u5019\uFF08sqlSession\u5173\u95ED)",paraId:56,tocIndex:7},{value:"\u5148\u4ECE\u4E8C\u7EA7\u7F13\u5B58\u4E2D\u83B7\u53D6\uFF0C\u518D\u4ECE\u4E00\u7EA7\u7F13\u5B58\u4E2D\u83B7\u53D6",paraId:56,tocIndex:7},{value:"\u5B9E\u73B0\uFF1A",paraId:57,tocIndex:7},{value:"\u5F00\u542F\u4E8C\u7EA7\u7F13\u5B58",paraId:58,tocIndex:7},{value:'<setting name="cacheEnabled" value="true"/>',paraId:58,tocIndex:7},{value:"\u5728\u9700\u8981\u4F7F\u7528\u5230\u4E8C\u7EA7\u7F13\u5B58\u7684\u6620\u5C04\u6587\u4EF6\u4E2D\u52A0\u5165",paraId:58,tocIndex:7},{value:"<cache></cache>",paraId:58,tocIndex:7},{value:",\u57FA\u4E8EMapper\u6620\u5C04\u6587\u4EF6\u6765\u5B9E\u73B0\u7F13\u5B58\u7684\uFF0C\u57FA\u4E8EMapper\u6620\u5C04\u6587\u4EF6\u7684\u547D\u540D\u7A7A\u95F4\u6765\u5B58\u50A8\u7684",paraId:58,tocIndex:7},{value:"\u5728\u9700\u8981\u4F7F\u7528\u5230\u4E8C\u7EA7\u7F13\u5B58\u7684javaBean\u4E2D\u5B9E\u73B0\u5E8F\u5217\u5316\u63A5\u53E3",paraId:58,tocIndex:7},{value:"implements Serializable",paraId:58,tocIndex:7},{value:"\u914D\u7F6E\u6210\u529F\u5C31\u4F1A\u51FA\u73B0\u7F13\u5B58\u547D\u4E2D\u7387 \u540C\u4E00\u4E2AsqlId: \u4ECE\u7F13\u5B58\u4E2D\u62FF\u51FA\u7684\u6B21\u6570/\u67E5\u8BE2\u603B\u6B21\u6570",paraId:58,tocIndex:7},{value:"\u5931\u6548\uFF1A",paraId:59,tocIndex:7},{value:"\u540C\u4E00\u4E2A\u547D\u540D\u7A7A\u95F4\u8FDB\u884C\u4E86\u589E\u5220\u6539\u7684\u64CD\u4F5C\uFF0C\u4F1A\u5BFC\u81F4\u4E8C\u7EA7\u7F13\u5B58\u5931\u6548",paraId:60,tocIndex:7},{value:"\u4F46\u662F\u5982\u679C\u4E0D\u60F3\u5931\u6548\uFF1A\u53EF\u4EE5\u5C06SQL\u7684flushCache \u8FD9\u662F\u4E3Afalse,\u4F46\u662F\u8981\u614E\u91CD\u8BBE\u7F6E\uFF0C\u56E0\u4E3A\u4F1A\u9020\u6210\u6570\u636E\u810F\u8BFB\u95EE\u9898\uFF0C\u9664\u975E\u4F60\u80FD\u4FDD\u8BC1\u67E5\u8BE2\u7684\u6570\u636E\u6C38\u8FDC\u4E0D\u4F1A\u6267\u884C\u589E\u5220\u6539",paraId:60,tocIndex:7},{value:'\u8BA9\u67E5\u8BE2\u4E0D\u7F13\u5B58\u6570\u636E\u5230\u4E8C\u7EA7\u7F13\u5B58\u4E2DuseCache="false"',paraId:60,tocIndex:7},{value:"\u5982\u679C\u5E0C\u671B\u5176\u4ED6mapper\u6620\u5C04\u6587\u4EF6\u7684\u547D\u540D\u7A7A\u95F4\u6267\u884C\u4E86\u589E\u5220\u6539\u6E05\u7A7A\u53E6\u5916\u7684\u547D\u540D\u7A7A\u95F4\u5C31\u53EF\u4EE5\u8BBE\u7F6E\uFF1A",paraId:60,tocIndex:7},{value:'<cache-ref namespace="cn.tulingxueyuan.mapper.DeptMapper"/>',paraId:60,tocIndex:7},{value:"\u7565",paraId:0}]},49190:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7D22\u5F15",paraId:0,tocIndex:1},{value:"\u662F\u5E2E\u52A9MySQL\u9AD8\u6548\u83B7\u53D6\u6570\u636E\u7684",paraId:0,tocIndex:1},{value:"\u6392\u597D\u5E8F",paraId:0,tocIndex:1},{value:"\u7684",paraId:0,tocIndex:1},{value:"\u6570\u636E\u7ED3\u6784",paraId:0,tocIndex:1},{value:"Hash\u8868",paraId:1,tocIndex:1},{value:"\uFF1A",paraId:1,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u67E5\u627E\u901F\u5EA6\u5FEB\uFF0C",paraId:2,tocIndex:1},{value:"\u65F6\u95F4\u590D\u6742\u5EA6\u4E3AO(1)",paraId:2,tocIndex:1},{value:"\uFF1B\u9002\u7528\u4E8E\u7B49\u503C\u67E5\u8BE2\uFF0C\u5982\u4E3B\u952E\u67E5\u8BE2\u3002",paraId:2,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u4E0D\u652F\u6301",paraId:3,tocIndex:1},{value:"\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F",paraId:3,tocIndex:1},{value:"\uFF1B\u4E0D\u9002\u7528\u4E8E\u9700\u8981\u987A\u5E8F\u8BBF\u95EE\u7684\u573A\u666F\u3002",paraId:3,tocIndex:1},{value:"B\u6811",paraId:4,tocIndex:1},{value:"\uFF1A",paraId:4,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u5E73\u8861\u6027\u597D\uFF0C\u652F\u6301\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\uFF1B\u9002\u7528\u4E8E\u8303\u56F4\u67E5\u8BE2\u9891\u7E41\u7684\u573A\u666F\u3002",paraId:5,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u53EF\u80FD\u9700\u8981\u8FDB\u884C",paraId:6,tocIndex:1},{value:"\u5E73\u8861\u8C03\u6574",paraId:6,tocIndex:1},{value:"\uFF0C\u6027\u80FD\u8F83Hash\u8868\u5DEE\u4E00\u4E9B\uFF0C\u975E\u53F6\u5B50\u8282\u70B9\u5B58\u50A8\u6570\u636E\u5BFC\u81F4\u9636\u6570\u66F4\u591A",paraId:6,tocIndex:1},{value:"\u7EA2\u9ED1\u6811",paraId:7,tocIndex:1},{value:"\uFF1A",paraId:7,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u5E73\u8861\u6027\u597D\uFF0C\u652F\u6301\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\uFF1B\u9002\u7528\u4E8E\u6709\u5E8F\u6570\u636E\u7684\u7D22\u5F15\u3002",paraId:8,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u76F8\u5BF9\u4E8EB\u6811\uFF0C",paraId:9,tocIndex:1},{value:"\u5728\u6570\u636E\u91CF\u8F83\u5927\u65F6\uFF0C\u5E73\u8861\u6027\u53EF\u80FD\u964D\u4F4E\u3002",paraId:9,tocIndex:1},{value:"\u4E8C\u53C9\u6811",paraId:10,tocIndex:1},{value:"\uFF1A",paraId:10,tocIndex:1},{value:"\u4F18\u70B9\uFF1A\u7B80\u5355\u6613\u61C2\uFF0C\u6613\u4E8E\u5B9E\u73B0\uFF1B\u9002\u7528\u4E8E\u5C0F\u89C4\u6A21\u6570\u636E\u548C\u7279\u5B9A\u573A\u666F\u3002",paraId:11,tocIndex:1},{value:"\u7F3A\u70B9\uFF1A\u4E0D\u5E73\u8861\u7684\u4E8C\u53C9\u6811\u67E5\u627E\u6548\u7387\u8F83\u4F4E\uFF0C\u53EF\u80FD\u5BFC\u81F4\u6027\u80FD\u95EE\u9898\u3002",paraId:12,tocIndex:1},{value:"B+\u6811",paraId:13},{value:"\u6CE8\u610F\uFF0C\u4E3B\u952E\u7D22\u5F15\u91CC\u5B58\u653E\u4E86\u6574\u5F20\u8868\u7684\u6570\u636E\uFF0C\u6240\u4EE5\u4F1A\u6BD4\u4E8C\u7EA7\u7D22\u5F15\u8981\u5927\uFF0C\u4E8C\u7EA7\u7D22\u5F15\u53EA\u5B58\u653E\u4E86\u4E3B\u952E",paraId:14,tocIndex:2},{value:"\u5E73\u8861\u6027\u597D",paraId:15,tocIndex:2},{value:"\uFF1AB+\u6811\u662F\u4E00\u79CD\u5E73\u8861\u6811\u7ED3\u6784\uFF0C\u80FD\u591F",paraId:15,tocIndex:2},{value:"\u4FDD\u6301\u6811\u7684\u5E73\u8861\u6027",paraId:15,tocIndex:2},{value:"\uFF0C\u4F7F\u5F97\u5728\u6570\u636E\u91CF\u8F83\u5927\u65F6\uFF0C\u6811\u7684\u9AD8\u5EA6\u76F8\u5BF9\u8F83\u5C0F\uFF0C\u4ECE\u800C\u63D0\u9AD8\u4E86\u68C0\u7D22\u7684\u6548\u7387\u3002",paraId:15,tocIndex:2},{value:"2000W+\u4E0B\u7684\u6570\u636E\u91CF\u4E0B\u4F9D\u7136\u53EF\u4EE5\u4FDD\u6301\u4E09\u9636....\uFF0C\u4E8C\u9636\u4E5F\u53EF\u4EE5\u5B58100\u591AW",paraId:16,tocIndex:2},{value:"\u7B2C\u4E00\u9636\u7684\u8282\u70B9\u5E38\u9A7B\u5185\u5B58\uFF0C\u6240\u4EE5\u6548\u7387\u5F88\u9AD8",paraId:17,tocIndex:2},{value:"\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\u9AD8\u6548",paraId:18,tocIndex:2},{value:"\uFF1AB+\u6811\u4E2D\u7684\u5185\u90E8\u8282\u70B9\u53EA\u5B58\u50A8\u952E\u503C\u4FE1\u606F\uFF0C\u800C\u6570\u636E\u90FD\u5B58\u50A8\u5728\u53F6\u5B50\u8282\u70B9\u4E0A\uFF0C\u5E76\u4E14\u53F6\u5B50\u8282\u70B9\u4E4B\u95F4\u901A\u8FC7\u6307\u9488\u8FDE\u63A5\uFF0C\u5F62\u6210\u4E00\u4E2A\u6709\u5E8F\u94FE\u8868\u3002\u8FD9\u79CD\u7ED3\u6784\u4F7F\u5F97\u8303\u56F4\u67E5\u8BE2\u548C\u6392\u5E8F\u64CD\u4F5C\u975E\u5E38\u9AD8\u6548\uFF0C",paraId:18,tocIndex:2},{value:"\u53EF\u4EE5\u5FEB\u901F\u5730\u5B9A\u4F4D\u5230\u8303\u56F4\u5185\u7684\u6570\u636E",paraId:18,tocIndex:2},{value:"\u3002",paraId:18,tocIndex:2},{value:"\u9002\u7528\u4E8E\u78C1\u76D8\u5B58\u50A8",paraId:19,tocIndex:2},{value:"\uFF1AB+\u6811\u7684\u8282\u70B9\u5927\u5C0F\u901A\u5E38\u4F1A\u88AB\u8BBE\u8BA1\u6210\u9875\u5927\u5C0F\uFF0C\u8FD9\u6837",paraId:19,tocIndex:2},{value:"\u6BCF\u4E2A\u8282\u70B9\u90FD\u53EF\u4EE5\u5B8C\u5168\u653E\u5165\u4E00\u4E2A\u78C1\u76D8\u9875",paraId:19,tocIndex:2},{value:"\u4E2D\uFF0C",paraId:19,tocIndex:2},{value:"\u51CF\u5C11\u4E86\u78C1\u76D8IO\u6B21\u6570",paraId:19,tocIndex:2},{value:"\uFF0C\u9002\u5408\u5927\u89C4\u6A21\u6570\u636E\u7684\u5B58\u50A8\u548C\u67E5\u8BE2\u3002",paraId:19,tocIndex:2},{value:"\u652F\u6301\u9AD8\u6548\u7684\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C",paraId:20,tocIndex:2},{value:"\uFF1AB+\u6811\u7684\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u901A\u5E38",paraId:20,tocIndex:2},{value:"\u53EA\u6D89\u53CA\u5230\u5C40\u90E8\u7684\u8282\u70B9\u8C03\u6574\uFF0C\u4E0D\u4F1A\u5BFC\u81F4\u6574\u68F5\u6811\u7684\u91CD\u6784",paraId:20,tocIndex:2},{value:"\uFF0C\u56E0\u6B64\u5177\u6709\u8F83\u9AD8\u7684\u63D2\u5165\u548C\u5220\u9664\u6548\u7387\u3002",paraId:20,tocIndex:2},{value:"InnoDB\u7D22\u5F15\u5B9E\u73B0(\u805A\u7C07)",paraId:13},{value:"\u8868\u6570\u636E\u6587\u4EF6\u672C\u8EAB\u5C31\u662F\u6309B+Tree\u7EC4\u7EC7\u7684\u4E00\u4E2A\u7D22\u5F15\u7ED3\u6784\u6587\u4EF6",paraId:21,tocIndex:4},{value:"\u805A\u96C6\u7D22\u5F15-\u53F6\u8282\u70B9\u5305\u542B\u4E86\u5B8C\u6574\u7684\u6570\u636E\u8BB0\u5F55",paraId:22,tocIndex:4},{value:"\u4E3A\u4EC0\u4E48\u5EFA\u8BAEInnoDB\u8868\u5FC5\u987B\u5EFA\u4E3B\u952E\uFF0C\u5E76\u4E14\u63A8\u8350\u4F7F\u7528\u6574\u578B\u7684\u81EA\u589E\u4E3B\u952E\uFF1F",paraId:23,tocIndex:4},{value:"\u652F\u6301\u5FEB\u901F\u5B9A\u4F4D\u548C\u8303\u56F4\u67E5\u8BE2",paraId:24,tocIndex:4},{value:"\uFF1A\u4F7F\u7528\u6574\u578B\u7684\u81EA\u589E\u4E3B\u952E\u4F5C\u4E3A\u4E3B\u952E\uFF0C\u53EF\u4EE5\u4FDD\u8BC1\u65B0\u63D2\u5165\u7684\u6570\u636E\u90FD\u662F\u6309\u7167\u987A\u5E8F\u9012\u589E\u7684\uFF0C\u8FD9\u6837\u5728\u67E5\u8BE2\u548C\u8303\u56F4\u67E5\u8BE2\u65F6\uFF0C\u53EF\u4EE5\u66F4\u5FEB\u5730\u5B9A\u4F4D\u5230\u76EE\u6807\u6570\u636E\u3002",paraId:24,tocIndex:4},{value:"\u51CF\u5C11\u63D2\u5165\u548C\u5220\u9664\u64CD\u4F5C\u53EF\u80FD\u9700\u8981\u8FDB\u884C\u5E73\u8861\u8C03\u6574",paraId:24,tocIndex:4},{value:"\u51CF\u5C11\u4E3B\u952E\u51B2\u7A81\u548C\u9501\u51B2\u7A81",paraId:24,tocIndex:4},{value:"\uFF1A\u81EA\u589E\u4E3B\u952E\u5728\u63D2\u5165\u65B0\u6570\u636E\u65F6\u4E0D\u4F1A\u5F15\u53D1\u4E3B\u952E\u51B2\u7A81\uFF0C\u4E5F\u4E0D\u4F1A\u5728\u7D22\u5F15\u4E0A\u5F15\u53D1\u9501\u51B2\u7A81\uFF0C\u80FD\u591F\u63D0\u9AD8\u5E76\u53D1\u63D2\u5165\u7684\u6548\u7387\u3002",paraId:24,tocIndex:4},{value:"\u4E3B\u952E\u4FDD\u8BC1\u552F\u4E00\u6027\u548C\u6570\u636E\u5B8C\u6574\u6027",paraId:24,tocIndex:4},{value:"\uFF1A\u4E3B\u952E\u4FDD\u8BC1\u4E86\u6BCF\u4E00\u884C\u6570\u636E\u7684\u552F\u4E00\u6027\uFF0C\u907F\u514D\u4E86\u8868\u4E2D\u51FA\u73B0\u91CD\u590D\u6570\u636E\u7684\u60C5\u51B5\uFF0C\u4ECE\u800C\u4FDD\u8BC1\u4E86\u6570\u636E\u7684\u5B8C\u6574\u6027\u548C\u4E00\u81F4\u6027\u3002",paraId:24,tocIndex:4},{value:"\u4E3A\u4EC0\u4E48\u975E\u4E3B\u952E\u7D22\u5F15\u7ED3\u6784\u53F6\u5B50\u8282\u70B9\u5B58\u50A8\u7684\u662F\u4E3B\u952E\u503C\uFF1F(\u4E00\u81F4\u6027\u548C\u8282\u7701\u5B58\u50A8\u7A7A\u95F4)",paraId:25,tocIndex:4},{value:"\u51CF\u5C11\u5197\u4F59\u5B58\u50A8",paraId:26,tocIndex:4},{value:"\uFF1A\u5C06\u4E3B\u952E\u503C\u5B58\u50A8\u5728\u975E\u4E3B\u952E\u7D22\u5F15\u7ED3\u6784\u7684\u53F6\u5B50\u8282\u70B9\u4E2D\uFF0C\u907F\u514D\u4E86\u91CD\u590D\u5B58\u50A8\u6570\u636E\u7684\u60C5\u51B5\uFF0C\u51CF\u5C11\u4E86\u5B58\u50A8\u7A7A\u95F4\u7684\u5360\u7528\u3002",paraId:26,tocIndex:4},{value:"\u652F\u6301\u8986\u76D6\u7D22\u5F15\u67E5\u8BE2",paraId:27,tocIndex:4},{value:"\uFF1A\u5982\u679C\u67E5\u8BE2\u7684\u5217\u90FD\u5305\u542B\u5728\u4E86\u975E\u4E3B\u952E\u7D22\u5F15\u4E2D\uFF0C\u90A3\u4E48\u53EF\u4EE5\u76F4\u63A5\u901A\u8FC7\u975E\u4E3B\u952E\u7D22\u5F15\u5B8C\u6210\u67E5\u8BE2\uFF0C\u65E0\u9700\u518D\u6B21\u8BBF\u95EE\u4E3B\u952E\u7D22\u5F15\uFF0C\u4ECE\u800C\u8FDB\u4E00\u6B65\u63D0\u9AD8\u4E86\u67E5\u8BE2\u6548\u7387\u3002",paraId:27,tocIndex:4},{value:"\u8054\u5408\u7D22\u5F15\u7684\u5E95\u5C42\u5B58\u50A8\u7ED3\u6784\u957F\u4EC0\u4E48\u6837\uFF1F",paraId:28,tocIndex:5},{value:"\u6700\u5DE6\u524D\u7F00\u539F\u5219\u662F\u6307\u5728\u4F7F\u7528\u590D\u5408\u7D22\u5F15\u8FDB\u884C\u67E5\u8BE2\u65F6\uFF0C\u5982\u679C\u67E5\u8BE2\u6761\u4EF6\u6D89\u53CA\u5230\u4E86\u590D\u5408\u7D22\u5F15\u7684\u591A\u4E2A\u5217\uFF0C\u90A3\u4E48\u53EF\u4EE5\u5229\u7528\u7D22\u5F15\u7684\u6700\u5DE6\u524D\u7F00\u6765\u8FDB\u884C\u67E5\u8BE2\u3002",paraId:29,tocIndex:5},{value:"\u5177\u4F53\u6765\u8BF4\uFF0C\u5C31\u662F\u5728\u67E5\u8BE2\u65F6\u5C3D\u91CF\u4ECE\u590D\u5408\u7D22\u5F15\u7684\u6700\u5DE6\u8FB9\u7684\u5217\u5F00\u59CB\uFF0C\u4F9D\u6B21\u4F7F\u7528\u7D22\u5F15\u7684\u5217\u3002",paraId:30,tocIndex:5},{value:"\u4E3A\u4EC0\u4E48\u8981\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF1F",paraId:31,tocIndex:5},{value:"\u63D0\u9AD8\u67E5\u8BE2\u6548\u7387",paraId:32,tocIndex:5},{value:"\uFF1A\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\u53EF\u4EE5\u786E\u4FDD\u67E5\u8BE2\u65F6\u5C3D\u53EF\u80FD\u4F7F\u7528\u590D\u5408\u7D22\u5F15\u7684\u5DE6\u8FB9\u5217\uFF0C\u8FD9\u6837\u53EF\u4EE5",paraId:32,tocIndex:5},{value:"\u51CF\u5C11\u6570\u636E\u5E93\u626B\u63CF\u7684\u6570\u636E\u91CF",paraId:32,tocIndex:5},{value:"\uFF0C\u52A0\u5FEB\u67E5\u8BE2\u901F\u5EA6\u3002",paraId:32,tocIndex:5},{value:"\u51CF\u5C11\u7D22\u5F15\u7684\u590D\u6742\u6027",paraId:32,tocIndex:5},{value:"\uFF1A\u5982\u679C\u4E0D\u9075\u5FAA\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF0C\u5C31\u53EF\u80FD\u9700\u8981",paraId:32,tocIndex:5},{value:"\u4E3A\u6BCF\u79CD\u67E5\u8BE2\u60C5\u51B5\u90FD\u5EFA\u7ACB\u4E0D\u540C\u7684\u7D22\u5F15",paraId:32,tocIndex:5},{value:"\u9488\u5BF9\u6BCF\u6761sql\u5EFA\u7ACB\u4E0D\u540C\u7684\u8054\u5408\u7D22\u5F15\uFF0C\u6D6A\u8D39\u7A7A\u95F4",paraId:32,tocIndex:5},{value:"\uFF0C\u5BFC\u81F4\u7D22\u5F15\u7684\u6570\u91CF\u589E\u52A0\uFF0C\u7EF4\u62A4\u548C\u7BA1\u7406\u6210\u672C\u4E5F\u968F\u4E4B\u589E\u52A0\u3002",paraId:32,tocIndex:5},{value:"\u907F\u514D\u6027\u80FD\u4E0B\u964D",paraId:32,tocIndex:5},{value:"\uFF1A\u5982\u679C\u67E5\u8BE2\u6761\u4EF6\u4E0D\u7B26\u5408\u6700\u5DE6\u524D\u7F00\u539F\u5219\uFF0C\u6570\u636E\u5E93\u53EF\u80FD\u65E0\u6CD5\u4F7F\u7528\u7D22\u5F15\uFF0C\u53EA\u80FD\u8FDB\u884C",paraId:32,tocIndex:5},{value:"\u5168\u8868\u626B\u63CF",paraId:32,tocIndex:5},{value:"\uFF0C\u5BFC\u81F4\u67E5\u8BE2\u6027\u80FD\u5927\u5E45\u4E0B\u964D\u3002",paraId:32,tocIndex:5}]},34596:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"Explain\u5DE5\u5177\u4ECB\u7ECD",paraId:0},{value:"\u4F7F\u7528EXPLAIN\u5173\u952E\u5B57\u53EF\u4EE5\u6A21\u62DF\u4F18\u5316\u5668\u6267\u884CSQL\u8BED\u53E5\uFF0C\u5206\u6790\u4F60\u7684\u67E5\u8BE2\u8BED\u53E5\u6216\u662F\u7ED3\u6784\u7684\u6027\u80FD\u74F6\u9888",paraId:1,tocIndex:0},{value:"\u5728 select \u8BED\u53E5\u4E4B\u524D\u589E\u52A0 explain \u5173\u952E\u5B57\uFF0CMySQL \u4F1A\u5728\u67E5\u8BE2\u4E0A\u8BBE\u7F6E\u4E00\u4E2A\u6807\u8BB0\uFF0C\u6267\u884C\u67E5\u8BE2\u4F1A\u8FD4\u56DE\u6267\u884C\u8BA1\u5212\u7684\u4FE1\u606F\uFF0C\u800C\u4E0D\u662F",paraId:2,tocIndex:0},{value:"\u6267\u884C\u8FD9\u6761SQL",paraId:3,tocIndex:0},{value:"\u6CE8\u610F\uFF1A\u5982\u679C from \u4E2D\u5305\u542B\u5B50\u67E5\u8BE2\uFF0C\u4ECD\u4F1A\u6267\u884C\u8BE5\u5B50\u67E5\u8BE2\uFF0C\u5C06\u7ED3\u679C\u653E\u5165\u4E34\u65F6\u8868\u4E2D",paraId:4,tocIndex:0},{value:"Explain\u5206\u6790\u793A\u4F8B",paraId:0},{value:" \u793A\u4F8B\u8868\uFF1A\n DROP TABLE IF EXISTS `actor`;\n CREATE TABLE `actor` (\n `id` int(11) NOT NULL,\n`name` varchar(45) DEFAULT NULL,\n`update_time` datetime DEFAULT NULL,\n     PRIMARY KEY (`id`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `actor` (`id`, `name`, `update_time`) VALUES (1,'a','2017\u201012\u201022 15:27:18'), (2,'b','20\n17\u201012\u201022 15:27:18'), (3,'c','2017\u201012\u201022 15:27:18');\n\n DROP TABLE IF EXISTS `film`;\n CREATE TABLE `film` (\n `id` int(11) NOT NULL AUTO_INCREMENT,\n `name` varchar(10) DEFAULT NULL,\n PRIMARY KEY (`id`),\n KEY `idx_name` (`name`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `film` (`id`, `name`) VALUES (3,'film0'),(1,'film1'),(2,'film2');\n\n DROP TABLE IF EXISTS `film_actor`;\n CREATE TABLE `film_actor` (\n `id` int(11) NOT NULL,\n `film_id` int(11) NOT NULL,\n `actor_id` int(11) NOT NULL,\n `remark` varchar(255) DEFAULT NULL,\n PRIMARY KEY (`id`),\n KEY `idx_film_actor_id` (`film_id`,`actor_id`)\n ) ENGINE=InnoDB DEFAULT CHARSET=utf8;\n\n INSERT INTO `film_actor` (`id`, `film_id`, `actor_id`) VALUES (1,1,1),(2,1,2),(3,2,1);\n",paraId:5,tocIndex:1},{value:`mysql> explain select * from actor;
 `,paraId:6,tocIndex:1},{value:"\u63A5\u4E0B\u6765\u6211\u4EEC\u5C06\u5C55\u793A explain \u4E2D\u6BCF\u4E2A\u5217\u7684\u4FE1\u606F\u3002",paraId:7,tocIndex:2},{value:"1. id\u5217",paraId:0},{value:"id\u5217\u7684\u7F16\u53F7\u662F select \u7684\u5E8F\u5217\u53F7\uFF0C\u6709\u51E0\u4E2A select \u5C31\u6709\u51E0\u4E2Aid\uFF0C\u5E76\u4E14id\u7684\u987A\u5E8F\u662F\u6309 select \u51FA\u73B0\u7684\u987A\u5E8F\u589E\u957F\u7684\u3002",paraId:8,tocIndex:3},{value:"id\u5217\u8D8A\u5927\u6267\u884C\u4F18\u5148\u7EA7\u8D8A\u9AD8\uFF0Cid\u76F8\u540C\u5219\u4ECE\u4E0A\u5F80\u4E0B\u6267\u884C\uFF0Cid\u4E3ANULL\u6700\u540E\u6267\u884C\u3002",paraId:9,tocIndex:3},{value:"2. select_type\u5217",paraId:0},{value:"select_type \u8868\u793A\u5BF9\u5E94\u884C\u662F\u7B80\u5355\u8FD8\u662F\u590D\u6742\u7684\u67E5\u8BE2\u3002",paraId:10,tocIndex:4},{value:"simple\uFF1A\u7B80\u5355\u67E5\u8BE2\u3002\u67E5\u8BE2\u4E0D\u5305\u542B\u5B50\u67E5\u8BE2\u548Cunion",paraId:11,tocIndex:4},{value:"primary\uFF1A\u590D\u6742\u67E5\u8BE2\u4E2D\u6700\u5916\u5C42\u7684 select",paraId:12,tocIndex:4},{value:"subquery\uFF1A\u5305\u542B\u5728 select \u4E2D\u7684\u5B50\u67E5\u8BE2\uFF08\u4E0D\u5728 from \u5B50\u53E5\u4E2D\uFF09",paraId:13,tocIndex:4},{value:"derived\uFF1A\u5305\u542B\u5728 from \u5B50\u53E5\u4E2D\u7684\u5B50\u67E5\u8BE2\u3002MySQL\u4F1A\u5C06\u7ED3\u679C\u5B58\u653E\u5728\u4E00\u4E2A\u4E34\u65F6\u8868\u4E2D\uFF0C\u4E5F\u79F0\u4E3A\u6D3E\u751F\u8868\uFF08derived\u7684\u82F1\u6587\u542B",paraId:14,tocIndex:4},{value:"\u4E49\uFF09",paraId:15,tocIndex:4},{value:"union\uFF1A\u5728 union \u4E2D\u7684\u7B2C\u4E8C\u4E2A\u548C\u968F\u540E\u7684 select",paraId:16,tocIndex:4},{value:"3. table\u5217",paraId:0},{value:"\u8FD9\u4E00\u5217\u8868\u793A explain \u7684\u4E00\u884C\u6B63\u5728\u8BBF\u95EE\u54EA\u4E2A\u8868\u3002",paraId:17,tocIndex:5},{value:"\u5F53 from \u5B50\u53E5\u4E2D\u6709\u5B50\u67E5\u8BE2\u65F6\uFF0Ctable\u5217\u662F ",paraId:18,tocIndex:5},{value:" \u683C\u5F0F\uFF0C\u8868\u793A\u5F53\u524D\u67E5\u8BE2\u4F9D\u8D56 id=N \u7684\u67E5\u8BE2\uFF0C\u4E8E\u662F\u5148\u6267\u884C id=N \u7684\u67E5\u8BE2\u3002",paraId:18,tocIndex:5},{value:"\u5F53\u6709 union \u65F6\uFF0CUNION RESULT \u7684 table \u5217\u7684\u503C\u4E3A<union1,2>\uFF0C1\u548C2\u8868\u793A\u53C2\u4E0E union \u7684 select \u884Cid\u3002",paraId:19,tocIndex:5},{value:"4.type\u5217",paraId:0},{value:"\u6700\u91CD\u8981",paraId:20},{value:"\u8FD9\u4E00\u5217\u8868\u793A\u5173\u8054\u7C7B\u578B\u6216\u8BBF\u95EE\u7C7B\u578B\uFF0C\u5373MySQL\u51B3\u5B9A\u5982\u4F55\u67E5\u627E\u8868\u4E2D\u7684\u884C\uFF0C\u67E5\u627E\u6570\u636E\u884C\u8BB0\u5F55\u7684\u5927\u6982\u8303\u56F4\u3002",paraId:21},{value:"\u4F9D\u6B21\u4ECE\u6700\u4F18\u5230\u6700\u5DEE\u5206\u522B\u4E3A\uFF1A",paraId:22},{value:"system > const > eq_ref > ref > range > index > ALL",paraId:22},{value:"\u4E00\u822C\u6765\u8BF4\uFF0C",paraId:23},{value:"\u5F97\u4FDD\u8BC1\u67E5\u8BE2\u8FBE\u5230range\u7EA7\u522B\uFF0C\u6700\u597D\u8FBE\u5230ref",paraId:23},{value:"NULL",paraId:24},{value:"\uFF1Amysql\u80FD\u591F\u5728\u4F18\u5316\u9636\u6BB5\u5206\u89E3\u67E5\u8BE2\u8BED\u53E5\uFF0C\u5728\u6267\u884C\u9636\u6BB5\u7528\u4E0D\u7740\u518D\u8BBF\u95EE\u8868\u6216\u7D22\u5F15\u3002",paraId:24},{value:"\u4F8B\u5982\uFF1A\u5728\u7D22\u5F15\u5217\u4E2D\u9009\u53D6\u6700\u5C0F\u503C\uFF0C\u53EF\u4EE5\u5355\u72EC\u67E5\u627E\u7D22\u5F15\u6765\u5B8C\u6210\uFF0C\u4E0D\u9700\u8981\u5728",paraId:25},{value:"\u6267\u884C\u65F6\u8BBF\u95EE\u8868",paraId:25},{value:"const, system",paraId:26},{value:"\uFF1Amysql\u80FD\u5BF9\u67E5\u8BE2\u7684\u67D0\u90E8\u5206\u8FDB\u884C\u4F18\u5316\u5E76\u5C06\u5176\u8F6C\u5316\u6210\u4E00\u4E2A\u5E38\u91CF\u3002\u7528\u4E8Eprimary key \u6216 unique key \u7684\u6240\u6709\u5217\u4E0E\u5E38\u6570\u6BD4\u8F83\u65F6\uFF0C\u6240\u4EE5\u8868\u6700\u591A\u6709\u4E00\u4E2A\u5339\u914D\u884C\uFF0C\u8BFB\u53D61\u6B21\uFF0C\u901F\u5EA6\u6BD4\u8F83\u5FEB\u3002system\u662Fconst\u7684\u7279\u4F8B\uFF0C\u8868\u91CC\u53EA\u6709\u4E00\u6761\u5143\u7EC4\u5339\u914D\u65F6\u4E3Asystem",paraId:26},{value:"\u4ECE\u4E00\u6761\u8BB0\u5F55\u91CC\u67E5\u8BE2",paraId:26},{value:` mysql> explain extended select * from (select * from film where id = 1) tmp;
 `,paraId:27},{value:'\u67E5\u8BE2\u7C7B\u578B\u4E3A"const"\u8868\u793A MySQL \u53EF\u4EE5\u5728\u67E5\u8BE2\u6267\u884C\u8BA1\u5212\u4E2D\u4F7F\u7528\u5E38\u91CF\u4F18\u5316\u67E5\u8BE2\uFF0C',paraId:28},{value:"\u76F4\u63A5\u5B9A\u4F4D\u5230\u552F\u4E00\u4E00\u884C\u6570\u636E",paraId:28},{value:"\u3002",paraId:28},{value:"\u4EE5\u4E0A\u4E24\u79CD\u60C5\u51B5\u5F88\u5C11\u5F88\u5C11",paraId:29},{value:"eq_ref",paraId:30},{value:"\uFF1A",paraId:30},{value:"primary key \u6216 unique key",paraId:30},{value:" \u7D22\u5F15\u7684\u6240\u6709\u90E8\u5206\u88AB\u8FDE\u63A5\u4F7F\u7528 \uFF0C\u6700\u591A\u53EA\u4F1A\u8FD4\u56DE\u4E00\u6761\u7B26\u5408\u6761\u4EF6\u7684\u8BB0\u5F55\u3002\u8FD9\u53EF\u80FD\u662F\u5728",paraId:30},{value:"const \u4E4B\u5916\u6700\u597D\u7684\u8054\u63A5\u7C7B\u578B\u4E86\uFF0C\u7B80\u5355\u7684 select \u67E5\u8BE2\u4E0D\u4F1A\u51FA\u73B0\u8FD9\u79CD type\u3002",paraId:31},{value:`mysql> explain select * from film_actor left join film on film_actor.film_id = film.id;
 `,paraId:32},{value:"ref",paraId:33},{value:"\uFF1A\u76F8\u6BD4 eq_ref\uFF0C\u4E0D\u4F7F\u7528\u552F\u4E00\u7D22\u5F15\uFF0C\u800C\u662F\u4F7F\u7528",paraId:33},{value:"\u666E\u901A\u7D22\u5F15\u6216\u8005\u552F\u4E00\u6027\u7D22\u5F15\u7684\u90E8\u5206\u524D\u7F00",paraId:33},{value:"\uFF0C\u7D22\u5F15\u8981\u548C\u67D0\u4E2A\u503C\u76F8\u6BD4\u8F83\uFF0C\u53EF\u80FD\u4F1A",paraId:33},{value:"\u627E\u5230\u591A\u4E2A\u7B26\u5408\u6761\u4EF6\u7684\u884C\u3002",paraId:34},{value:` mysql> explain select * from film where name = 'film1';
