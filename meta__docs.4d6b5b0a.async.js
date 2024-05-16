@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},59912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96483:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},97810:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72156:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45766:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56308:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},83413:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76278:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},1155:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50586:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91695:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1904],{13694:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},74175:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38080:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61719:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},94767:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58323:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},61699:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},29478:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},23089:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45689:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},8850:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56300:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21415:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},59912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15840:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},82198:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71684:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55013:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96483:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},97810:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6268:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39249:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14912:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71759:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92933:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},35652:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},25731:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},99899:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},92526:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62634:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},6982:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72156:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93288:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93988:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},65281:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},49063:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2966:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5915:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},31939:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},30888:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},9051:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50012:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52412:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},45766:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56308:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},83413:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76278:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41226:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},1155:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},50586:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91695:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52049:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71804:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42021:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},26353:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56981:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77188:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55176:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},14828:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},5262:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93079:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},93924:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2607:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},72233:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},56528:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39790:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28216:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38309:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54919:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},69253:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},96320:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},71583:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},62040:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},91231:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},86291:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},76397:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},38910:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15650:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},7257:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},51875:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},17843:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},78872:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},80154:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},43054:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},39465:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},41967:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},77022:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},28725:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},54509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},75060:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},509:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},58563:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4265:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32277:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},84560:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},32111:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},70148:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},2384:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42137:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},42626:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},21043:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},79181:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},37321:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},19588:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},4943:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},98094:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},52811:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},22274:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},55678:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},66255:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},15561:function(t,a,e){e.r(a),e.d(a,{demos:function(){return r}});var n=e(67294),r={}},67887:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"344. \u53CD\u8F6C\u5B57\u7B26\u4E32",paraId:0},{value:"\u7F16\u5199\u4E00\u4E2A\u51FD\u6570\uFF0C\u5176\u4F5C\u7528\u662F\u5C06\u8F93\u5165\u7684\u5B57\u7B26\u4E32\u53CD\u8F6C\u8FC7\u6765\u3002\u8F93\u5165\u5B57\u7B26\u4E32\u4EE5\u5B57\u7B26\u6570\u7EC4 ",paraId:1,tocIndex:1},{value:"s",paraId:1,tocIndex:1},{value:" \u7684\u5F62\u5F0F\u7ED9\u51FA\u3002",paraId:1,tocIndex:1},{value:"\u4E0D\u8981\u7ED9\u53E6\u5916\u7684\u6570\u7EC4\u5206\u914D\u989D\u5916\u7684\u7A7A\u95F4\uFF0C\u4F60\u5FC5\u987B**",paraId:2,tocIndex:1},{value:"\u539F\u5730",paraId:2,tocIndex:1},{value:"\u4FEE\u6539\u8F93\u5165\u6570\u7EC4**\u3001\u4F7F\u7528 O (1) \u7684\u989D\u5916\u7A7A\u95F4\u89E3\u51B3\u8FD9\u4E00\u95EE\u9898\u3002",paraId:2,tocIndex:1},{value:"\u793A\u4F8B 1\uFF1A",paraId:3,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["h","e","l","l","o"]
 \u8F93\u51FA\uFF1A["o","l","l","e","h"]
 `,paraId:4,tocIndex:1},{value:"\u793A\u4F8B 2\uFF1A",paraId:5,tocIndex:1},{value:`\u8F93\u5165\uFF1As = ["H","a","n","n","a","h"]
 \u8F93\u51FA\uFF1A["h","a","n","n","a","H"]
@@ -2077,7 +2077,8 @@ public boolean equals(Object obj) {
  -d <size>          \u672C\u6B21\u6D4B\u8BD5 set/get \u6570\u636E\u5927\u5C0F\uFF0C\u5355\u4F4D\u5B57\u8282 (default 3)
  -q                 \u672C\u6B21\u6D4B\u8BD5\u7684\u62A5\u544A\uFF0C\u7B80\u8981\u8F93\u51FA
  -t <tests>         \u6307\u5B9A\u8981\u8FDB\u884C\u6D4B\u8BD5\u7684\u547D\u4EE4\uFF08get,set,lpush...\uFF09\uFF0C\u5982\u679C\u8981\u6307\u5B9A\u591A\u4E2A\u547D\u4EE4\u4F7F\u7528\u82F1\u6587\u9017\u53F7\u5206\u9694\uFF0C\u4E0D\u80FD\u6709\u7A7A\u683C,\u9ED8\u8BA4\u60C5\u51B5\u4E0B\u4F1A\u6D4B\u8BD5\u6240\u6709\u547D\u4EE4
-`,paraId:9,tocIndex:1},{value:"2.Redis \u5185\u5B58\u4E0D\u591F\u7528\u600E\u4E48\u529E\uFF1F",paraId:0},{value:"\u7B54\u6848\u89E3\u6790\u601D\u8DEF",paraId:10,tocIndex:2},{value:"\uFF1ARedis \u5185\u5B58\u4E0D\u591F\u7528\u65F6\uFF0C\u4F1A\u89E6\u53D1 Redis \u5185\u5B58\u6DD8\u6C70\u7B56\u7565\u3002 \u65E9\u671F\u7248\u672C\u7684 Redis \u6709\u4EE5\u4E0B 6 \u79CD\u6DD8\u6C70\u673A\u5236\uFF08\u4E5F\u53EB\u505A\u5185\u5B58\u6DD8\u6C70\u7B56\u7565\uFF09\uFF1A",paraId:10,tocIndex:2},{value:"noeviction\uFF1A\u4E0D\u6DD8\u6C70\u4EFB\u4F55\u6570\u636E\uFF0C\u5F53\u5185\u5B58\u4E0D\u8DB3\u65F6\uFF0C\u65B0\u589E\u64CD\u4F5C\u4F1A\u62A5\u9519\uFF0CRedis \u9ED8\u8BA4\u5185\u5B58\u6DD8\u6C70\u7B56\u7565\uFF1B",paraId:11,tocIndex:2},{value:"allkeys-lru\uFF1A\u6DD8\u6C70\u6574\u4E2A\u952E\u503C\u4E2D\u6700\u4E45\u672A\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:12,tocIndex:2},{value:"allkeys-random\uFF1A\u968F\u673A\u6DD8\u6C70\u4EFB\u610F\u952E\u503C;",paraId:13,tocIndex:2},{value:"volatile-lru\uFF1A\u6DD8\u6C70\u6240\u6709\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u952E\u503C\u4E2D\u6700\u4E45\u672A\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:14,tocIndex:2},{value:"volatile-random\uFF1A\u968F\u673A\u6DD8\u6C70\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u4EFB\u610F\u952E\u503C\uFF1B",paraId:15,tocIndex:2},{value:"volatile-ttl\uFF1A\u4F18\u5148\u6DD8\u6C70\u66F4\u65E9\u8FC7\u671F\u7684\u952E\u503C\u3002",paraId:16,tocIndex:2},{value:"volatile-lfu\uFF1A\u6DD8\u6C70\u6240\u6709\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u952E\u503C\u4E2D\uFF0C\u6700\u5C11\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:17,tocIndex:2},{value:"allkeys-lfu\uFF1A\u6DD8\u6C70\u6574\u4E2A\u952E\u503C\u4E2D\u6700\u5C11\u4F7F\u7528\u7684\u952E\u503C\u3002",paraId:18,tocIndex:2},{value:"r\u5C31\u662Fresently,\u4FDD\u7559\u6700\u8FD1\u4F7F\u7528\u7684\uFF0C\u6DD8\u6C70\u6700\u4E45\u4E0D\u4F7F\u7528\u7684\uFF1Bf\u662Ffrequently,\u4FDD\u7559\u7ECF\u5E38\u4F7F\u7528\u7684\uFF0C\u6DD8\u6C70\u6700\u4E0D\u7ECF\u5E38\u4F7F\u7528\u7684",paraId:19,tocIndex:2},{value:"allkeys\u5BF9\u5E94\u5168\u90E8\uFF0Cvolatile\u5BF9\u5E94\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\uFF0C\u4E8C\u4E09\u7EC4\u5408\u6709\u516D\u79CD\uFF0C\u52A0\u4E0Avolatile-ttl\u6DD8\u6C70\u8FC7\u671F\u7684\uFF0Cnoeviction\u4E0D\u6DD8\u6C70\u603B\u51718\u79CD\u3002",paraId:20,tocIndex:2},{value:"\u7B54\u6848\u6269\u5C55",paraId:21,tocIndex:2},{value:"\uFF1A\u5F53\u7136\u8FD8\u53EF\u4EE5\u901A\u8FC7\u8BBE\u7F6E Redis \u7684\u6700\u5927\u8FD0\u884C\u5185\u5B58\u6765\u5C3D\u91CF\u907F\u514D\u8FD9\u4E2A\u95EE\u9898",paraId:21,tocIndex:2},{value:"\u6253\u5F00 Redis \u7684\u914D\u7F6E\u6587\u4EF6",paraId:22,tocIndex:2},{value:"\uFF1A\u5728 Redis \u7684\u5B89\u88C5\u76EE\u5F55\u4E0B\u627E\u5230 ",paraId:22,tocIndex:2},{value:"redis.conf",paraId:22,tocIndex:2},{value:" ",paraId:22,tocIndex:2},{value:"redis\u4E00\u5207\u914D\u7F6E\u90FD\u5728\u8FD9\u4E2A\u6587\u4EF6\u91CC",paraId:22,tocIndex:2},{value:"\u6587\u4EF6\uFF0C\u4F7F\u7528\u6587\u672C\u7F16\u8F91\u5668\u6253\u5F00\u8BE5\u6587\u4EF6\u3002",paraId:22,tocIndex:2},{value:"\u8BBE\u7F6E maxmemory \u7684\u503C",paraId:23,tocIndex:2},{value:'\uFF1A\u53D6\u6D88\u6CE8\u91CA "',paraId:23,tocIndex:2},{value:"maxmemory",paraId:23,tocIndex:2},{value:'" \u53C2\u6570\uFF0C\u5E76\u5C06\u5176\u503C\u8BBE\u7F6E\u4E3A\u671F\u671B\u7684\u8FD0\u884C\u5185\u5B58\u5927\u5C0F\u3002\u503C\u53EF\u4EE5\u4F7F\u7528\u5355\u4F4D K\u3001M\u3001G \u6765\u8868\u793A\uFF0C\u5982"1G"\u8868\u793A 1GB \u5185\u5B58\u3002\u786E\u4FDD\u8BBE\u7F6E\u7684\u5185\u5B58\u5927\u5C0F\u5408\u7406\uFF0C\u4E0D\u8981\u8D85\u8FC7\u53EF\u7528\u7269\u7406\u5185\u5B58\u7684\u9650\u5236\u3002',paraId:23,tocIndex:2},{value:"\u914D\u7F6E\u5185\u5B58\u6DD8\u6C70\u7B56\u7565",paraId:24,tocIndex:2},{value:'\uFF1A\u5728 Redis \u8D85\u8FC7\u8BBE\u7F6E\u7684\u6700\u5927\u5185\u5B58\u9650\u5236\u65F6\uFF0C\u9700\u8981\u6839\u636E\u914D\u7F6E\u7684\u7B56\u7565\u6765\u51B3\u5B9A\u5982\u4F55\u6E05\u7406\u6570\u636E\u3002\u627E\u5230\u5E76\u4FEE\u6539"',paraId:24,tocIndex:2},{value:"maxmemory-policy",paraId:24,tocIndex:2},{value:'"\u53C2\u6570\uFF0C\u53EF\u4EE5\u9009\u62E9\u4F7F\u7528\u7684\u5185\u5B58\u9010\u51FA\u7B56\u7565\uFF0C\u5982 volatile-lru\u3001allkeys-lru\u3001volatile-random \u7B49\u3002',paraId:24,tocIndex:2}]},93119:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7EF4\u62A4\u4E2A\u4EBA\u7B14\u8BB0\u5E93",paraId:0,tocIndex:0},{value:"\u65B0\u6280\u672F\u7684\u5B66\u4E60",paraId:0,tocIndex:0},{value:"\u6280\u80FD\u6811\u7684\u6784\u67B6",paraId:0,tocIndex:0},{value:"\u81EA\u5DF1\u96F6\u6563\u5B66\u4E60\u7684\u5185\u5BB9\u5176\u5B9E\u4E0D\u5728\u5C11\u6570\uFF0C\u4F46\u662F\u57FA\u672C\u90FD\u662F\u873B\u8713\u70B9\u6C34\u5F0F\u7684\u3002\u4ECA\u5E74\u6253\u7B97\u6539\u53D8\u4E0B\uFF0C\u5C06\u5DE5\u4F5C\u4E2D\u548C\u5B66\u4E60\u4E2D\u7684\u8FC7\u7A0B\u4EA7\u7269\u8BB0\u5F55\u4E0B\u6765\uFF0C\u4E00\u662F\u4FBF\u4E8E\u81EA\u5DF1\u56DE\u987E\uFF0C\u4E8C\u662F\u4EE5\u8FD9\u79CD\u65B9\u5F0F\u8BB0\u5F55\u66F4\u80FD\u6DF1\u5165\u53BB\u4E86\u89E3\u67D0\u9879\u6280\u672F\u3002\u7ECF\u5E38\u901B\u6398\u91D1\uFF0C\u53EF\u4EE5\u770B\u5230\u91CC\u9762\u6709\u597D\u591A\u4EBA\u90FD\u4FDD\u6301\u7740\u7EF4\u62A4\u4E2A\u4EBA\u7B14\u8BB0\u5E93\u7684\u4E60\u60EF\uFF0C\u6709\u4E9B\u6587\u7AE0\u6211\u8FD8\u770B\u4E0D\u61C2\uFF08\u60ED\u6127\uFF09\uFF0C\u6545\u6253\u7B97\u91CD\u62FE\u4E2A\u4EBA\u7B14\u8BB0\u5E93\u3002",paraId:1,tocIndex:1},{value:"\u4E86\u89E3\u4E0B\u4E92\u8054\u7F51\u6700\u524D\u6CBF\u7684\u65B0\u6280\u672F\uFF0C\u867D\u7136\u5355\u4E00\u8BED\u8A00\u80FD\u505A\u7684\u6BD4\u8F83\u5C11\uFF0C\u4F46\u8C03\u8C03API\u8FD8\u662F\u53EF\u4EE5\u7684.....",paraId:2,tocIndex:2},{value:"\u6700\u91CD\u8981\u7684\uFF1A\u6253\u597D\u8BA1\u7B97\u673A\u57FA\u7840\u7684\u77E5\u8BC6\uFF0C\u8BA1\u7B97\u673A\u7F51\u7EDC,\u64CD\u4F5C\u7CFB\u7EDF\uFF0C\u7EC4\u6210\u539F\u7406\uFF0Cjava\u57FA\u7840\uFF08\u5E73\u65F6\u770B\u5230\u65B0\u9C9C\u7684\u5C31\u8BB0\u5F55\u4E0B\uFF09",paraId:3,tocIndex:3},{value:"\u5B66\u4E60\u66F4\u591A\u7684\u6280\u672F\u6846\u67B6\uFF0C\u4E86\u89E3\u66F4\u591A\u7684\u8BBE\u8BA1\u6A21\u5F0F, RESTful API\u670D\u52A1\u5B9E\u73B0\u548C\u8BBE\u8BA1\uFF0C\u5B66\u4E60\u66F4\u591A\u7684\u5F00\u53D1\u5B89\u5168\u77E5\u8BC6",paraId:4,tocIndex:3},{value:"\u4E86\u89E3\u5927\u578B\u9879\u76EE\u67B6\u6784\u8BBE\u8BA1\uFF0C\u719F\u6089\u5E38\u89C1\u573A\u666F\u4E0B\u7684\u6027\u80FD\u4F18\u5316\u65B9\u6CD5",paraId:5,tocIndex:3},{value:"\u4F7F\u7528docker\u548Ck8s\u5728\u5404\u7C7B\u4E91\u5E73\u53F0 (AWS,\u963F\u91CC\u4E91\u7B49\u56FD\u5185\u4E91\u5E73\u53F0,Azure,Google\u4E91) \u5B9E\u73B0\u9879\u76EE\u90E8\u7F72\u548C\u7BA1\u7406",paraId:6,tocIndex:3},{value:"\u4E86\u89E3\u5927\u6570\u636E\u76F8\u5173\u6280\u672F\u6808",paraId:7,tocIndex:3},{value:"\u719F\u7EC3\u642D\u5EFACI/CD\u6D41\u6C34\u7EBF",paraId:8,tocIndex:3},{value:"*AI\u548C\u673A\u5668\u5B66\u4E60",paraId:9,tocIndex:3},{value:"\u4E00\u63D0\u5230\u5237\u7B97\u6CD5\uFF0C\u5927\u5BB6\u90FD\u89C9\u5F97\u8981\u8DF3\u69FD\uFF0C\u4E5F\u6DF1\u523B\u8BF4\u660E\u4E86\u7B97\u6CD5\u5728\u5F00\u53D1\u5DE5\u4F5C\u4E2D\u7528\u5230\u7684\u6982\u7387\u4E4B\u4F4E\u3002\u4F46\u662F\u73B0\u5728\u7B97\u6CD5\u9762\u8BD5\u4F3C\u4E4E\u5DF2\u7ECF\u662F\u5E02\u573A\u5171\u8BC6\u4E86\uFF0C\u4F60\u5F97\u6709\u624D\u6709 offer\u3002",paraId:10,tocIndex:4},{value:"idea\u7834\u89E3\uFF1A",paraId:11,tocIndex:4},{value:"https://www.bilibili.com/read/cv27050575/",paraId:11,tocIndex:4}]},48448:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E00\u4E9B\u81EA\u5B9A\u4E49\u6CE8\u89E3",paraId:0,tocIndex:1},{value:"\u81EA\u5B9A\u4E49\u6846\u67B6\u4E0B\u7684\u7C7B\u81EA\u52A8\u6CE8\u5165\uFF0C\u4E4B\u540E\u51E0\u4E2A\u81EA\u5B9A\u4E49\u6CE8\u89E3\u4E0E\u5176\u7C7B\u4F3C",paraId:1,tocIndex:2},{value:`/**
+`,paraId:9,tocIndex:1},{value:"2.Redis \u5185\u5B58\u4E0D\u591F\u7528\u600E\u4E48\u529E\uFF1F",paraId:0},{value:"\u7B54\u6848\u89E3\u6790\u601D\u8DEF",paraId:10,tocIndex:2},{value:"\uFF1ARedis \u5185\u5B58\u4E0D\u591F\u7528\u65F6\uFF0C\u4F1A\u89E6\u53D1 Redis \u5185\u5B58\u6DD8\u6C70\u7B56\u7565\u3002 \u65E9\u671F\u7248\u672C\u7684 Redis \u6709\u4EE5\u4E0B 6 \u79CD\u6DD8\u6C70\u673A\u5236\uFF08\u4E5F\u53EB\u505A\u5185\u5B58\u6DD8\u6C70\u7B56\u7565\uFF09\uFF1A",paraId:10,tocIndex:2},{value:"noeviction\uFF1A\u4E0D\u6DD8\u6C70\u4EFB\u4F55\u6570\u636E\uFF0C\u5F53\u5185\u5B58\u4E0D\u8DB3\u65F6\uFF0C\u65B0\u589E\u64CD\u4F5C\u4F1A\u62A5\u9519\uFF0CRedis \u9ED8\u8BA4\u5185\u5B58\u6DD8\u6C70\u7B56\u7565\uFF1B",paraId:11,tocIndex:2},{value:"allkeys-lru\uFF1A\u6DD8\u6C70\u6574\u4E2A\u952E\u503C\u4E2D\u6700\u4E45\u672A\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:12,tocIndex:2},{value:"allkeys-random\uFF1A\u968F\u673A\u6DD8\u6C70\u4EFB\u610F\u952E\u503C;",paraId:13,tocIndex:2},{value:"volatile-lru\uFF1A\u6DD8\u6C70\u6240\u6709\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u952E\u503C\u4E2D\u6700\u4E45\u672A\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:14,tocIndex:2},{value:"volatile-random\uFF1A\u968F\u673A\u6DD8\u6C70\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u4EFB\u610F\u952E\u503C\uFF1B",paraId:15,tocIndex:2},{value:"volatile-ttl\uFF1A\u4F18\u5148\u6DD8\u6C70\u66F4\u65E9\u8FC7\u671F\u7684\u952E\u503C\u3002",paraId:16,tocIndex:2},{value:"volatile-lfu\uFF1A\u6DD8\u6C70\u6240\u6709\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\u952E\u503C\u4E2D\uFF0C\u6700\u5C11\u4F7F\u7528\u7684\u952E\u503C\uFF1B",paraId:17,tocIndex:2},{value:"allkeys-lfu\uFF1A\u6DD8\u6C70\u6574\u4E2A\u952E\u503C\u4E2D\u6700\u5C11\u4F7F\u7528\u7684\u952E\u503C\u3002",paraId:18,tocIndex:2},{value:"r\u5C31\u662Fresently,\u4FDD\u7559\u6700\u8FD1\u4F7F\u7528\u7684\uFF0C\u6DD8\u6C70\u6700\u4E45\u4E0D\u4F7F\u7528\u7684\uFF1Bf\u662Ffrequently,\u4FDD\u7559\u7ECF\u5E38\u4F7F\u7528\u7684\uFF0C\u6DD8\u6C70\u6700\u4E0D\u7ECF\u5E38\u4F7F\u7528\u7684",paraId:19,tocIndex:2},{value:"allkeys\u5BF9\u5E94\u5168\u90E8\uFF0Cvolatile\u5BF9\u5E94\u8BBE\u7F6E\u4E86\u8FC7\u671F\u65F6\u95F4\u7684\uFF0C\u4E8C\u4E09\u7EC4\u5408\u6709\u516D\u79CD\uFF0C\u52A0\u4E0Avolatile-ttl\u6DD8\u6C70\u8FC7\u671F\u7684\uFF0Cnoeviction\u4E0D\u6DD8\u6C70\u603B\u51718\u79CD\u3002",paraId:20,tocIndex:2},{value:"\u7B54\u6848\u6269\u5C55",paraId:21,tocIndex:2},{value:"\uFF1A\u5F53\u7136\u8FD8\u53EF\u4EE5\u901A\u8FC7\u8BBE\u7F6E Redis \u7684\u6700\u5927\u8FD0\u884C\u5185\u5B58\u6765\u5C3D\u91CF\u907F\u514D\u8FD9\u4E2A\u95EE\u9898",paraId:21,tocIndex:2},{value:"\u6253\u5F00 Redis \u7684\u914D\u7F6E\u6587\u4EF6",paraId:22,tocIndex:2},{value:"\uFF1A\u5728 Redis \u7684\u5B89\u88C5\u76EE\u5F55\u4E0B\u627E\u5230 ",paraId:22,tocIndex:2},{value:"redis.conf",paraId:22,tocIndex:2},{value:" ",paraId:22,tocIndex:2},{value:"redis\u4E00\u5207\u914D\u7F6E\u90FD\u5728\u8FD9\u4E2A\u6587\u4EF6\u91CC",paraId:22,tocIndex:2},{value:"\u6587\u4EF6\uFF0C\u4F7F\u7528\u6587\u672C\u7F16\u8F91\u5668\u6253\u5F00\u8BE5\u6587\u4EF6\u3002",paraId:22,tocIndex:2},{value:"\u8BBE\u7F6E maxmemory \u7684\u503C",paraId:23,tocIndex:2},{value:'\uFF1A\u53D6\u6D88\u6CE8\u91CA "',paraId:23,tocIndex:2},{value:"maxmemory",paraId:23,tocIndex:2},{value:'" \u53C2\u6570\uFF0C\u5E76\u5C06\u5176\u503C\u8BBE\u7F6E\u4E3A\u671F\u671B\u7684\u8FD0\u884C\u5185\u5B58\u5927\u5C0F\u3002\u503C\u53EF\u4EE5\u4F7F\u7528\u5355\u4F4D K\u3001M\u3001G \u6765\u8868\u793A\uFF0C\u5982"1G"\u8868\u793A 1GB \u5185\u5B58\u3002\u786E\u4FDD\u8BBE\u7F6E\u7684\u5185\u5B58\u5927\u5C0F\u5408\u7406\uFF0C\u4E0D\u8981\u8D85\u8FC7\u53EF\u7528\u7269\u7406\u5185\u5B58\u7684\u9650\u5236\u3002',paraId:23,tocIndex:2},{value:"\u914D\u7F6E\u5185\u5B58\u6DD8\u6C70\u7B56\u7565",paraId:24,tocIndex:2},{value:'\uFF1A\u5728 Redis \u8D85\u8FC7\u8BBE\u7F6E\u7684\u6700\u5927\u5185\u5B58\u9650\u5236\u65F6\uFF0C\u9700\u8981\u6839\u636E\u914D\u7F6E\u7684\u7B56\u7565\u6765\u51B3\u5B9A\u5982\u4F55\u6E05\u7406\u6570\u636E\u3002\u627E\u5230\u5E76\u4FEE\u6539"',paraId:24,tocIndex:2},{value:"maxmemory-policy",paraId:24,tocIndex:2},{value:'"\u53C2\u6570\uFF0C\u53EF\u4EE5\u9009\u62E9\u4F7F\u7528\u7684\u5185\u5B58\u9010\u51FA\u7B56\u7565\uFF0C\u5982 volatile-lru\u3001allkeys-lru\u3001volatile-random \u7B49\u3002',paraId:24,tocIndex:2}]},93119:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u7EF4\u62A4\u4E2A\u4EBA\u7B14\u8BB0\u5E93",paraId:0,tocIndex:0},{value:"\u65B0\u6280\u672F\u7684\u5B66\u4E60",paraId:0,tocIndex:0},{value:"\u6280\u80FD\u6811\u7684\u6784\u67B6",paraId:0,tocIndex:0},{value:"\u81EA\u5DF1\u96F6\u6563\u5B66\u4E60\u7684\u5185\u5BB9\u5176\u5B9E\u4E0D\u5728\u5C11\u6570\uFF0C\u4F46\u662F\u57FA\u672C\u90FD\u662F\u873B\u8713\u70B9\u6C34\u5F0F\u7684\u3002\u4ECA\u5E74\u6253\u7B97\u6539\u53D8\u4E0B\uFF0C\u5C06\u5DE5\u4F5C\u4E2D\u548C\u5B66\u4E60\u4E2D\u7684\u8FC7\u7A0B\u4EA7\u7269\u8BB0\u5F55\u4E0B\u6765\uFF0C\u4E00\u662F\u4FBF\u4E8E\u81EA\u5DF1\u56DE\u987E\uFF0C\u4E8C\u662F\u4EE5\u8FD9\u79CD\u65B9\u5F0F\u8BB0\u5F55\u66F4\u80FD\u6DF1\u5165\u53BB\u4E86\u89E3\u67D0\u9879\u6280\u672F\u3002\u7ECF\u5E38\u901B\u6398\u91D1\uFF0C\u53EF\u4EE5\u770B\u5230\u91CC\u9762\u6709\u597D\u591A\u4EBA\u90FD\u4FDD\u6301\u7740\u7EF4\u62A4\u4E2A\u4EBA\u7B14\u8BB0\u5E93\u7684\u4E60\u60EF\uFF0C\u6709\u4E9B\u6587\u7AE0\u6211\u8FD8\u770B\u4E0D\u61C2\uFF08\u60ED\u6127\uFF09\uFF0C\u6545\u6253\u7B97\u91CD\u62FE\u4E2A\u4EBA\u7B14\u8BB0\u5E93\u3002",paraId:1,tocIndex:1},{value:"\u4E86\u89E3\u4E0B\u4E92\u8054\u7F51\u6700\u524D\u6CBF\u7684\u65B0\u6280\u672F\uFF0C\u867D\u7136\u5355\u4E00\u8BED\u8A00\u80FD\u505A\u7684\u6BD4\u8F83\u5C11\uFF0C\u4F46\u8C03\u8C03API\u8FD8\u662F\u53EF\u4EE5\u7684.....",paraId:2,tocIndex:2},{value:"\u6700\u91CD\u8981\u7684\uFF1A\u6253\u597D\u8BA1\u7B97\u673A\u57FA\u7840\u7684\u77E5\u8BC6\uFF0C\u8BA1\u7B97\u673A\u7F51\u7EDC,\u64CD\u4F5C\u7CFB\u7EDF\uFF0C\u7EC4\u6210\u539F\u7406\uFF0Cjava\u57FA\u7840\uFF08\u5E73\u65F6\u770B\u5230\u65B0\u9C9C\u7684\u5C31\u8BB0\u5F55\u4E0B\uFF09",paraId:3,tocIndex:3},{value:"\u5B66\u4E60\u66F4\u591A\u7684\u6280\u672F\u6846\u67B6\uFF0C\u4E86\u89E3\u66F4\u591A\u7684\u8BBE\u8BA1\u6A21\u5F0F, RESTful API\u670D\u52A1\u5B9E\u73B0\u548C\u8BBE\u8BA1\uFF0C\u5B66\u4E60\u66F4\u591A\u7684\u5F00\u53D1\u5B89\u5168\u77E5\u8BC6",paraId:4,tocIndex:3},{value:"\u4E86\u89E3\u5927\u578B\u9879\u76EE\u67B6\u6784\u8BBE\u8BA1\uFF0C\u719F\u6089\u5E38\u89C1\u573A\u666F\u4E0B\u7684\u6027\u80FD\u4F18\u5316\u65B9\u6CD5",paraId:5,tocIndex:3},{value:"\u4F7F\u7528docker\u548Ck8s\u5728\u5404\u7C7B\u4E91\u5E73\u53F0 (AWS,\u963F\u91CC\u4E91\u7B49\u56FD\u5185\u4E91\u5E73\u53F0,Azure,Google\u4E91) \u5B9E\u73B0\u9879\u76EE\u90E8\u7F72\u548C\u7BA1\u7406",paraId:6,tocIndex:3},{value:"\u4E86\u89E3\u5927\u6570\u636E\u76F8\u5173\u6280\u672F\u6808",paraId:7,tocIndex:3},{value:"\u719F\u7EC3\u642D\u5EFACI/CD\u6D41\u6C34\u7EBF",paraId:8,tocIndex:3},{value:"*AI\u548C\u673A\u5668\u5B66\u4E60",paraId:9,tocIndex:3},{value:"\u4E00\u63D0\u5230\u5237\u7B97\u6CD5\uFF0C\u5927\u5BB6\u90FD\u89C9\u5F97\u8981\u8DF3\u69FD\uFF0C\u4E5F\u6DF1\u523B\u8BF4\u660E\u4E86\u7B97\u6CD5\u5728\u5F00\u53D1\u5DE5\u4F5C\u4E2D\u7528\u5230\u7684\u6982\u7387\u4E4B\u4F4E\u3002\u4F46\u662F\u73B0\u5728\u7B97\u6CD5\u9762\u8BD5\u4F3C\u4E4E\u5DF2\u7ECF\u662F\u5E02\u573A\u5171\u8BC6\u4E86\uFF0C\u4F60\u5F97\u6709\u624D\u6709 offer\u3002",paraId:10,tocIndex:4},{value:"idea\u7834\u89E3\uFF1A",paraId:11,tocIndex:4},{value:"https://www.bilibili.com/read/cv27050575/",paraId:11,tocIndex:4},{value:`
+win\u5B89\u88C5mysql `,paraId:11,tocIndex:4},{value:"https://blog.csdn.net/weixin_44512005/article/details/135777754",paraId:11,tocIndex:4}]},48448:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u4E00\u4E9B\u81EA\u5B9A\u4E49\u6CE8\u89E3",paraId:0,tocIndex:1},{value:"\u81EA\u5B9A\u4E49\u6846\u67B6\u4E0B\u7684\u7C7B\u81EA\u52A8\u6CE8\u5165\uFF0C\u4E4B\u540E\u51E0\u4E2A\u81EA\u5B9A\u4E49\u6CE8\u89E3\u4E0E\u5176\u7C7B\u4F3C",paraId:1,tocIndex:2},{value:`/**
  * @ Target(ElementType.FIELD)  \u6CE8\u89E3\u8868\u793A\u8BE5\u6CE8\u89E3\u53EF\u4EE5\u5E94\u7528\u4E8E\u5B57\u6BB5\uFF08Field\uFF09\u4E0A\u3002
  * @ Retention(RetentionPolicy.RUNTIME) \u6CE8\u89E3\u8868\u793A\u8BE5\u6CE8\u89E3\u5728\u8FD0\u884C\u65F6\uFF08Runtime\uFF09\u4ECD\u7136\u53EF\u7528\uFF0C\u53EF\u4EE5\u901A\u8FC7\u53CD\u5C04\u6765\u83B7\u53D6\u3002
  */
@@ -3468,7 +3469,910 @@ public class ProxyMessageErrorHandler implements ProxyMessageHandler {
        return ProxyDataTypeEnum.DISCONNECT.getDesc();
     }
 }
-`,paraId:26,tocIndex:13}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
+`,paraId:26,tocIndex:13}]},46017:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u542F\u52A8\u7C7B",paraId:0,tocIndex:1},{value:"\u5C06resources\u4E0B\u7684application.yml\u5185\u5BB9\u52A0\u8F7D\u6210\u914D\u7F6E\u53D8\u91CF",paraId:1,tocIndex:3},{value:`@Data
+@Configuration(prefix = "proxy")
+public class ProxyConfig {
+    private Protocol protocol;
+    private Server server;
+    @Value("license")
+    private Map<String, Integer> licenseMap;
+}
+`,paraId:2,tocIndex:3},{value:"\u4EE3\u7406\u670D\u52A1\u5668\u914D\u7F6E\u7C7B\uFF0C\u7528\u4E8E\u7BA1\u7406\u4EE3\u7406\u670D\u52A1\u5668\u7684\u914D\u7F6E\u4FE1",paraId:3,tocIndex:4},{value:"\u4E00\u4E2A\u4EE3\u7406\u670D\u52A1\u5668\u6709\u591A\u4E2A\u901A\u8BAF\u7AEF\u53E3\uFF0C\u6BCF\u4E2A\u7AEF\u53E3\u5BF9\u5E94\u591A\u4E2A\u771F\u5B9E\u670D\u52A1\u5668\u5730\u5740",paraId:4,tocIndex:4},{value:`public class ProxyServerConfig implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+	//\u66F4\u65B0\u914D\u7F6E\u540E\u4FDD\u8BC1\u5728\u5176\u4ED6\u7EBF\u7A0B\u5373\u65F6\u751F\u6548
+    private static ProxyServerConfig instance = new ProxyServerConfig();
+
+	//\u4EE3\u7406\u670D\u52A1\u5668\u4E3A\u5404\u4E2A\u4EE3\u7406\u5BA2\u6237\u7AEF\uFF08key\uFF09\u5F00\u542F\u5BF9\u5E94\u7684\u7AEF\u53E3\u5217\u8868\uFF08value\uFF09
+    private volatile Map<String, List<Integer>> clientInetPortMapping = new HashMap<String, List<Integer>>();
+
+    //\u4EE3\u7406\u670D\u52A1\u5668\u4E0A\u7684\u6BCF\u4E2A\u5BF9\u5916\u7AEF\u53E3\uFF08key\uFF09\u5BF9\u5E94\u7684\u4EE3\u7406\u5BA2\u6237\u7AEF\u80CC\u540E\u7684\u771F\u5B9E\u670D\u52A1\u5668\u4FE1\u606F\uFF08value\uFF09
+    private volatile Map<Integer, String> inetPortLanInfoMapping = new HashMap<Integer, String>();
+
+    //\u6DFB\u52A0\u4EE3\u7406\u5BA2\u6237\u7AEF\u914D\u7F6E\u4FE1\u606F
+    public void addClientConfig(ProxyClientConfig clientConfig) {
+        String clientKey = clientConfig.getClientKey();
+        List<Integer> ports = new ArrayList<>();
+        for (ProxyClientConfig.Proxy proxy : clientConfig.getProxy()) {
+            ports.add(proxy.getServerPort());
+            inetPortLanInfoMapping.put(proxy.getServerPort(), proxy.getClientInfo());
+        }
+        clientInetPortMapping.put(clientKey, ports);
+    }
+
+    //\u83B7\u53D6\u4EE3\u7406\u5BA2\u6237\u7AEF\u5BF9\u5E94\u7684\u4EE3\u7406\u670D\u52A1\u5668\u7AEF\u53E3
+    public List<Integer> getClientInetPorts(String clientKey) {
+        return clientInetPortMapping.get(clientKey);
+    }
+
+    // \u6839\u636E\u4EE3\u7406\u670D\u52A1\u5668\u7AEF\u53E3\u83B7\u53D6\u540E\u7AEF\u670D\u52A1\u5668\u4EE3\u7406\u4FE1\u606F
+    public String getLanInfo(Integer port) {
+        return inetPortLanInfoMapping.get(port);
+    }
+
+	// \u8FD4\u56DE\u9700\u8981\u7ED1\u5B9A\u5728\u4EE3\u7406\u670D\u52A1\u5668\u7684\u7AEF\u53E3\uFF08\u7528\u4E8E\u7528\u6237\u8BF7\u6C42\uFF09
+ 	public List<Integer> getUserPorts() {
+        List<Integer> ports = new ArrayList<Integer>();
+        Iterator<Integer> ite = inetPortLanInfoMapping.keySet().iterator();
+        while (ite.hasNext()) {
+            ports.add(ite.next());
+        }
+        return ports;
+    }
+
+    // \u83B7\u53D6\u5355\u4F8B\u5B9E\u4F8B
+    public static ProxyServerConfig getInstance() {
+        return instance;
+    }
+
+    //\u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u5176\u540E\u9762\u771F\u5B9E\u670D\u52A1\u5668\u6620\u5C04\u5173\u7CFB
+    @Data
+    public static class ClientProxyMapping {
+		//\u4EE3\u7406\u670D\u52A1\u5668\u7AEF\u53E3
+        private Integer inetPort;
+		//\u9700\u8981\u4EE3\u7406\u7684\u7F51\u7EDC\u4FE1\u606F\uFF08\u4EE3\u7406\u5BA2\u6237\u7AEF\u80FD\u591F\u8BBF\u95EE\uFF09\uFF0C\u683C\u5F0F 192.168.1.99:80 (\u5FC5\u987B\u5E26\u7AEF\u53E3)
+        private String lan;
+    }
+}
+`,paraId:5,tocIndex:4},{value:"BytesMetricsHandler \u662F\u4E00\u4E2A Netty \u7684 ChannelHandler\uFF0C",paraId:6,tocIndex:6},{value:"\u7528\u4E8E\u6536\u96C6\u7F51\u7EDC\u6D41\u91CF\u7684\u6307\u6807\u6570\u636E\u3002",paraId:6,tocIndex:6},{value:"\u5B83\u7EE7\u627F\u81EA ChannelDuplexHandler\uFF0C\u53EF\u4EE5\u540C\u65F6\u5904\u7406\u5165\u7AD9\u548C\u51FA\u7AD9\u7684\u6D88\u606F\u3002",paraId:7,tocIndex:6},{value:`public class BytesMetricsHandler extends ChannelDuplexHandler {
+
+    //\u5F53\u4ECE\u901A\u9053\u8BFB\u53D6\u6570\u636E\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
+        // \u83B7\u53D6\u672C\u5730\u5730\u5740\u4FE1\u606F
+        InetSocketAddress sa = (InetSocketAddress) ctx.channel().localAddress();
+        // \u6839\u636E\u672C\u5730\u7AEF\u53E3\u83B7\u53D6 MetricsCollector \u5B9E\u4F8B
+        MetricsCollector metricsCollector = MetricsCollector.getCollector(sa.getPort());
+        // \u589E\u52A0\u8BFB\u53D6\u5B57\u8282\u6570\u548C\u6D88\u606F\u6570
+        metricsCollector.incrementReadBytes(((ByteBuf) msg).readableBytes());
+        metricsCollector.incrementReadMsgs(1);
+        // \u7EE7\u7EED\u4F20\u9012\u6D88\u606F\u81F3\u4E0B\u4E00\u4E2A\u5904\u7406\u5668
+        ctx.fireChannelRead(msg);
+    }
+
+    // \u5F53\u5C06\u6570\u636E\u5199\u5165\u901A\u9053\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5\u3002
+    @Override
+    public void write(ChannelHandlerContext ctx, Object msg, ChannelPromise promise) throws Exception {
+        InetSocketAddress sa = (InetSocketAddress) ctx.channel().localAddress();
+        MetricsCollector metricsCollector = MetricsCollector.getCollector(sa.getPort());
+        // \u589E\u52A0\u5199\u5165\u5B57\u8282\u6570\u548C\u6D88\u606F\u6570
+        metricsCollector.incrementWroteBytes(((ByteBuf) msg).readableBytes());
+        metricsCollector.incrementWroteMsgs(1);
+        // \u7EE7\u7EED\u5411\u4E0B\u4F20\u9012\u6D88\u606F
+        super.write(ctx, msg, promise);
+    }
+
+    //\u5F53\u901A\u9053\u6FC0\u6D3B\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    public void channelActive(ChannelHandlerContext ctx) throws Exception {
+        InetSocketAddress sa = (InetSocketAddress) ctx.channel().localAddress();
+        // \u6839\u636E\u672C\u5730\u7AEF\u53E3\u83B7\u53D6 MetricsCollector \u5B9E\u4F8B\uFF0C\u589E\u52A0\u8FDE\u63A5\u6570
+        MetricsCollector.getCollector(sa.getPort()).getChannels().incrementAndGet();
+        // \u8C03\u7528\u7236\u7C7B\u65B9\u6CD5\u7EE7\u7EED\u5904\u7406\u4E8B\u4EF6
+        super.channelActive(ctx);
+    }
+
+    //\u5F53\u901A\u9053\u5931\u6548\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+        InetSocketAddress sa = (InetSocketAddress) ctx.channel().localAddress();
+        // \u6839\u636E\u672C\u5730\u7AEF\u53E3\u83B7\u53D6 MetricsCollector \u5B9E\u4F8B\uFF0C\u51CF\u5C11\u8FDE\u63A5\u6570
+        MetricsCollector.getCollector(sa.getPort()).getChannels().decrementAndGet();
+        // \u8C03\u7528\u7236\u7C7B\u65B9\u6CD5\u7EE7\u7EED\u5904\u7406\u4E8B\u4EF6
+        super.channelInactive(ctx);
+    }
+
+}
+`,paraId:8,tocIndex:6},{value:"\u5B9E\u73B0\u4E86Netty \u7684 SimpleChannelInboundHandler\uFF0C\u7528\u4E8E\u5904\u7406\u4E0E\u5BA2\u6237\u7AEF\u7684",paraId:9,tocIndex:7},{value:"\u6570\u636E\u901A\u4FE1",paraId:9,tocIndex:7},{value:"\u3002",paraId:9,tocIndex:7},{value:"\u5B83\u8D1F\u8D23\u5C06\u6536\u5230\u7684 ProxyMessage \u6D88\u606F\u5206\u53D1\u7ED9\u76F8\u5E94\u7684\u5904\u7406\u5668\u8FDB\u884C\u5904\u7406\uFF0C\u5E76\u5904\u7406\u901A\u9053\u7684\u53EF\u5199\u6027\u53D8\u5316\u548C\u901A\u9053\u5173\u95ED\u7B49\u4E8B\u4EF6",paraId:10,tocIndex:7},{value:`public class ServerChannelHandler extends SimpleChannelInboundHandler<ProxyMessage> {
+    
+    // \u7528\u4E8E\u5206\u53D1\u6D88\u606F\u7684\u8C03\u5EA6\u5668
+    private static volatile Dispatcher<ChannelHandlerContext, ProxyMessage> dispatcher;
+
+    //\u6784\u9020\u51FD\u6570\uFF0C\u521D\u59CB\u5316\u8FD9\u4E2A\u6D88\u606F\u8C03\u5EA6\u5668
+    public ServerChannelHandler() {
+        LockUtil.doubleCheckProcess(() -> null == dispatcher,
+            ServerChannelHandler.class,
+            () -> {
+                dispatcher = new DefaultDispatcher<>("\u6D88\u606F\u8C03\u5EA6\u5668",
+                    BeanManager.getBeanListBySuperClass(ProxyMessageHandler.class),
+                    proxyMessage -> ProxyDataTypeEnum.of((int)proxyMessage.getType()) == null ? null : ProxyDataTypeEnum.of((int)proxyMessage.getType()).getName());
+         });
+    }
+
+    // \u5F53\u4ECE\u901A\u9053\u8BFB\u53D6\u5230 ProxyMessage \u6D88\u606F\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5\uFF0C\u5C06\u6D88\u606F\u4EA4\u7ED9\u6D88\u606F\u5206\u53D1\u5668
+    @Override
+    protected void channelRead0(ChannelHandlerContext ctx, ProxyMessage proxyMessage) throws Exception {
+        dispatcher.dispatch(ctx, proxyMessage);
+    }
+
+    //\u5F53\u901A\u9053\u7684\u53EF\u5199\u6027\u53D1\u751F\u53D8\u5316\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    public void channelWritabilityChanged(ChannelHandlerContext ctx) throws Exception {
+        //\u83B7\u53D6\u7528\u6237\u901A\u9053\u5E76\u8BBE\u7F6E\u81EA\u52A8\u8BFB\u53D6\u5C5E\u6027
+        Channel userChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+        if (userChannel != null) {
+            userChannel.config().setOption(ChannelOption.AUTO_READ, ctx.channel().isWritable());
+        }
+
+        super.channelWritabilityChanged(ctx);
+    }
+
+    // \u5F53\u901A\u9053\u5931\u6548\uFF08\u5173\u95ED\uFF09\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+         // \u83B7\u53D6\u7528\u6237\u901A\u9053
+        Channel userChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+        if (userChannel != null && userChannel.isActive()) {
+            // \u83B7\u53D6\u5BA2\u6237\u7AEF\u5BC6\u94A5\u548C\u7528\u6237ID
+            String clientKey = ctx.channel().attr(Constants.CLIENT_KEY).get();
+            String userId = ctx.channel().attr(Constants.USER_ID).get();
+            Channel cmdChannel = ProxyChannelManager.getCmdChannel(clientKey);
+            // \u83B7\u53D6\u4EE3\u7406\u547D\u4EE4\u901A\u9053
+            if (cmdChannel != null) {
+                // \u4ECE\u4EE3\u7406\u547D\u4EE4\u901A\u9053\u4E2D\u79FB\u9664\u7528\u6237\u901A\u9053
+                ProxyChannelManager.removeUserChannelFromCmdChannel(cmdChannel, userId);
+            }
+
+            // \u6570\u636E\u53D1\u9001\u5B8C\u6210\u540E\u518D\u5173\u95ED\u8FDE\u63A5\uFF0C\u89E3\u51B3http1.0\u6570\u636E\u4F20\u8F93\u95EE\u9898
+            userChannel.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE);
+            userChannel.close();
+        } else {
+            // \u79FB\u9664\u4EE3\u7406\u547D\u4EE4\u901A\u9053
+            ProxyChannelManager.removeCmdChannel(ctx.channel());
+        }
+
+        super.channelInactive(ctx);
+    }
+
+    // \u5F02\u5E38\u6355\u83B7\u5904\u7406\u65B9\u6CD5\u3002
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
+        super.exceptionCaught(ctx, cause);
+    }
+}
+`,paraId:11,tocIndex:7},{value:"\u5B9E\u73B0\u4E86Netty \u7684 SimpleChannelInboundHandler\uFF0C\u7528\u4E8E\u5904\u7406\u4E0E\u7528\u6237\u7684",paraId:12,tocIndex:8},{value:"\u6570\u636E\u901A\u4FE1",paraId:12,tocIndex:8},{value:"\u3002",paraId:12,tocIndex:8},{value:"\u8D1F\u8D23\u5C06",paraId:13,tocIndex:8},{value:"\u7528\u6237\u53D1\u9001\u7684\u6570\u636E\u8F6C\u53D1\u7ED9\u4EE3\u7406\u5BA2\u6237\u7AEF\uFF0C\u5E76\u5904\u7406\u7528\u6237\u901A\u9053\u7684\u6FC0\u6D3B\u3001\u5931\u6548\u4EE5\u53CA\u53EF\u5199\u6027\u53D8\u5316\u7B49\u4E8B\u4EF6",paraId:13,tocIndex:8},{value:`public class UserChannelHandler extends SimpleChannelInboundHandler<ByteBuf> {
+
+    // \u7528\u4E8E\u751F\u6210\u7528\u6237ID\u7684\u539F\u5B50\u957F\u6574\u578B
+    private static AtomicLong userIdProducer = new AtomicLong(0);
+
+    @Override
+    public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
+        // \u5F53\u51FA\u73B0\u5F02\u5E38\u5C31\u5173\u95ED\u8FDE\u63A5
+        ctx.close();
+    }
+
+    //\u5F53\u4ECE\u7528\u6237\u901A\u9053\u8BFB\u53D6\u5230\u6570\u636E\u65F6\u8C03\u7528\u8BE5\u65B9\u6CD5
+    @Override
+    protected void channelRead0(ChannelHandlerContext ctx, ByteBuf buf) throws Exception {
+        // \u83B7\u53D6\u7528\u6237\u901A\u9053\u548C\u4EE3\u7406\u901A\u9053
+        Channel userChannel = ctx.channel();
+        Channel proxyChannel = userChannel.attr(Constants.NEXT_CHANNEL).get();
+        if (proxyChannel == null) {
+            // \u5982\u679C\u6CA1\u6709\u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u8BE5\u7528\u6237\u901A\u9053\u5173\u8054\uFF0C\u5219\u5173\u95ED\u7528\u6237\u901A\u9053
+            ctx.channel().close();
+        } else {
+            // \u8BFB\u53D6\u6570\u636E\u5E76\u8F6C\u53D1\u7ED9\u4EE3\u7406\u670D\u52A1\u5668
+            byte[] bytes = new byte[buf.readableBytes()];
+            buf.readBytes(bytes);
+            String userId = ProxyChannelManager.getUserChannelUserId(userChannel);
+            proxyChannel.writeAndFlush(ProxyMessage.buildTransferMessage(userId, bytes));
+        }
+    }
+
+    //\u5F53\u7528\u6237\u8FDE\u63A5\u6FC0\u6D3B\u65F6\u89E6\u53D1
+    @Override
+    public void channelActive(ChannelHandlerContext ctx) throws Exception {
+        Channel userChannel = ctx.channel();
+        InetSocketAddress sa = (InetSocketAddress) userChannel.localAddress();
+        Channel cmdChannel = ProxyChannelManager.getCmdChannel(sa.getPort());
+
+        if (cmdChannel == null) {
+            // \u8BE5\u7AEF\u53E3\u8FD8\u6CA1\u6709\u4EE3\u7406\u5BA2\u6237\u7AEF
+            // \u5982\u679C\u547D\u4EE4\u901A\u9053\u4E0D\u5B58\u5728\uFF0C\u5173\u95ED\u7528\u6237\u8FDE\u63A5
+            ctx.channel().close();
+        } else {
+            String userId = newUserId();
+            String lanInfo = ProxyServerConfig.getInstance().getLanInfo(sa.getPort());
+            // \u7528\u6237\u8FDE\u63A5\u5230\u4EE3\u7406\u670D\u52A1\u5668\u65F6\uFF0C\u8BBE\u7F6E\u7528\u6237\u8FDE\u63A5\u4E0D\u53EF\u8BFB\uFF0C\u7B49\u5F85\u4EE3\u7406\u540E\u7AEF\u670D\u52A1\u5668\u8FDE\u63A5\u6210\u529F\u540E\u518D\u6539\u53D8\u4E3A\u53EF\u8BFB\u72B6\u6001
+            userChannel.config().setOption(ChannelOption.AUTO_READ, false);
+            ProxyChannelManager.addUserChannelToCmdChannel(cmdChannel, userId, userChannel);
+            cmdChannel.writeAndFlush(ProxyMessage.buildConnectMessage(userId).setData(lanInfo.getBytes()));
+        }
+
+        super.channelActive(ctx);
+    }
+
+    //\u5F53\u7528\u6237\u8FDE\u63A5\u65AD\u5F00\u65F6\u89E6\u53D1
+    @Override
+    public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+
+        // // \u7528\u6237\u8FDE\u63A5\u65AD\u5F00\uFF0C\u901A\u77E5\u4EE3\u7406\u5BA2\u6237\u7AEF
+        Channel userChannel = ctx.channel();
+        InetSocketAddress sa = (InetSocketAddress) userChannel.localAddress();
+        Channel cmdChannel = ProxyChannelManager.getCmdChannel(sa.getPort());
+        if (cmdChannel == null) {
+            // \u8BE5\u7AEF\u53E3\u8FD8\u6CA1\u6709\u4EE3\u7406\u5BA2\u6237\u7AEF
+            ctx.channel().close();
+        } else {
+            // \u7528\u6237\u8FDE\u63A5\u65AD\u5F00\uFF0C\u4ECE\u63A7\u5236\u8FDE\u63A5\u4E2D\u79FB\u9664
+            String userId = ProxyChannelManager.getUserChannelUserId(userChannel);
+            ProxyChannelManager.removeUserChannelFromCmdChannel(cmdChannel, userId);
+            Channel proxyChannel = userChannel.attr(Constants.NEXT_CHANNEL).get();
+            if (proxyChannel != null && proxyChannel.isActive()) {
+                // \u6E05\u7406\u76F8\u5173\u5C5E\u6027\u5E76\u901A\u77E5\u4EE3\u7406\u670D\u52A1\u5668\u7528\u6237\u8FDE\u63A5\u5DF2\u65AD\u5F00
+                proxyChannel.attr(Constants.NEXT_CHANNEL).remove();
+                proxyChannel.attr(Constants.CLIENT_KEY).remove();
+                proxyChannel.attr(Constants.USER_ID).remove();
+				// \u6062\u590D\u4EE3\u7406\u670D\u52A1\u5668\u8BFB\u53D6\u72B6\u6001
+                proxyChannel.config().setOption(ChannelOption.AUTO_READ, true);
+                // \u901A\u77E5\u5BA2\u6237\u7AEF\uFF0C\u7528\u6237\u8FDE\u63A5\u5DF2\u7ECF\u65AD\u5F00
+                proxyChannel.writeAndFlush(ProxyMessage.buildDisconnectMessage(userId));
+            }
+        }
+
+        super.channelInactive(ctx);
+    }
+
+    // \u5F53\u8FDE\u63A5\u7684\u53EF\u5199\u72B6\u6001\u6539\u53D8\u65F6\u89E6\u53D1
+    @Override
+    public void channelWritabilityChanged(ChannelHandlerContext ctx) throws Exception {
+        // \u901A\u77E5\u4EE3\u7406\u5BA2\u6237\u7AEF
+        Channel userChannel = ctx.channel();
+        InetSocketAddress sa = (InetSocketAddress) userChannel.localAddress();
+        Channel cmdChannel = ProxyChannelManager.getCmdChannel(sa.getPort());
+        if (cmdChannel == null) {
+            // \u8BE5\u7AEF\u53E3\u8FD8\u6CA1\u6709\u4EE3\u7406\u5BA2\u6237\u7AEF
+            // \u5982\u679C\u547D\u4EE4\u901A\u9053\u4E0D\u5B58\u5728\uFF0C\u5173\u95ED\u7528\u6237\u8FDE\u63A5
+            ctx.channel().close();
+        } else {
+            Channel proxyChannel = userChannel.attr(Constants.NEXT_CHANNEL).get();
+            if (proxyChannel != null) {
+                proxyChannel.config().setOption(ChannelOption.AUTO_READ, userChannel.isWritable());
+            }
+        }
+
+        super.channelWritabilityChanged(ctx);
+    }
+
+	// \u4E3A\u7528\u6237\u8FDE\u63A5\u4EA7\u751F\u552F\u4E00ID userIdProducer
+    private static String newUserId() {
+        return String.valueOf(userIdProducer.incrementAndGet());
+    }
+}
+`,paraId:14,tocIndex:8},{value:`@Slf4j
+@Component
+public class ProxyServerRunner implements ApplicationRunner {
+    
+     // \u81EA\u52A8\u6CE8\u5165\u4EE3\u7406\u914D\u7F6E
+    @Autowired
+    private ProxyConfig proxyConfig;
+    
+    // \u81EA\u52A8\u6CE8\u5165\u670D\u52A1\u5668Boss\u7EBF\u7A0B\u7EC4
+    @Autowired("serverBossGroup")
+    private NioEventLoopGroup serverBossGroup;
+    
+    // \u81EA\u52A8\u6CE8\u5165\u670D\u52A1\u5668Worker\u7EBF\u7A0B\u7EC4
+    @Autowired("serverWorkerGroup")
+    private NioEventLoopGroup serverWorkerGroup;
+
+    // \u5E94\u7528\u542F\u52A8\u540E\u6267\u884C\u7684\u65B9\u6CD5 
+    @Override
+    public void run(String[] args) {
+        // \u542F\u52A8\u666E\u901A\u4EE3\u7406\u670D\u52A1
+       startProxyServer();
+        // \u542F\u52A8SSL\u4EE3\u7406\u670D\u52A1
+       startProxyServerForSSL();
+    }
+
+	// \u542F\u52A8\u4EE3\u7406\u670D\u52A1
+    private void startProxyServer() {
+       ServerBootstrap bootstrap = new ServerBootstrap();
+       bootstrap.group(serverBossGroup, serverWorkerGroup).channel(NioServerSocketChannel.class).childHandler(new ChannelInitializer<SocketChannel>() {
+
+          @Override
+          public void initChannel(SocketChannel ch) throws Exception {
+             proxyServerCommonInitHandler(ch);
+          }
+       });
+       try {
+           // \u7ED1\u5B9A\u7AEF\u53E3\u5E76\u540C\u6B65\u7B49\u5F85\u542F\u52A8\u5B8C\u6210
+          bootstrap.bind(proxyConfig.getServer().getPort()).sync();
+          log.info("\u4EE3\u7406\u670D\u52A1\u542F\u52A8\uFF0C\u7AEF\u53E3\uFF1A{}", proxyConfig.getServer().getPort());
+       } catch (Exception e) {
+          log.error("\u4EE3\u7406\u670D\u52A1\u5F02\u5E38", e);
+       }
+    }
+    
+	// \u542F\u52A8SSL\u4EE3\u7406\u670D\u52A1
+    private void startProxyServerForSSL() {
+        // \u5982\u679CSSL\u7AEF\u53E3\u672A\u914D\u7F6E\uFF0C\u76F4\u63A5\u8FD4\u56DE
+       if (null == proxyConfig.getServer().getSslPort()) {
+          return;
+       }
+       ServerBootstrap bootstrap = new ServerBootstrap();
+       bootstrap.group(serverBossGroup, serverWorkerGroup)
+          .channel(NioServerSocketChannel.class).childHandler(new ChannelInitializer<SocketChannel>() {
+          @Override
+          public void initChannel(SocketChannel ch) throws Exception {
+              // \u6DFB\u52A0SSL\u5904\u7406\u5668\u548C\u666E\u901A\u4EE3\u7406\u670D\u52A1\u521D\u59CB\u5316\u5904\u7406\u5668
+             ch.pipeline().addLast(createSslHandler());
+             proxyServerCommonInitHandler(ch);
+          }
+       });
+       try {
+           // \u7ED1\u5B9ASSL\u7AEF\u53E3\u5E76\u540C\u6B65\u7B49\u5F85\u542F\u52A8\u5B8C\u6210
+          bootstrap.bind(proxyConfig.getServer().getSslPort()).sync();
+          log.info("\u4EE3\u7406\u670D\u52A1\u542F\u52A8\uFF0CSSL\u7AEF\u53E3\uFF1A {}", proxyConfig.getServer().getSslPort());
+       } catch (Exception e) {
+          log.error("\u4EE3\u7406\u670D\u52A1\u5F02\u5E38", e);
+       }
+    }
+
+    // \u521B\u5EFASSL\u5904\u7406\u5668
+    private ChannelHandler createSslHandler() {
+       try {
+           // \u52A0\u8F7DJKS\u5BC6\u94A5\u5E93\u6587\u4EF6
+          InputStream jksInputStream = FileUtil.getInputStream(proxyConfig.getServer().getJksPath());
+          SSLContext serverContext = SSLContext.getInstance("TLS");
+          final KeyStore ks = KeyStore.getInstance("JKS");
+          ks.load(jksInputStream, proxyConfig.getServer().getKeyStorePassword().toCharArray());
+          final KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory.getDefaultAlgorithm());
+          kmf.init(ks, proxyConfig.getServer().getKeyManagerPassword().toCharArray());
+          TrustManager[] trustManagers = null;
+
+           // \u521D\u59CB\u5316SSL\u4E0A\u4E0B\u6587
+          serverContext.init(kmf.getKeyManagers(), trustManagers, null);
+
+           // \u521B\u5EFASSLEngine\u5E76\u914D\u7F6E\u53C2\u6570
+          SSLEngine sslEngine = serverContext.createSSLEngine();
+          sslEngine.setUseClientMode(false);
+          sslEngine.setNeedClientAuth(false);
+
+           // \u8FD4\u56DESSL\u5904\u7406\u5668
+          return new SslHandler(sslEngine);
+       } catch (Exception e) {
+          log.error("\u521B\u5EFASSL\u5904\u7406\u5668\u5931\u8D25", e);
+          e.printStackTrace();
+       }
+       return null;
+    }
+
+    // \u4EE3\u7406\u670D\u52A1\u5668\u901A\u7528\u521D\u59CB\u5316\u5904\u7406\u5668
+    private void proxyServerCommonInitHandler(SocketChannel ch) {
+        // \u6DFB\u52A0\u4EE3\u7406\u6D88\u606F\u89E3\u7801\u5668
+       ch.pipeline().addLast(new ProxyMessageDecoder(proxyConfig.getProtocol().getMaxFrameLength(),
+          proxyConfig.getProtocol().getLengthFieldOffset(), proxyConfig.getProtocol().getLengthFieldLength(),
+          proxyConfig.getProtocol().getLengthAdjustment(), proxyConfig.getProtocol().getInitialBytesToStrip()));
+        // \u6DFB\u52A0\u4EE3\u7406\u6D88\u606F\u7F16\u7801\u5668
+       ch.pipeline().addLast(new ProxyMessageEncoder());
+        // \u6DFB\u52A0\u7A7A\u95F2\u68C0\u6D4B\u5904\u7406\u5668
+       ch.pipeline().addLast(new IdleCheckHandler(proxyConfig.getProtocol().getReadIdleTime(), proxyConfig.getProtocol().getWriteIdleTime(), proxyConfig.getProtocol().getAllIdleTimeSeconds()));
+        // \u6DFB\u52A0\u670D\u52A1\u5668\u901A\u9053\u5904\u7406\u5668
+       ch.pipeline().addLast(new ServerChannelHandler());
+    }
+
+    // \u521B\u5EFA\u670D\u52A1\u5668Boss\u7EBF\u7A0B\u7EC4
+    @Bean
+    public NioEventLoopGroup serverBossGroup() {
+       return new NioEventLoopGroup();
+    }
+
+    // \u521B\u5EFA\u670D\u52A1\u5668Worker\u7EBF\u7A0B\u7EC4
+    @Bean
+    public NioEventLoopGroup serverWorkerGroup() {
+       return new NioEventLoopGroup();
+    }
+}
+`,paraId:15,tocIndex:9},{value:"\u7528\u6765\u5904\u7406\u8BA4\u8BC1\u4E8B\u4EF6\u7684\u5904\u7406\u5668",paraId:16,tocIndex:11},{value:"\u4EE3\u7406\u6D88\u606F\u8BA4\u8BC1\u5904\u7406\u5668\uFF0C\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u8BA4\u8BC1\u6D88\u606F\uFF0C\u9A8C\u8BC1\u5BA2\u6237\u7AEF\u7684\u8EAB\u4EFD\u548C\u6388\u6743\u4FE1\u606F\uFF0C\u5E76\u542F\u52A8",paraId:17,tocIndex:11},{value:`@Slf4j
+@Match(type = Constants.ProxyDataTypeName.AUTH)
+@Component
+public class ProxyMessageAuthHandler implements ProxyMessageHandler {
+
+    // \u81EA\u52A8\u6CE8\u5165\u670D\u52A1\u5668Boss\u7EBF\u7A0B\u7EC4
+    @Autowired
+    private NioEventLoopGroup serverBossGroup;
+    
+    // \u81EA\u52A8\u6CE8\u5165\u670D\u52A1\u5668Worker\u7EBF\u7A0B\u7EC4
+    @Autowired
+    private NioEventLoopGroup serverWorkerGroup;
+    
+    // \u81EA\u52A8\u6CE8\u5165\u4EE3\u7406\u914D\u7F6E
+    @Autowired
+    private ProxyConfig proxyConfig;
+
+	// \u5904\u7406\u8BA4\u8BC1\u6D88\u606F
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+       // \u89E3\u6790\u5BA2\u6237\u7AEF\u914D\u7F6E
+       ProxyClientConfig clientConfig = JSONObject.parseObject(proxyMessage.getInfo(), ProxyClientConfig.class);
+       String clientKey = clientConfig.getClientKey();
+       // \u9A8C\u8BC1\u5BA2\u6237\u7AEF\u7684clientKey\u662F\u5426\u6709\u6548
+       if (!proxyConfig.getLicenseMap().containsKey(clientKey)) {
+          ctx.channel().writeAndFlush(ProxyMessage.buildErrMessage(ExceptionEnum.AUTH_FAILED, "\u65E0\u6548\u7684clientKey"));
+          ctx.channel().close();
+          return;
+       }
+
+       // \u68C0\u67E5\u5BA2\u6237\u7AEF\u662F\u5426\u8D85\u8FC7license\u9650\u5236
+       if (proxyConfig.getLicenseMap().get(clientKey) != -1 && clientConfig.getProxy().size() > proxyConfig.getLicenseMap().get(clientKey)) {
+          ctx.channel().writeAndFlush(ProxyMessage.buildErrMessage(ExceptionEnum.AUTH_FAILED, "\u4EE3\u7406\u7AEF\u53E3\u6570\u8D85\u8FC7license\u9650\u5236"));
+          ctx.channel().close();
+          return;
+       }
+
+       // \u6DFB\u52A0\u5BA2\u6237\u7AEF\u914D\u7F6E\u5230\u4EE3\u7406\u670D\u52A1\u5668\u914D\u7F6E\u4E2D
+       ProxyServerConfig.getInstance().addClientConfig(clientConfig);
+       List<Integer> ports = ProxyServerConfig.getInstance().getClientInetPorts(clientKey);
+       if (ports == null) {
+          ctx.channel().close();
+          return;
+       }
+
+       // \u68C0\u67E5\u662F\u5426\u5DF2\u5B58\u5728\u76F8\u540CclientKey\u7684\u63A7\u5236\u901A\u9053
+       Channel channel = ProxyChannelManager.getCmdChannel(clientKey);
+       if (channel != null) {
+          ctx.channel().close();
+          return;
+       }
+
+       // \u6DFB\u52A0\u63A7\u5236\u901A\u9053\u5E76\u542F\u52A8\u7528\u6237\u7AEF\u53E3\u670D\u52A1
+       ProxyChannelManager.addCmdChannel(ports, clientKey, ctx.channel());
+       startUserPortServer(ports);
+    }
+
+	// \u83B7\u53D6\u5904\u7406\u5668\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.AUTH.getDesc();
+    }
+
+	// \u542F\u52A8\u7528\u6237\u7AEF\u53E3\u670D\u52A1
+    private void startUserPortServer(List<Integer> ports) {
+       ServerBootstrap bootstrap = new ServerBootstrap();
+       bootstrap.group(serverBossGroup, serverWorkerGroup)
+                .channel(NioServerSocketChannel.class)
+                .childHandler(new ChannelInitializer<SocketChannel>() {
+                    @Override
+                    public void initChannel(SocketChannel ch) throws Exception {
+                       // \u6DFB\u52A0\u5B57\u8282\u6307\u6807\u5904\u7406\u5668\u548C\u7528\u6237\u901A\u9053\u5904\u7406\u5668
+                       ch.pipeline().addFirst(new BytesMetricsHandler());
+                       ch.pipeline().addLast(new UserChannelHandler());
+                    }
+                });
+
+       // \u904D\u5386\u7AEF\u53E3\u5217\u8868\u5E76\u5C1D\u8BD5\u7ED1\u5B9A
+       for (int port : ports) {
+          try {
+             bootstrap.bind(port).get();
+             log.info("\u7ED1\u5B9A\u7528\u6237\u7AEF\u53E3\uFF1A {}", port);
+          } catch (Exception ex) {
+             // \u5982\u679C\u7AEF\u53E3\u5DF2\u7ECF\u7ED1\u5B9A\uFF0C\u8BB0\u5F55\u65E5\u5FD7\u5E76\u5FFD\u7565\u5F02\u5E38
+             if (!(ex.getCause() instanceof BindException)) {
+                throw new RuntimeException(ex);
+             }
+          }
+       }
+    }
+}
+
+`,paraId:18,tocIndex:11},{value:"\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u4E8B\u4EF6",paraId:19,tocIndex:12},{value:"\u4EE3\u7406\u6D88\u606F\u8FDE\u63A5\u5904\u7406\u5668\uFF0C\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u6D88\u606F\uFF0C\u5EFA\u7ACB\u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u540E\u7AEF\u670D\u52A1\u5668\u7684\u8FDE\u63A5\u3002",paraId:20,tocIndex:12},{value:"\u5F53\u5BA2\u6237\u7AEF\u53D1\u9001\u8FDE\u63A5\u6D88\u606F\u65F6\uFF0C\u8BE5\u5904\u7406\u5668\u8D1F\u8D23\u89E3\u6790\u6D88\u606F\u5185\u5BB9\uFF0C\u67E5\u627E\u5BF9\u5E94\u7684\u63A7\u5236\u901A\u9053\uFF0C\u5E76\u5EFA\u7ACB\u7528\u6237\u901A\u9053\u4E0E\u540E\u7AEF\u670D\u52A1\u5668\u7684\u8FDE\u63A5\u3002",paraId:21,tocIndex:12},{value:`@Match(type = Constants.ProxyDataTypeName.CONNECT)
+@Component
+public class ProxyMessageConnectHandler implements ProxyMessageHandler {
+
+	// \u5904\u7406\u8FDE\u63A5\u6D88\u606F
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+        // \u83B7\u53D6\u8FDE\u63A5\u6D88\u606F\u4E2D\u7684\u4FE1\u606F
+        String info = proxyMessage.getInfo();
+        // \u5982\u679C\u4FE1\u606F\u4E3A\u7A7A\uFF0C\u5173\u95ED\u5F53\u524D\u901A\u9053\u5E76\u8FD4\u56DE
+        if (info == null) {
+            ctx.channel().close();
+            return;
+        }
+
+        // \u89E3\u6790\u4FE1\u606F\uFF0C\u683C\u5F0F\u4E3A"\u7528\u6237ID@\u5BA2\u6237\u7AEFKey"
+        String[] tokens = info.split("@");
+        // \u5982\u679C\u4FE1\u606F\u683C\u5F0F\u4E0D\u6B63\u786E\uFF0C\u5173\u95ED\u5F53\u524D\u901A\u9053\u5E76\u8FD4\u56DE
+        if (tokens.length != 2) {
+            ctx.channel().close();
+            return;
+        }
+
+        // \u67E5\u627E\u5BF9\u5E94\u5BA2\u6237\u7AEFKey\u7684\u63A7\u5236\u901A\u9053
+        Channel cmdChannel = ProxyChannelManager.getCmdChannel(tokens[1]);
+        // \u5982\u679C\u672A\u627E\u5230\u63A7\u5236\u901A\u9053\uFF0C\u5173\u95ED\u5F53\u524D\u901A\u9053\u5E76\u8FD4\u56DE
+        if (cmdChannel == null) {
+            ctx.channel().close();
+            return;
+        }
+
+        // \u67E5\u627E\u5BF9\u5E94\u7528\u6237ID\u7684\u7528\u6237\u901A\u9053
+        Channel userChannel = ProxyChannelManager.getUserChannel(cmdChannel, tokens[0]);
+        // \u5982\u679C\u627E\u5230\u7528\u6237\u901A\u9053\uFF0C\u5EFA\u7ACB\u8FDE\u63A5\uFF0C\u5E76\u8BBE\u7F6E\u76F8\u5173\u5C5E\u6027
+        if (userChannel != null) {
+            // \u8BBE\u7F6E\u8FDE\u63A5\u7684\u7528\u6237ID\u3001\u5BA2\u6237\u7AEFKey\u548C\u4E0B\u4E00\u4E2A\u901A\u9053
+            ctx.channel().attr(Constants.USER_ID).set(tokens[0]);
+            ctx.channel().attr(Constants.CLIENT_KEY).set(tokens[1]);
+            ctx.channel().attr(Constants.NEXT_CHANNEL).set(userChannel);
+            userChannel.attr(Constants.NEXT_CHANNEL).set(ctx.channel());
+            // \u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u540E\u7AEF\u670D\u52A1\u5668\u8FDE\u63A5\u6210\u529F\uFF0C\u4FEE\u6539\u7528\u6237\u8FDE\u63A5\u4E3A\u53EF\u8BFB\u72B6\u6001
+            userChannel.config().setOption(ChannelOption.AUTO_READ, true);
+        }
+    }
+
+	// \u83B7\u53D6\u5904\u7406\u5668\u540D\u79F0
+    @Override
+    public String name() {
+        return ProxyDataTypeEnum.CONNECT.getDesc();
+    }
+}
+
+`,paraId:22,tocIndex:12},{value:"\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u65AD\u5F00\u8FDE\u63A5\u4E8B\u4EF6",paraId:23,tocIndex:13},{value:"\u4EE3\u7406\u6D88\u606F\u65AD\u5F00\u8FDE\u63A5\u5904\u7406\u5668\uFF0C\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F\uFF0C\u65AD\u5F00\u4EE3\u7406\u5BA2\u6237\u7AEF\u4E0E\u540E\u7AEF\u670D\u52A1\u5668\u7684\u8FDE\u63A5\u3002",paraId:24,tocIndex:13},{value:"\u5F53\u5BA2\u6237\u7AEF\u53D1\u9001\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F\u65F6\uFF0C\u8BE5\u5904\u7406\u5668\u8D1F\u8D23\u89E3\u6790\u6D88\u606F\u5185\u5BB9\uFF0C\u65AD\u5F00\u4E0E\u540E\u7AEF\u670D\u52A1\u5668\u7684\u8FDE\u63A5\uFF0C\u5E76\u5173\u95ED\u76F8\u5173\u901A\u9053\u3002",paraId:25,tocIndex:13},{value:`@Match(type = Constants.ProxyDataTypeName.DISCONNECT)
+@Component
+public class ProxyMessageDisconnectHandler implements ProxyMessageHandler {
+
+	// \u5904\u7406\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+       // \u83B7\u53D6\u5BA2\u6237\u7AEFKey
+       String clientKey = ctx.channel().attr(Constants.CLIENT_KEY).get();
+
+       // \u5982\u679C\u5BA2\u6237\u7AEFKey\u4E3A\u7A7A\uFF0C\u8BF4\u660E\u4EE3\u7406\u8FDE\u63A5\u6CA1\u6709\u8FDE\u4E0A\u670D\u52A1\u5668\uFF0C\u7531\u63A7\u5236\u8FDE\u63A5\u53D1\u9001\u7528\u6237\u7AEF\u65AD\u5F00\u8FDE\u63A5\u6D88\u606F
+       if (clientKey == null) {
+          // \u83B7\u53D6\u7528\u6237ID
+          String userId = proxyMessage.getInfo();
+          // \u4ECE\u63A7\u5236\u8FDE\u63A5\u4E2D\u79FB\u9664\u7528\u6237\u901A\u9053
+          Channel userChannel = ProxyChannelManager.removeUserChannelFromCmdChannel(ctx.channel(), userId);
+          if (userChannel != null) {
+             // \u6570\u636E\u53D1\u9001\u5B8C\u6210\u540E\u518D\u5173\u95ED\u8FDE\u63A5\uFF0C\u89E3\u51B3HTTP1.0\u6570\u636E\u4F20\u8F93\u95EE\u9898
+             userChannel.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE);
+          }
+          return;
+       }
+
+       // \u67E5\u627E\u63A7\u5236\u901A\u9053
+       Channel cmdChannel = ProxyChannelManager.getCmdChannel(clientKey);
+       if (cmdChannel == null) {
+          return;
+       }
+
+       // \u4ECE\u63A7\u5236\u901A\u9053\u4E2D\u79FB\u9664\u7528\u6237\u901A\u9053
+       Channel userChannel = ProxyChannelManager.removeUserChannelFromCmdChannel(cmdChannel, ctx.channel().attr(Constants.USER_ID).get());
+       if (userChannel != null) {
+          // \u6570\u636E\u53D1\u9001\u5B8C\u6210\u540E\u518D\u5173\u95ED\u8FDE\u63A5\uFF0C\u89E3\u51B3HTTP1.0\u6570\u636E\u4F20\u8F93\u95EE\u9898
+          userChannel.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE);
+          // \u79FB\u9664\u5F53\u524D\u901A\u9053\u7684\u76F8\u5173\u5C5E\u6027
+          ctx.channel().attr(Constants.NEXT_CHANNEL).remove();
+          ctx.channel().attr(Constants.CLIENT_KEY).remove();
+          ctx.channel().attr(Constants.USER_ID).remove();
+       }
+    }
+
+	// \u83B7\u53D6\u5904\u7406\u5668\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.DISCONNECT.getDesc();
+    }
+}
+`,paraId:26,tocIndex:13},{value:"\u4EE3\u7406\u6D88\u606F\u5FC3\u8DF3\u5904\u7406\u5668\uFF0C\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u5FC3\u8DF3\u6D88\u606F\uFF0C\u5411\u5BA2\u6237\u7AEF\u53D1\u9001\u5FC3\u8DF3\u54CD\u5E94\u6D88\u606F\u3002",paraId:27,tocIndex:14},{value:"\u5F53\u5BA2\u6237\u7AEF\u53D1\u9001\u5FC3\u8DF3\u6D88\u606F\u65F6\uFF0C\u8BE5\u5904\u7406\u5668\u8D1F\u8D23\u5411\u5BA2\u6237\u7AEF\u53D1\u9001\u5FC3\u8DF3\u54CD\u5E94\u6D88\u606F\uFF0C\u4EE5\u7EF4\u6301\u8FDE\u63A5\u7684\u6D3B\u8DC3\u72B6\u6001\u3002",paraId:28,tocIndex:14},{value:`@Match(type = Constants.ProxyDataTypeName.HEARTBEAT)
+@Component
+public class ProxyMessageHeartbeatHandler implements ProxyMessageHandler {
+
+    // \u5904\u7406\u5FC3\u8DF3\u6D88\u606F
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+        // \u5411\u5BA2\u6237\u7AEF\u53D1\u9001\u5FC3\u8DF3\u54CD\u5E94\u6D88\u606F
+       ctx.channel().writeAndFlush(ProxyMessage.buildHeartbeatMessage());
+    }
+
+    // \u83B7\u53D6\u5904\u7406\u5668\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.HEARTBEAT.getDesc();
+    }
+
+}
+`,paraId:29,tocIndex:14},{value:`// \u65B0\u5EFA\u4E86\u4E00\u4E2A\u7C7B\u578B\u4E3A\u5FC3\u8DF3\u6D88\u606F\u7684ProxyMessage
+public static ProxyMessage buildHeartbeatMessage() {
+    return create().setType(TYPE_HEARTBEAT);
+}
+`,paraId:30,tocIndex:14},{value:"\u4EE3\u7406\u6D88\u606F\u4F20\u8F93\u5904\u7406\u5668\uFF0C\u5904\u7406\u6765\u81EA\u5BA2\u6237\u7AEF\u7684\u6570\u636E\u4F20\u8F93\u6D88\u606F\uFF0C\u5C06\u6570\u636E\u4F20\u8F93\u5230\u7528\u6237\u901A\u9053\u3002",paraId:31,tocIndex:15},{value:"\u5F53\u5BA2\u6237\u7AEF\u53D1\u9001\u6570\u636E\u4F20\u8F93\u6D88\u606F\u65F6\uFF0C\u8BE5\u5904\u7406\u5668\u8D1F\u8D23\u4ECE\u6D88\u606F\u4E2D\u63D0\u53D6\u6570\u636E\uFF0C\u5E76\u5C06\u6570\u636E\u4F20\u8F93\u5230\u7528\u6237\u901A\u9053\u3002",paraId:32,tocIndex:15},{value:`@Match(type = Constants.ProxyDataTypeName.TRANSFER)
+@Component
+public class ProxyMessageTransferHandler implements ProxyMessageHandler {
+
+    // \u5904\u7406\u6570\u636E\u4F20\u8F93\u6D88\u606F
+    @Override
+    public void handle(ChannelHandlerContext ctx, ProxyMessage proxyMessage) {
+        // \u83B7\u53D6\u7528\u6237\u901A\u9053
+       Channel userChannel = ctx.channel().attr(Constants.NEXT_CHANNEL).get();
+        // \u5982\u679C\u7528\u6237\u901A\u9053\u5B58\u5728\uFF0C\u5C06\u6570\u636E\u4F20\u8F93\u5230\u7528\u6237\u901A\u9053
+       if (userChannel != null) {
+          ByteBuf buf = ctx.alloc().buffer(proxyMessage.getData().length);
+          buf.writeBytes(proxyMessage.getData());
+          userChannel.writeAndFlush(buf);
+       }
+    }
+
+    //\u83B7\u53D6\u5904\u7406\u5668\u540D\u79F0
+    @Override
+    public String name() {
+       return ProxyDataTypeEnum.TRANSFER.getDesc();
+    }
+
+}
+`,paraId:33,tocIndex:15},{value:"Metrics\uFF08\u5EA6\u91CF\u6307\u6807\uFF09\u7C7B\uFF0C\u7528\u4E8E\u8868\u793A\u670D\u52A1\u5668\u7684\u6027\u80FD\u5EA6\u91CF\u6307\u6807\u3002",paraId:34,tocIndex:17},{value:"\u5305\u542B\u4E86\u670D\u52A1\u5668\u76D1\u542C\u7AEF\u53E3\u3001\u8BFB\u53D6\u5B57\u8282\u6570\u3001\u5199\u5165\u5B57\u8282\u6570\u3001\u8BFB\u53D6\u6D88\u606F\u6570\u3001\u5199\u5165\u6D88\u606F\u6570\u3001\u6D3B\u8DC3\u901A\u9053\u6570\u548C\u65F6\u95F4\u6233\u7B49\u4FE1\u606F",paraId:35,tocIndex:17},{value:`@Data
+public class Metrics implements Serializable {
+    private static final long serialVersionUID = 1L;
+    // \u670D\u52A1\u5668\u76D1\u542C\u7AEF\u53E3
+    private int port;
+    // \u8BFB\u53D6\u5B57\u8282\u6570
+    private long readBytes;
+    // \u5199\u5165\u5B57\u8282\u6570
+    private long wroteBytes;
+    // \u8BFB\u53D6\u6D88\u606F\u6570
+    private long readMsgs;
+    // \u5199\u5165\u6D88\u606F\u6570
+    private long wroteMsgs;
+    // \u6D3B\u8DC3\u901A\u9053\u6570
+    private int channels;
+    // \u65F6\u95F4\u6233
+    private long timestamp;
+}
+`,paraId:36,tocIndex:17},{value:"MetricsCollector\uFF08\u5EA6\u91CF\u6307\u6807\u6536\u96C6\u5668\uFF09\u7C7B\uFF0C\u7528\u4E8E\u6536\u96C6\u670D\u52A1\u5668\u7684\u6027\u80FD\u5EA6\u91CF\u6307\u6807\u3002",paraId:37,tocIndex:18},{value:"\u5305\u542B\u4E86\u670D\u52A1\u5668\u76D1\u542C\u7AEF\u53E3\u3001\u8BFB\u53D6\u5B57\u8282\u6570\u3001\u5199\u5165\u5B57\u8282\u6570\u3001\u8BFB\u53D6\u6D88\u606F\u6570\u3001\u5199\u5165\u6D88\u606F\u6570\u3001\u6D3B\u8DC3\u901A\u9053\u6570\u7B49\u4FE1\u606F\uFF0C\u5E76\u63D0\u4F9B\u4E86\u76F8\u5E94\u7684\u64CD\u4F5C\u65B9\u6CD5\u3002",paraId:38,tocIndex:18},{value:`public class MetricsCollector {
+
+    // \u5B58\u50A8\u7AEF\u53E3\u4E0E\u5EA6\u91CF\u6307\u6807\u6536\u96C6\u5668\u4E4B\u95F4\u7684\u6620\u5C04\u5173\u7CFB
+    private static Map<Integer, MetricsCollector> metricsCollectors = new ConcurrentHashMap<Integer, MetricsCollector>();
+
+    // \u670D\u52A1\u5668\u76D1\u542C\u7AEF\u53E3
+    @Setter
+    @Getter
+    private Integer port;
+
+    // \u8BFB\u53D6\u5B57\u8282\u6570
+    private AtomicLong readBytes = new AtomicLong();
+
+    // \u5199\u5165\u5B57\u8282\u6570
+    private AtomicLong wroteBytes = new AtomicLong();
+
+    // \u8BFB\u53D6\u6D88\u606F\u6570
+    private AtomicLong readMsgs = new AtomicLong();
+
+    // \u5199\u5165\u6D88\u606F\u6570
+    private AtomicLong wroteMsgs = new AtomicLong();
+
+    // \u6D3B\u8DC3\u901A\u9053\u6570
+    @Getter
+    private AtomicInteger channels = new AtomicInteger();
+
+    private MetricsCollector() {
+    }
+
+    // \u83B7\u53D6\u4E0E\u6307\u5B9A\u7AEF\u53E3\u76F8\u5173\u8054\u7684 MetricsCollector \u5B9E\u4F8B
+    // \u5982\u679C\u8BE5\u7AEF\u53E3\u6CA1\u6709\u76F8\u5173\u7684\u5B9E\u4F8B\uFF0C\u5219\u521B\u5EFA\u4E00\u4E2A\u65B0\u5B9E\u4F8B\u3002
+    public static MetricsCollector getCollector(Integer port) {
+        MetricsCollector collector = metricsCollectors.get(port);
+        if (collector == null) {
+            synchronized (metricsCollectors) {
+                collector = metricsCollectors.get(port);
+                if (collector == null) {
+                    collector = new MetricsCollector();
+                    collector.setPort(port);
+                    metricsCollectors.put(port, collector);
+                }
+            }
+        }
+
+        return collector;
+    }
+
+    // \u83B7\u53D6\u5E76\u91CD\u7F6E\u6240\u6709\u7AEF\u53E3\u7684\u6536\u96C6\u6307\u6807\uFF0C\u5E76\u4EE5\u5217\u8868\u5F62\u5F0F\u8FD4\u56DE
+    public static List<Metrics> getAndResetAllMetrics() {
+        List<Metrics> allMetrics = new ArrayList<Metrics>();
+        Iterator<Entry<Integer, MetricsCollector>> ite = metricsCollectors.entrySet().iterator();
+        while (ite.hasNext()) {
+            allMetrics.add(ite.next().getValue().getAndResetMetrics());
+        }
+
+        return allMetrics;
+    }
+
+    //\u83B7\u53D6\u6240\u6709\u7AEF\u53E3\u7684\u6536\u96C6\u6307\u6807\uFF0C\u4F46\u4E0D\u91CD\u7F6E\u5B83\u4EEC
+    public static List<Metrics> getAllMetrics() {
+        List<Metrics> allMetrics = new ArrayList<Metrics>();
+        Iterator<Entry<Integer, MetricsCollector>> ite = metricsCollectors.entrySet().iterator();
+        while (ite.hasNext()) {
+            allMetrics.add(ite.next().getValue().getMetrics());
+        }
+        return allMetrics;
+    }
+
+    //\u83B7\u53D6\u5F53\u524D\u6307\u6807\u5E76\u5C06\u5176\u91CD\u7F6E\u4E3A\u96F6
+    public Metrics getAndResetMetrics() {
+        Metrics metrics = new Metrics();
+        metrics.setChannels(channels.get());
+        metrics.setPort(port);
+        metrics.setReadBytes(readBytes.getAndSet(0));
+        metrics.setWroteBytes(wroteBytes.getAndSet(0));
+        metrics.setTimestamp(System.currentTimeMillis());
+        metrics.setReadMsgs(readMsgs.getAndSet(0));
+        metrics.setWroteMsgs(wroteMsgs.getAndSet(0));
+        return metrics;
+    }
+
+    // \u83B7\u53D6\u5F53\u524D\u6307\u6807\u4F46\u4E0D\u91CD\u7F6E\u5B83\u4EEC
+    public Metrics getMetrics() {
+        Metrics metrics = new Metrics();
+        metrics.setChannels(channels.get());
+        metrics.setPort(port);
+        metrics.setReadBytes(readBytes.get());
+        metrics.setWroteBytes(wroteBytes.get());
+        metrics.setTimestamp(System.currentTimeMillis());
+        metrics.setReadMsgs(readMsgs.get());
+        metrics.setWroteMsgs(wroteMsgs.get());
+        return metrics;
+    }
+
+    //\u589E\u52A0\u8BFB\u53D6\u5B57\u8282\u6570\u7684\u8BA1\u6570
+    public void incrementReadBytes(long bytes) {
+        readBytes.addAndGet(bytes);
+    }
+
+    //\u589E\u52A0\u5199\u5165\u5B57\u8282\u6570\u7684\u8BA1\u6570
+    public void incrementWroteBytes(long bytes) {
+        wroteBytes.addAndGet(bytes);
+    }
+
+    //\u589E\u52A0\u8BFB\u53D6\u6D88\u606F\u6570\u7684\u8BA1\u6570
+    public void incrementReadMsgs(long msgs) {
+        readMsgs.addAndGet(msgs);
+    }
+
+    //\u589E\u52A0\u5199\u5165\u6D88\u606F\u6570\u7684\u8BA1\u6570
+    public void incrementWroteMsgs(long msgs) {
+        wroteMsgs.addAndGet(msgs);
+    }
+}
+`,paraId:39,tocIndex:18},{value:"\u7BA1\u7406\u4EE3\u7406\u901A\u9053\u4E4B\u95F4\u7684\u5173\u7CFB",paraId:40,tocIndex:19},{value:`public class ProxyChannelManager {
+
+    // \u7528\u6237\u901A\u9053\u7684\u5C5E\u6027\u952E\uFF0C\u5B58\u50A8\u7528\u6237\u901A\u9053\u7684\u6620\u5C04
+    private static final AttributeKey<Map<String, Channel>> USER_CHANNELS = AttributeKey.newInstance("user_channels");
+
+    // \u8BF7\u6C42\u5C40\u57DF\u7F51\u4FE1\u606F\u7684\u5C5E\u6027\u952E
+    private static final AttributeKey<String> REQUEST_LAN_INFO = AttributeKey.newInstance("request_lan_info");
+
+    // \u901A\u9053\u7AEF\u53E3\u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u5B58\u50A8\u7AEF\u53E3\u5217\u8868
+    private static final AttributeKey<List<Integer>> CHANNEL_PORT = AttributeKey.newInstance("channel_port");
+
+    // \u901A\u9053\u5BA2\u6237\u7AEF\u5BC6\u94A5\u7684\u5C5E\u6027\u952E\uFF0C\u7528\u4E8E\u552F\u4E00\u6807\u8BC6\u5BA2\u6237\u7AEF
+    private static final AttributeKey<String> CHANNEL_CLIENT_KEY = AttributeKey.newInstance("channel_client_key");
+
+    // \u7AEF\u53E3\u5230\u547D\u4EE4\u901A\u9053\u7684\u6620\u5C04
+    private static Map<Integer, Channel> portCmdChannelMapping = new ConcurrentHashMap<Integer, Channel>();
+
+    // \u547D\u4EE4\u901A\u9053\u7684\u6620\u5C04\uFF0C\u7528\u5BA2\u6237\u7AEF\u5BC6\u94A5\u4F5C\u4E3A\u952E
+    private static Map<String, Channel> cmdChannels = new ConcurrentHashMap<String, Channel>();
+ 
+	// \u6DFB\u52A0\u4EE3\u7406\u63A7\u5236\u5BA2\u6237\u7AEF\u8FDE\u63A5\u4E0E\u4EE3\u7406\u670D\u52A1\u5668\u7AEF\u53E3\u4E4B\u95F4\u7684\u6620\u5C04\u5173\u7CFB
+    public static void addCmdChannel(List<Integer> ports, String clientKey, Channel channel) {
+        if (ports == null) {
+            throw new IllegalArgumentException("port can not be null");
+        }
+        // \u5BA2\u6237\u7AEF\uFF08proxy-client\uFF09\u76F8\u5BF9\u8F83\u5C11\uFF0C\u8FD9\u91CC\u540C\u6B65\u7684\u6BD4\u8F83\u91CD
+        // \u4FDD\u8BC1\u670D\u52A1\u5668\u5BF9\u5916\u7AEF\u53E3\u4E0E\u5BA2\u6237\u7AEF\u5230\u670D\u52A1\u5668\u7684\u8FDE\u63A5\u5173\u7CFB\u5728\u4E34\u754C\u60C5\u51B5\u65F6\u8C03\u7528removeChannel(Channel channel)\u65F6\u4E0D\u51FA\u95EE\u9898
+        synchronized (portCmdChannelMapping) {
+            for (int port : ports) {
+                portCmdChannelMapping.put(port, channel);
+            }
+        }
+        channel.attr(CHANNEL_PORT).set(ports);
+        channel.attr(CHANNEL_CLIENT_KEY).set(clientKey);
+        channel.attr(USER_CHANNELS).set(new ConcurrentHashMap<String, Channel>());
+        cmdChannels.put(clientKey, channel);
+    }
+
+	//\u5F53\u4EE3\u7406\u5BA2\u6237\u7AEF\u8FDE\u63A5\u65AD\u5F00\u65F6\uFF0C\u6E05\u9664\u4E0E\u4E4B\u76F8\u5173\u7684\u6620\u5C04\u5173\u7CFB\u3002
+    public static void removeCmdChannel(Channel channel) {
+        if (channel.attr(CHANNEL_PORT).get() == null) {
+            return;
+        }
+        String clientKey = channel.attr(CHANNEL_CLIENT_KEY).get();
+        Channel channel0 = cmdChannels.remove(clientKey);
+        if (channel != channel0) {
+            cmdChannels.put(clientKey, channel);
+        }
+        List<Integer> ports = channel.attr(CHANNEL_PORT).get();
+        for (int port : ports) {
+            Channel proxyChannel = portCmdChannelMapping.remove(port);
+            if (proxyChannel == null) {
+                continue;
+            }
+            // \u5728\u6267\u884C\u65AD\u8FDE\u4E4B\u524D\u65B0\u7684\u8FDE\u63A5\u5DF2\u7ECF\u8FDE\u4E0A\u6765\u4E86
+            if (proxyChannel != channel) {
+                portCmdChannelMapping.put(port, proxyChannel);
+            }
+        }
+        if (channel.isActive()) {
+            channel.close();
+        }
+        Map<String, Channel> userChannels = getUserChannels(channel);
+        Iterator<String> ite = userChannels.keySet().iterator();
+        while (ite.hasNext()) {
+            Channel userChannel = userChannels.get(ite.next());
+            if (userChannel.isActive()) {
+                userChannel.close();
+            }
+        }
+    }
+
+    public static Channel getCmdChannel(Integer port) {
+        return portCmdChannelMapping.get(port);
+    }
+
+    public static Channel getCmdChannel(String clientKey) {
+        return cmdChannels.get(clientKey);
+    }
+
+	// \u589E\u52A0\u7528\u6237\u8FDE\u63A5\u4E0E\u4EE3\u7406\u5BA2\u6237\u7AEF\u8FDE\u63A5\u5173\u7CFB
+    public static void addUserChannelToCmdChannel(Channel cmdChannel, String userId, Channel userChannel) {
+        InetSocketAddress sa = (InetSocketAddress) userChannel.localAddress();
+        String lanInfo = ProxyServerConfig.getInstance().getLanInfo(sa.getPort());
+        userChannel.attr(Constants.USER_ID).set(userId);
+        userChannel.attr(REQUEST_LAN_INFO).set(lanInfo);
+        cmdChannel.attr(USER_CHANNELS).get().put(userId, userChannel);
+    }
+
+	//\u5220\u9664\u7528\u6237\u8FDE\u63A5\u4E0E\u4EE3\u7406\u5BA2\u6237\u7AEF\u8FDE\u63A5\u5173\u7CFB
+    public static Channel removeUserChannelFromCmdChannel(Channel cmdChannel, String userId) {
+        if (cmdChannel.attr(USER_CHANNELS).get() == null) {
+            return null;
+        }
+        synchronized (cmdChannel) {
+            return cmdChannel.attr(USER_CHANNELS).get().remove(userId);
+        }
+    }
+
+	//\u6839\u636E\u4EE3\u7406\u5BA2\u6237\u7AEF\u8FDE\u63A5\u4E0E\u7528\u6237\u7F16\u53F7\u83B7\u53D6 \u7528\u6237\u8FDE\u63A5
+    public static Channel getUserChannel(Channel cmdChannel, String userId) {
+        return cmdChannel.attr(USER_CHANNELS).get().get(userId);
+    }
+
+	//\u83B7\u53D6\u7528\u6237\u7F16\u53F7
+    public static String getUserChannelUserId(Channel userChannel) {
+        return userChannel.attr(Constants.USER_ID).get();
+    }
+
+	//\u83B7\u53D6\u7528\u6237\u8BF7\u6C42\u7684\u5185\u7F51IP\u7AEF\u53E3\u4FE1\u606F
+    public static String getUserChannelRequestLanInfo(Channel userChannel) {
+        return userChannel.attr(REQUEST_LAN_INFO).get();
+    }
+
+	// \u83B7\u53D6\u4EE3\u7406\u63A7\u5236\u5BA2\u6237\u7AEF\u8FDE\u63A5\u7ED1\u5B9A\u7684\u6240\u6709\u7528\u6237\u8FDE\u63A5
+    public static Map<String, Channel> getUserChannels(Channel cmdChannel) {
+        return cmdChannel.attr(USER_CHANNELS).get();
+    }
+}
+`,paraId:41,tocIndex:19}]},53578:function(t,a,e){e.r(a),e.d(a,{texts:function(){return n}});const n=[{value:"\u6570\u636E\u7ED3\u6784",paraId:0},{value:"\u6570\u7EC4 + \u94FE\u8868 +(\u7EA2\u9ED1\u6811     jdk>=8)",paraId:1,tocIndex:1},{value:"\u6E90\u7801\u539F\u7406\u5206\u6790",paraId:0},{value:"\u91CD\u8981\u6210\u5458\u53D8\u91CF",paraId:0},{value:"DEFAULT_INITIAL_CAPACITY = 1 << 4  Hash \u8868\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF (",paraId:2,tocIndex:3},{value:"default_initial_capacity:\u9ED8\u8BA4\u521D\u59CB\u5BB9\u91CF",paraId:2,tocIndex:3},{value:")",paraId:2,tocIndex:3},{value:"\u6570\u7EC4\u521D\u59CB\u5BB9\u91CF\u5FC5\u987B\u662F2\u7684\u6574\u6570\u6B21\u5E42\uFF0C\u5982\u679C\u4E0D\u662F\u4F1A\u88AB\u8F6C\u5316\u62102\u7684\u6307\u6570\uFF08\u5927\u4E8En\u6700\u63A5\u8FD1n\u76842\u7684\u6574\u6570\u6B21\u5E42\uFF09",paraId:3,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F2\u7684\u6307\u6570\u5E42\uFF1F\u8BA9hash\u66F4\u4E3A\u6563\u5217\u51CF\u5C11\u54C8\u5E0C\u78B0\u649E\uFF0C",paraId:4,tocIndex:3},{value:"MAXIMUM_CAPACITY = 1 << 30  \u6700\u5927 Hash \u8868\u5BB9\u91CF \uFF08",paraId:5,tocIndex:3},{value:"maximum_capacity:\u6700\u5927\u5BB9\u91CF",paraId:5,tocIndex:3},{value:"\uFF09",paraId:5,tocIndex:3},{value:"DEFAULT_LOAD_FACTOR = 0.75f    \u9ED8\u8BA4\u52A0\u8F7D\u56E0\u5B50    ",paraId:6,tocIndex:3},{value:"\u5BB9\u91CF\u8FBE\u523075%\u8FDB\u884C\u6269\u5BB9",paraId:6,tocIndex:3},{value:"\u6BD4\u5982\u521D\u59CB\u5BB9\u91CF16\uFF0C\u5F53\u8FBE\u523012\u4E2A\u5C31\u5F00\u59CB\u6269\u5BB9",paraId:7,tocIndex:3},{value:"\u4E3A\u4EC0\u4E48\u662F0.75 \u662F\u5728\u7A7A\u95F4\u548C\u65F6\u95F4\u4E0A\u53D6\u5F97\u4E86\u4E0D\u9519\u7684\u5747\u8861\uFF08\u725B\u987F\u4E8C\u9879\u5F0F\u63A8\u5BFC\uFF09",paraId:8,tocIndex:3},{value:"TREEIFY_THRESHOLD = 8   \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u9608\u503C",paraId:9,tocIndex:3},{value:"\u5927\u4E8E8\u4E5F\u5C31\u662F9\u624D\u4F1A\u8F6C",paraId:9,tocIndex:3},{value:"\u540C\u65F6\u8003\u8651MIN_TREEIFY_CAPACITY\u5BB9\u91CF\u8FBE\u523064\u624D\u4F1A\u8F6C\uFF0C\u5426\u5219\u4F18\u5148\u6269\u5BB9",paraId:10,tocIndex:3},{value:"UNTREEIFY_THRESHOLD = 6    \u7EA2\u9ED1\u6811\u8F6C\u94FE\u8868\u9608\u503C",paraId:11,tocIndex:3},{value:"MIN_TREEIFY_CAPACITY = 64    \u94FE\u8868\u8F6C\u7EA2\u9ED1\u6811\u65F6 hash \u8868\u6700\u5C0F\u5BB9\u91CF\u9608\u503C\uFF0C\u8FBE\u4E0D\u5230\u4F18\u5148\u6269\u5BB9\u3002",paraId:12,tocIndex:3},{value:`static final int hash(Object key) {
     int h;
     //hashmap\u91CC\u4E0D\u662F\u7528\u53D6\u6A21\u800C\u662F\u4F4D\u8FD0\u7B97\u6548\u7387\u9AD8\uFF0C\u5DEE10\u500D\u6548\u7387
     return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
