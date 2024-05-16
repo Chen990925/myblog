@@ -1,10 +1,10 @@
 ---
 group: 1.0.0
-title: proxy-server
-order: 3
+title: proxy-client
+order: 4
 ---
 
-# proxy-server
+# proxy-client
 
 ## ProxyClient
 

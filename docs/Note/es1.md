@@ -1,6 +1,6 @@
 ---
-group: 集合
-title: Collections之hashMap
+group: Elasticsearch
+title: Elasticsearch入门
 order: 1
 ---
 
