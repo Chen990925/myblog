@@ -169,3 +169,27 @@ Character 类是字符数据类型 char 的包装类。Character 类的对象包
 - replaceAll(List, Object, Object)。替换集合中指定的元素为另一个元素，并返回是否成功替换。
 
 
+## Math
+
+1. 数学运算方法：
+
+\- `abs (double a)`：返回指定数字的绝对值。
+
+\- `max (double a, double b)`：返回两个数中较大的那个数。
+
+\- `min (double a, double b)`：返回两个数中较小的那个数。
+
+\- **`pow (double a, double b)`：返回指定数字的指定次幂。**
+
+\- **`sqrt (double a)`：返回指定数字的平方根。**
+
+2. 取整方法：
+
+\- `ceil (double a)`：返回大于等于参数的最小整数。
+
+\- `floor (double a)`：返回小于等于参数的最大整数。
+
+\- **`round (double a)`：将参数四舍五入为最接近的整数。**
+
+
+
