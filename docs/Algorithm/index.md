@@ -192,4 +192,43 @@ Character 类是字符数据类型 char 的包装类。Character 类的对象包
 \- **`round (double a)`：将参数四舍五入为最接近的整数。**
 
 
+## 栈&队列ArrayDeque
+
+ArrayDeque 是 Java 中的一个双端队列（deque），底层使用数组实现。它可以在两端进行高效地插入和删除操作，并且没有容量限制。
+
+构造一个 ArrayDeque 对象可以使用以下方式：
+
+1. 默认构造函数：创建一个初始容量为 16 的空双端队列。
+
+   ```java
+   ArrayDeque<E> deque = new ArrayDeque<>();
+   ```
+
+2. 带有初始容量的构造函数：创建一个指定初始容量的空双端队列。
+
+   ```java
+   ArrayDeque<E> deque = new ArrayDeque<>(initialCapacity);
+   ```
+
+常见的 ArrayDeque 方法包括：
+
+| 方法名             | 描述                       |
+| ------------------ | -------------------------- |
+| addFirst(E e)      | 在队列头部添加一个元素     |
+| addLast(E e)       | 在队列尾部添加一个元素     |
+| offerFirst(E e)    | 在队列头部添加一个元素     |
+| offerLast(E e)     | 在队列尾部添加一个元素     |
+| pollFirst()        | 获取并移除队列头部的元素   |
+| pollLast()         | 获取并移除队列尾部的元素   |
+| peekFirst()        | 获取但不移除队列头部的元素 |
+| peekLast()         | 获取但不移除队列尾部的元素 |
+| size()             | 返回队列中的元素数量       |
+| isEmpty()          | 判断队列是否为空           |
+| clear()            | 清空队列                   |
+| removeFirst()      | 移除并返回队列头部的元素   |
+| removeLast()       | 移除并返回队列尾部的元素   |
+| contains(Object o) | 判断队列中是否包含指定元素 |
+
+
+
 
