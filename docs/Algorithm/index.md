@@ -230,5 +230,43 @@ ArrayDeque 是 Java 中的一个双端队列（deque），底层使用数组实�
 | contains(Object o) | 判断队列中是否包含指定元素 |
 
 
+## Arrays
+**排序数组**：
+
+- `sort(T[] array)`: 对数组进行升序排序。
+- `sort(T[] array, Comparator<? super T> c)`: 使用指定的比较器对数组进行排序。
+- `parallelSort(T[] array)`: 对数组进行并行排序。
+- `parallelSort(T[] array, Comparator<? super T> c)`: 使用指定的比较器对数组进行并行排序。
+
+**数组搜索**：
+
+- `binarySearch(T[] array, T key)`: 在数组中搜索指定的值，并返回其索引（如果找到）；如果未找到，则返回负数。
+- `binarySearch(T[] array, int fromIndex, int toIndex, T key)`: 在指定范围内的数组中搜索指定的值，并返回其索引（如果找到）。
+
+**数组填充**：
+
+- `fill(T[] array, T value)`: 使用指定的值填充数组的所有元素。
+- `fill(T[] array, int fromIndex, int toIndex, T value)`: 使用指定的值填充数组指定范围内的元素。
+
+**数组比较**：
+
+- `equals(T[] a, T[] b)`: 比较两个数组是否相等。
+
+**数组转换为字符串**：
+
+- `toString(T[] array)`: 将数组转换为字符串。
+- `deepToString(Object[] array)`: 将多维数组转换为字符串。
+
+**数组复制**：
+
+- `copyOf(T[] original, int newLength)`: 复制数组的前`newLength`个元素到新数组中。返回一个新的数组
+- `copyOfRange(T[] original, int from, int to)`: 复制数组的指定范围内的元素到新数组中。返回一个新的数组
 
 
+**数组转换为列表**：
+
+- `asList(T... a)`: 将指定数组转换为列表
+
+**数组扩容**：
+
+- `copyOf(T[] original, int newLength)`: 复制数组并指定新长度，可用于数组的动态扩容。返回一个新的数组
