@@ -1,3 +1,9 @@
+---
+group: 实际开发应用相关
+title: MySQL的主从同步
+order: 3
+---
+
 # MySQL的主从同步
 
 摘自CSDN    **(Mysql 数据库主从同步详解)**https://blog.csdn.net/August_Leaf/article/details/135970512
