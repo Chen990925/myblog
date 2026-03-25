@@ -7,6 +7,10 @@ on:
     paths-ignore:
       - README.md
 
+# 添加这一块 ↓
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
