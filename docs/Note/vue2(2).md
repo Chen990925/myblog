@@ -1,5 +1,5 @@
 ---
-group: vue2
+group: 前端学习
 title: vue2文档学习二
 order: 2
 ---

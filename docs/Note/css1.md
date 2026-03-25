@@ -1,5 +1,5 @@
 ---
-group: 基础学习
+group: 前端学习
 title: css基本使用
 order: 1
 ---
