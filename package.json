@@ -28,8 +28,8 @@
     "prettier": "^2.8.8"
   },
   "dependencies": {
-    "@types/react": "^18.2.6",
-    "react": "^18.2.0",
+    "@types/react": "^19.0.0",
+    "react": "^19.2.4",
     "react-layout-kit": "^1.7.0"
   }
 }
