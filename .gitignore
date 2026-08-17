@@ -3,3 +3,6 @@ node_modules
 .dumi/tmp
 .dumi/tmp-production
 .DS_Store
+# Reasonix 生成的文件
+.reasonix/
+reasonix.toml
