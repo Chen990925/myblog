@@ -1,6 +1,6 @@
 ---
 group: 大厂算法题
-title: 华为算法题笔记1
+title: od算法题笔记1
 order: 1
 ---
 
