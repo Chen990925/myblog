@@ -2,6 +2,8 @@
 group: RocketMQ 专题
 title: Broker 存储与持久化
 order: 30
+summary: RocketMQ Broker 存储三件套（CommitLog/ConsumeQueue/IndexFile）、刷盘策略（同步/异步）与消息检索原理。
+keywords: [Broker, CommitLog, ConsumeQueue, 刷盘, 存储架构]
 ---
 
 # MQ 3：Broker 存储与持久化

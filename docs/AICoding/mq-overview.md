@@ -2,6 +2,8 @@
 group: RocketMQ 专题
 title: RocketMQ 主题总览
 order: 26
+summary: 面试准备——RocketMQ 主题的入口索引，涵盖 MQ 基础、生产端可靠、Broker 存储、消费端 ACK、生产排查等板块的文件索引与复习路径。
+keywords: [RocketMQ, 消息队列, 面试准备, 可靠发送, 消费ACK]
 ---
 
 # RocketMQ 主题总览（对话总结）

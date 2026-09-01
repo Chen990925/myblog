@@ -2,6 +2,8 @@
 group: RocketMQ 专题
 title: RocketMQ 准备点清单
 order: 27
+summary: RocketMQ 面试准备总纲，汇总 MQ 基础、项目用途、生产端可靠、Broker 存储、消费端 ACK、生产排查等板块核心要点与文件索引。
+keywords: [RocketMQ, 面试清单, 消息队列, 可靠发送, 消费ACK]
 ---
 
 # RocketMQ 准备点清单（目录 / 索引版）

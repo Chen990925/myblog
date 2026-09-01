@@ -2,6 +2,8 @@
 group: Oracle 数据库专题
 title: 慢 SQL 定位
 order: 21
+summary: 慢 SQL 定位三步框架（发现→分析→优化），详解 Oracle AWR/ASH 报告解读、执行计划分析、常见低效 SQL 模式与优化方向。
+keywords: [慢SQL, AWR, 执行计划, 全表扫描, SQL优化]
 ---
 
 # 数据库 2：慢 SQL 定位

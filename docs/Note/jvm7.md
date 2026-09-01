@@ -2,6 +2,8 @@
 group: JVM专题
 title: JVM的调优(Arthas和日志打印)
 order: 7
+summary: 阿里巴巴 Arthas 诊断工具详解与实战命令（dashboard、thread、trace、watch 等），以及 JVM 日志打印配置与调优实践。
+keywords: [Arthas, JVM诊断, trace, watch, 日志打印]
 ---
 
 # JVM调优

@@ -2,6 +2,8 @@
 group: Oracle 数据库专题
 title: Oracle 数据库准备点清单
 order: 19
+summary: Oracle 数据库面试准备总纲，汇总 Oracle 与 MySQL 差异、慢 SQL 定位、索引优化、HWM/分区/统计信息、实战排查等板块核心要点与文件索引。
+keywords: [Oracle, 面试清单, 慢SQL, 索引, HWM]
 ---
 
 # 数据库（Oracle）准备点清单（目录 / 索引版）

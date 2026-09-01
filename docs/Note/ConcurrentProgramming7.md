@@ -2,6 +2,8 @@
 group: 并发编程
 title: 并发编程之Executor
 order: 7
+summary: 线程池框架详解：Executor/ExecutorService/ThreadPoolExecutor 体系、Executors 工厂方法、线程池参数配置与拒绝策略，以及 Callable/Future 异步编程。
+keywords: [Executor, 线程池, ThreadPoolExecutor, Callable, Future]
 ---
 
 

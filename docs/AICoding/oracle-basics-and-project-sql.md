@@ -2,6 +2,8 @@
 group: Oracle 数据库专题
 title: Oracle 基础与项目 SQL 特性
 order: 20
+summary: Oracle 与 MySQL 三个本质不同（事务/锁/序列）、Oracle 特有 SQL 特性（MERGE、分析函数、层次查询）与项目复杂 SQL 实战。
+keywords: [Oracle, MySQL对比, MERGE, 分析函数, 事务, 序列]
 ---
 
 # 数据库 1：Oracle 基础与项目 SQL 特性（结合项目）

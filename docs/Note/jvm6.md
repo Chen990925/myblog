@@ -2,6 +2,8 @@
 group: JVM专题
 title: JVM的调优(调优命令)
 order: 6
+summary: JVM 调优实战命令详解：jps、jstat、jmap、jstack、jcmd 等工具的使用方法与常见调优参数配置。
+keywords: [JVM调优, jps, jstat, jmap, jstack, jcmd]
 ---
 
 # JVM调优

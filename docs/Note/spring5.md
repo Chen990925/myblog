@@ -2,6 +2,8 @@
 group: spring
 title: Spring监听器 Listener
 order: 5
+summary: Spring 事件监听机制：ApplicationListener、ApplicationEvent、ApplicationEventPublisher 的原理与使用，以及观察者模式在 Spring 中的应用。
+keywords: [监听器, ApplicationListener, 事件, 观察者模式]
 ---
 
 # Spring监听器 Listener`设计思想`

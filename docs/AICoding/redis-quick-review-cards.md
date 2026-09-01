@@ -2,6 +2,8 @@
 group: Redis 缓存专题
 title: Redis 速记卡
 order: 17
+summary: Redis 缓存面试临场回忆速记卡，包含数据结构与三大问题、一致性、分布式锁、持久化高可用、性能调优等板块的引导句与核心要点。
+keywords: [Redis, 速记卡, 面试复习, 缓存, 分布式锁]
 ---
 
 # Redis 速记卡（临场回忆 / 快速准备版）

@@ -2,6 +2,8 @@
 group: JVM调优专题
 title: G1 调优
 order: 4
+summary: G1 垃圾回收器核心模型与关键参数详解（UseG1GC、MaxGCPauseMillis、G1HeapRegionSize、IHOP、NewSizePercent），结合 GC 日志反推闭环与项目纠错点。
+keywords: [G1, GC调优, MaxGCPauseMillis, IHOP, region, GC日志]
 ---
 
 # G1 调优：参数讲道理（结合 inner.sh 现有配置）

@@ -2,6 +2,8 @@
 group: 并发编程专题
 title: 锁的应用与并发容器
 order: 5
+summary: 锁选型四象限（悲观/乐观 × 本地/分布式）、avail-engine 分桶锁四层结构深度解析、乐观锁状态流转、Redis 分布式锁，以及 ConcurrentHashMap、DelayQueue 等并发容器实战。
+keywords: [锁选型, 分桶锁, ConcurrentHashMap, DelayQueue, 分布式锁, 乐观锁]
 ---
 
 # 并发编程 3：锁的应用 + 并发容器（结合项目）
@@ -17,6 +19,8 @@ JVM 内         synchronized /           AtomicInteger / CAS /
 跨实例         Redis SETNX /            Redis Lua 校验+更新 /
 （分布式）       ZK 分布式锁              DB 乐观锁（updateStatusForTrigger）
 ```
+
+> 锁选型四象限示意图。
 
 - 悲观锁：先假设冲突先拿锁（写多读少、临界区长）
 - 乐观锁：提交时校验版本（读多写少、状态流转、失败重试成本低）
@@ -38,13 +42,13 @@ DefaultAvailLockFactory.build(TradeInput)  // 按业务类型组装锁组合
 ### 关键设计点
 1. **锁粒度 = 冲突概率 × 并行度**：不同客户/证券额度互不相关 → 分桶互不阻塞；key 维度与"额度按客户×证券×资金汇总"业务对齐；粒度越细并行越高但 Map 越大
 2. **懒加载 + 原子创建（check-then-act 标准解法）**：
-   ```java
-   Lock lock = stockLockHolder.get(lockKey);
-   if (lock != null) return lock;
-   lock = new MemoryLock(new ReentrantLock());
-   Lock pre = stockLockHolder.putIfAbsent(lockKey, lock);  // 原子：返回旧值
-   return pre != null ? pre : lock;                        // 拿已存在的，避免双锁
-   ```
+```java
+Lock lock = stockLockHolder.get(lockKey);
+if (lock != null) return lock;
+lock = new MemoryLock(new ReentrantLock());
+Lock pre = stockLockHolder.putIfAbsent(lockKey, lock);  // 原子：返回旧值
+return pre != null ? pre : lock;                        // 拿已存在的，避免双锁
+```
    先查后插会重复创建两把锁 → putIfAbsent 保证全局一把 → CAS 思想在容器层的落地
 3. **DefaultAvailLockFactory.build 按业务组装**：质押转出=标准券+债券两把锁、正回购=标准券+资金两把锁 → BatchMemoryLock；**锁顺序固定（先证券后资金）→ 防 ABBA 死锁**
 4. **MemoryLock.unlock 防御**：`isHeldByCurrentThread() && isLocked()` 才 unlock → 防非持有线程误调用抛 IllegalMonitorStateException

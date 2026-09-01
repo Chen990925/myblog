@@ -2,6 +2,8 @@
 group: Oracle 数据库专题
 title: Oracle 特有优化点
 order: 23
+summary: Oracle 特有优化技术：高水位线（HWM）与缩表、分区表策略、统计信息收集、绑定变量与游标共享，结合项目实战场景。
+keywords: [HWM, 分区表, 统计信息, 绑定变量, 游标共享, 缩表]
 ---
 
 # 数据库 4：Oracle 特有优化点（HWM/分区/统计信息/绑定变量）

@@ -2,6 +2,8 @@
 group: 并发编程专题
 title: JUC 核心原理
 order: 3
+summary: 深入解析 synchronized 锁升级、volatile、CAS/ABA、AQS、ReentrantLock 对比，结合 avail-engine 分桶锁与乐观锁等项目真实代码讲解。
+keywords: [synchronized, volatile, CAS, AQS, ReentrantLock, 锁升级]
 ---
 
 # 并发编程 1：JUC 核心原理（结合项目）

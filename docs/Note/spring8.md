@@ -1,7 +1,9 @@
 ---
 group: spring
-title: spring 声明式事务
+title: Spring 声明式事务
 order: 8
+summary: Spring 声明式事务原理：@Transactional 注解工作流程、事务传播行为、隔离级别、失效场景与底层 AOP 代理实现。
+keywords: [事务, @Transactional, 传播行为, AOP, 声明式事务]
 ---
 
 # **Spring 声明式事务**

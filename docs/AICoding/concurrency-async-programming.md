@@ -2,6 +2,8 @@
 group: 并发编程专题
 title: 异步编程
 order: 7
+summary: 异步编程四层递进（Future→CompletableFuture→@Async→MQ），详解 CompletableFuture 编排 API、@Async 三大坑、生产者/消费者模式与 RocketMQ 异步解耦，分析异步的六大代价。
+keywords: [CompletableFuture, @Async, RocketMQ, 异步编程, 生产者消费者]
 ---
 
 # 并发编程 5：异步编程（结合项目）
@@ -11,6 +13,8 @@ order: 7
 ```
 Future（同步等待）  →  CompletableFuture（编排/回调）  →  @Async（方法级）  →  MQ（跨服务解耦）
 ```
+
+> 异步编程四层递进示意图。
 
 - Future：get() 阻塞，只能等一个结果，无法编排
 - CompletableFuture：异步结果 + 回调编排 + 组合（JUC 重点）
@@ -71,6 +75,8 @@ producerScheduler            DelayQueue              consumerLoop 常驻线程
 1s 扫 H2 发现新单      →     按 chaseTimeInterval  →   poll+drainTo 批量取出
 延迟到期才出队                 → 执行线程池 20/50/500
 ```
+
+> 生产者/消费者架构图。
 
 - 为什么用队列：① 解耦（生产速率 ≠ 消费速率）② 削峰（脉冲摊平）③ 流量控制（限量：队列 ≤1000、每轮 ≤200）④ 延迟调度（DelayQueue 到期才出队）
 - 注意：DelayQueue 无界，靠 MAX_TOTAL_QUEUE_SIZE 业务限流兜底——无界队列必须配套业务层限流

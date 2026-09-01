@@ -2,13 +2,15 @@
 group: 并发编程专题
 title: 线程池
 order: 4
+summary: 详解 ThreadPoolExecutor 七大参数与执行流程、四种拒绝策略、线程数预估公式，结合项目多套线程池配置对比与常见坑分析。
+keywords: [线程池, ThreadPoolExecutor, 拒绝策略, @Async, 线程数预估]
 ---
 
 # 并发编程 2：线程池（结合项目）
 
 ## 一、七大参数与执行流程（必背）
 
-```
+```java
 ThreadPoolExecutor(int corePoolSize,      // 核心线程数：常驻
                    int maximumPoolSize,   // 最大线程数：核心+临时
                    long keepAliveTime,    // 临时线程空闲存活时间
@@ -26,6 +28,8 @@ ThreadPoolExecutor(int corePoolSize,      // 核心线程数：常驻
  ├─ 队列满 → 线程数 < maxPoolSize → 新建临时线程执行
  └─ 队列满 且 线程数 ≥ maxPoolSize → 走拒绝策略
 ```
+
+> 流程图仅作示意，非实际代码。
 
 **关键认知**：
 - **先入队后扩线程**：core 满后任务先排队，队满才扩到 max

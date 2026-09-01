@@ -2,6 +2,8 @@
 group: Redis 缓存专题
 title: Redis 分布式锁
 order: 14
+summary: Redis 分布式锁三要素（互斥/防死锁/可重入）、项目 RedisUtil 锁误删问题分析、Redisson 看门狗续期、RedLock 与 CAP 取舍。
+keywords: [分布式锁, SETNX, Redisson, 看门狗, Lua, 锁误删]
 ---
 
 # Redis 3：分布式锁（结合项目，素材最真实）

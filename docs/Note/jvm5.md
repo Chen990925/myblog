@@ -2,6 +2,8 @@
 group: JVM专题
 title: JVM的垃圾收集(G1)
 order: 5
+summary: G1 垃圾收集器详解：Region 分区、Young/Mixed GC 流程、停顿目标模型、关键参数（MaxGCPauseMillis、IHOP、ReservePercent）与调优实践。
+keywords: [G1, Region, Mixed GC, 停顿目标, IHOP]
 ---
 
 

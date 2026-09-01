@@ -1,7 +1,9 @@
 ---
 group: 并发编程
-title: 并发编程之 BlockingQueue(困难)
+title: 并发编程之 BlockingQueue
 order: 5
+summary: BlockingQueue 接口详解：ArrayBlockingQueue、LinkedBlockingQueue、PriorityBlockingQueue、DelayQueue、SynchronousQueue 的原理与使用场景。
+keywords: [BlockingQueue, ArrayBlockingQueue, LinkedBlockingQueue, DelayQueue]
 ---
 
 # 并发编程之 BlockingQueue(困难)

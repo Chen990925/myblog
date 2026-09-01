@@ -2,6 +2,8 @@
 group: Redis 缓存专题
 title: 缓存一致性
 order: 13
+summary: 缓存与数据库一致性策略详解：Cache Aside、延迟双删、Canal 订阅等方案的适用场景与项目缓存删建窗口优化实践。
+keywords: [缓存一致性, Cache Aside, 延迟双删, Canal, 最终一致]
 ---
 
 # Redis 2：缓存一致性（结合项目）

@@ -1,7 +1,9 @@
 ---
 group: 并发编程
-title: 并发编程Tools:Semaphore和CountDownLatch
+title: 并发编程 Tools:Semaphore和CountDownLatch
 order: 6
+summary: Semaphore（信号量）与 CountDownLatch（倒计数器）的原理与使用场景，以及 CyclicBarrier、Exchanger 等并发工具类详解。
+keywords: [Semaphore, CountDownLatch, CyclicBarrier, 并发工具]
 ---
 
 # 并发编程Tools:Semaphore和**CountDownLatch** 

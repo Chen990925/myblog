@@ -2,6 +2,8 @@
 group: 并发编程专题
 title: 并发编程主题总览
 order: 1
+summary: 面试准备——并发编程主题的入口索引，涵盖 JUC 核心原理、线程池、锁与容器、ThreadLocal/TTL、异步编程、并发排查六大板块的文件索引与复习路径。
+keywords: [并发编程, JUC, 线程池, 锁, ThreadLocal, 面试准备]
 ---
 
 # 并发编程主题总览（对话总结）

@@ -1,7 +1,9 @@
 ---
 group: 并发编程
-title: 并发编程之 volatile 
-order: 2 
+title: 并发编程之 volatile
+order: 2
+summary: volatile 关键字详解：可见性（内存屏障）、有序性（禁止指令重排）、不保证原子性的原理，以及 DCL 单例与状态标志位等经典应用场景。
+keywords: [volatile, 内存屏障, 可见性, 有序性, DCL单例]
 ---
 
 # volatile 详解

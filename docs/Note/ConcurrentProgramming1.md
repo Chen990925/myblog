@@ -2,6 +2,8 @@
 group: 并发编程
 title: 并发编程之 JMM
 order: 1
+summary: Java 内存模型（JMM）概念、主内存与工作内存的交互、八大原子操作（lock/read/load/use/assign/store/write/unlock）与同步规则。
+keywords: [JMM, 主内存, 工作内存, 原子操作, 可见性]
 ---
 
 # 并发编程之 JMM

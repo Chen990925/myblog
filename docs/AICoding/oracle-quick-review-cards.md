@@ -2,6 +2,8 @@
 group: Oracle 数据库专题
 title: Oracle 数据库速记卡
 order: 25
+summary: Oracle 数据库面试临场回忆速记卡，包含 Oracle 与 MySQL 差异、慢 SQL 定位、索引优化、HWM/分区/绑定变量等板块的引导句与核心要点。
+keywords: [Oracle, 速记卡, 面试复习, 慢SQL, 索引]
 ---
 
 # 数据库（Oracle）速记卡（临场回忆 / 快速准备版）

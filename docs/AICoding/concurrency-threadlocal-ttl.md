@@ -2,6 +2,8 @@
 group: 并发编程专题
 title: ThreadLocal 与 TTL
 order: 6
+summary: ThreadLocal 原理与内存泄漏根因分析（value 泄漏）、线程池场景三大坑、transmittable-thread-local (TTL) 实现原理与项目异步上下文透传实践。
+keywords: [ThreadLocal, 内存泄漏, TTL, transmittable-thread-local, 上下文透传]
 ---
 
 # 并发编程 4：ThreadLocal / TTL（结合项目）

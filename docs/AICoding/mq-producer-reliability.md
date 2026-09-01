@@ -2,6 +2,8 @@
 group: RocketMQ 专题
 title: 生产端可靠发送
 order: 29
+summary: RocketMQ 三种发送方式（同步/异步/单向）的可靠性对比，事务消息原理与项目下单链路用法，发送重试与幂等保障。
+keywords: [RocketMQ, 可靠发送, 事务消息, 同步发送, 幂等]
 ---
 
 # MQ 2：生产端可靠发送（生产端确认）

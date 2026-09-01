@@ -2,6 +2,8 @@
 group: spring
 title: Spring的循环依赖
 order: 4
+summary: Spring 循环依赖解决原理：三级缓存（singletonObjects/earlySingletonObjects/singletonFactories）解决单例 setter 循环依赖，以及构造器循环依赖的处理。
+keywords: [循环依赖, 三级缓存, 单例, 代理对象]
 ---
 
 # Spring的循环依赖
