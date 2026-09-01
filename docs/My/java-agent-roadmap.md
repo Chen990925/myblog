@@ -193,8 +193,8 @@ keywords: [学习路径, AI Agent, Java工程师, 成长路线, RAG, LLM]
 
 ### 本博客对应文章
 
-- [大语言模型基础与 Java 集成](/AIAgent/llm-basics)
-- [Prompt 工程进阶](/AIAgent/prompt-engineering)
+- [大语言模型基础与 Java 集成](/My/llm-basics)
+- [Prompt 工程进阶](/My/prompt-engineering)
 
 ### 推荐资源
 
@@ -222,18 +222,25 @@ keywords: [学习路径, AI Agent, Java工程师, 成长路线, RAG, LLM]
 |------|------|
 | Agent 设计模式 | ReAct、CoT 思维链、感知-推理-行动循环 |
 | Function Calling | Tool Use 原理、工具注册与调用、多工具编排 |
+| MCP 协议 | 标准化协议、MCP Server 开发、与 FC 的区别 |
 | RAG 系统 | 文档处理、Embedding、向量数据库、检索策略、Reranking |
 | Prompt 工程 | Few-shot、Structured Output、注入防护、评估迭代 |
 | LangChain4j | AiServices、Tool Calling、RAG 集成、Spring Boot 整合 |
+| Agent 框架 | LangGraph 状态机、CrewAI、AutoGen 对比选型 |
 | 记忆机制 | 短期对话记忆、长期向量记忆、记忆压缩 |
 | 多 Agent | 任务分解、Agent 协作、监督者模式 |
+| 工程化 | 评估体系、Harness、幻觉控制、成本优化 |
 
 ### 本博客对应文章
 
-- [Agent 设计模式：ReAct 与思维链](/AIAgent/agent-patterns)
-- [RAG 检索增强生成系统实战](/AIAgent/rag-system)
-- [Prompt 工程进阶](/AIAgent/prompt-engineering)
-- [LangChain4j 框架实战](/AIAgent/langchain4j)
+- [Agent 设计模式：ReAct 与思维链](/My/agent-patterns)
+- [RAG 检索增强生成系统实战](/My/rag-system)
+- [Prompt 工程进阶](/My/prompt-engineering)
+- [LangChain4j 框架实战](/My/langchain4j)
+- [MCP 协议：AI Agent 的 USB-C 接口](/My/mcp-protocol)
+- [Agent 框架横评与图编排实战](/My/agent-frameworks)
+- [Agent 工程化：评估、可观测性与生产实践](/My/agent-engineering)
+- [AI Agent 面试题专栏](/My/agent-interview)
 
 ### 推荐资源
 
@@ -248,6 +255,8 @@ keywords: [学习路径, AI Agent, Java工程师, 成长路线, RAG, LLM]
 - 能搭建完整的 RAG 系统（文档→Embedding→向量存储→检索→生成）
 - 能用 LangChain4j + Spring Boot 构建 AI 应用
 - 能设计防御 Prompt 注入的安全策略
+- 能解释 MCP 协议并开发 MCP Server
+- 能对比不同 Agent 框架并做出选型决策
 
 ---
 
