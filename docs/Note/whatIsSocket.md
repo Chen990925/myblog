@@ -2,6 +2,8 @@
 group: netty
 title: 到底什么是socket?
 order: 1
+summary: 从网络编程角度理解 Socket 的本质，涵盖 Socket 连接建立流程（bind/listen/accept）、文件描述符（fd）及 TCP 三次握手。
+keywords: [Socket, fd, bind, listen, accept, TCP三次握手]
 ---
 
 # 到底什么是socket？

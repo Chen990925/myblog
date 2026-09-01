@@ -2,6 +2,8 @@
 group: Mybatis
 title: Mybatis-plus
 order: 9
+summary: 介绍 MyBatis-Plus 增强工具的核心功能，包括通用 CRUD、条件构造器（Wrapper）、分页插件、代码生成器及性能分析插件。
+keywords: [MyBatis-Plus, CRUD, Wrapper, 分页插件, 代码生成器]
 ---
 
 # Mybatis-plus

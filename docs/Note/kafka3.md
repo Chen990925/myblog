@@ -2,6 +2,8 @@
 group: Kafka
 title: Kafka常见问题
 order: 3
+summary: Kafka 常见面试问题汇总，包括 kafka-manager 监控、消息可靠性、消息顺序性、数据丢失与重复消费等问题的解决方案。
+keywords: [kafka-manager, 消息可靠性, 顺序性, 重复消费, 数据丢失]
 ---
 
 # Kafka常见问题 `面试`

@@ -2,6 +2,8 @@
 group: rabbitMQ
 title: rabbitMQ整合框架
 order: 3
+summary: RabbitMQ 与 Spring、Spring Boot 框架的整合配置，包括依赖引入、连接工厂、RabbitTemplate 及消息监听容器。
+keywords: [Spring集成, Spring Boot, RabbitTemplate, 监听容器, 配置]
 ---
 
 # rabbitMQ整合框架

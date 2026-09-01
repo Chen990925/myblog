@@ -2,6 +2,8 @@
 group: Zookeeper专题
 title: Zookeeper特性,节点数据类型与命令行操作
 order: 1
+summary: Zookeeper 入门指南，涵盖核心特性（顺序性、原子性、单一视图、可靠性）、节点数据类型（持久/临时/顺序）及命令行操作。
+keywords: [Zookeeper, ZNode, Watcher, 临时节点, 命令行]
 ---
 
 # Zookeeper特性与节点数据类型与命令行操作

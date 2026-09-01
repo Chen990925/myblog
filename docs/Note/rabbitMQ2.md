@@ -2,6 +2,8 @@
 group: rabbitMQ
 title: RabbitMQ编程
 order: 2
+summary: RabbitMQ 编程实战，涵盖虚拟主机、Simple/Work/PubSub/Routing/Topics 五种模式、Spring AMQP 集成及消息确认机制。
+keywords: [工作队列, PubSub, Routing, Topics, Spring AMQP, 消息确认]
 ---
 
 # RabbitMQ 基础

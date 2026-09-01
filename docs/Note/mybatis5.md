@@ -2,6 +2,8 @@
 group: Mybatis
 title: 基于XML的详细使用—动态sql
 order: 5
+summary: 详解 MyBatis 动态 SQL 标签使用，包括 if、choose/when/otherwise、where、set、foreach、trim 等标签及实战场景。
+keywords: [动态SQL, if, foreach, choose, where, set]
 ---
 
 # 基于XML的详细使用—动态sql

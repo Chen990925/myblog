@@ -2,6 +2,8 @@
 group: Mybatis
 title: MyBatis逆向工程&分页插件
 order: 6
+summary: 讲解 MyBatis Generator 逆向工程自动生成代码、MyBatis 插件机制（Interceptor）及 PageHelper 分页插件的原理与使用。
+keywords: [逆向工程, MyBatis Generator, 插件, PageHelper, 分页]
 ---
 
 # MyBatis逆向工程&分页插件

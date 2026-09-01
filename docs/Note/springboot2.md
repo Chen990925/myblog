@@ -2,6 +2,8 @@
 group: SpringBoot
 title: SpringBoot通过jar包启动
 order: 2
+summary: 解析 SpringBoot 通过 java -jar 启动的底层原理，包括 JarLauncher、MANIFEST.MF 配置、类加载机制及嵌入式 Tomcat 启动流程。
+keywords: [SpringBoot, jar启动, JarLauncher, 嵌入式Tomcat, 类加载]
 ---
 
 # SpringBoot 是如何通过 jar 包启动的

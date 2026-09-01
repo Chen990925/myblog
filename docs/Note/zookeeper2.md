@@ -2,6 +2,8 @@
 group: Zookeeper专题
 title: zookeeper客户端使用
 order: 2
+summary: Zookeeper Java 客户端实战，涵盖原生 API、Curator 框架的使用，包括连接创建、节点 CRUD、Watcher 监听及事务操作。
+keywords: [Curator, ZooKeeper API, 节点CRUD, Watcher, 事务]
 ---
 
 # zookeeper客户端使用

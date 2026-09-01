@@ -2,6 +2,8 @@
 group: Mysql专题
 title: MVCC 多版本并发控制机制
 order: 6
+summary: 深入解析 MySQL MVCC 多版本并发控制机制，涵盖 undo log 版本链、ReadView 读视图、可重复读与读已提交隔离级别下的实现差异。
+keywords: [MVCC, ReadView, undo log, 版本链, 可重复读]
 ---
 
 

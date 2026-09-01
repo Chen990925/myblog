@@ -2,6 +2,8 @@
 group: 集合
 title: Collections之CopyOnWrite
 order: 3
+summary: 解析 CopyOnWrite 机制的读写分离思想，涵盖 CopyOnWriteArrayList、CopyOnWriteArraySet 的原理、适用场景及与 Vector 的对比。
+keywords: [CopyOnWrite, 读写分离, COWArrayList, 空间换时间, 并发]
 ---
 
 # **Collections之CopyOnWrite 机制**

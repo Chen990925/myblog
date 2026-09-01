@@ -2,6 +2,8 @@
 group: Zookeeper专题
 title: Zookeeper 分布式锁实战
 order: 4
+summary: 基于 Zookeeper 实现分布式锁，涵盖互斥锁（公平/非公平）、共享锁、Curator 锁工具使用及与 Redis 分布式锁的对比。
+keywords: [分布式锁, 互斥锁, 共享锁, Curator, 公平锁]
 ---
 
 

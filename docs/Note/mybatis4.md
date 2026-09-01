@@ -2,6 +2,8 @@
 group: Mybatis
 title: MyBatis基于XML的详细使用-高级结果映射
 order: 4
+summary: 讲解 MyBatis 高级结果映射，包括一对一（association）、一对多（collection）、多对多关联查询及 ResultMap 嵌套配置。
+keywords: [association, collection, 联合查询, 结果映射, 一对多]
 ---
 
 # MyBatis基于XML的详细使用-高级结果映射

@@ -2,6 +2,8 @@
 group: rocketMQ
 title: RocketMQ常见问题
 order: 4
+summary: RocketMQ 常见面试问题汇总，包括消息不丢失保证、消息重复消费、消息堆积处理、顺序消息保证及与 Spring 事务的整合。
+keywords: [消息不丢失, 重复消费, 消息堆积, 顺序消息, 事务]
 ---
 
 

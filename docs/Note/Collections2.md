@@ -2,6 +2,8 @@
 group: 集合
 title: Collections之ConcurrentHashMap
 order: 2
+summary: 解析 ConcurrentHashMap 的线程安全实现，包括 JDK1.7 分段锁与 JDK1.8 CAS+synchronized 的设计演进、扩容机制及性能对比。
+keywords: [ConcurrentHashMap, 分段锁, CAS, synchronized, 线程安全]
 ---
 
 # **Collections 之ConcurrentHashMap**

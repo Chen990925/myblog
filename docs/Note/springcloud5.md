@@ -2,6 +2,8 @@
 group: springCloud
 title: Ribbon
 order: 5
+summary: 解析 Netflix Ribbon 客户端负载均衡原理，涵盖负载均衡策略、IRule 接口、服务发现与调用流程及与 Nginx 等服务端负载的对比。
+keywords: [Ribbon, 客户端负载均衡, IRule, 服务发现, Netflix]
 ---
 
 # Ribbon

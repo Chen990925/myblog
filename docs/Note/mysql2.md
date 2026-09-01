@@ -2,6 +2,8 @@
 group: Mysql专题
 title: Explain工具和优化注意点
 order: 2
+summary: 详解 MySQL EXPLAIN 执行计划各字段含义（type、key、rows、Extra 等），结合实战案例分析 SQL 性能瓶颈及优化思路。
+keywords: [EXPLAIN, 执行计划, type, key, Extra, SQL优化]
 ---
 
 # **Explain工具介绍**

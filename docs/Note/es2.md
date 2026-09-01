@@ -2,6 +2,8 @@
 group: Elasticsearch
 title: Elasticsearch DSL
 order: 2
+summary: 详解 Elasticsearch DSL 查询语法，包括批量操作（mget/bulk）、Query DSL（match、term、bool）、过滤、聚合分析及 IK 分词器。
+keywords: [DSL, match, term, bool查询, 聚合分析, IK分词]
 ---
 
 # Elasticsearch DSL

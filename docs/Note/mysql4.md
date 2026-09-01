@@ -2,6 +2,8 @@
 group: Mysql专题
 title: Mysql索引优化(二)
 order: 4
+summary: 深入讲解分页查询优化（深度分页问题）、JOIN 查询优化、子查询优化、ORDER BY/GROUP BY 优化及索引设计原则。
+keywords: [分页优化, 深度分页, JOIN优化, ORDER BY, 索引设计]
 ---
 
 # Mysql 索引优化 (二)

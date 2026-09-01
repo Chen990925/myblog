@@ -2,6 +2,8 @@
 group: Zookeeper专题
 title: Zookeeper 集群模式
 order: 3
+summary: 解析 Zookeeper 集群模式，涵盖 Leader/Follower/Observer 角色职责、ZAB 协议、集群搭建配置及故障恢复机制。
+keywords: [Leader, Follower, Observer, ZAB协议, 集群搭建]
 ---
 
 # **Zookeeper 集群模式**

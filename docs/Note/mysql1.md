@@ -2,6 +2,8 @@
 group: Mysql专题
 title: Mysql底层数据结构
 order: 1
+summary: 解析 MySQL 索引底层数据结构，涵盖 Hash 表、B 树、B+ 树的原理与对比，聚簇索引与非聚簇索引的区别，以及索引失效场景。
+keywords: [B+树, Hash索引, 聚簇索引, 非聚簇索引, 索引失效]
 ---
 
 # Mysql底层数据结构

@@ -2,6 +2,8 @@
 group: springCloud
 title: gateway的使用
 order: 1
+summary: 介绍 Spring Cloud Gateway 的核心概念、路由配置、Predicate 断言工厂、Filter 过滤器、跨域处理及网关的高可用部署方案。
+keywords: [Spring Cloud Gateway, 路由, Predicate, Filter, 网关, 跨域]
 ---
 
 # GateWay

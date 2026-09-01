@@ -2,6 +2,8 @@
 group: rocketMQ
 title: RocketMQ高级特性
 order: 3
+summary: RocketMQ 高级特性详解，涵盖消息模型、消息存储机制、消息过滤、事务消息、消息积压处理及高可用集群部署。
+keywords: [事务消息, 消息存储, 消息过滤, 高可用, 集群部署]
 ---
 
 # RocketMQ高级特性

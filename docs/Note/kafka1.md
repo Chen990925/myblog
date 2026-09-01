@@ -2,6 +2,8 @@
 group: Kafka
 title: Kafka入门
 order: 1
+summary: Kafka 入门指南，涵盖核心概念（Broker、Topic、Partition、Consumer Group）、应用场景、架构原理及与 Zookeeper 的协同。
+keywords: [Kafka, Broker, Topic, Partition, Consumer Group, Zookeeper]
 ---
 
 # Kafka入门

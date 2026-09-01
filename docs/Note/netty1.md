@@ -2,6 +2,8 @@
 group: netty
 title: NIO与Epoll
 order: 2
+summary: 基于 Linux 内核理解 BIO/NIO/AIO 三种 IO 模型，详解 NIO 核心组件（Channel、Buffer、Selector）及 Epoll 多路复用原理。
+keywords: [BIO, NIO, AIO, Channel, Buffer, Selector, Epoll]
 ---
 
 # 基于Linux内核理解NIO与Epoll

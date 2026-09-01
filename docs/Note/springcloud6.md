@@ -2,6 +2,8 @@
 group: springCloud
 title: Feign
 order: 6
+summary: 讲解 Spring Cloud OpenFeign 声明式 HTTP 客户端的使用，包括 RPC 概念、Feign 注解、服务调用、超时配置及与 Ribbon 的集成。
+keywords: [Feign, RPC, 声明式调用, OpenFeign, 服务调用, Ribbon]
 ---
 
 # Feign

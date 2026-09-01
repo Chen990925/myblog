@@ -2,6 +2,8 @@
 group: JVM专题
 title: 常量池
 order: 8
+summary: 详解 JVM 常量池体系，包括 Class 常量池、运行时常量池、字符串常量池的区别，以及 javap 字节码分析与常量池的关系。
+keywords: [Class常量池, 运行时常量池, 字符串常量池, javap, 字节码]
 ---
 
 # 常量池详解
