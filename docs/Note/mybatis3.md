@@ -2,8 +2,6 @@
 group: Mybatis
 title: MyBatis基于XML的详细使用-参数、返回结果处理
 order: 3
-summary: 详解 MyBatis XML 中 #{} 与 ${} 参数取值区别、SQL 注入防护、参数处理及返回结果映射（ResultMap）。
-keywords: [#{}, ${}, 参数处理, ResultMap, SQL注入]
 ---
 
 # MyBatis 基于 XML 的详细使用 - 参数、返回结果处理

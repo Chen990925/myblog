@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: Prompt 工程进阶
 order: 4
-summary: Prompt 工程进阶技巧与实践，涵盖设计原则与模板、Few-shot Learning、System Prompt 设计、Structured Output（JSON Mode）、Prompt 注入防护、提示词版本管理及评估迭代方法论。
-keywords: [Prompt Engineering, Few-shot, System Prompt, JSON Mode, 注入防护, 评估]
 ---
 
 # Prompt 工程进阶

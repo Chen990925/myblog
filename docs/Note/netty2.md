@@ -2,8 +2,6 @@
 group: netty
 title: Netty入门
 order: 3
-summary: Netty 入门指南，涵盖使用场景、核心组件（Channel、EventLoop、Pipeline）、Reactor 线程模型及第一个 Netty 服务端/客户端程序。
-keywords: [Netty, Channel, EventLoop, Pipeline, Reactor, 线程模型]
 ---
 
 # Netty入门

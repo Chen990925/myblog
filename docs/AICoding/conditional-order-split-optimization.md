@@ -2,8 +2,6 @@
 group: JVM调优专题
 title: 生产案例：条件单拆单并发优化
 order: 6
-summary: 分析 2000 笔条件单同时触发导致系统卡慢的三大根因（瞬时脉冲、全量校验、线程池不足），给出四梯队优化方案（削峰/减负/异步化/容量保护）与量化预期。
-keywords: [条件单, 并发优化, DelayQueue, 削峰, 线程池, 生产案例]
 ---
 
 # 生产案例：条件单拆单并发优化（StockConditionOrderProcessManager）

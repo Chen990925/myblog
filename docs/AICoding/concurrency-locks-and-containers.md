@@ -2,8 +2,6 @@
 group: 并发编程专题
 title: 锁的应用与并发容器
 order: 5
-summary: 锁选型四象限（悲观/乐观 × 本地/分布式）、avail-engine 分桶锁四层结构深度解析、乐观锁状态流转、Redis 分布式锁，以及 ConcurrentHashMap、DelayQueue 等并发容器实战。
-keywords: [锁选型, 分桶锁, ConcurrentHashMap, DelayQueue, 分布式锁, 乐观锁]
 ---
 
 # 并发编程 3：锁的应用 + 并发容器（结合项目）

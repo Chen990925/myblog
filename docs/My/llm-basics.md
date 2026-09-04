@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: 大语言模型基础与 Java 集成
 order: 1
-summary: 大语言模型（LLM）基础知识，涵盖 Token/Temperature/TopP 等核心概念、主流模型对比（GPT/Claude/通义千问/DeepSeek）、Java 调用 LLM API 实战、流式响应处理及 Token 成本控制。
-keywords: [LLM, Token, Temperature, GPT, DeepSeek, 流式响应, API调用]
 ---
 
 # 大语言模型基础与 Java 集成

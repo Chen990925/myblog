@@ -2,8 +2,6 @@
 group: Redis 缓存专题
 title: 性能与调优
 order: 16
-summary: Redis 性能调优实战：淘汰策略选择、BigKey/热Key 治理、慢查询分析、连接池配置与容量监控。
-keywords: [Redis调优, BigKey, 热Key, 淘汰策略, 慢查询, 连接池]
 ---
 
 # Redis 5：性能与调优

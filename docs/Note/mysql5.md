@@ -2,8 +2,6 @@
 group: Mysql专题
 title: Mysql的事务隔离级别和锁机制
 order: 5
-summary: 详解事务 ACID 属性、四种隔离级别、脏读/不可重复读/幻读问题，以及 MySQL 锁机制（行锁、表锁、间隙锁、意向锁）与 MVCC 原理。
-keywords: [事务隔离级别, ACID, 行锁, 间隙锁, MVCC, 幻读]
 ---
 
 # mysql的事务隔离级别和锁机制

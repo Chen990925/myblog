@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: AI Agent 面试题专栏（2026 高频考点）
 order: 9
-summary: 基于字节、阿里、腾讯、百度等大厂真实面经整理的 AI Agent 方向面试题，涵盖 Agent 基础（ReAct/CoT/Function Calling/MCP）、RAG 深度问题、架构设计（多 Agent/记忆/状态管理）、工程化实践（评估/幻觉/成本）四大板块，每题附详细回答思路和追问方向。
-keywords: [面试题, Agent面试, ReAct, RAG面试, Function Calling, MCP面试, 大模型面经]
 ---
 
 # AI Agent 面试题专栏（2026 高频考点）

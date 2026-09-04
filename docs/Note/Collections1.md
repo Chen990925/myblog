@@ -2,8 +2,6 @@
 group: 集合
 title: Collections之hashMap
 order: 1
-summary: 深入解析 HashMap 数据结构与源码，涵盖数组+链表+红黑树结构、hash 计算、扩容机制、树化与反树化及线程安全问题。
-keywords: [HashMap, 红黑树, hash计算, 扩容, 树化, 源码]
 ---
 
 # Collections 之hashMap

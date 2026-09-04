@@ -2,8 +2,6 @@
 group: netty
 title: Netty核心线程模型源码
 order: 5
-summary: 深入分析 Netty 服务端线程模型源码，包括 NioEventLoopGroup 创建、EventLoop 事件循环、Channel 注册、Pipeline 传播及 IO 事件处理流程。
-keywords: [NioEventLoopGroup, EventLoop, Pipeline, Channel注册, IO事件]
 ---
 
 # Netty 核心线程模型源码`服务端`

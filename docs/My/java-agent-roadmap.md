@@ -2,8 +2,6 @@
 group: 学习规划
 title: 从零基础到 AI Agent 工程师完整学习路径
 order: 3
-summary: 面向 Java 开发者的 AI Agent 工程师完整成长路线图，涵盖七个阶段：Java 基础筑基、后端核心技术栈、分布式与微服务、工程化能力、AI/LLM 基础、AI Agent 核心技术、项目实战与进阶，每阶段附推荐资源与里程碑。
-keywords: [学习路径, AI Agent, Java工程师, 成长路线, RAG, LLM]
 ---
 
 # 从零基础到 AI Agent 工程师完整学习路径

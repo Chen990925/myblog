@@ -2,8 +2,6 @@
 group: Mysql专题
 title: Mysql索引优化(一)
 order: 3
-summary: 联合索引的最左前缀原则、索引下推（ICP）、覆盖索引、索引失效场景及 MySQL 索引优化的核心思想与实战案例。
-keywords: [联合索引, 最左前缀, 覆盖索引, 索引下推, 索引失效]
 ---
 
 # Mysql索引优化(一)

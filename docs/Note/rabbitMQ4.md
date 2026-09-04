@@ -2,8 +2,6 @@
 group: rabbitMQ
 title: RabbitMQ 高级特性
 order: 4
-summary: RabbitMQ 高级特性详解，包括消息可靠投递（confirm+return）、消费端确认、死信队列、延迟队列、消息幂等性及优先级队列。
-keywords: [confirm, return, 死信队列, 延迟队列, 幂等性, 优先级]
 ---
 
 # RabbitMQ 高级特性

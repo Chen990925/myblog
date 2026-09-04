@@ -2,8 +2,6 @@
 group: redis
 title: redis持久化与主从哨兵架构
 order: 2
-summary: 详解 Redis RDB 快照与 AOF 持久化机制、主从复制原理、哨兵模式自动故障转移及数据同步策略。
-keywords: [RDB, AOF, 主从复制, 哨兵, 故障转移, 数据同步]
 ---
 
 # redis持久化与主从哨兵架构

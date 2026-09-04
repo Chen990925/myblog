@@ -2,8 +2,6 @@
 group: Oracle 数据库专题
 title: Oracle 数据库主题总览
 order: 18
-summary: 面试准备——Oracle 数据库主题的入口索引，涵盖基础 SQL、慢 SQL 定位、索引优化、HWM/分区/绑定变量、实战排查等板块的文件索引与复习路径。
-keywords: [Oracle, 数据库, 慢SQL, 索引优化, 面试准备]
 ---
 
 # 数据库（Oracle）主题总览（对话总结）

@@ -2,8 +2,6 @@
 group: 并发编程专题
 title: 线程池
 order: 4
-summary: 详解 ThreadPoolExecutor 七大参数与执行流程、四种拒绝策略、线程数预估公式，结合项目多套线程池配置对比与常见坑分析。
-keywords: [线程池, ThreadPoolExecutor, 拒绝策略, @Async, 线程数预估]
 ---
 
 # 并发编程 2：线程池（结合项目）

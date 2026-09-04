@@ -2,8 +2,6 @@
 group: Elasticsearch
 title: Elasticsearch入门
 order: 1
-summary: Elasticsearch 入门指南，涵盖核心概念（Index、Document、Shard、Replica）、倒排索引原理、RESTful API 操作及与 MySQL 的概念对比。
-keywords: [Elasticsearch, 倒排索引, Index, Document, REST API]
 ---
 
 # Elasticsearch入门

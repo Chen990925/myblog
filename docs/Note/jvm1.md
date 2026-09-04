@@ -2,8 +2,6 @@
 group: JVM专题
 title: JVM的类加载机制
 order: 1
-summary: JVM 类加载流程（加载→验证→准备→解析→初始化）、类加载器体系与双亲委派机制原理，以及 Tomcat 打破双亲委派与 JasperLoader 热加载。
-keywords: [类加载, 双亲委派, ClassLoader, 类加载器, Tomcat]
 ---
 
 # JVM的类加载机制 

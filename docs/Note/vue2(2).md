@@ -2,8 +2,6 @@
 group: 前端学习
 title: vue2文档学习二
 order: 2
-summary: Vue2 官方文档学习笔记（下），涵盖计算属性、侦听器、条件渲染、列表渲染、表单输入绑定及组件通信。
-keywords: [Vue2, 计算属性, 侦听器, v-model, 条件渲染, 列表渲染]
 ---
 
 

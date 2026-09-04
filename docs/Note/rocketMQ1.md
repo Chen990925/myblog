@@ -2,8 +2,6 @@
 group: rocketMQ
 title: RocketMQ入门
 order: 1
-summary: RocketMQ 入门指南，涵盖核心架构（Producer、Broker、Consumer、NameServer）、快速部署及与 Kafka/RabbitMQ 的对比。
-keywords: [RocketMQ, Producer, Broker, Consumer, NameServer, 架构]
 ---
 
 # RocketMQ入门

@@ -2,8 +2,6 @@
 group: JVM专题
 title: JVM的内存模型
 order: 2
-summary: JVM 运行时内存区域详解：程序计数器、虚拟机栈、本地方法栈、堆、方法区（元空间）、运行时常量池的作用与 OOM 场景。
-keywords: [JVM内存模型, 堆, 栈, 方法区, 元空间, OOM]
 ---
 
 # JVM内存模型

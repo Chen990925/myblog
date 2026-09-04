@@ -2,8 +2,6 @@
 group: 工程实践
 title: Java 单元测试实战
 order: 1
-summary: Java 单元测试实战指南，涵盖 JUnit5 核心注解与生命周期、Mockito Mock/Stub/Verify、Spring Boot Test 集成测试、测试分层策略、JaCoCo 覆盖率及 TDD 实践思路。
-keywords: [JUnit5, Mockito, Spring Boot Test, 单元测试, 集成测试, JaCoCo, TDD]
 ---
 
 # Java 单元测试实战

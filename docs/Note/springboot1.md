@@ -2,8 +2,6 @@
 group: SpringBoot
 title: SpringBoot的自动配置原理
 order: 1
-summary: 深入解析 SpringBoot 自动配置原理，涵盖 @SpringBootApplication 注解、@EnableAutoConfiguration、spring.factories 机制、条件注解（@Conditional）及自动配置加载流程。
-keywords: [SpringBoot, 自动配置, EnableAutoConfiguration, spring.factories, Conditional注解]
 ---
 
 # SpringBoot 的自动配置原理

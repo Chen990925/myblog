@@ -2,8 +2,6 @@
 group: springCloud
 title: Oauth2
 order: 2
-summary: 详解 OAuth2.0 授权协议，涵盖四种授权模式（授权码、简化、密码、客户端凭证）、Token 机制、Spring Security OAuth2 集成及实战配置。
-keywords: [OAuth2, 授权码模式, Token, Spring Security, 第三方登录]
 ---
 
 # Oauth2

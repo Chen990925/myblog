@@ -2,8 +2,6 @@
 group: spring
 title: Spring Ioc源码
 order: 2
-summary: Spring IoC 容器源码分析：BeanDefinition 扫描与注册、Bean 实例化与依赖注入、单例池/工厂缓存/早期引用三级缓存机制。
-keywords: [IoC源码, BeanDefinition, 三级缓存, 依赖注入]
 ---
 
 # Spring Ioc源码

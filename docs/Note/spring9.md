@@ -2,8 +2,6 @@
 group: spring
 title: Spring MVC 请求处理全链路
 order: 9
-summary: 深入解析 Spring MVC 核心架构与请求处理流程，涵盖 DispatcherServlet、HandlerMapping、HandlerAdapter、参数绑定、拦截器、异常处理及 RESTful 接口设计。
-keywords: [Spring MVC, DispatcherServlet, HandlerMapping, HandlerAdapter, 拦截器, RESTful]
 ---
 
 # Spring MVC 请求处理全链路

@@ -2,8 +2,6 @@
 group: spring
 title: Java的动态代理
 order: 7
-summary: Java 动态代理原理：JDK 动态代理（InvocationHandler/Proxy）与 CGLIB 动态代理的实现对比，以及在 Spring AOP 中的应用。
-keywords: [动态代理, InvocationHandler, Proxy, CGLIB]
 ---
 
 # Java的动态代理

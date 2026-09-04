@@ -2,8 +2,6 @@
 group: 分布式专题
 title: 分布式系统核心理论
 order: 1
-summary: 分布式系统核心理论详解，涵盖 CAP 定理、BASE 理论、一致性算法（Raft/Paxos）、分布式事务方案（2PC/TCC/Saga/本地消息表）、Seata AT 模式原理及幂等性设计。
-keywords: [CAP, BASE, Raft, 分布式事务, 2PC, TCC, Saga, Seata, 幂等性]
 ---
 
 # 分布式系统核心理论

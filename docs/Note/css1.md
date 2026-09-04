@@ -2,8 +2,6 @@
 group: 前端学习
 title: css基本使用
 order: 1
-summary: CSS 基础学习笔记，涵盖全局单位（rem/em/vw/vh）、选择器、盒模型、Flex 布局、定位方式及常见样式技巧。
-keywords: [CSS, rem, Flex布局, 盒模型, 选择器, 定位]
 ---
 
 

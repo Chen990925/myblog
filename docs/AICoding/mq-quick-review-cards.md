@@ -2,8 +2,6 @@
 group: RocketMQ 专题
 title: RocketMQ 速记卡
 order: 33
-summary: RocketMQ 面试临场回忆速记卡，包含 MQ 基础、生产端可靠、Broker 存储、消费端 ACK、生产排查等板块的引导句与核心要点。
-keywords: [RocketMQ, 速记卡, 面试复习, 消息队列, 可靠性]
 ---
 
 # RocketMQ 速记卡（临场回忆 / 快速准备版）

@@ -2,8 +2,6 @@
 group: Mybatis
 title: MyBatis 的配置文件详解
 order: 2
-summary: 详解 MyBatis 全局配置文件各元素含义，包括日志框架集成、类型别名、环境配置、插件及 mapper 映射方式。
-keywords: [mybatis-config, 日志, 类型别名, 环境配置, mapper]
 ---
 
 # MyBatis 的配置文件详解

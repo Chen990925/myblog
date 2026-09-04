@@ -2,8 +2,6 @@
 group: RocketMQ 专题
 title: 生产问题排查
 order: 32
-summary: RocketMQ 生产问题排查总纲：消息四个“不”（发不出/收不到/重复/延迟）的排查思路与工具，结合堆积、慢消费、重复消费等场景。
-keywords: [RocketMQ, 消息堆积, 重复消费, 消费延迟, 排查]
 ---
 
 # MQ 5：生产问题排查

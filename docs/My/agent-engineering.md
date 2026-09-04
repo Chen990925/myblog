@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: Agent 工程化：评估、可观测性与生产实践
 order: 8
-summary: 从 Demo 到生产级 Agent 的工程化实践，涵盖评估体系（Benchmark 选型、RAGAS 框架、LLM-as-Judge）、Harness 工程（Trace 轨迹追踪、上下文治理、成本控制）、幻觉与漂移防控、生产部署最佳实践（灰度发布、熔断降级、安全边界）。
-keywords: [Agent评估, Harness, 可观测性, RAGAS, 幻觉控制, 漂移, 生产部署, Benchmark]
 ---
 
 # Agent 工程化：评估、可观测性与生产实践

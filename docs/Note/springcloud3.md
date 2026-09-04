@@ -2,8 +2,6 @@
 group: springCloud
 title: jwt
 order: 3
-summary: 讲解 Spring Security OAuth2 实现单点登录（SSO）的方案，涵盖 JWT 令牌结构、认证流程、资源服务器配置及微服务间统一鉴权。
-keywords: [SSO, JWT, Spring Security, OAuth2, 单点登录, 资源服务器]
 ---
 
 

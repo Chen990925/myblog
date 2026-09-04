@@ -2,8 +2,6 @@
 group: Java基础
 title: Java 8-21 核心新特性速查
 order: 1
-summary: Java 8 到 Java 21 核心新特性速查手册，涵盖 Lambda/Stream/Optional（8）、var 推断（10）、Switch 表达式（14）、Records（16）、Sealed Classes（17）、Pattern Matching（16/21）、Virtual Threads 虚拟线程（21）、Sequenced Collections（21）。
-keywords: [Java 8, Stream, Records, Virtual Threads, Pattern Matching, Sealed Classes]
 ---
 
 # Java 8-21 核心新特性速查

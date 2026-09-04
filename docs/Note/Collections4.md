@@ -2,8 +2,6 @@
 group: 集合
 title: Collections之List
 order: 4
-summary: 详解 Java 集合框架 List 体系，包括 ArrayList、LinkedList、Vector 的源码分析、性能对比及使用场景。
-keywords: [ArrayList, LinkedList, Vector, Collection, 集合框架]
 ---
 
 # Collections 之 List

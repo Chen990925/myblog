@@ -2,8 +2,6 @@
 group: Kafka
 title: Kafka编码
 order: 2
-summary: Kafka 实战编码，包括集群搭建、Producer/Consumer API 使用、Spring Boot 集成 Kafka 及消息序列化配置。
-keywords: [Kafka集群, Producer, Consumer, Spring Boot, 序列化]
 ---
 
 # Kafka编码

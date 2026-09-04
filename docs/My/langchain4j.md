@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: LangChain4j 框架实战
 order: 5
-summary: LangChain4j 框架完整实战指南，涵盖 ChatLanguageModel 与流式模型、AiServices 声明式 API、Tool/Function Calling 集成、RAG 模块（DocumentLoader/Splitter/EmbeddingStore）、Memory 管理及与 Spring Boot 整合的完整示例。
-keywords: [LangChain4j, AiServices, Tool Calling, RAG, Memory, Spring Boot]
 ---
 
 # LangChain4j 框架实战

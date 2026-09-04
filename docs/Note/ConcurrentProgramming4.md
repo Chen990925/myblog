@@ -2,8 +2,6 @@
 group: 并发编程
 title: 并发编程之 AQS
 order: 4
-summary: AbstractQueuedSynchronizer (AQS) 核心原理：state 状态变量、CLH 双向等待队列、模板方法模式，以及 ReentrantLock/Semaphore/CountDownLatch 的实现。
-keywords: [AQS, CLH队列, state, ReentrantLock, Semaphore]
 ---
 
 # 并发编程之AQS 

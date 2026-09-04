@@ -2,8 +2,6 @@
 group: JVM专题
 title: JVM的垃圾收集(算法和收集器)
 order: 4
-summary: 垃圾收集算法（标记-清除、标记-复制、标记-整理、分代收集）原理，以及经典收集器（Serial、ParNew、Parallel Scavenge、CMS、G1）的对比与选型。
-keywords: [GC算法, 标记清除, CMS, ParNew, 分代收集]
 ---
 
 # JVM的垃圾收集1

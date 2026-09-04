@@ -2,8 +2,6 @@
 group: rocketMQ
 title: RocketMQ编程
 order: 2
-summary: RocketMQ 编程实战，包括原生 API 使用、Spring Boot 集成、同步/异步/单向发送、顺序消息、延迟消息及批量消息发送。
-keywords: [Producer API, Consumer API, 顺序消息, 延迟消息, Spring Boot]
 ---
 
 # RocketMQ编程

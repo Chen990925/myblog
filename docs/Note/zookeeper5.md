@@ -2,8 +2,6 @@
 group: Zookeeper专题
 title: Zookeeper的选举和注册中心
 order: 5
-summary: 解析 Zookeeper Leader 选举算法原理及其作为注册中心的应用，包括 Curator LeaderSelector/LeaderLatch 实现及微服务注册发现。
-keywords: [Leader选举, 注册中心, LeaderSelector, LeaderLatch, 服务发现]
 ---
 
 # Zookeeper的选举和注册中心

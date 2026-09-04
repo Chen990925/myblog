@@ -2,8 +2,6 @@
 group: spring
 title: invokeBeanDefinitionRegistryPostProcessors方法详解
 order: 3
-summary: Spring IoC 容器启动过程中 invokeBeanDefinitionRegistryPostProcessors 方法的源码分析，详解 BeanDefinitionRegistryPostProcessor 与 BeanFactoryPostProcessor 的执行时机。
-keywords: [PostProcessor, BeanDefinition, 容器启动, 扩展点]
 ---
 
 # invokeBeanDefinitionRegistryPostProcessors方法详解

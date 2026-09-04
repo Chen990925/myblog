@@ -2,8 +2,6 @@
 group: rabbitMQ
 title: RabbitMQ入门
 order: 1
-summary: RabbitMQ 入门指南，涵盖 MQ 基本概念、核心组件（Exchange、Queue、Binding）、五种消息模型及 AMQP 协议。
-keywords: [RabbitMQ, Exchange, Queue, Binding, AMQP, 消息队列]
 ---
 
 # RabbitMQ入门

@@ -2,8 +2,6 @@
 group: springCloud
 title: 微服务介绍
 order: 1
-summary: 对比单体架构与微服务架构的优缺点，介绍微服务核心概念、服务拆分原则、Spring Cloud 生态组件及服务间通信方式。
-keywords: [微服务, 单体架构, 服务拆分, Spring Cloud, 分布式]
 ---
 
 # 微服务介绍

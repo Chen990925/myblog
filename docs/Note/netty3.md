@@ -2,8 +2,6 @@
 group: netty
 title: Netty编解码 & 粘包拆包 & 心跳机制 & 断线自动重连
 order: 4
-summary: 详解 Netty 编解码器（ChannelHandler）、粘包拆包问题与解决方案、心跳检测机制及断线自动重连的实现方案。
-keywords: [编解码器, 粘包拆包, 心跳检测, 断线重连, ChannelHandler]
 ---
 
 # Netty编解码 & 粘包拆包 & 心跳机制 & 断线自动重连

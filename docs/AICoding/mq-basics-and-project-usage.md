@@ -2,8 +2,6 @@
 group: RocketMQ 专题
 title: MQ 基础与项目用途
 order: 28
-summary: MQ 三大价值（解耦/异步/削峰）与代价，RocketMQ 核心架构与项目回报链路、下单链路、条件单等场景的 MQ 用法。
-keywords: [RocketMQ, 消息队列, 解耦, 削峰, 异步]
 ---
 
 # MQ 1：MQ 基础与项目用途

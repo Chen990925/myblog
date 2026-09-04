@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: RAG 检索增强生成系统实战
 order: 3
-summary: RAG（检索增强生成）系统从架构到落地实战，涵盖文档处理流水线、Embedding 模型选型、向量数据库（Milvus/Qdrant/Chroma）、检索策略（稠密/稀疏/混合）、Reranking 重排序及评估指标。
-keywords: [RAG, Embedding, 向量数据库, Milvus, 混合检索, Reranking, Chunk]
 ---
 
 # RAG 检索增强生成系统实战

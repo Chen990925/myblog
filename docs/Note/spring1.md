@@ -2,8 +2,6 @@
 group: spring
 title: spring源码入门介绍
 order: 1
-summary: Spring 框架源码入门：BeanFactory 与 ApplicationContext 区别、IoC 加载过程、Bean 生命周期、扩展接口（BeanPostProcessor/BeanFactoryPostProcessor/Aware）。
-keywords: [Spring, BeanFactory, IoC, Bean生命周期, ApplicationContext]
 ---
 
 # **spring源码介绍**

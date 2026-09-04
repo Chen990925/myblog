@@ -2,8 +2,6 @@
 group: redis
 title: Redis 数据结构 与 高性能原理
 order: 1
-summary: 详解 Redis 五种基本数据结构（String、List、Hash、Set、ZSet）的使用场景，以及 Redis 高性能原理（单线程模型、IO 多路复用）。
-keywords: [String, List, Hash, Set, ZSet, 单线程, IO多路复用]
 ---
 
 # Redis 数据结构 与 高性能原理

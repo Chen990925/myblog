@@ -2,8 +2,6 @@
 group: Tomcat专题
 title: Tomcat组件
 order: 2
-summary: 详解 Tomcat 核心组件体系，包括 Server、Service、Connector、Engine、Host、Context、Wrapper 各组件的作用与关系。
-keywords: [Server, Service, Connector, Engine, Host, Context]
 ---
 
 # **Tomcat 组件**

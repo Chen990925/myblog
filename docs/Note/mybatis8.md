@@ -2,8 +2,6 @@
 group: Mybatis
 title: 基于XML的详细使用—缓存
 order: 7
-summary: 详解 MyBatis 一级缓存（SqlSession）和二级缓存（namespace）的原理、配置、失效机制及缓存与事务一致性问题。
-keywords: [一级缓存, 二级缓存, SqlSession, namespace, 缓存失效]
 ---
 
 # 基于XML的详细使用—缓存

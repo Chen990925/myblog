@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: Agent 框架横评与图编排实战
 order: 7
-summary: 2026 年主流 AI Agent 框架深度对比，涵盖 LangGraph（状态机图编排）、CrewAI（角色化多 Agent）、AutoGen（对话式协作）、OpenAI Agents SDK、Dify/Coze 低代码平台。详解各框架核心架构、适用场景、与 Java 生态的关系，并深入 LangGraph 的 State/Node/Edge 状态机模型。
-keywords: [LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Dify, 图编排, 状态机, 多Agent]
 ---
 
 # Agent 框架横评与图编排实战

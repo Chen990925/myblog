@@ -2,8 +2,6 @@
 group: Mybatis
 title: Mybatis 的介绍和基本使用
 order: 1
-summary: 介绍 MyBatis 框架概述、与 JDBC 的对比、核心组件（SqlSession、Mapper）及基本 CRUD 操作的配置与使用。
-keywords: [MyBatis, JDBC, SqlSession, Mapper, ORM]
 ---
 
 # Mybatis 的介绍和基本使用

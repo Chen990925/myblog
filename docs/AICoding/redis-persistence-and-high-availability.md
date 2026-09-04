@@ -2,8 +2,6 @@
 group: Redis 缓存专题
 title: 持久化与高可用
 order: 15
-summary: Redis RDB/AOF 持久化机制对比，主从复制、哨兵、Cluster 集群架构的选型与数据丢失、脑裂等故障场景分析。
-keywords: [RDB, AOF, 主从复制, 哨兵, Cluster, 脑裂]
 ---
 
 # Redis 4：持久化 + 高可用

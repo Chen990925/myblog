@@ -2,8 +2,6 @@
 group: 分库分表
 title: 数据库分库分表实战
 order: 1
-summary: 数据库分库分表实战指南，涵盖何时需要分库分表、垂直拆分与水平拆分、ShardingSphere-JDBC 配置与使用、分片策略、全局ID生成方案（雪花算法/Leaf）、跨分片查询与分布式事务。
-keywords: [分库分表, ShardingSphere, 水平拆分, 垂直拆分, 雪花算法, 全局ID]
 ---
 
 # 数据库分库分表实战

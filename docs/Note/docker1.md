@@ -2,8 +2,6 @@
 group: Docker专题
 title: Docker 容器化实战
 order: 1
-summary: Docker 容器化技术从入门到实战，涵盖容器与虚拟机对比、Docker 架构、核心命令、Dockerfile 编写（多阶段构建）、docker-compose 编排及 Java 应用 Docker 化最佳实践。
-keywords: [Docker, 容器, Dockerfile, docker-compose, 多阶段构建, JVM容器适配]
 ---
 
 # Docker 容器化实战

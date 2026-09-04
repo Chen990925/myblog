@@ -2,8 +2,6 @@
 group: spring
 title: Spring AOP
 order: 6
-summary: Spring AOP 原理详解：动态代理（JDK/CGLIB）、切面编程核心概念（切面/切点/通知）、AspectJ 注解使用与源码分析。
-keywords: [AOP, 动态代理, 切面, AspectJ, CGLIB]
 ---
 
 # Spring AOP

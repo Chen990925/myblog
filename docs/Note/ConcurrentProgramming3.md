@@ -2,8 +2,6 @@
 group: 并发编程
 title: 并发编程之 synchronized
 order: 3
-summary: synchronized 关键字详解：对象监视器原理、锁升级（无锁→偏向→轻量→重量）、Monitor 结构与可重入机制。
-keywords: [synchronized, 锁升级, Monitor, 偏向锁, 轻量级锁]
 ---
 
 # 并发编程之synchronized 

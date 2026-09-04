@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: Agent 设计模式：ReAct 与思维链
 order: 2
-summary: 深入讲解 AI Agent 的设计模式，涵盖 ReAct 推理-行动循环、CoT 思维链推理、Function Calling / Tool Use 原理与实现、Agent 记忆机制（短期/长期）及多 Agent 协作模式。
-keywords: [Agent, ReAct, CoT, Function Calling, Tool Use, 记忆机制, 多Agent]
 ---
 
 # Agent 设计模式：ReAct 与思维链

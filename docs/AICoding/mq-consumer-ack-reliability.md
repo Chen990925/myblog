@@ -2,8 +2,6 @@
 group: RocketMQ 专题
 title: 消费端 ACK 三层兜底
 order: 31
-summary: 消费端手动 ACK 三层兜底机制（正常 ACK + 重试 + 死信队列 DLQ），消费幂等方案与项目成交回报处理实践。
-keywords: [消费ACK, 手动确认, 死信队列, 幂等, 重试]
 ---
 
 # MQ 4：消费端手动 ACK 三层兜底

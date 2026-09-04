@@ -2,8 +2,6 @@
 group: Tomcat专题
 title: Tomcat应用架构
 order: 1
-summary: 解析 Tomcat 应用架构设计，涵盖 Web 容器概念、Servlet 容器、Tomcat 整体架构及请求处理流程。
-keywords: [Tomcat, Web容器, Servlet, 架构, 请求处理]
 ---
 
 # Tomcat应用架构

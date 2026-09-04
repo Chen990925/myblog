@@ -2,8 +2,6 @@
 group: Kubernetes专题
 title: Kubernetes 入门与 Java 应用部署
 order: 1
-summary: Kubernetes 入门指南，涵盖核心概念（Pod/Deployment/Service/ConfigMap/Secret）、YAML 声明式配置、Java 微服务部署实战、滚动更新与回滚、HPA 弹性伸缩及健康检查机制。
-keywords: [Kubernetes, Pod, Deployment, Service, ConfigMap, HPA, 健康检查]
 ---
 
 # Kubernetes 入门与 Java 应用部署

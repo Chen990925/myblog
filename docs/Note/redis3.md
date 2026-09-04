@@ -2,8 +2,6 @@
 group: redis
 title: redis cluster集群和原理
 order: 3
-summary: 解析 Redis Cluster 集群架构、数据分片原理（16384 插槽）、Gossip 协议、故障检测与自动故障转移机制。
-keywords: [Redis Cluster, 数据分片, Gossip, 故障转移, 插槽]
 ---
 
 # redis cluster集群和原理

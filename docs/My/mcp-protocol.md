@@ -2,8 +2,6 @@
 group: AI Agent专题
 title: MCP 协议：AI Agent 的 USB-C 接口
 order: 6
-summary: MCP（Model Context Protocol）是 Anthropic 发起的开放标准协议，定义了 AI 应用与外部工具/数据源的标准化交互方式。本文详解 MCP 架构原理、三大原语（Tools/Resources/Prompts）、与 Function Calling 的对比、Java SDK 实战及 MCP Server 开发。
-keywords: [MCP, Model Context Protocol, Tool Calling, A2A, Anthropic, Agent协议]
 ---
 
 # MCP 协议：AI Agent 的 USB-C 接口

@@ -2,8 +2,6 @@
 group: rabbitMQ
 title: rabbitMQ常见问题
 order: 5
-summary: RabbitMQ 常见面试问题汇总，包括消息不丢失保证、消息堆积处理、消息重复消费解决方案及高可用集群部署。
-keywords: [消息不丢失, 消息堆积, 重复消费, 高可用, 集群]
 ---
 
 # rabbitMQ常见问题 `面试`
