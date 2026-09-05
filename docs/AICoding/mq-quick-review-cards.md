@@ -10,7 +10,7 @@ order: 33
 
 ## 1. 项目使用全景（背得出）
 
-**生产端全 asyncSend + SendCallback（下单/撤单/条件单请求）→ 报盘前置；topic 成对 REQ/PUSH（oms-trade-0001 下单、0100 CFETS 成交）；消费端 @RocketMQMessageListener + RocketMQListener<T> 自动 ACK**。
+**生产端全 asyncSend + SendCallback（下单/撤单/条件单请求）→ 报盘前置；topic 成对 REQ/PUSH（oms-trade-0001 下单、0100 CFETS 成交）；消费端 @RocketMQMessageListener + `RocketMQListener<T>` 自动 ACK**。
 
 ## 2. MQ 基础
 

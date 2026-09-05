@@ -61,7 +61,7 @@ CompletableFuture.anyOf(cf1, cf2).join()           // 任一完成
 - 不指定默认：Spring Boot 的 SimpleAsyncTaskExecutor（每次新建线程、无复用）→ 必须配 ThreadPoolTaskConfig（项目 @EnableAsync + 多套命名池）
 - **三个坑**：
   1. 同类内调用失效：this.method() 不走代理，@Async 不生效 → 必须通过注入的 Bean 调用
-  2. 异常不抛给调用方：void 方法异常只在日志；返回 CompletableFuture 才能传回（项目 processAuction 返回 CompletableFuture<Void>）
+  2. 异常不抛给调用方：void 方法异常只在日志；返回 CompletableFuture 才能传回（项目 processAuction 返回 `CompletableFuture<Void>`）
   3. 事务不共享：异步线程不参与调用方事务
 - 话术："@Async 本质是 Spring 代理 + 线程池：必须走代理才生效、要返回 CompletableFuture 才能拿异常、事务不跨线程"
 

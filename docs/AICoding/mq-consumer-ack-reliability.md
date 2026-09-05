@@ -26,7 +26,7 @@ public class XxxListener implements RocketMQListener<MessageExt> {
 }
 ```
 
-项目落点："消费端用 Spring RocketMQListener<T> 自动 ACK：onMessage 正常返回即确认、抛异常自动重试。注意先处理业务再正常返回，业务失败要抛异常。"
+项目落点："消费端用 Spring `RocketMQListener<T>` 自动 ACK：onMessage 正常返回即确认、抛异常自动重试。注意先处理业务再正常返回，业务失败要抛异常。"
 
 ## 二、三层兜底（背熟）
 

@@ -49,7 +49,7 @@ order: 27
 
 ## 4. 消费端手动 ACK 三层兜底（消费 ACK ③，重点）
 
-- 自动 ACK（项目现状）：Spring RocketMQListener<T>，onMessage 正常返回即确认、抛异常自动重投
+- 自动 ACK（项目现状）：Spring `RocketMQListener<T>`，onMessage 正常返回即确认、抛异常自动重投
 - **三层兜底**：
   1. ACK 重试：失败重投，间隔递增 1s→2h 共 16 次
   2. 死信队列 DLQ：16 次仍失败进 %DLQ%组名，人工排查
