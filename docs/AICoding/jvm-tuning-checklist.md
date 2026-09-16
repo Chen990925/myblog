@@ -11,7 +11,8 @@ order: 2
 
 ## 0. 项目现状速览（面试背景铺垫用）
 
-- 技术栈：JDK 8、Spring Boot/Cloud、Nacos、RocketMQ、Redis、Sentinel、ZK、Oracle/MySQL（Druid）、MyBatis-Plus、EasyExcel、QuickFIX/J、WebSocket、protobuf、transmittable-thread-local 2.12.6
+- 技术栈：JDK 8、Spring Boot/Cloud、Nacos、RocketMQ、Redis、ZK、Oracle/MySQL（Druid）、MyBatis-Plus、EasyExcel、QuickFIX/J、WebSocket、protobuf、transmittable-thread-local 2.12.6
+  - ⚠️ 校准：项目 **没有接入 Sentinel 熔断降级**（pom 无依赖；inner.sh 里仅有 csp 日志目录配置）。容错能力现状详见 `microservice-fault-tolerance.md`
 - 部署：约 10 个微服务共置 32G/8 核机器，统一 `inner.sh`（G1 参数组一致，堆 0.25g~3g）
 - 热点代码：avail-engine（分桶锁）、common-cache（几十个静态缓存 DAO）、CFETS FIX 通道、algo 算法接入、大量定时任务、EasyExcel 导出、MQ 回报链路
 - 关键配置：Tomcat max-threads=1000/20000、Druid max-active=200、业务线程池 core=8/max=200/queue=200、scheduled-pool=8

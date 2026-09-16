@@ -49,5 +49,5 @@ order: 26
 
 ## 六、后续待准备板块（按约定流程）
 
-- 微服务治理（Nacos/Sentinel/Gateway）、算法交易接入（FIX 协议）、SQL 优化补充
+- 微服务治理（Nacos/Gateway）、算法交易接入（FIX 协议）、SQL 优化补充
 - 每个板块产出后按同样模式写入 `笔记/` 下对应文件夹，并发布到博客 AICoding 专题

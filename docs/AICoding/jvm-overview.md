@@ -52,5 +52,5 @@ order: 1
 ## 六、后续待准备板块（按约定流程）
 
 - **并发编程**（JUC、线程池、锁、CompletableFuture、ThreadLocal/transmittable-thread-local）——项目素材：avail-engine 分桶锁、条件单线程池、RocketMQ 消费、Feign 线程模型
-- 其他：微服务治理（Nacos/Sentinel/Gateway）、消息（RocketMQ）、缓存（Redis）、SQL 优化（Oracle/MySQL）、算法交易接入（FIX）
+- 其他：微服务治理（Nacos/Gateway，已完成，见 microservice-* 系列）、消息（RocketMQ，已完成）、缓存（Redis，已完成）、SQL 优化（Oracle/MySQL，已完成）、算法交易接入（FIX）
 - 每个板块产出后按同样模式写入 `笔记/` 下对应文件夹

@@ -44,7 +44,7 @@ M 区涨           → jcmd GC.class_histogram（类加载器泄漏）
 
 - **A 额度锁竞争**：分桶 ReentrantLock（AvailLockManager）正确，问题是**无退避自旋 + 锁 Map 只增不减** → tryLock 超时+退避、锁清理 → CPU 高峰降 xx%
 - **B 静态缓存泄漏**：common-cache 全量刷静态 Map，**换引用 vs 塞旧 Map** 是分水岭；+ ThreadLocal 未 remove → 原子替换 + TTL + finally remove → FGC 归零
-- **C 外部接口雪崩**：CFETS Feign 同步 60s 无熔断 → 线程池耗尽 → **超时分级 + Sentinel 熔断 + 信号量隔离 + 回报异步化** → 单点快速失败
+- **C 外部接口雪崩**：CFETS Feign 同步 **readTimeout 600s** + **无熔断（项目未接入 Sentinel）** → 线程池耗尽 → 【已落地】回报 MQ 异步化 + 健康检查独立路径；【改进方案】超时分级（3s/10s）+ Sentinel 熔断 + 信号量隔离
 - 原则：只讲代码里有的；每个案例备好"追问三连"（怎么定位/为什么这么改/怎么验证）；没经历过的降级讲方法论
 
 ## 5. 项目真实案例（条件单拆单，新加的硬菜）
